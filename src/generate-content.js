@@ -71,27 +71,31 @@ module.exports.generateContent = async content => {
             lesson =>
                 lesson.theme === theme.id
         );
-
         console.log("number of selected lessons", selectedLessons.length);
 
-        // On crée un fichier html pour chacun des cours du thème
+
+        // // On parcourt tous les leçons de chaque thème
         for (const lesson of selectedLessons) {
-            // On définit le nouveau chein ainsi que l'ancien
+            // On définit le nouveau chemin
             // On supprime les : et les / pour créer les noms de dossier
             let lessonTitle = lesson.title.replace(':', '');
             lessonTitle = lessonTitle.replace('/', '');
-            const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
             const newLessonPath = path.join(themePath, lessonTitle);
-            const lessonHtmlPath = path.join(newLessonPath, lessonid + ".html");
+            const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
+            const newLessonHtmlPath = path.join(newLessonPath, lessonid + ".html");
+
+            // On définit l'ancien chemin
             const oldLessonPath = path.join(__dirname,
                 "../math/",
                 lesson.id.substring(lesson.id.length - 2, lesson.id.length),
-                "/")
+                "/");
+            const lessonJsonPath = path.join(oldLessonPath, "content.json");
+
+            // On définit les chemin des dossier img et latex pour les copier
             const oldImgPath = path.join(oldLessonPath, "img");
             const newImgPath = path.join(newLessonPath, "/img");
             const oldLatexPath = path.join(oldLessonPath, "latex");
             const newLatexPath = path.join(newLessonPath, "/latex");
-            const lessonJsonPath = path.join(oldLessonPath, "content.json");
 
             // On crée un dossier pour chacun des cours du thème            
             if (!fs.existsSync(newLessonPath))
@@ -108,8 +112,9 @@ module.exports.generateContent = async content => {
             // C'est ici que se passe la génération du template.
             // Tous les cours partagent la même structure de page, on part donc toujours du même fichier de base.
             // le seul truc qui change, ce sont les paramètres du cours (le contenu, le titre, etc.).
+            // On crée un fichier html pour chacun des cours du thème
             const render = await ejs.renderFile(
-                path.join(__dirname, "../templates/page.ejs"),
+                path.join(__dirname, "../templates/lesson.ejs"),
                 {
                     allContent: content,
                     currentLesson: lesson,
@@ -119,7 +124,36 @@ module.exports.generateContent = async content => {
             );
 
             // Une fois le cours généré, on le sauvegarde.
-            fs.writeFileSync(lessonHtmlPath, render);
+            fs.writeFileSync(newLessonHtmlPath, render);
+
+            // // On créer les pages de questions
+            const numberQuestions = lessonJson.questions.length;
+            // On créer le dossier contenant les questions
+            const questionDirectoryPath = path.join(newLessonPath, "questions");
+
+            if (!fs.existsSync(questionDirectoryPath))
+                fs.mkdirSync(questionDirectoryPath, { recursive: true });
+
+            for (let i = 0; i < numberQuestions; i++) {
+                questionHtmlPath = path.join(questionDirectoryPath, i + ".html")
+
+                const render = await ejs.renderFile(
+                    path.join(__dirname, "../templates/questions.ejs"),
+                    {
+                        allContent: content,
+                        currentLesson: lesson,
+                        rootPath: indexPath,
+                        lessonContent: lessonJson,
+                        question: lessonJson.questions[i]
+                    }
+                );
+
+                // Une fois le cours généré, on le sauvegarde.
+                fs.writeFileSync(questionHtmlPath, render);
+
+
+
+            }
         }
     }
 

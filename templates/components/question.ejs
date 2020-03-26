@@ -1,0 +1,46 @@
+<% let Path = rootPath
+             + "/"
+             + "index.html";
+             Path = Path.split(' ').join('%20');
+%>
+<div> <a href=<%= Path %>>
+        Acceuil</a> --> Math -->
+    <% for(const theme of allContent.themes) { 
+        if (theme.id == currentLesson.theme) {
+        %>
+    <%= theme.title %>
+    <% } 
+        } %>
+</div>
+
+<h1><b>Leçon:</b> <%= currentLesson.title %></h1>
+<div class="container">
+
+
+    <% let counter = 1;
+for (const quest of lessonContent.questions) { %>
+    <p>Question : <%= counter %> / <%= lessonContent.questionCounter %>
+        <!-- Question -->
+        <%- quest.question %>
+    </p>
+    <!-- Réponse -->
+    <% let answer_counter = 1;
+if (quest.type === "choices") {
+    for (const choix of quest.choices){ %>
+    <input type="radio" name="1" value="" onclick="">
+    <% if (choix.charAt(0) == "*"){ %>
+    <%= choix.substring(1, choix.length) %>
+    <!-- On stock la bonne réponse dans la variable good_answer -->
+    <!-- La bonne réponse est stockée par son numéro d'apparition -->
+    <% const good_answer = answer_counter
+} else { %>
+    <%= choix %>
+    <% } %>
+    <br>
+    <% 
+answer_counter += 1;
+}
+} 
+counter += 1;
+} %>
+</div>

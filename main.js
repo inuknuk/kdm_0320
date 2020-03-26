@@ -11,4 +11,3 @@ const content = require("./math/content.json");
 generateContent(content)
     // S'il se passe une erreur, on l'intercepte et on l'affiche.
     .catch(console.error);
-
