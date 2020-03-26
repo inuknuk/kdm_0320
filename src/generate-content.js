@@ -5,18 +5,22 @@ const ejs = require("ejs");
 
 // Ceci est un module qui permet de faire des lectures/écritures dans les fichiers.
 const fs = require("fs");
-const fs_extra = require('fs-extra');
+const fsExtra = require('fs-extra');
 
 // Ceci permet de créer des chemins d'accès aux fichiers simplement.
 const path = require("path");
 
-// Copier un dossier et son contenu 
-function copy_directory(oldPath, newPath) {
+// Fonctions permetant de gérer les fichier et dossiers
+function copyDirectory(oldPath, newPath) {
     if (fs.existsSync(oldPath)) {
         fs.mkdirSync(newPath, { recursive: true });
-        fs_extra.copy(oldPath, newPath);
+        fsExtra.copy(oldPath, newPath);
     }
 }
+function saveFile(htmlPath, file) {
+    fs.writeFileSync(htmlPath, file);
+}
+
 
 // Exportation de la fonction de génération.
 module.exports.generateContent = async content => {
@@ -28,8 +32,6 @@ module.exports.generateContent = async content => {
 
     console.log(`Writing to ${indexPathHtml}`);
 
-    // On génère le page index.html
-    // Il s'agit de la page d'acceuil
     const indexRender = await ejs.renderFile(
         path.join(__dirname, "../templates/index.ejs"),
         {
@@ -38,8 +40,8 @@ module.exports.generateContent = async content => {
             rootPath: indexPath,
         }
     );
-    // Une fois l'index généré, on le sauvegarde.
-    fs.writeFileSync(indexPathHtml, indexRender);
+
+    saveFile(indexPathHtml, indexRender);
 
     const levels = ["3", "4", "5"];
     // On génère les pages de table des matières selon l'age sélectionné
@@ -53,7 +55,7 @@ module.exports.generateContent = async content => {
                 rootPath: indexPath,
                 currentLevel: level,
             })
-        fs.writeFileSync(levelPath, levelRender);
+        saveFile(levelPath, levelRender);
     };
 
 
@@ -102,10 +104,10 @@ module.exports.generateContent = async content => {
                 fs.mkdirSync(newLessonPath, { recursive: true });
 
             // On copie le dossier img dans le nouveau dossier
-            copy_directory(oldImgPath, newImgPath);
+            copyDirectory(oldImgPath, newImgPath);
 
             // On copie le dossier latex dans le nouveau dossier
-            copy_directory(oldLatexPath, newLatexPath);
+            copyDirectory(oldLatexPath, newLatexPath);
 
             // On récupère les informations du Json du cours pour le finir à la génération du template
             const lessonJson = require(lessonJsonPath);
@@ -113,7 +115,7 @@ module.exports.generateContent = async content => {
             // Tous les cours partagent la même structure de page, on part donc toujours du même fichier de base.
             // le seul truc qui change, ce sont les paramètres du cours (le contenu, le titre, etc.).
             // On crée un fichier html pour chacun des cours du thème
-            const render = await ejs.renderFile(
+            const lessonRender = await ejs.renderFile(
                 path.join(__dirname, "../templates/lesson.ejs"),
                 {
                     allContent: content,
@@ -123,36 +125,27 @@ module.exports.generateContent = async content => {
                 }
             );
 
-            // Une fois le cours généré, on le sauvegarde.
-            fs.writeFileSync(newLessonHtmlPath, render);
+            saveFile(newLessonHtmlPath, lessonRender);
 
             // // On créer les pages de questions
             const numberQuestions = lessonJson.questions.length;
-            // On créer le dossier contenant les questions
-            const questionDirectoryPath = path.join(newLessonPath, "questions");
 
-            if (!fs.existsSync(questionDirectoryPath))
-                fs.mkdirSync(questionDirectoryPath, { recursive: true });
+            for (let i = 1; i <= numberQuestions; i++) {
+                questionHtmlPath = path.join(newLessonPath, "question" + i + ".html")
 
-            for (let i = 0; i < numberQuestions; i++) {
-                questionHtmlPath = path.join(questionDirectoryPath, i + ".html")
-
-                const render = await ejs.renderFile(
+                const questionRender = await ejs.renderFile(
                     path.join(__dirname, "../templates/questions.ejs"),
                     {
                         allContent: content,
                         currentLesson: lesson,
                         rootPath: indexPath,
                         lessonContent: lessonJson,
-                        question: lessonJson.questions[i]
+                        questionJson: lessonJson.questions[i - 1],
+                        counter: i,
                     }
                 );
 
-                // Une fois le cours généré, on le sauvegarde.
-                fs.writeFileSync(questionHtmlPath, render);
-
-
-
+                saveFile(questionHtmlPath, questionRender);
             }
         }
     }
