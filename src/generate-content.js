@@ -17,9 +17,14 @@ function copyDirectory(oldPath, newPath) {
         fsExtra.copy(oldPath, newPath);
     }
 }
+function createDirectory(path) {
+    if (!fs.existsSync(path))
+        fs.mkdirSync(path, { recursive: true });
+}
 function saveFile(htmlPath, file) {
     fs.writeFileSync(htmlPath, file);
 }
+
 
 
 // Exportation de la fonction de génération.
@@ -29,6 +34,7 @@ module.exports.generateContent = async content => {
     const indexPath = path.join(__dirname, "../destination");
     const indexPathHtml = path.join(indexPath, "index.html");
 
+    createDirectory(indexPath)
 
     console.log(`Writing to ${indexPathHtml}`);
 
@@ -64,9 +70,8 @@ module.exports.generateContent = async content => {
     for (const theme of content.themes) {
         const themePath = path.join(__dirname, "../destination", theme.id);
 
-        // On crée un dossier pour chacun des thèmes
-        if (!fs.existsSync(themePath))
-            fs.mkdirSync(themePath, { recursive: true });
+        createDirectory(themePath);
+
 
         // On sélectionne les cours qui correspondent au thème en question
         const selectedLessons = content.lessons.filter(
@@ -99,14 +104,10 @@ module.exports.generateContent = async content => {
             const oldLatexPath = path.join(oldLessonPath, "latex");
             const newLatexPath = path.join(newLessonPath, "/latex");
 
-            // On crée un dossier pour chacun des cours du thème            
-            if (!fs.existsSync(newLessonPath))
-                fs.mkdirSync(newLessonPath, { recursive: true });
+            createDirectory(newLessonPath)
 
-            // On copie le dossier img dans le nouveau dossier
             copyDirectory(oldImgPath, newImgPath);
 
-            // On copie le dossier latex dans le nouveau dossier
             copyDirectory(oldLatexPath, newLatexPath);
 
             // On récupère les informations du Json du cours pour le finir à la génération du template
