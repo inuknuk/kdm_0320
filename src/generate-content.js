@@ -78,10 +78,11 @@ module.exports.generateContent = async content => {
             lesson =>
                 lesson.theme === theme.id
         );
-        console.log("number of selected lessons", selectedLessons.length);
+        console.log(selectedLessons.length, "leçons dans le thème : ", theme.title);
 
 
         // // On parcourt tous les leçons de chaque thème
+        // La constante "lesson" correspond à la leçon issue du json de la table des matières
         for (const lesson of selectedLessons) {
             // On définit le nouveau chemin
             // On supprime les : et les / pour créer les noms de dossier
@@ -110,8 +111,9 @@ module.exports.generateContent = async content => {
 
             copyDirectory(oldLatexPath, newLatexPath);
 
-            // On récupère les informations du Json du cours pour le finir à la génération du template
+            // On récupère les informations du Json du cours
             const lessonJson = require(lessonJsonPath);
+
             // C'est ici que se passe la génération du template.
             // Tous les cours partagent la même structure de page, on part donc toujours du même fichier de base.
             // le seul truc qui change, ce sont les paramètres du cours (le contenu, le titre, etc.).

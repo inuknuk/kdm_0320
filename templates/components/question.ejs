@@ -1,9 +1,9 @@
-<% let path = rootPath
+<% let indexPath = rootPath
              + "/"
              + "index.html";
-             path = path.split(' ').join('%20');
+             indexPath = indexPath.split(' ').join('%20');
 %>
-<div> <a href=<%= path %>>
+<div> <a href=<%= indexPath %>>
         Accueil</a> --> Math -->
     <% for(const theme of allContent.themes) { 
         if (theme.id == currentLesson.theme) {
@@ -14,8 +14,18 @@
 </div>
 
 <h1><b>Leçon:</b> <%= currentLesson.title %></h1>
+<% let lessonPath = rootPath
++ "/"
++ currentLesson.theme 
++ "/"
++ currentLesson.title.replace(':', '').replace('/', '') 
++ "/"
++ currentLesson.id.substring(currentLesson.id.length - 2, currentLesson.id.length) 
++ ".html";
+lessonPath = lessonPath.split(' ').join('%20');
+%>
+<div><a href=<%= lessonPath %>> Retour au cours</a></div>
 <div class="container">
-
     <p>Question : <%= counter %> / <%= lessonContent.questions.length %>
         <!-- Question -->
         <%- questionJson.question %>
@@ -23,10 +33,10 @@
     <!-- Réponse -->
     <% for (const choix of questionJson.choices){ %>
     <% if (choix.charAt(0) == "*"){ %>
-    <input type="radio" name="" value="" onclick="clickGood()">
+    <input type="radio" name="answer" value="" onclick="clickGood()">
     <%= choix.substring(1, choix.length) %>
     <% } else { %>
-    <input type="radio" name="" value="" onclick="clickFalse()">
+    <input type="radio" name="answer" value="" onclick="clickFalse()">
     <%= choix %>
     <% } %>
     <br>
@@ -35,4 +45,37 @@
 <div>
     <p id="answer"> </p>
     <div id="explain" style="display: none;"> <%- questionJson.explain %> </div>
+</div>
+<% if (counter < lessonContent.questions.length) {
+    let nextQuestionPath = rootPath
+             + "/"
+             + currentLesson.theme 
+             + "/"
+             + currentLesson.title.replace(':', '').replace('/', '') 
+             + "/question"
+             + (counter + 1)
+             + ".html";
+             nextQuestionPath = nextQuestionPath.split(' ').join('%20'); %>
+<div>
+    <form method="get" action=<%= nextQuestionPath %>>
+        <button type="submit">Question suivante</button>
+    </form>
+    <% } %>
+</div>
+<p></p>
+<% if (counter > 1) {
+    let lastQuestionPath = rootPath
+             + "/"
+             + currentLesson.theme 
+             + "/"
+             + currentLesson.title.replace(':', '').replace('/', '') 
+             + "/question"
+             + (counter - 1)
+             + ".html";
+             lastQuestionPath = lastQuestionPath.split(' ').join('%20'); %>
+<div>
+    <form method="get" action=<%= lastQuestionPath %>>
+        <button type="submit">Question précédente</button>
+    </form>
+    <% } %>
 </div>

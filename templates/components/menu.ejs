@@ -10,7 +10,7 @@
         <li><b><%= theme.title %></b>
         </li>
         <% for (const lesson of allContent.lessons) {
-            let Path = rootPath
+            let path = rootPath
              + "/"
              + lesson.theme 
              + "/"
@@ -18,12 +18,12 @@
              + "/"
              + lesson.id.substring(lesson.id.length - 2, lesson.id.length) 
              + ".html";
-             Path = Path.split(' ').join('%20');
+             path = path.split(' ').join('%20');
             if (currentLesson == lesson && lesson.theme === theme.id) { %>
         <li><u><%= lesson.title %></u>
         </li>
         <% } else if (lesson.theme === theme.id) { %>
-        <li><a href=<%= Path %>><%= lesson.title %></a></li>
+        <li><a href=<%= path %>><%= lesson.title %></a></li>
         <% }
         }
     } %>
