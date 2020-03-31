@@ -36,10 +36,14 @@ questionPath = questionPath.split(' ').join('%20'); %>
                         first = false; %>
             <div class="item active" style="text-align: center;">
                 <%- include(pageHtml) %>
+                <br />
+                page 1 / <%=lessonContent.pages.length%>
             </div>
             <% } else { %>
             <div class="item" style="text-align: center;">
                 <%- include(pageHtml) %>
+                <br />
+                page <%= (1 +lessonContent.pages.indexOf(page)) %> / <%=lessonContent.pages.length%>
             </div>
             <% }
         } %>
