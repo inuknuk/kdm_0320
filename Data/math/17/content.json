@@ -1,0 +1,124 @@
+{
+  "id": "math/17",
+  "title": "Fractions: Comparaison",
+  "pages": [
+    "math/17/1.htm",
+    "math/17/2.htm",
+    "math/17/3.htm",
+    "math/17/4.htm",
+    "math/17/5.htm",
+    "math/17/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Comparer 3 &frasl; 8 et 7 &frasl; 8</p>",
+      "choices": [
+        "*3 / 8 < 7 / 8",
+        "3 / 8 > 7 / 8"
+      ],
+      "id": "math/17.1",
+      "explain": "<p>Quand des fractions ont le&nbsp;<u>m&ecirc;me d&eacute;nominateur</u>, il suffit de&nbsp;<u>comparer les num&eacute;rateurs</u>.</p>"
+    },
+    {
+      "question": "<p>Comparer 7 &frasl; 5 et 7 &frasl; 6</p>",
+      "choices": [
+        "7 / 5 < 7 / 6",
+        "*7 / 5 > 7 / 6",
+        "Ça dépend"
+      ],
+      "id": "math/17.3",
+      "explain": "<p>Quand des fractions ont le&nbsp;<u>m&ecirc;me num&eacute;rateur</u>, la fraction&nbsp;<u>la plus petite</u>&nbsp;est celle qui a&nbsp;<u>le d&eacute;nominateur le plus grand</u>.</p>"
+    },
+    {
+      "question": "<p>Comparer 1024 &frasl; 340 et 1024 &frasl; 350</p>",
+      "choices": [
+        "*1024 / 340 > 1024 / 350",
+        "1024 / 340 < 1024 / 350",
+        "1024 / 340 ≈ 1024 / 350"
+      ],
+      "id": "math/17.4",
+      "explain": "<p>Quand des fractions ont le&nbsp;<u>m&ecirc;me num&eacute;rateur</u>, la fraction&nbsp;<u>la plus petite</u>&nbsp;est celle qui a&nbsp;<u>le d&eacute;nominateur le plus grand</u>.</p>"
+    },
+    {
+      "question": "<p>Comparer 31 &frasl; 57 et 52 &frasl; 57</p>",
+      "choices": [
+        "*31 ⁄ 57 < 52 ⁄ 57",
+        "31 ⁄ 57 > 52 ⁄ 57",
+        "52 ⁄ 57 < 31 ⁄ 57"
+      ],
+      "id": "math/17.5",
+      "explain": "<p>Quand des fractions ont le&nbsp;<u>m&ecirc;me d&eacute;nominateur</u>, il suffit de&nbsp;<u>comparer les num&eacute;rateurs</u>.</p>"
+    },
+    {
+      "question": "<p>Comparer 5 &frasl; 4 et 2 &frasl; 3</p>",
+      "choices": [
+        "*2 ⁄ 3 < 5 ⁄ 4",
+        "2 ⁄ 3 > 5 ⁄ 4",
+        "5 ⁄ 4 < 2 ⁄ 3"
+      ],
+      "id": "math/17.6",
+      "explain": "<p>Il est facile de comparer des fractions, quand l'une est inf&eacute;rieure &agrave; 1 et l'autre sup&eacute;rieure &agrave; 1.</p>\n<p>2 &frasl; 3 &lt; 1</p>\n<p>5 &frasl; 4 &gt; 1</p>\n<p>Donc 2 &frasl; 3 &lt; 5 &frasl; 4</p>"
+    },
+    {
+      "question": "<p>Comparer 345 &frasl; 350 et 355 &frasl; 351</p>",
+      "choices": [
+        "345 ⁄ 350 > 355 ⁄ 351",
+        "*345 ⁄ 350 < 355 ⁄ 351"
+      ],
+      "id": "math/17.7",
+      "explain": "<p>Il est facile de comparer des fractions, quand l'une est inf&eacute;rieure &agrave; 1 et l'autre sup&eacute;rieure &agrave; 1.</p>\n<p>345 &frasl; 350 &lt; 1</p>\n<p>355 &frasl; 351 &gt; 1</p>\n<p>Donc 345 &frasl; 350 &lt; 355 &frasl; 351</p>"
+    },
+    {
+      "question": "<p>3 &frasl; 5 est &eacute;gal &agrave;</p>",
+      "choices": [
+        "15 / 9",
+        "*9 / 15",
+        "9 / 5",
+        "3 / 15"
+      ],
+      "id": "math/17.8",
+      "explain": "<p>Une fraction&nbsp;<u>ne change pas</u>&nbsp;de valeur quand on&nbsp;<u>multiplie</u>&nbsp;le num&eacute;rateur et le d&eacute;nominateur&nbsp;<u>par un m&ecirc;me nombre</u>.</p>\n<p>3 &frasl; 5 = (3 &times; 3) &frasl; (5 &times; 3) = 9 &frasl; 15</p>"
+    },
+    {
+      "question": "<p>2 &frasl; 3 est &eacute;gal &agrave;</p>",
+      "choices": [
+        "15 / 10",
+        "2 / 15",
+        "*10 / 15",
+        "10 / 3"
+      ],
+      "id": "math/17.9",
+      "explain": "<p>Une fraction&nbsp;<u>ne change pas</u>&nbsp;de valeur quand on&nbsp;<u>multiplie</u>&nbsp;le num&eacute;rateur et le d&eacute;nominateur&nbsp;<u>par un m&ecirc;me nombre</u>.</p>\n<p>2 &frasl; 3 = (2 &times; 5) &frasl; (3 &times; 5) = 10 &frasl; 15</p>"
+    },
+    {
+      "question": "<p>Comparer 3 &frasl; 5 et 2 &frasl; 3</p>",
+      "choices": [
+        "2 ⁄ 3 < 3 ⁄ 5",
+        "3 ⁄ 5 > 2 ⁄ 3",
+        "*3 ⁄ 5 < 2 ⁄ 3"
+      ],
+      "id": "math/17.10",
+      "explain": "<p>3 &frasl; 5 = (3 &times; 3) &frasl; (5 &times; 3) = 9 &frasl; 15</p>\n<p>2 &frasl; 3 = (2 &times; 5) &frasl; (3 &times; 5) = 10 &frasl; 15</p>\n<p>9 &frasl; 15 &lt; 10 &frasl; 15</p>\n<p>Donc 3 &frasl; 5 &lt; 2 &frasl; 3</p>"
+    },
+    {
+      "question": "<p>Comparer 3 &frasl; 5 et 10 &frasl; 15</p>",
+      "choices": [
+        "10 ⁄ 15 < 3 ⁄ 5",
+        "3 ⁄ 5 > 10 ⁄ 15",
+        "*3 ⁄ 5 < 10 ⁄ 15"
+      ],
+      "id": "math/17.11",
+      "explain": "<p>3 &frasl; 5 = (3 &times; 3) &frasl; (5 &times; 3) = 9 &frasl; 15</p>\n<p>9 &frasl; 15 &lt; 10 &frasl; 15</p>\n<p>Donc 3 &frasl; 5 &lt; 10 &frasl; 15</p>"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 11,
+  "theme": "calcul",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": ""
+}

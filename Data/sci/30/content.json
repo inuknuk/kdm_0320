@@ -1,0 +1,281 @@
+{
+  "id": "sci/30",
+  "title": "Les différentes formes d’énergie",
+  "pages": [
+    "sci/30/1.htm",
+    "sci/30/2.htm",
+    "sci/30/3.htm",
+    "sci/30/4.htm",
+    "sci/30/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qu'est-ce qu'une <u>&eacute;nergie renouvelable</u> ?</p>",
+      "explain": "<p>Une&nbsp;<u>&eacute;nergie renouvelable</u>&nbsp;est une &eacute;nergie qui peut <u>&ecirc;tre&nbsp;renouvel&eacute;e naturellement</u>.</p>\n<p>Cette &eacute;nergie doit se renouveler suffisamment rapidement pour qu'elle puisse &ecirc;tre consid&eacute;r&eacute;e comme in&eacute;puisable &agrave; l'&eacute;chelle du temps humain.</p>",
+      "choices": [
+        "*Une énergie qui peut être renouvelée naturellement.",
+        "Une énergie qui ne produit que peu de polluants",
+        "Une énergie qui ne produit aucun polluant",
+        "Une énergie dont le renouvellement naturel est lent"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.1"
+    },
+    {
+      "question": "<p>Laquelle de ces sources d'&eacute;nergie n'est pas dite \"renouvelable\" ?</p>",
+      "explain": "<p>Le vent, le soleil et les courants marins sont des sources d'&eacute;nergies renouvelables. Le <u>charbon ne se renouv&egrave;le pas naturellement </u>&agrave; l'&eacute;chelle du temps humain&nbsp;</p>",
+      "choices": [
+        "Le vent",
+        "Le soleil",
+        "Les courants marins",
+        "*Le charbon"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.2"
+    },
+    {
+      "question": "<p>Comment appelle-t-on une <u>&eacute;nergie stock&eacute;e dans les sous-sols</u> ?&nbsp;</p>",
+      "explain": "<p>Une&nbsp;<u>&eacute;nergie fossile</u> est une &eacute;nergie stock&eacute;e dans le sous-sol (p&eacute;trole, gaz, charbon). Cette &eacute;nergie ne se renouv&egrave;le pas &agrave; l'&eacute;chelle du temps humain.</p>",
+      "choices": [
+        "Une énergie souterraine",
+        "*Une énergie fossile",
+        "Une énergie tellurique",
+        "Une énergie limitée"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.3"
+    },
+    {
+      "question": "<p>Comment appelle-t-on une <u>&eacute;nergie ne pouvant &ecirc;tre stock&eacute;e</u> ?&nbsp;</p>",
+      "explain": "<p>Une&nbsp;<u>&eacute;nergie de flux</u>&nbsp;est une &eacute;nergie qui ne peut &ecirc;tre stock&eacute;e.</p>",
+      "choices": [
+        "*Une énergie de flux",
+        "Une énergie de transport",
+        "Une énergie de dispersion ",
+        "Une énergie d'accumulation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.4"
+    },
+    {
+      "question": "<p>Le <u>gaz</u> est une &eacute;nergie _______.</p>",
+      "explain": "<p><span style=\"font-size: 15pt; line-height: 107%; font-family: Arial, sans-serif;\">Le gaz est stock&eacute; dans le sous-sol, c'est donc une <u>&eacute;nergie fossile</u>.</span></p>",
+      "choices": [
+        "verte",
+        "renouvelable",
+        "*fossile",
+        "nucléaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.5"
+    },
+    {
+      "question": "<p>L'&eacute;nergie est la capacit&eacute; d'un corps ou d'un syst&egrave;me &agrave; produire _______.</p>",
+      "explain": "<p>L'&eacute;nergie est la&nbsp;<u>capacit&eacute; d'un corps ou d'un syst&egrave;me &agrave; produire du travail</u>.</p>\n<p>\"Produire un travail\" signifie une modification de forme, de position, de vitesse, de temp&eacute;rature, de composition chimique...</p>",
+      "choices": [
+        "de l'attraction",
+        "de la chaleur",
+        "*du travail",
+        "de l'excitation "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.6"
+    },
+    {
+      "question": "<p>Quel est l'<u>enjeu</u> principal li&eacute; &agrave; l'utilisation massive d'&eacute;nergies fossiles ?</p>",
+      "explain": "<p>Les &eacute;nergies, en particulier l'utilisation massive d'&eacute;nergies fossiles, deviennent des enjeux essentiels en raison du <u>r&eacute;chauffement climatique</u>.</p>",
+      "choices": [
+        "*Le réchauffement climatique",
+        "Les problèmes de forage du sous-sol",
+        "Les guerres entre les pays",
+        "Les problèmes de santé des travailleurs du sous-sol"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.7"
+    },
+    {
+      "question": "<p>A quoi est li&eacute;e l'<u>&eacute;nergie cin&eacute;tique</u> ?&nbsp;</p>",
+      "explain": "<p>L'<u>&eacute;nergie&nbsp;cin&eacute;tique</u> est l'&eacute;nergie du <u>mouvement</u>, comme l'&eacute;nergie &eacute;olienne ou l'&eacute;nergie hydraulique par exemple.</p>",
+      "choices": [
+        "A la chaleur",
+        "*Au mouvement",
+        "A l’interaction de la matière",
+        "A la position "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.8"
+    },
+    {
+      "question": "<p>Laquelle de ces &eacute;nergies correspond &agrave; l'<u>&eacute;nergie stock&eacute;e dans les noyaux atomiques</u> ?&nbsp;</p>",
+      "explain": "<p>L'<u>&eacute;nergie&nbsp;nucl&eacute;aire</u> est l'&eacute;nergie stock&eacute;e dans les noyaux atomiques.</p>",
+      "choices": [
+        "Energie potentielle",
+        "Energie chimique ",
+        "Energie thermique ",
+        "*Energie nucléaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.9"
+    },
+    {
+      "question": "<p>A quel type d'&eacute;nergie a-t-on affaire lorsque l'on utilise des rayons <u>infrarouges </u>?&nbsp;</p>",
+      "explain": "<p>L'<u>&eacute;nergie&nbsp;rayonnante</u> est l'&eacute;nergie transport&eacute;e par les rayonnements, infrarouges ou rayons X par exemple.</p>",
+      "choices": [
+        "L'énergie thermique",
+        "L'énergie électrique ",
+        "*L'énergie rayonnante",
+        "L'énergie cinétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.10"
+    },
+    {
+      "question": "<p>A quoi est li&eacute;e l'<u>&eacute;nergie potentielle</u> ?</p>",
+      "explain": "<p>L'&eacute;nergie&nbsp;potentielle est l'&eacute;nergie li&eacute;e &agrave; <u>la position des objets</u>.</p>",
+      "choices": [
+        "*La position des objets",
+        "La vitesse des objets",
+        "Les liaisons entre les molécules",
+        "Le stockage d'électricité"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.11"
+    },
+    {
+      "question": "<p>Comment s'appelle l'<u>&eacute;nergie de la chaleur</u> cr&eacute;er par l'agitation des atomes et des mol&eacute;cules ?</p>",
+      "explain": "<p>L'<u>&eacute;nergie&nbsp;thermique</u> est l'&eacute;nergie de la chaleur cr&eacute;er par l'agitation des atomes et des mol&eacute;cules.</p>",
+      "choices": [
+        "L'énergie chimique",
+        "*L'énergie thermique",
+        "L'énergie nucléaire ",
+        "L'énergie sonore"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.12"
+    },
+    {
+      "question": "<p>Que signifie les initiales <u>\"SI\"</u> ?&nbsp;</p>",
+      "explain": "<p>\"SI\" signifie <u>Syst&egrave;me International</u>.</p>",
+      "choices": [
+        "Science de l'Ingénieur",
+        "*Système International",
+        "Source Inépuisable ",
+        "Système Isolé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.13"
+    },
+    {
+      "question": "<p>Quelle est l'<u>unit&eacute;</u> SI de l'<u>&eacute;nergie</u> ?&nbsp;</p>",
+      "explain": "<p>Dans le&nbsp;Syst&egrave;me International&nbsp;(SI), l'&eacute;nergie se mesure <u>en Joules (J)</u>.</p>",
+      "choices": [
+        "Le Watt (W) ",
+        "La Pascal (Pa) ",
+        "Le Newton (N)",
+        "*Le Joule (J) "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.14"
+    },
+    {
+      "question": "<p>Quelle unit&eacute; utilise-t-on pour mesurer la <u>consommation d'&eacute;nergie &eacute;lectrique</u> ?&nbsp;</p>",
+      "explain": "<p>Pour mesurer la&nbsp;consommation d'&eacute;nergie &eacute;lectrique, on utilise le&nbsp;<u>kilowatt-heure (kWh)</u>.&nbsp;</p>",
+      "choices": [
+        "Le kilowatt par heure (kW/h)",
+        "*Le kilowatt-heure (kWh)",
+        "Le kilowatt (kW)",
+        "Le kilowatt par seconde (kW/s)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.15"
+    },
+    {
+      "question": "<p>Quel est l'unit&eacute; de la <u>puissance &eacute;nerg&eacute;tique</u> ?</p>",
+      "explain": "<p>Le <u>Watt (W)</u> est l&rsquo;unit&eacute; mesurant la puissance &eacute;nerg&eacute;tique.</p>",
+      "choices": [
+        "Le Watt par heure (W/h)",
+        "*Le Watt (W) ",
+        "Le Watt par seconde (W/s)",
+        "Le Watt-seconde (Ws)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.20"
+    },
+    {
+      "question": "<p>A combien de Watt correspond la consommation de <u>1kWh pendant 1 heure</u> ?</p>",
+      "explain": "<p><span style=\"font-size: 15pt; line-height: 107%; font-family: Arial, sans-serif;\">1 kWh correspond &agrave; la consommation de <u>1000 W pendant 1 heure.</u></span></p>",
+      "choices": [
+        "1 W",
+        "10 W",
+        "100 W",
+        "*1000 W"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.16"
+    },
+    {
+      "question": "<p>On consomme de l'&eacute;lectricit&eacute; <u>2h </u>sur une journ&eacute;e. La consommation est de <u>10 W</u>.&nbsp;<br /><br />Combien de kWh utilise-t-elle en <u>10 jours</u> ?&nbsp;</p>",
+      "explain": "<p>En une journ&eacute;e, on consomme 2 &times; 10 = 20 Wh.<br />En 10 jours, on consomme 20 &times; 10 = 200 Wh<br /><u>Soit, 200 &times; 0,001 = 0,2 kWh</u></p>",
+      "choices": [
+        "*0,2 kWh",
+        "200 kWh",
+        "0,1 kWh",
+        "100 kWh"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.17"
+    },
+    {
+      "question": "<p>Qu'est-ce qu'une <u>&eacute;nergie primaire</u> ?&nbsp;</p>",
+      "explain": "<p>Une &eacute;nergie primaire est une <u>&eacute;nergie issue de la nature</u>.&nbsp;<br />Au contraire, une &eacute;nergie secondaire est une &eacute;nergie issue de la transformation d'une &eacute;nergie primaire.&nbsp;</p>",
+      "choices": [
+        "Une énergie n'ayant subit aucune transformation",
+        "*Une énergie issue de la nature",
+        "Une énergie ne produisant aucun polluant",
+        "Une énergie facilement produite"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.18"
+    },
+    {
+      "question": "<p>Les <u>&eacute;nergies fossiles</u> sont des &eacute;nergies ______.</p>",
+      "explain": "<p>Il existe plusieurs moyens de classifier les &eacute;nergies.&nbsp;<br />Les &eacute;nergies durables repr&eacute;sentent les &eacute;nergies renouvelables alors que les &eacute;nergies fossiles sont des <u>&eacute;nergies non-durables</u>.</p>",
+      "choices": [
+        "durables",
+        "*non-durables",
+        "permanentes ",
+        "infinies"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/30.19"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 20,
+  "theme": "4",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

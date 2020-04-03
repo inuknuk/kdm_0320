@@ -1,0 +1,279 @@
+{
+  "id": "sci/02",
+  "title": "Le pH, solution acide ou basique",
+  "pages": [
+    "sci/02/1.htm",
+    "sci/02/5.htm",
+    "sci/02/2.htm",
+    "sci/02/3.htm",
+    "sci/02/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Que mesure le pH d'une solution aqueuse?</p>",
+      "choices": [
+        "*L’acidité",
+        "La température",
+        "La pression"
+      ],
+      "id": "sci/02.1",
+      "explain": "<p>Le pH mesure la quantit&eacute; d'<u>ions hydrog&egrave;ne H<sup>+</sup></u> dans une solution, responsables de <u>l&rsquo;acidit&eacute;</u>.</p>"
+    },
+    {
+      "question": "<p>Quelle est l&rsquo;unit&eacute; du pH ?</p>",
+      "choices": [
+        "*sans unité",
+        "°C",
+        "Pa",
+        "kg/m3"
+      ],
+      "id": "sci/02.2",
+      "explain": "<p>Le pH mesure une <u>proportion</u>, entre les ions H<sup>+</sup> et OH<sup>-</sup>.</p>\n<p>Il est donc <u>sans unit&eacute;</u>.</p>"
+    },
+    {
+      "question": "<p>Quelles sont les valeurs possibles pour le pH d'une solution?</p>",
+      "choices": [
+        "*0 à 14",
+        "7 à 14",
+        "0 à 7",
+        "-14 à 14"
+      ],
+      "id": "sci/02.3",
+      "explain": "<p>0 : tr&egrave;s acide<br />7 : neutre (autant d'ions H<sup>+</sup> que hydroxyde OH<sup>-</sup>)<br />14 : tr&egrave;s basique</p>"
+    },
+    {
+      "question": "<p>Une solution dont le pH est: 0 &le; pH &lt; 7 est</p>",
+      "choices": [
+        "*acide",
+        "neutre",
+        "basique"
+      ],
+      "id": "sci/02.4",
+      "explain": "<p>pH &lt; 7 &rArr; solution acide</p>"
+    },
+    {
+      "question": "<p>Une solution dont le pH est: 7 &lt; pH &le; 14 est</p>",
+      "choices": [
+        "*basique",
+        "neutre",
+        "acide"
+      ],
+      "id": "sci/02.5",
+      "explain": "<p>pH &gt; 7 &rArr; solution basique</p>"
+    },
+    {
+      "question": "<p>Une solution dont le pH vaut exactement 7 est</p>",
+      "choices": [
+        "basique",
+        "*neutre",
+        "acide"
+      ],
+      "id": "sci/02.6",
+      "explain": "<p>pH = 7 &rArr; solution neutre</p>"
+    },
+    {
+      "question": "<p>Dans une solution d'eau distill&eacute;e, le pH est</p>",
+      "choices": [
+        "*=7",
+        "< 7",
+        "> 7"
+      ],
+      "id": "sci/02.7",
+      "explain": "<p>L'eau pure ou distill&eacute;e a un pH neutre.</p>"
+    },
+    {
+      "question": "<p>Avec quoi peut-on mesurer rapidement une valeur approximative du pH d'une solution?</p>",
+      "choices": [
+        "*papier pH",
+        "pH-mètre",
+        "microscope",
+        "pipette"
+      ],
+      "id": "sci/02.8",
+      "explain": "<p>Le pH-m&egrave;tre mesure une valeur exacte de l&rsquo;acidit&eacute;.</p>\n<p>Le <u>papier pH</u> donne une estimation <u>rapide</u> mais <u>peu pr&eacute;cise</u> de l&rsquo;acidit&eacute;</p>"
+    },
+    {
+      "question": "<p>Comment peut-on mesurer avec pr&eacute;cision le pH d'une solution?</p>",
+      "choices": [
+        "papier pH",
+        "*pH-mètre",
+        "microscope",
+        "pipette"
+      ],
+      "id": "sci/02.9",
+      "explain": "<p>Le <u>pH-m&egrave;tre</u> mesure une <u>valeur exacte</u> de l&rsquo;acidit&eacute;.</p>\n<p>Le papier pH donne une estimation rapide mais peu pr&eacute;cise de l&rsquo;acidit&eacute;</p>"
+    },
+    {
+      "question": "<p>Lorsqu'on rajoute de l'eau dans une solution acide, le pH de la solution</p>",
+      "choices": [
+        "*augmente",
+        "diminue",
+        "ne change pas"
+      ],
+      "id": "sci/02.10",
+      "explain": "<p>Une solution acide a un pH &lt; 7.</p>\n<p>L'eau a un pH de 7.</p>\n<p>Si on rajoute de l'eau, la solution sera moins acide, va se rapprocher de 7, donc le pH augmente.</p>"
+    },
+    {
+      "question": "<p>Lorsqu'on rajoute de l'eau dans une solution acide, elle devient</p>",
+      "choices": [
+        "*moins acide",
+        "plus acide",
+        "ne change pas"
+      ],
+      "id": "sci/02.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>On dilue fortement une solution acide, le pH se rapproche de&nbsp;</p>",
+      "choices": [
+        "*7",
+        "1",
+        "14"
+      ],
+      "id": "sci/02.12",
+      "explain": "<p>Diluer consiste &agrave; rajouter de l'eau distill&eacute;e.<br />Plus on rajoute de l'eau, plus le pH se rapproche du pH de l'eau pure qui est de 7.</p>"
+    },
+    {
+      "question": "<p>Quels sont les ions pr&eacute;sents dans l'<u>acide chlorhydrique</u>?</p>",
+      "choices": [
+        "*H+ et Cl-",
+        "Na+ et OH-",
+        "Na+ et Cl-",
+        "H- et Cl+"
+      ],
+      "id": "sci/02.15",
+      "explain": "<p>Ce sont les ions hydrog&egrave;ne H<sup>+</sup> et Chlorure Cl<sup>-</sup></p>"
+    },
+    {
+      "question": "<p>Dans toute solution aqueuse il y a des mol&eacute;cules d&rsquo;eau, des ions <u>hydrog&egrave;ne H<sup>+</sup></u>&nbsp;et des ions <u>hydroxyde OH<sup>-</sup>.</u></p>\n<p>Quels sont les ions responsables de <u>l&rsquo;acidit&eacute;</u>?</p>",
+      "choices": [
+        "*ions hydrogène H<sup>+</sup>",
+        "ions hydroxyde OH<sup>–</sup>"
+      ],
+      "id": "sci/02.16",
+      "explain": "<p>Plus la proportion d'<u>ions H<sup>+</sup></u> est grande, plus la solution est <u>acide</u>.</p>"
+    },
+    {
+      "question": "<p>Dans une solution <u>acide</u> (pH &lt; 7), il a plus&nbsp; d'ions ___ que d'ions&nbsp; <u>hydroxyde OH-</u></p>",
+      "choices": [
+        "* hydrogène H+",
+        "sodium Na+",
+        "chlorure Cl-"
+      ],
+      "id": "sci/02.17",
+      "explain": "<p>Plus la proportion d'<u>ions H<sup>+</sup></u>&nbsp;est grande, plus la solution est&nbsp;<u>acide</u>.</p>"
+    },
+    {
+      "question": "<p>Une solution&nbsp;<u>acide</u>, comme l&rsquo;<u>acide chlorhydrique (H+, Cl&ndash;)</u> , a un pH inf&eacute;rieur &agrave; 7 car elle contient&nbsp;davantage d&rsquo;ions <u>H+</u>&nbsp;que d&rsquo;ions <u>OH&ndash;</u>.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Ça dépend"
+      ],
+      "id": "sci/02.18",
+      "explain": "<p>Plus la proportion d'<u>ions H<sup>+</sup></u>&nbsp;est grande, plus la solution est&nbsp;<u>acide</u>.</p>"
+    },
+    {
+      "question": "<p>Une solution&nbsp;<u>basique</u>, comme la soude (<u>Na+, OH&ndash;</u>), a un pH sup&eacute;rieur &agrave; 7 car elle contient&nbsp;davantage d&rsquo;ions OH&ndash;&nbsp;que d&rsquo;ions H+.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Ca depend"
+      ],
+      "id": "sci/02.19",
+      "explain": "<p>Plus la proportion d'<u>ions OH<sup>-</sup></u>&nbsp;est grande, plus la solution est&nbsp;<u>basique</u>.</p>"
+    },
+    {
+      "question": "<p>L'<u>acide chlorhydrique</u> et le <u>Fer</u> r&eacute;agissent pour donner du gaz <u>dihydrog&egrave;ne H2</u> et du <u>chlorure de Fer 2.</u></p>\n<p>Quelle est la formule pour le chlorure de Fer 2?</p>",
+      "choices": [
+        "*Cl- , Fe<sup>2+</sup>",
+        "Cl+ ,  Fe<sup>2-</sup>",
+        "Cl , Fe<sub>2</sub>"
+      ],
+      "id": "sci/02.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la formule pour la <u>soude</u>?</p>",
+      "choices": [
+        "*Na+, OH-",
+        "Na-, OH+",
+        "H+, Cl-",
+        "H-, Cl+"
+      ],
+      "id": "sci/02.21",
+      "explain": "<p>La soude est le nom commun de l'hydroxyde de sodium.</p>"
+    },
+    {
+      "question": "<p>La <u>soude</u> est</p>",
+      "choices": [
+        "*basique",
+        "acide",
+        "neutre"
+      ],
+      "id": "sci/02.22",
+      "explain": "<p>La soude ou hydroxyde de sodium <u>NaOH</u> contient une proportion &eacute;lev&eacute;e d'ions OH<sup>-</sup>.</p>"
+    },
+    {
+      "question": "<p>Quel ion contenu dans la soude la rend basique?</p>",
+      "choices": [
+        "*hydroxyde OH-",
+        "hydrogène H+",
+        "sodium Na+"
+      ],
+      "id": "sci/02.23",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les ions <u>Chlorure Cl-</u> contenus dans l'acide chlorhydrique (H+, Cl-) sont responsables de son <u>acidit&eacute;</u></p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "sci/02.24",
+      "explain": "<p>Non, ce sont les ions <u>hydrog&egrave;ne H+</u>&nbsp; qui sont responsables de <u>l&rsquo;acidit&eacute;</u> dans l'acide chlorhydrique (H+, Cl-)</p>"
+    },
+    {
+      "question": "<p>Quels sont les ions responsables de <u>l&rsquo;acidit&eacute;</u>?</p>",
+      "choices": [
+        "*hydrogène",
+        "hydroxyde",
+        "chlorure",
+        "sodium"
+      ],
+      "id": "sci/02.25",
+      "explain": "<p>Les ions <u>hydrog&egrave;ne H<sup>+</sup></u> (contenus par example dans <u>l'acide chlorydrique H+,Cl-</u>) sont responsables de l'<u>acidit&eacute;</u>.</p>"
+    },
+    {
+      "question": "<p>Quels sont les ions responsables de la <u>basicit&eacute;</u>?</p>",
+      "choices": [
+        "hydrogène",
+        "*hydroxyde",
+        "chlorure",
+        "sodium"
+      ],
+      "id": "sci/02.26",
+      "explain": "<p>Les ions <u>hydroxydes OH<sup>-</sup></u> (contenus par exemple dans la <u>soude Na+,OH-</u>) sont responsables de <u>la basicit&eacute;</u>.</p>"
+    },
+    {
+      "question": "<p>Un solution alcaline a un pH</p>",
+      "explain": "<p>Une solution alcaline est une solution <u>basique</u>.</p>",
+      "choices": [
+        "< 7",
+        "*> 7",
+        "= 7"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/02.27"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 27,
+  "theme": "2",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "tingnat@gmail.com"
+}

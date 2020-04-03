@@ -1,0 +1,135 @@
+{
+  "id": "hist/15",
+  "title": "L'empire Byzantin",
+  "pages": [
+    "hist/15/1.htm",
+    "hist/15/2.htm",
+    "hist/15/3.htm",
+    "hist/15/4.htm",
+    "hist/15/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>En <u>395</u>, l'<u>Empire romain</u>, devenu trop grand et menac&eacute; par les peuples barbares, est decoup&eacute; en&nbsp;</p>",
+      "choices": [
+        "* 2 parties",
+        "3 parties",
+        "4 parties"
+      ],
+      "id": "hist/15.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'<u>Empire romain d'Occident</u> se trouve...</p>",
+      "choices": [
+        "*A l'Ouest",
+        "A l'Est",
+        "Au Sud",
+        "Au Nord"
+      ],
+      "id": "hist/15.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment s'appelle l'autre partie de l'empire romain, &agrave; <u>l'Est</u> ?</p>",
+      "choices": [
+        "*L'empire romain d'Orient",
+        "L'empire romain d'Occident",
+        "L'empire musulman",
+        "L'empire romain d'Asie"
+      ],
+      "id": "hist/15.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est l'empereur qui decide se partager l'empire en deux?</p>",
+      "choices": [
+        "*Theodose",
+        "Clovis",
+        "Justinien",
+        "Constantin"
+      ],
+      "id": "hist/15.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle partie de l'Empire romain devient l'<u>empire byzantin</u> ?</p>",
+      "choices": [
+        "*L'empire d'Orient",
+        "L'empire d'Occident"
+      ],
+      "id": "hist/15.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la capitale de l'empire romain <u>d'Orient</u>?</p>",
+      "choices": [
+        "* Constantinople",
+        "Rome",
+        "Athenes",
+        "Alexandrie"
+      ],
+      "id": "hist/15.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle partie de l'empire romain est envahie par les <u>Germains</u> en <u>476</u>?</p>",
+      "choices": [
+        "*L'empire romain d'Occident",
+        "L'empire romain d'Orient"
+      ],
+      "id": "hist/15.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est l'autre nom de l'<u>Empire romain d'Orient</u>?</p>",
+      "choices": [
+        "*L'Empire Byzantin",
+        "l'Empire du soleil levant",
+        "L'Empire Constantin"
+      ],
+      "id": "hist/15.8",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Byzance</u>, capitale de l'empire d'Orient, s'est appel&eacute;e aussi autrefois</p>",
+      "choices": [
+        "*Constantinople",
+        "Rome",
+        "Athenes",
+        "Ankara",
+        "Medine"
+      ],
+      "id": "hist/15.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment appelle-t-on l'empereur <u>byzantin</u>?</p>",
+      "choices": [
+        "*Le basileus",
+        "le patriarche",
+        "le calife",
+        "le roi"
+      ],
+      "id": "hist/15.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le <u>basileus</u> concentre tous les pouvoirs politiques et militaires.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "hist/15.11",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 11,
+  "theme": "1",
+  "level": [
+    "5"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

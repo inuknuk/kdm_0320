@@ -1,0 +1,300 @@
+{
+  "id": "hist/07",
+  "title": "La construction de l'etat royal",
+  "pages": [
+    "hist/07/1.htm",
+    "hist/07/2.htm",
+    "hist/07/3.htm",
+    "hist/07/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Le <u>territoire</u> sur lequel le <u>roi</u> a totalement le <u>pouvoir</u> s'appelle</p>",
+      "choices": [
+        "*Le domaine royal",
+        "Le fief royal",
+        "le domaine divin",
+        "le domain sacre"
+      ],
+      "id": "hist/07.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>La <u>terre</u> remise a par un seigneur a un <u>vassal</u> s'appelle</p>",
+      "choices": [
+        "*Un fief",
+        "Un domaine",
+        "Un suzerain",
+        "Un territoire"
+      ],
+      "id": "hist/07.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>La c&eacute;r&eacute;monie par laquelle un <u>vassal</u> devient l'homme d'un seigneur s'appelle</p>",
+      "choices": [
+        "*Un hommage",
+        "Un adoubement",
+        "Un sacrement",
+        "Un culte"
+      ],
+      "id": "hist/07.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un <u>seigneur</u> superieur a un autre seigneur est le&nbsp;</p>",
+      "choices": [
+        "*Suzerain",
+        "Vassal",
+        "Dauphin",
+        "Roi"
+      ],
+      "id": "hist/07.4",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>l'heritier</u> de la couronne de France s'appelle:</p>",
+      "choices": [
+        "*Le Dauphin",
+        "Monsieur",
+        "Le favori",
+        "Le Premier"
+      ],
+      "id": "hist/07.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Une <u>famille</u> dont les membres se succedent au <u>pouvoir</u> est:</p>",
+      "choices": [
+        "*Une dynastie",
+        "Une maison",
+        "Une lignee",
+        "Une caste"
+      ],
+      "id": "hist/07.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le d<u>omaine royal</u> est&nbsp; _____ sur lequel le roi a totalement le pouvoir</p>",
+      "choices": [
+        "*le territoire",
+        "le fief",
+        "le suzerain",
+        "l'empire"
+      ],
+      "id": "hist/07.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un <u>fief</u> est une terre remise par un seigneur a un _________</p>",
+      "choices": [
+        "*vassal",
+        "suzerain",
+        "guerrier",
+        "dauphin"
+      ],
+      "id": "hist/07.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un <u>suzerain</u> est un ______ qui est superieur aux autres ______s</p>",
+      "choices": [
+        "*seigneur",
+        "vassal",
+        "guerrier",
+        "cerf"
+      ],
+      "id": "hist/07.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un guerrier au service d'un seigneur s'appelle</p>",
+      "choices": [
+        "*un vassal",
+        "un suzerain",
+        "un chevalier",
+        "un cerf"
+      ],
+      "id": "hist/07.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un <u>hommage</u> est ________ lors de laquelle un vassal devient l'homme d'un seigneur</p>",
+      "choices": [
+        "*une ceremonie",
+        "un voyage",
+        "un rite",
+        "un sacrement",
+        "une politesse"
+      ],
+      "id": "hist/07.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>le <u>Dauphin</u> est ____ de la couronne de France</p>",
+      "choices": [
+        "*l'heritier",
+        "le connetable",
+        "le suzerain",
+        "le symbole"
+      ],
+      "id": "hist/07.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Une <u>dynastie</u> est _____ dont les membres se succedent au <u>pouvoir</u></p>",
+      "choices": [
+        "*une famille",
+        "une tribu",
+        "une seigneurerie",
+        "une caste",
+        "une communaute"
+      ],
+      "id": "hist/07.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le premier roi de la <u>dynastie des Capetiens</u>?</p>",
+      "choices": [
+        "*Huges Capet",
+        "Philippe Auguste",
+        "Louis XI",
+        "Charles VII"
+      ],
+      "id": "hist/07.17",
+      "explain": ""
+    },
+    {
+      "question": "<p>En quelle annee Huges Capet devient il roi?</p>",
+      "choices": [
+        "*987",
+        "1214",
+        "1337"
+      ],
+      "id": "hist/07.18",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Huges Capet</u> a ______ de pouvoir face aux grands seigneurs</p>",
+      "choices": [
+        "*peu de pouvoir",
+        "beaucoup de pouvoir"
+      ],
+      "id": "hist/07.19",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le roi est le _______ des grands seigneurs</p>",
+      "choices": [
+        "*suzerain",
+        "vassal",
+        "connetable",
+        "dauphin"
+      ],
+      "id": "hist/07.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>En quelle annee se passe la bataille de Bouvines?</p>",
+      "choices": [
+        "*1214",
+        "1337",
+        "987",
+        "1453"
+      ],
+      "id": "hist/07.21",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui gagne la bataille de <u>Bouvines</u> en 1214 ?</p>",
+      "choices": [
+        "Huges Capet",
+        "*Philippe Auguste",
+        "Charles VII",
+        "Louis XI"
+      ],
+      "id": "hist/07.22",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel grand roi affirme le <u>pouvoir royal</u> face aux grands seigneurs au <u>XIIIeme</u> siecle?</p>",
+      "choices": [
+        "*Philippe Auguste",
+        "Louis XI",
+        "Charles VII",
+        "Huges Capet"
+      ],
+      "id": "hist/07.23",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle famille le roi de France <u>Philippe Auguste</u> appartient il?</p>",
+      "choices": [
+        "*Capetiens",
+        "Valois",
+        "Merovingiens",
+        "Carolingiens"
+      ],
+      "id": "hist/07.24",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui gagne en importance suite a la victoire de Bouvines?</p>",
+      "choices": [
+        "*Le roi par rapport aux seigneurs",
+        "Les seigneurs par rapport au roi",
+        "les paysans par rapport aux seigneurs"
+      ],
+      "id": "hist/07.25",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qu'est ce qu'un vassal?</p>",
+      "choices": [
+        "*Un chevalier qui se lie a un seigneur",
+        "Le nom du futur roi",
+        "un paysan qui sert son seigneur"
+      ],
+      "id": "hist/07.26",
+      "explain": ""
+    },
+    {
+      "question": "<p>A la mise en place de quel <u>systeme politique</u> la victoire de <u>Bouvines</u> en 1214 contribue-t-elle?</p>",
+      "choices": [
+        "*systeme monarchique",
+        "systeme feodal",
+        "system republicain"
+      ],
+      "id": "hist/07.27",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle <u>c&eacute;r&eacute;monie</u> unit le <u>vassal</u> &agrave; son seigneur ?</p>",
+      "choices": [
+        "*l'hommage",
+        "l'adoubement",
+        "le sacre"
+      ],
+      "id": "hist/07.28",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelles sont les dates de la <u>guerre de cent ans</u>?</p>",
+      "choices": [
+        "*1337-1453",
+        "1214-1356",
+        "1337-1412"
+      ],
+      "id": "hist/07.29",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 29,
+  "theme": "2",
+  "level": [
+    "5"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

@@ -1,0 +1,276 @@
+{
+  "id": "sci/15",
+  "title": "Circuit en série et Circuit en dérivation",
+  "pages": [
+    "sci/15/2.htm",
+    "sci/15/4.htm",
+    "sci/15/3.htm",
+    "sci/15/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Dans un montage en <u>d&eacute;rivation</u>, les <u>dipoles </u>sont branch&eacute;s</p>",
+      "explain": "",
+      "choices": [
+        "*Aux bornes les uns des autres",
+        "A la suite les uns des autres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.22"
+    },
+    {
+      "question": "<p>Dans un montage en <u>s&eacute;rie</u>, les <u>dipoles </u>sont branch&eacute;s</p>",
+      "explain": "",
+      "choices": [
+        "Aux bornes les uns des autres",
+        "*A la suite les uns des autres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.23"
+    },
+    {
+      "question": "<p>Deux dip&ocirc;les sont soit en <u>s&eacute;rie</u>, soit en <u>d&eacute;rivation</u>.</p>",
+      "explain": "<p>Il n'existe effectivement pas d'autre type de branchement. C'est donc soit l'un, soit l'autre.&nbsp;</p>",
+      "choices": [
+        "Faux",
+        "*Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.1"
+    },
+    {
+      "question": "<p>Quel type de branchement permet d'assurer que le <u>mauvais fonctionnement</u> d'un dip&ocirc;le <u>n'impacte pas</u> le fonctionnement de l'autre dip&ocirc;le?&nbsp;</p>",
+      "explain": "<p>Dans un branchement en d&eacute;rivation, il y a un noeud au niveau duquel le courant est divis&eacute;.</p>\n<p>Si le courant ne peut plus aller dans une branche, il ira alors enti&egrave;rement dans l'autre.&nbsp;</p>",
+      "choices": [
+        "*Le branchement en dérivation",
+        "Le branchement en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.2"
+    },
+    {
+      "question": "<p>Dans ce montange, la lampe et la r&eacute;sistance sont&nbsp;</p>\n<p><img src=\"img/kjfhf.png\" width=\"174\" height=\"136\" /></p>",
+      "explain": "<p>Les deux dip&ocirc;les sont branch&eacute;s l'un apr&egrave;s l'autre</p>\n<p>ils sont en s&eacute;rie.</p>",
+      "choices": [
+        "en dérivation",
+        "*en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.3"
+    },
+    {
+      "question": "<p>Dans ce montage, les 3 r&eacute;sistances sont</p>\n<p><img src=\"img/dfghj.png\" width=\"204\" height=\"113\" /></p>",
+      "explain": "<p>Les r&eacute;sistances sont toutes les trois branch&eacute;es bornes &agrave; bornes.</p>\n<p>Elles sont toutes en d&eacute;rivation les unes par rapport aux autres.</p>",
+      "choices": [
+        "en série",
+        "*en dérivation",
+        "en court circuit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.4"
+    },
+    {
+      "question": "<p>Dans ce montage, les trois dip&ocirc;les sont&nbsp;</p>\n<p><img src=\"img/rtyui.png\" width=\"166\" height=\"114\" /></p>",
+      "explain": "<p>Les trois dip&ocirc;les sont branch&eacute;s les uns apr&egrave;s les autres.</p>\n<p>Ils sont en s&eacute;rie.</p>",
+      "choices": [
+        "en dérivation",
+        "*en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.5"
+    },
+    {
+      "question": "<p>Dans ce montage, l'interrupteur et la r&eacute;sistance sont&nbsp;</p>\n<p><img src=\"img/tyyu.png\" width=\"206\" height=\"120\" /></p>",
+      "explain": "<p>Les dip&ocirc;les sont branch&eacute;s bornes &agrave; bornes.</p>\n<p>Ils sont en d&eacute;rivation.</p>",
+      "choices": [
+        "*en dérivation",
+        "en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.6"
+    },
+    {
+      "question": "<p>Les r&eacute;sistances de gauche et du milieu sont&nbsp;</p>\n<p><img src=\"img/kgug.png\" width=\"235\" height=\"121\" /></p>",
+      "explain": "<p>Les r&eacute;sistances de gauche et du milieu sont branch&eacute;es l'une apr&egrave;s l'autre.</p>\n<p>Elles sont en s&eacute;rie.</p>",
+      "choices": [
+        "*en série",
+        "en dérivation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.9"
+    },
+    {
+      "question": "<p>Cochez la bonne affirmation</p>\n<p><img src=\"img/ourffoiu.png\" width=\"229\" height=\"120\" /></p>",
+      "explain": "<p>Les deux lampes sont branch&eacute;es l'une apr&egrave;s l'autre: elles sont en s&eacute;rie.</p>",
+      "choices": [
+        "*Les deux lampes sont en série",
+        "Les deux lampes sont en dérivation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.10"
+    },
+    {
+      "question": "<p>Dans un montage en <u>s&eacute;rie</u>, les dipoles sont branch&eacute;s<u> les uns &agrave; la suite des autres</u></p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.21"
+    },
+    {
+      "question": "<p>La diode et la r&eacute;sistance sont</p>\n<p><img src=\"img/zyf.png\" width=\"177\" height=\"122\" /></p>",
+      "explain": "<p>La diode et la r&eacute;sistance sont branch&eacute;es l'une apr&egrave;s l'autre.</p>\n<p>Elles sont en s&eacute;rie.</p>",
+      "choices": [
+        " en dérivation",
+        "*en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.11"
+    },
+    {
+      "question": "<p>Dans ce montage, les 2 <u>lampes </u>sont</p>\n<p><img src=\"img/uyfgh.png\" width=\"206\" height=\"103\" /></p>",
+      "explain": "<p>Les deux lampes sont branch&eacute;es l'une apr&egrave;s l'autre.</p>\n<p>Elles sont en s&eacute;rie.</p>",
+      "choices": [
+        "en dérivation",
+        "*en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.12"
+    },
+    {
+      "question": "<p>Dans un montage en s&eacute;rie, le fonctionnement d'un dipole&nbsp; ______ du bon fonctionnement des autres dipoles.</p>",
+      "explain": "",
+      "choices": [
+        "*dépend",
+        "ne dépend pas"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.26"
+    },
+    {
+      "question": "<p>La r&eacute;sistance et la diode sont&nbsp;</p>\n<p><img src=\"img/duf.png\" width=\"206\" height=\"144\" /></p>",
+      "explain": "<p>La r&eacute;sistance et la diode sont branch&eacute;es bornes &agrave; bornes.</p>\n<p>Elles sont en d&eacute;rivation.</p>",
+      "choices": [
+        "*en dérivation",
+        "en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.13"
+    },
+    {
+      "question": "<p>Dans un montage en <u>d&eacute;rivation</u>, le fonctionnement d'un dipole&nbsp; ______ du bon fonctionnement des autres dipoles.</p>",
+      "explain": "",
+      "choices": [
+        "dépend",
+        "*ne dépend pas"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.27"
+    },
+    {
+      "question": "<p>La diode et la lampe&nbsp;</p>\n<p><img src=\"img/jyfgh.png\" width=\"310\" height=\"143\" /></p>",
+      "explain": "<p>La diode et la lampe sont branch&eacute;es l'une apr&egrave;s l'autre: elles sont en s&eacute;rie.</p>",
+      "choices": [
+        "en dérivation",
+        "*en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.14"
+    },
+    {
+      "question": "<p>La <u>r&eacute;sistance </u>et la <u>diode </u>sont</p>\n<p><img src=\"img/jyfgh.png\" width=\"245\" height=\"113\" /></p>",
+      "explain": "<p>La r&eacute;sistance et la diode sont branch&eacute;es bornes &agrave; bornes: elles sont en d&eacute;rivation.</p>",
+      "choices": [
+        " en série",
+        "*en dérivation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.15"
+    },
+    {
+      "question": "<p>La lampe et la r&eacute;sistance de gauche&nbsp; sont</p>\n<p><img src=\"img/rtyu.png\" width=\"238\" height=\"185\" /></p>",
+      "explain": "<p>La lampe et la r&eacute;sistance de gauche sont branch&eacute;es bornes &agrave; bornes.</p>\n<p>Elles sont en d&eacute;rivation.</p>",
+      "choices": [
+        "en série",
+        "*en dérivation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.16"
+    },
+    {
+      "question": "<p>La lampe et la r&eacute;sistance de droite sont</p>\n<p><img src=\"img/rtyu.png\" width=\"211\" height=\"164\" /></p>",
+      "explain": "<p>La lampe et la r&eacute;sistance de droite sont branch&eacute;es l'une apr&egrave;s l'autre</p>\n<p>Elles sont en s&eacute;rie.</p>",
+      "choices": [
+        "*en série",
+        "en dérivation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.17"
+    },
+    {
+      "question": "<p>Cochez la bonne affirmation</p>\n<p><img src=\"img/iygh.png\" width=\"225\" height=\"178\" /></p>",
+      "explain": "<p>La r&eacute;sistance de droite et la lampe sont branch&eacute;es l'une apr&egrave;s l'autre: elles sont en s&eacute;rie.</p>",
+      "choices": [
+        "La lampe et la résistance de droite sont en dérivation",
+        "*La lampe et la résistance de droite sont en série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.20"
+    },
+    {
+      "question": "<p>Dans un montage en <u>s&eacute;rie</u>, il y a _____ passant par le <u>g&eacute;n&eacute;rateur</u>.</p>",
+      "explain": "",
+      "choices": [
+        "*une seule boucle",
+        "plusieurs boucles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.24"
+    },
+    {
+      "question": "<p>Dans un montage en d<u>&eacute;rivation</u>, il y a _____ passant par le <u>g&eacute;n&eacute;rateur</u>.</p>",
+      "explain": "",
+      "choices": [
+        "une seule boucle",
+        "*plusieurs boucles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/15.25"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 27,
+  "theme": "5",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "julie.mariettaaleina@gmail.com"
+}

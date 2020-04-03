@@ -1,0 +1,270 @@
+{
+  "id": "math/36",
+  "title": "Théorème de Pythagore",
+  "pages": [
+    "math/36/1.htm",
+    "math/36/2.htm",
+    "math/36/3.htm",
+    "math/36/4.htm",
+    "math/36/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qu'est-ce qu'un <u>triangle rectangle</u> ? Un triangle ayant</p>",
+      "explain": "<p>Un triangle rectangle est un triangle ayant un <u>angle droit</u>.</p>",
+      "choices": [
+        "2 côtés égaux",
+        "3 côtés égaux",
+        "*1 angle droit",
+        "2 côtés parallèles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.21"
+    },
+    {
+      "question": "<p>Quel est la mesure d'un <u>angle droit</u> ?</p>",
+      "explain": "<p>Un angle droit mesure <u>90&deg;</u>.</p>",
+      "choices": [
+        "60°",
+        "*90°",
+        "120°",
+        "180°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.17"
+    },
+    {
+      "question": "<p>Combien vaut la somme de tous les angles d'un triangle ?</p>",
+      "explain": "<p>La somme des angles d'un triangle fait <u>180&deg;</u>.</p>",
+      "choices": [
+        "60°",
+        "90°",
+        "*180°",
+        "360°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.14"
+    },
+    {
+      "question": "<p>Le triangle ABC est rectangle en B.</p>\n<p>Quel c&ocirc;t&eacute; est <u>l'hypot&eacute;nuse</u> ?&nbsp;</p>\n<p><img src=\"img/qutheoreme.png\" /></p>",
+      "explain": "<p>L'hypot&eacute;nuse est le <u>c&ocirc;t&eacute; le plus long et oppos&eacute; &agrave; l'angle droit</u>.</p>\n<p>Il s'agit de AC dans ce rectangle</p>",
+      "choices": [
+        "AB",
+        "*AC",
+        "BC"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.1"
+    },
+    {
+      "question": "<p>A quel triangle peut-on appliquer le th&eacute;or&egrave;me de Pythagore ?</p>",
+      "explain": "<p>On applique le th&eacute;or&egrave;me de Pythagore &agrave; un <u>triangle rectangle</u>.</p>",
+      "choices": [
+        "Un triangle isocèle",
+        "*Un triangle rectangle",
+        "Un triangle quelconque",
+        "Un triangle équilatéral"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.20"
+    },
+    {
+      "question": "<p>Le triangle ABC est rectangle en B.</p>\n<p>Que dit le <u>th&eacute;or&egrave;me de Pythagore</u>?&nbsp;</p>\n<p><img src=\"img/qutheoreme.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Le th&eacute;or&egrave;me de Pythagore &eacute;nonce que le carr&eacute; de l'hypot&eacute;nuse est &eacute;gal &agrave; la somme des carr&eacute;s des longueurs des deux autres c&ocirc;t&eacute;s.</p>\n<p>Dans ce cas, AC est l'hypot&eacute;nuse donc, <u>AC&sup2; = AB&sup2; + BC&sup2;</u>.</p>",
+      "choices": [
+        "AB² = AC² + BC²",
+        "*AC² = AB² + BC²",
+        "BC² = AB² + AC²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.2"
+    },
+    {
+      "question": "<p>Le triangle ABC est rectangle en A.</p>\n<p>Quelle est la longueur de l'hypot&eacute;nuse ?&nbsp;</p>\n<p><img src=\"img/quhypo.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>L'hypot&eacute;nuse est le <u>c&ocirc;t&eacute; le plus long et oppos&eacute; &agrave; l'angle droit</u>.</p>\n<p>Dans ce rectangle, il s'agit de <u>BC</u>, qui&nbsp; vaut <u>10 cm</u>.</p>",
+      "choices": [
+        "6 cm",
+        "8 cm",
+        "*10 cm",
+        "4 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.5"
+    },
+    {
+      "question": "<p>Que vaut le carr&eacute; de l'hypot&eacute;nuse ?</p>\n<p><img src=\"img/quhypo.png\" /></p>",
+      "explain": "<p>L'hypot&eacute;nuse vaut 10 cm. Donc, son carr&eacute; vaut 10&sup2; = <u>100</u>.</p>",
+      "choices": [
+        "36",
+        "64",
+        "*100",
+        "200"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.8"
+    },
+    {
+      "question": "<p>Le triangle ABC est rectangle en B.</p>\n<p>AB = 4 cm et BC = 3 cm.</p>\n<p>Quelle est la <u>longueur de AC</u> ?</p>\n<p><img src=\"img/qulongueur.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Le th&eacute;or&egrave;me de Pythagore &eacute;nonce que le carr&eacute; de l'hypot&eacute;nuse est &eacute;gal &agrave; la somme des carr&eacute;s des longueurs des deux autres c&ocirc;t&eacute;s.</p>\n<p>Dans ce cas, <u>AC&sup2; = AB&sup2; + BC&sup2;</u>.</p>\n<p>Donc, AC&sup2; = 3&sup2; + 4&sup2; = 9 + 16 = 25</p>\n<p>Donc, AC = &radic;25 = <u>5 cm</u>.</p>",
+      "choices": [
+        "*5 cm",
+        "6 cm",
+        "7 cm",
+        "12 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.3"
+    },
+    {
+      "question": "<p>Je souhaite montrer qu'un triangle est rectangle. Quelle <u>propri&eacute;t&eacute;</u> vais-je utiliser ?</p>",
+      "explain": "<p>Pour montrer qu'un triangle est rectangle j'utilise la <u>r&eacute;ciproque du th&eacute;or&egrave;me de Pythagore</u>.</p>",
+      "choices": [
+        "Les formules trigonométriques",
+        "Le théorème de Thalès",
+        "Le théorème de Pythagore",
+        "*La réciproque du théorème de Pythagore"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.15"
+    },
+    {
+      "question": "<p>Le triangle ABC est rectangle en B.</p>\n<p>AC = 5 cm et BC = 3 cm.</p>\n<p>Quelle est la <u>longueur de AB</u> ?</p>\n<p><img src=\"img/qulongueur2.png\" /></p>",
+      "explain": "<p>Le th&eacute;or&egrave;me de Pythagore &eacute;nonce que le carr&eacute; de l'hypot&eacute;nuse est &eacute;gal &agrave; la somme des carr&eacute;s des longueurs des deux autres c&ocirc;t&eacute;s.</p>\n<p>Dans ce cas, <u>AC&sup2; = AB&sup2; + BC&sup2;</u>.</p>\n<p>Donc, <u>AB&sup2; = AC&sup2; - BC&sup2;</u> = 5&sup2; - 3&sup2; = 25 - 9 = 16</p>\n<p>Donc, AB = &radic;16 = <u>4 cm</u>.</p>",
+      "choices": [
+        "2 cm",
+        "3 cm",
+        "*4 cm",
+        "8 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.7"
+    },
+    {
+      "question": "<p>Que faut-il calculer pour v&eacute;rifier si un triangle est rectangle ?</p>",
+      "explain": "<p>Il est n&eacute;cessaire de calculer <u>les carr&eacute;s des c&ocirc;t&eacute;s du triangle</u> pour v&eacute;rifier la <u>r&eacute;ciproque du th&eacute;or&egrave;me de Pythagore</u>.&nbsp;</p>",
+      "choices": [
+        "*Les carrés des côtés ",
+        "La somme des côtés",
+        "La soustraction des côtés",
+        "L'inverse des côtés"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.10"
+    },
+    {
+      "question": "<p>Que peut-on dire si le <u>carr&eacute; de la longueur d'un c&ocirc;t&eacute; d'un triangle</u> est &eacute;gal &agrave; la <u>somme des carr&eacute;s des longueurs des deux autres c&ocirc;t&eacute;s</u> ?</p>",
+      "explain": "<p>Il s'agit de la r&eacute;ciproque du th&eacute;or&egrave;me de Pythagore.</p>\n<p>Si le carr&eacute; de la longueur d'un c&ocirc;t&eacute; d'un triangle est &eacute;gal &agrave; la somme des carr&eacute;s des longueurs des deux autres c&ocirc;t&eacute;s, <u>alors ce triangle est rectangle</u>.</p>",
+      "choices": [
+        "Le triangle est isocèle",
+        "Le triangle est équilatéral",
+        "*Le triangle est rectangle",
+        "Le triangle est quelconque"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.9"
+    },
+    {
+      "question": "<p>Est-il possible de savoir si le triangle suivant est rectangle ?</p>\n<p><img src=\"img/qureciproque2.png\" /></p>",
+      "explain": "<p>Il <u>manque la longueur de AB</u>.</p>\n<p>Il n'est <u>pas possible d'appliquer la r&eacute;ciproque du th&eacute;or&egrave;me de Pythagore</u> pour savoir si le triangle est rectangle.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.11"
+    },
+    {
+      "question": "<p>Le triangle suivant est-il rectangle ?</p>\n<p><img src=\"img/qureciproque3.png\" /></p>",
+      "explain": "<p>On applique la <u>r&eacute;ciproque du th&eacute;or&egrave;me de Pythagore</u>. AC est le c&ocirc;t&eacute; le plus long.</p>\n<p>AC&sup2; = 5&sup2; = <u>25</u></p>\n<p>AB&sup2; + BC&sup2; = 4&sup2; + 3&sup2; = 16 + 9 = <u>25</u></p>\n<p><u>AC&sup2; = AB&sup2; + BC&sup2;</u>. Donc, <u>ABC est un triangle rectangle en B</u>.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.12"
+    },
+    {
+      "question": "<p>Le triangle suivant est-il rectangle ?</p>\n<p><img src=\"img/qureciproque4.png\" /></p>",
+      "explain": "<p>On applique la <u>r&eacute;ciproque du th&eacute;or&egrave;me de Pythagore</u>. AC est le c&ocirc;t&eacute; le plus long.</p>\n<p>AC&sup2; = 6&sup2; = 36</p>\n<p>AB&sup2; + BC&sup2; = 5&sup2; + 4&sup2; = 25 + 16 = 41</p>\n<p><u>AC&sup2; &ne; AB&sup2; + BC&sup2;</u>. Donc, ABC <u>n'est pas un triangle rectangle</u>.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.13"
+    },
+    {
+      "question": "<p>Peut-on d&eacute;terminer la longueur de AC ?</p>\n<p><img src=\"img/qucalcul.png\" /></p>",
+      "explain": "<p><u>On ne sait pas</u> si le triangle ABC est <u>rectangle</u>.</p>\n<p>On ne peut pas appliquer le th&eacute;or&egrave;me de Pythagore.&nbsp;</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.16"
+    },
+    {
+      "question": "<p>ABC est un triangle rectangle en A. Que vaut <u>BC</u> ?</p>\n<p><img src=\"img/quhypo1.png\" /></p>",
+      "explain": "<p>Le th&eacute;or&egrave;me de Pythagore nous dit que :</p>\n<p>BC&sup2; = AB&sup2; + AC&sup2;</p>\n<p>BC&sup2; = 4&sup2; + 5&sup2; = 16 + 25 = 41</p>\n<p>Donc <u>BC = &radic;(41) cm</u>.</p>",
+      "choices": [
+        "9 cm",
+        "6 cm",
+        "*√(41) cm",
+        "41 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.18"
+    },
+    {
+      "question": "<p>ABC est un triangle rectangle en A. Que vaut <u>AB</u> ?</p>\n<p><img src=\"img/qucotemanquant.png\" /></p>",
+      "explain": "<p>Le th&eacute;or&egrave;me de Pythagore nous dit que :</p>\n<p>BC&sup2; = AB&sup2; + AC&sup2;</p>\n<p>Donc, AB&sup2; = BC&sup2; - AC&sup2; = 10&sup2; - 7&sup2; = 100 - 49 = 51</p>\n<p>Donc, <u>AB = &radic;(51) cm</u>.</p>",
+      "choices": [
+        "3 cm",
+        "√(149) cm",
+        "*√(51) cm",
+        "17 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.19"
+    },
+    {
+      "question": "<p>Un triangle peut-il &ecirc;tre isoc&egrave;le et rectangle ?&nbsp;</p>",
+      "explain": "<p><u>Oui, un triangle</u> peut &ecirc;tre <u>isoc&egrave;le et rectangle</u>.</p>\n<p>Ses angles feront respectivement 90&deg;, 45&deg; et 45&deg;.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/36.22"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 22,
+  "theme": "geometrie",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

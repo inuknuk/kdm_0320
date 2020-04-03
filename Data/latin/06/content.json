@@ -1,0 +1,52 @@
+{
+  "id": "latin/06",
+  "title": "Ablatif",
+  "pages": [
+    "latin/06/1.htm",
+    "latin/06/2.htm"
+  ],
+  "questions": [
+    {
+      "id": "latin/06.1",
+      "question": "<p><u>En 753 av JC, Romulus fonde Rome.</u></p>\n<p>Quel est le Compl&eacute;ment Circonstanciel ?</p>",
+      "choices": [
+        "Rome",
+        "*En 753 av JC",
+        "Romulus"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/06.2",
+      "question": "<p><u>A Rome, la jeune fille regarde les statues.</u></p>\n<p>Quel est le CC ?</p>",
+      "choices": [
+        "*A Rome",
+        "la jeune fille",
+        "les statues",
+        "Il n'y en a pas"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/06.3",
+      "question": "<p><u>Pers&eacute;e a vaincu la Gorgonne grace &agrave; Athena.</u></p>\n<p>Quel est le compl&eacute;ment circonstanciel?</p>",
+      "choices": [
+        "Persée",
+        "la Gorgonne",
+        "*grace à Athena",
+        "Il n'y en a pas"
+      ],
+      "explain": ""
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 3,
+  "warning": "1",
+  "theme": "declinaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

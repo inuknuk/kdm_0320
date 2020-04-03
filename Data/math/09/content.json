@@ -1,0 +1,122 @@
+{
+  "id": "math/09",
+  "title": "Echelles",
+  "pages": [
+    "math/09/1.htm",
+    "math/09/2.htm",
+    "math/09/3.htm",
+    "math/09/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Sur mon plan, la distance entre la poste et la mairie est de 10cm. En r&eacute;alit&eacute;, je sais que la distance est de 2 km. Quelle est l&rsquo;&eacute;chelle de cette carte?</p>",
+      "choices": [
+        "*10 / (2000 x 100) = 1 / 20000",
+        "10 / 2000 = 1 / 200",
+        "2000 / 10 = 200"
+      ],
+      "id": "math/09.1",
+      "explain": "<p>Je convertis d'abord 2km en cm</p>\n<p>1m = 100 cm donc</p>\n<p>2km = 2000 x 100 = 200 000 cm</p>\n<p>L&rsquo;&eacute;chelle est la distance sur la carte divis&eacute;e par la distance r&eacute;elle</p>\n<p>= 10 (cm) / 200 000 (cm) = 1 / 20 000</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<p>L&rsquo;&eacute;chelle d'un plan est la <span style=\"color: #e67e23;\">distance sur la carte</span> divis&eacute;e <span style=\"color: #e67e23;\">par la distance r&eacute;elle</span></p>",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Ca depend des cartes"
+      ],
+      "id": "math/09.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>L&rsquo;&eacute;chelle d'un plan est la <span style=\"color: #e67e23;\">distance sur la carte </span><span style=\"color: #e67e23;\">multipli&eacute;e </span><span style=\"color: #e67e23;\">par la distance r&eacute;elle</span></p>",
+      "choices": [
+        "Vrai",
+        "*Faux",
+        "Ça dépend des cartes"
+      ],
+      "id": "math/09.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'echelle d'un plan est la <span style=\"color: #e67e23;\">distance r&eacute;elle divis&eacute;e</span><span style=\"color: #e67e23;\">&nbsp;</span><span style=\"color: #e67e23;\">par la distance sur le plan</span></p>",
+      "choices": [
+        "Vrai",
+        "*Faux",
+        "Ça dépend des cartes"
+      ],
+      "id": "math/09.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Si je connais la distance entre 2 endroits, mesur&eacute;e sur une carte et aussi en r&eacute;alit&eacute;, je peux calculer l&rsquo;&eacute;chelle de la carte.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Ça dépend des points"
+      ],
+      "id": "math/09.6",
+      "explain": "<p>L&rsquo;&eacute;chelle e se calcule:</p>\n<p>e = distance sur la carte &frasl; distance r&eacute;elle</p>"
+    },
+    {
+      "question": "<p>Sur un plan &agrave; l&rsquo;&eacute;chelle 1 / 100 000, la distance entre la poste et la mairie est 5 cm. Quelle est la distance r&eacute;elle?</p>",
+      "choices": [
+        "*5 x 100 000 (cm) = 5 km ",
+        "100 000 (cm) / 5 = 200 m ",
+        "100 000 (m) / 5 = 20 km "
+      ],
+      "id": "math/09.7",
+      "explain": "<p>1 cm sur le plan repr&eacute;sente 100 000 cm r&eacute;els</p>\n<p>donc 5 cm sur le plan repr&eacute;sentent 5 x 100 000 cm r&eacute;els<br /><br />500 000 cm = 5000 m = 5 km</p>"
+    },
+    {
+      "question": "<p>Sur un plan &agrave; l&rsquo;&eacute;chelle <u>1 / 100 000</u>, quelle distance sur ce plan repr&eacute;sente une <u>distance r&eacute;elle de 2 km</u>?</p>",
+      "choices": [
+        "*2km/100 000 = 200 000 cm/100 000 = 2cm",
+        "100 000 / 2x1000x100 (cm) = 0.5 cm",
+        "10 000 (km) / 2  = 5000 km "
+      ],
+      "id": "math/09.8",
+      "explain": "<p>Je convertis d'abord la distance r&eacute;elle de 2 km en cm<br />2 km = 2 000 m = 2 000 x 100 cm = 200 000 cm</p>\n<p>Puis je divise la distance r&eacute;elle par 100 000.<br />=200 000 / 100 000 = 2 cm.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<p>Jeremy a fait un plan de sa chambre &agrave; l&rsquo;&eacute;chelle 1 &frasl; 100. La longueur de sa chambre est de 4 cm sur le plan. Quelle est la longueur r&eacute;elle de sa chambre?</p>",
+      "choices": [
+        "*4 x 100 = 400 cm = 4 m",
+        "100 / 4 = 25 m",
+        "100 + 4 = 104m"
+      ],
+      "id": "math/09.9",
+      "explain": "<p>1 cm sur le plan repr&eacute;sente 100 cm dans la chambre.<br />1 cm sur le plan repr&eacute;sentent 400 cm ou 4 m dans la chambre.</p>"
+    },
+    {
+      "question": "<p>Chlo&eacute; a une voiture de sport en mod&egrave;le r&eacute;duit 32 fois plus petite que celle de son p&egrave;re. Quelle est l&rsquo;&eacute;chelle du mod&egrave;le ?</p>",
+      "choices": [
+        "*1/32",
+        "32",
+        "1 + 32 = 33"
+      ],
+      "id": "math/09.10",
+      "explain": "<p>Une r&eacute;duction correspond a une &eacute;chelle inf&eacute;rieure &agrave; 1.</p>"
+    },
+    {
+      "question": "<p>Gabriel dessine un insecte. Sur son dessin, la longueur de l'insecte est 6 cm. L'insecte mesure en r&eacute;alit&eacute; 1 cm. Quelle est l&rsquo;&eacute;chelle du dessin?</p>",
+      "choices": [
+        "1/6",
+        "*6",
+        "6 -1=5"
+      ],
+      "id": "math/09.11",
+      "explain": "<p>Echelle = longueur sur le dessin (cm) &frasl; longueur r&eacute;elle (cm)</p>"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 11,
+  "theme": "fonction",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

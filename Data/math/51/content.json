@@ -1,0 +1,266 @@
+{
+  "id": "math/51",
+  "title": "Aires",
+  "pages": [
+    "math/51/1.htm",
+    "math/51/2.htm",
+    "math/51/3.htm",
+    "math/51/4.htm",
+    "math/51/6.htm",
+    "math/51/7.htm",
+    "math/51/8.htm",
+    "math/51/9.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>L&rsquo;<u>aire</u> d&rsquo;une figure est la mesure de :</p>",
+      "explain": "<p>La mesure du poids est la masse et la mesure de l&rsquo;espace qu&rsquo;occupe une figure est le volume !</p>",
+      "choices": [
+        "*sa surface.",
+        "son poids.",
+        "l’espace qu’occupe cette figure. "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.1"
+    },
+    {
+      "question": "<p>L&rsquo;<u>unit&eacute;</u> de l&rsquo;aire est:</p>",
+      "explain": "<p>Une aire s'obtient en <u>multipliant 2 longueurs</u> entre elles:</p>\n<p>m &times; m = m&sup2;</p>\n<p>Le m&egrave;tre cube est l'unit&eacute; du volume.</p>",
+      "choices": [
+        "le m³",
+        "*le m²",
+        "le m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.2"
+    },
+    {
+      "question": "<p>L'aire d'un triangle est</p>\n<p>$$\\text{A = }\\frac{a\\times h}{2}$$.</p>\n<p>h est:</p>",
+      "explain": "<p>Pour calculer l'aire d'un triangle, il faut multiplier la longueur d'un c&ocirc;t&eacute; par la <u>hauteur issue de ce c&ocirc;t&eacute;</u>.</p>",
+      "choices": [
+        "la longueur d’un côté du triangle.",
+        "la hauteur issue de n’importe quels côtés du triangle.",
+        "*la hauteur issue du côté a du triangle."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.3"
+    },
+    {
+      "question": "<p class=\"p1\">L&rsquo;aire d&rsquo;un carr&eacute; de <u>c&ocirc;t&eacute; 1m</u> est :</p>",
+      "explain": "<p><u>A = 1 x 1 = 1m&sup2;</u></p>\n<p>Car la mesure du c&ocirc;t&eacute; du carr&eacute; est en m.</p>",
+      "choices": [
+        "*1m² ",
+        "2m² ",
+        "1m"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.4"
+    },
+    {
+      "question": "<p class=\"p1\">L&rsquo;aire d&rsquo;un rectangle de <u>longueur 8m</u> et de <u>largeur 2m</u> vaut :</p>",
+      "explain": "<p>A = L &times; l</p>\n<p>= 8 &times; 2 = 16m&sup2; car les longueurs sont exprim&eacute;es en m.</p>",
+      "choices": [
+        "*16m²",
+        "16m",
+        "16cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.5"
+    },
+    {
+      "question": "<p class=\"p1\">L&rsquo;aire d&rsquo;un cercle de <u>diam&egrave;tre d</u> est &eacute;gale &agrave; :</p>",
+      "explain": "<p><u>Soit le rayon r = d/2</u></p>\n<p>A = &pi;&nbsp;x r&sup2;</p>\n<p>= &pi; &times; (d/2)&sup2; = &pi; &times; d&sup2;/4</p>",
+      "choices": [
+        "A = π x d² ",
+        "$$\\text{A = }\\pi\\times \\frac{d^{2}}{2}$$",
+        "*$$\\text{A = }\\pi\\times \\frac{d^{2}}{4}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.6"
+    },
+    {
+      "question": "<p class=\"p1\">L&rsquo;aire du parall&eacute;logramme ci-dessous vaut : <img src=\"img/q7.png\" /></p>",
+      "explain": "<p>h est la hauteur issue du c&ocirc;t&eacute; de longueur L</p>\n<p><u>A = L &times; h.</u></p>",
+      "choices": [
+        "l × L",
+        "h × l",
+        "*h × L"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.7"
+    },
+    {
+      "question": "<p class=\"p1\">L&rsquo;aire d&rsquo;une sph&egrave;re de <u>rayon r</u> est &eacute;gale &agrave; :</p>",
+      "explain": "<p><u>&pi; &times; r&sup2;</u>&nbsp; est l'aire d'un <u>disque</u> !</p>",
+      "choices": [
+        "π × r²  ",
+        "2 × π × r²  ",
+        "*4 × π × r²  "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.8"
+    },
+    {
+      "question": "<p class=\"p1\">L&rsquo;aire d&rsquo;un cylindre de <u>longueur L</u> et de <u>diam&egrave;tre d</u> vaut :<span class=\"Apple-converted-space\">&nbsp;</span></p>",
+      "explain": "<p>Soit le rayon r = d/2</p>\n<p><u>A = &pi; &times; L &times; r </u></p>\n<p>= &pi; &times; L &times; d/2</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "π  × L × d",
+        "*$$\\text{L}\\times \\pi\\times \\frac{d}{2}$$",
+        "L × d"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.9"
+    },
+    {
+      "question": "<p class=\"p1\">L&rsquo;aire d&rsquo;un carr&eacute; de <u>c&ocirc;t&eacute; 7cm</u> vaut :<span class=\"Apple-converted-space\">&nbsp;</span></p>",
+      "explain": "<p><u>A = 7 &times; 7 = 49cm&sup2;</u></p>\n<p>La longueur du c&ocirc;t&eacute; du carr&eacute; est exprim&eacute;e en cm, donc on obtient des cm&sup2; !</p>",
+      "choices": [
+        "*49cm²",
+        "49m²",
+        "14cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.10"
+    },
+    {
+      "question": "<p><img src=\"img/q11.png\" /></p>\n<p>L'aire de ce triangle vaut :</p>",
+      "explain": "<p><u>h est la hauteur issue de c</u></p>\n<p>Donc A = (c &times; h)/2 par d&eacute;finition !</p>",
+      "choices": [
+        "$$\\frac{a\\times h}{2}$$",
+        "$$\\frac{b\\times h}{2}$$",
+        "*$$\\frac{c\\times h}{2}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.11"
+    },
+    {
+      "question": "<p>L'aire d'un cercle de <u>diam&egrave;tre d = 8m</u> vaut :&nbsp;</p>",
+      "explain": "<p>Soit le rayon r. L'aire du cercle vaut:</p>\n<p><u>A =&nbsp;</u><u>&pi;&nbsp;</u><u>&times;</u><u> r&sup2;</u></p>\n<p>= &pi; &times; 4&sup2;= 16 &times; &pi;</p>\n<p>car r = d/2 = 8/2 = 4 et 4&sup2;&nbsp; = 16.</p>",
+      "choices": [
+        "*16π m² ",
+        "64π m² ",
+        "8π m² "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.12"
+    },
+    {
+      "question": "<p>L'aire du triangle rectangle ABC ci-dessous est &eacute;gale &agrave; :</p>\n<p><img src=\"img/q13.png\" /></p>",
+      "explain": "<p>Dans un triangle rectangle, <u>le c&ocirc;t&eacute; AC est la hauteur issue du c&ocirc;t&eacute; BC</u></p>\n<p>Donc A = (e &times; f)/2</p>",
+      "choices": [
+        "$$\\frac{d\\times e}{2}$$",
+        "*$$\\frac{e\\times f}{2}$$",
+        "$$\\frac{f\\times d}{2}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.13"
+    },
+    {
+      "question": "<p>L'aire A d'une sph&egrave;re de <u>diam&egrave;tre d = 2cm</u> vaut:</p>",
+      "explain": "<p>d = 2cm donc le rayon r = d/2<span class=\"s1\"><span class=\"Apple-converted-space\"> =&nbsp;</span></span>2/2 = 1</p>\n<p>A = 4 &times; 1&sup2; &times; &pi; = 4&pi; cm&sup2;</p>\n<p>Le rayon est exprim&eacute; en cm.</p>",
+      "choices": [
+        "16π cm²",
+        "*4π cm²",
+        "8π cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.14"
+    },
+    {
+      "question": "<p>Que vaut l'aire d'un rectangle de <u>largeur l = 6,3cm</u> et de <u>longueur L = 10cm</u>?</p>",
+      "explain": "<p><u>A = 10 &times; 6,3 = 63cm&sup2;</u></p>\n<p>Les longueurs sont exprim&eacute;es en cm.</p>",
+      "choices": [
+        "63m²",
+        "*63cm²",
+        "16,3cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.15"
+    },
+    {
+      "question": "<p><img src=\"img/q16.png\" /></p>\n<p>L'aire du demi cercle de <u>rayon r = 6cm</u> est &eacute;gale &agrave; :</p>",
+      "explain": "<p>L'aire du demi cercle vaut <u>la moiti&eacute;</u> de l'aire du cercle de rayon r.</p>\n<p>A = 1/2 &times;<span class=\"s1\"><span class=\"Apple-converted-space\"> r&sup2;&nbsp;</span></span>&times;<span class=\"s1\"><span class=\"Apple-converted-space\">&nbsp;&pi; </span></span></p>\n<p><span class=\"s1\"><span class=\"Apple-converted-space\">=&nbsp;</span></span>36/2 &times; &pi; = 18&pi; cm&sup2;</p>\n<p>Le rayon est exprim&eacute; en cm.</p>",
+      "choices": [
+        "36π cm²",
+        "24π cm²",
+        "*18π cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.16"
+    },
+    {
+      "question": "<p>L'aire du cylindre de <u>rayon r = 2m</u> et de <u>longueur L = 24m</u> vaut :&nbsp;</p>",
+      "explain": "<p><u>A = r &times; L &times; &pi;</u></p>\n<p>= 24 &times; 2 &times; &pi; = 48&pi; m&sup2;</p>\n<p>Les longueurs sont exprim&eacute;es en m.</p>",
+      "choices": [
+        "*48π m²",
+        "24π m²",
+        "24π cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.17"
+    },
+    {
+      "question": "<p><img src=\"img/q18.png\" /></p>\n<p>L'aire de ce parall&eacute;logramme vaut :&nbsp;</p>",
+      "explain": "<p>La <u>hauteur issue du c&ocirc;t&eacute; de 11cm</u> vaut 2cm</p>\n<p>Donc A = 11 &times; 2 = 22cm&sup2;</p>\n<p>Les longueurs sont exprim&eacute;es en cm.</p>",
+      "choices": [
+        "*22cm²",
+        "33cm²",
+        "6cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.18"
+    },
+    {
+      "question": "<p>Que vaut l'aire de la demi-sph&egrave;re de <u>diam&egrave;tre d = 10 cm</u>?</p>",
+      "explain": "<p>L'aire de la demi-sph&egrave;re vaut <u>la moiti&eacute;</u> de l'aire de la sph&egrave;re de rayon r.</p>\n<p>Or r = d/2<span class=\"s1\"> =&nbsp;</span>10/2<span class=\"s1\"> = 5cm</span></p>\n<p><span class=\"s1\">D</span>onc A = 1/2<span class=\"s1\"> x 4 x r&sup2; x &pi;</span></p>\n<p><span class=\"s1\">= </span>1/2 x 4 x 5&sup2; x &pi;</p>\n<p>= <span class=\"s1\">&nbsp;(25 </span>&times; 4)/2 &times; &pi;&nbsp;&nbsp;= 50&pi; cm&sup2;</p>\n<p>Le rayon est exprim&eacute; en cm.</p>",
+      "choices": [
+        "400π cm²",
+        "100π cm²",
+        "*50π cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.19"
+    },
+    {
+      "question": "<p><img src=\"img/q20.png\" /></p>\n<p>L'aire de cette figure est &eacute;gale &agrave; :&nbsp;</p>",
+      "explain": "<p>Il faut <u>additionner</u> <u>l'aire du carr&eacute; et l'aire du triangle</u>.</p>\n<p>On a donc : A = 4 &times; 4 + 3 &times; 4/2<span class=\"s1\"><span class=\"Apple-converted-space\">&nbsp;= 16 + 6 = 32m&sup2;</span></span></p>",
+      "choices": [
+        "12m²",
+        "*22m²",
+        "16m²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/51.20"
+    }
+  ],
+  "pageCounter": 9,
+  "questionCounter": 20,
+  "theme": "mesure",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "chloe.lhoustau@centrale-marseille.fr"
+}

@@ -1,0 +1,231 @@
+{
+  "id": "math/29",
+  "title": "Nombre Relatifs : multiplication et division",
+  "pages": [
+    "math/29/1.htm",
+    "math/29/2.htm",
+    "math/29/3.htm",
+    "math/29/4.htm",
+    "math/29/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Si deux nombres relatifs sont de <u>m&ecirc;me signe</u>, quel sera le signe du <u>produit</u> de ces deux nombres ?</p>",
+      "choices": [
+        "*Positif",
+        "Négatif"
+      ],
+      "id": "math/29.2",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes si deux entiers relatifs sont de <u>m&ecirc;me signe</u> : soit (<u>+</u>) &times; (<u>+</u>) = (<u>+</u>), soit (<u>-</u>) &times; (<u>-</u>) = (<u>+</u>).</p>"
+    },
+    {
+      "question": "<p>Combien vaut le produit <u>5 &times; (-5)</u> ?</p>",
+      "choices": [
+        "-10",
+        "25",
+        "*-25",
+        "55"
+      ],
+      "id": "math/29.3",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes, (<u>+</u>) &times; (<u>-</u>) = (<u>-</u>) donc le r&eacute;sultat est <u>n&eacute;gatif</u>, et la valeur du produit vaut 5 &times; 5 = 25, donc le produit vaut <u>-25</u>.</p>"
+    },
+    {
+      "question": "<p>Combien vaut le quotient <u>-48 &divide; (-6)</u> ?</p>",
+      "choices": [
+        "-42",
+        "*8",
+        "-6",
+        "-8"
+      ],
+      "id": "math/29.4",
+      "explain": "<p>Sachant que 6 &times; 8 = 48, la valeur du r&eacute;sultat est 8. D'apr&egrave;s la r&egrave;gle des signes, (<u>-</u>) &divide; (<u>-</u>) = (<u>+</u>) donc le r&eacute;sultat est <u>+8</u>.</p>"
+    },
+    {
+      "question": "<p>Combien vaut le produit <u>-6 &times; (-10)</u> ?</p>",
+      "choices": [
+        "*60",
+        "16",
+        "-16",
+        "-60"
+      ],
+      "id": "math/29.5",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes, (<u>-</u>) &times; (<u>-</u>)= (<u>+</u>) donc le r&eacute;sultat est positif et la valeur du produit vaut 6 &times; 10 = 60, donc le r&eacute;sultat du produit vaut <u>+60</u>.</p>"
+    },
+    {
+      "question": "<p>Combien vaut le quotient <u>10 &divide; (-10)</u> ?</p>",
+      "choices": [
+        "1",
+        "10",
+        "*-1",
+        "0"
+      ],
+      "id": "math/29.6",
+      "explain": "<p>Sachant que 10 &divide; 10 = 1, la valeur du r&eacute;sultat est 1. D'apr&egrave;s la r&egrave;gle des signes, (<u>+</u>) &divide; (<u>-</u>) = (<u>-</u>) donc le r&eacute;sultat est <u>-1</u>.</p>"
+    },
+    {
+      "question": "<p>Que vaut le quotient <u>0 / 7</u> ?</p>",
+      "choices": [
+        "1",
+        "7",
+        "*0",
+        "Impossible de calculer"
+      ],
+      "id": "math/29.7",
+      "explain": "<p>Le nombre <u>0</u> divis&eacute; par n'importe quel nombre relatif non nul vaudra toujours <u>0</u>.</p>"
+    },
+    {
+      "question": "<p>Lequel de ces quotients est-il impossible de calculer ?</p>",
+      "choices": [
+        "5 ÷ 5",
+        "6 ÷ 1",
+        "0 ÷ 3",
+        "*4 ÷ 0"
+      ],
+      "id": "math/29.8",
+      "explain": "<p>Il est impossible de <u>diviser</u> un nombre relatif par <u>z&eacute;ro</u>.</p>"
+    },
+    {
+      "question": "<p>Que vaut <u>786 &divide; (-2)</u> ?</p>",
+      "choices": [
+        "*-393",
+        "393",
+        "784",
+        "788"
+      ],
+      "id": "math/29.9",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes, (<u>+</u>) &divide; (<u>-</u>) = (<u>-</u>) donc le r&eacute;sultat est <u>n&eacute;gatif</u>, et la valeur du produit vaut 786 &divide; 2 = 393, donc le r&eacute;sultat vaut <u>-393</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le signe de <u>254 760 &times; (-78 425)</u> ?</p>",
+      "choices": [
+        "*Négatif",
+        "Positif"
+      ],
+      "id": "math/29.10",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes, (<u>+</u>) &times; (<u>-</u>) = (<u>-</u>) donc le r&eacute;sultat est <u>n&eacute;gatif</u>.</p>"
+    },
+    {
+      "question": "<p>Que vaut <u>42 &times; 2</u> ?</p>",
+      "choices": [
+        "*84",
+        "-84",
+        "44",
+        "40"
+      ],
+      "id": "math/29.11",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes, (<u>+</u>) &times; (<u>+</u>) = (<u>+</u>) donc le r&eacute;sultat est <u>positif </u>et vaut <u>+84</u>.<u><br /></u></p>"
+    },
+    {
+      "question": "<p>Que vaut <u>25 &times; (-3)</u> ?</p>",
+      "choices": [
+        "-28",
+        "75",
+        "22",
+        "*-75"
+      ],
+      "id": "math/29.12",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes, (<u>+</u>) &times; (<u>-</u>) = (<u>-</u>) donc le r&eacute;sultat est <u>n&eacute;gatif</u>, et la valeur du produit vaut 25 &times; 3 = 75 donc le r&eacute;sultat vaut <u>-75</u>.</p>"
+    },
+    {
+      "question": "<p>Que vaut <u>-75 &divide; (-25)</u> ?</p>",
+      "choices": [
+        "50",
+        "-3",
+        "5",
+        "*3"
+      ],
+      "id": "math/29.13",
+      "explain": "<p>D'apr&egrave;s la r&egrave;gle des signes, (<u>-</u>) &divide; (<u>-</u>) = (<u>+</u>) donc le r&eacute;sultat est <u>positif</u> et la valeur du produit vaut 75 &divide; 25 = 3, donc le produit vaut <u>+3</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le signe du produit</p>\n<p><u>A = (-2) &times; 78 &times; (-4)</u> ?</p>",
+      "choices": [
+        "*Positif",
+        "Négatif",
+        "Le produit vaut 0"
+      ],
+      "id": "math/29.14",
+      "explain": "<p>Le produit A contient <u>2</u> facteurs n&eacute;gatifs (-2) et (-4).</p>\n<p>2 est un entier <u>pair</u></p>\n<p>donc le r&eacute;sultat est <u>positif</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le signe du produit <u>B = 6 &times; 7 &times; (-8) &times; 2 &times; (-16) &times; (-5)</u> ?</p>",
+      "choices": [
+        "Positif",
+        "*Négatif",
+        "Le produit vaut 0"
+      ],
+      "id": "math/29.15",
+      "explain": "<p>Le produit B contient <u>3</u> facteurs n&eacute;gatifs. 3 est un entier <u>impair</u> donc le r&eacute;sultat est <u>n&eacute;gatif</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le signe du produit <u>C = -5 &times; (-3) &times; (-86) &times; (-2) &times; (-8)</u> ?</p>",
+      "choices": [
+        "Positif",
+        "*Négatif",
+        "Le produit vaut 0"
+      ],
+      "id": "math/29.16",
+      "explain": "<p>Le produit C contient <u>5</u> facteurs n&eacute;gatifs. 5 est un entier <u>impair</u> donc le r&eacute;sultat est <u>n&eacute;gatif</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le signe du produit <u>D = 3 &times; (-5) &times; (-7) &times; 8 &times; 0</u> ?</p>",
+      "choices": [
+        "Positif",
+        "Négatif",
+        "*Le produit vaut 0"
+      ],
+      "id": "math/29.17",
+      "explain": "<p>Un des facteurs du produit D vaut <u>0</u> donc le produit vaudra forc&eacute;ment <u>0</u> !</p>"
+    },
+    {
+      "question": "<p>Quel est le signe du quotient <u>E = [4 &times; 2 &times; (-3)] &divide; [-6 &times; (-3) &times; (-5) &times; (-7)]</u> ?</p>",
+      "choices": [
+        "Positif",
+        "*Négatif",
+        "Le quotient vaut 0"
+      ],
+      "id": "math/29.18",
+      "explain": "<p>Le num&eacute;rateur est <u>n&eacute;gatif</u> car il contient 1 (impair) facteur n&eacute;gatif. Le d&eacute;nominateur est <u>positif </u>car il contient 4 (pair) facteurs n&eacute;gatifs. Puis d'apr&egrave;s la r&egrave;gle des signes, (<u>-</u>) &divide; (<u>+</u>) = (<u>-</u>) donc le r&eacute;sultat est <u>n&eacute;gatif</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le signe du quotient <u>F = [-5 &times; 8 &times; (-2) &times; (-3)] &divide; [2 &times; 5 &times; (-9) &times; 4]</u> ?</p>",
+      "choices": [
+        "*Positif",
+        "Négatif",
+        "Le quotient vaut 0"
+      ],
+      "id": "math/29.19",
+      "explain": "<p>Le num&eacute;rateur est <u>n&eacute;gatif</u> car il contient <u>3</u> (impair) facteurs n&eacute;gatifs. Le d&eacute;nominateur est aussi <u>n&eacute;gatif </u>car il contient <u>1</u> (impair) facteur n&eacute;gatif. Puis d'apr&egrave;s la r&egrave;gle des signes, (<u>-</u>) &divide; (<u>-</u>) = (<u>+</u>) donc le r&eacute;sultat est <u>positif</u>.</p>"
+    },
+    {
+      "question": "<p>Un vendeur de glaces vend <u>50 glaces</u> &agrave; <u>4 &euro;</u> chacune en une journ&eacute;e. Cependant, le <u>co&ucirc;t de production</u> de ses glaces est de <u>1 &euro;</u> par glace. Combien le vendeur de glaces a-t-il gagn&eacute; d'argent en une journ&eacute;e ? Choisis la <u>bonne expression</u>.</p>\n<p>Aide : Utiliser la formule \"<u>R&eacute;sultat = Ventes - Co&ucirc;ts de production</u>\"</p>",
+      "choices": [
+        "= 50 × 4 × 1",
+        "*= 50 × 4 - 50 × 1",
+        "= 50 × 1 - 50 × 4"
+      ],
+      "id": "math/29.20",
+      "explain": "<p>On effectue le calcul suivant :</p>\n<p>R&eacute;sultat = <u>Ventes</u> - <u>Co&ucirc;ts de production</u></p>\n<p>R&eacute;sultat = <u>50 &times; 4 </u>- <u>50 &times; 1</u></p>\n<p>R&eacute;sultat =<u>200</u> - <u>50</u></p>\n<p>R&eacute;sultat =<u>150</u>.</p>"
+    },
+    {
+      "question": "<p>J'ach&egrave;te au march&eacute; <u>20</u> <u>paniers</u> contenant <u>10</u> <u>pommes </u>chacun. Chaque pomme co&ucirc;te <u>2 &euro;</u>. Quel est le prix total ?</p>",
+      "choices": [
+        "200 €",
+        "*400 €",
+        "100 €",
+        "20 €"
+      ],
+      "id": "math/29.21",
+      "explain": "<p>On effectue le calcul :</p>\n<p><u>20 &times; 10 &times; 2 = 400 &euro;</u>.</p>"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 21,
+  "theme": "calcul",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexis.cunin@centrale-marseille.fr"
+}

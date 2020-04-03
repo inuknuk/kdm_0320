@@ -1,0 +1,183 @@
+{
+  "id": "math/06",
+  "title": "Pourcentages",
+  "pages": [
+    "math/06/1.htm",
+    "math/06/6.htm",
+    "math/06/2.htm",
+    "math/06/3.htm",
+    "math/06/5.htm",
+    "math/06/7.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Le prix d'un v&eacute;lo est <u>500 &euro;</u>. Cette semaine, le marchand le vend pour <u>400 &euro;</u>. Quel est le <span style=\"color: #2880b9;\">montant de la r&eacute;duction</span>?</p>",
+      "choices": [
+        "*500 - 400 = 100 €",
+        "500+400 = 900 €",
+        "100/500 = 0.2",
+        "100/500 = 20 %"
+      ],
+      "id": "math/06.1",
+      "explain": "<p>Le montant de la r&eacute;duction est la <span style=\"color: #e74c3c;\"><span style=\"color: #e67e23;\">diff&eacute;rence</span> </span>entre le<span style=\"color: #e67e23;\"> prix initial </span>et le <span style=\"color: #e67e23;\">prix r&eacute;duit.<br /></span>Soit&nbsp;<span style=\"color: #e67e23;\"> 500 - 400</span> = 100 &euro;</p>\n<p>Attention, c'est <strong>diff&eacute;rent</strong> du <strong>pourcentage</strong> de r&eacute;duction: 100 / 500 = 20% de r&eacute;duction</p>"
+    },
+    {
+      "question": "<p>Le prix d'un v&eacute;lo est de <span style=\"color: #3598db;\">500 &euro;</span>. Cette semaine, le marchand le vend pour <span style=\"color: #3598db;\">400 &euro;</span>. Quel est le <span style=\"color: #3598db;\">pourcentage de r&eacute;duction</span>?</p>",
+      "choices": [
+        "(500 - 400)  = 100 €",
+        "(500-400)/400 = 25%",
+        "(500+400)/500 = 180%",
+        "*(500-400)/500 = 20%"
+      ],
+      "id": "math/06.2",
+      "explain": "<p>On calcule d'abord <span style=\"color: #3598db;\">le montant de la r&eacute;duction en Euros</span>.<br />= 500 - 400 = 100 &euro;.</p>\n<p>Le montant de la r&eacute;duction est une <u>fraction du prix initial</u>.</p>\n<p>Pour calculer le pourcentage, j&rsquo;&eacute;cris la fraction et j'effectue la <u>division</u>. Puis j&rsquo;&eacute;cris le&nbsp;<u>nombre d&eacute;cimal</u>&nbsp;obtenu sous forme de&nbsp;<u>fraction sur 100</u>.</p>\n<p>100 &frasl; 500 = 0,2 = 20 &frasl; 100 = 20%</p>"
+    },
+    {
+      "question": "<p>Au supermarch&eacute;, il y a la promotion suivante:<br />4 plaquettes de chocolat <span style=\"color: #3598db;\">dont</span> 1 gratuite.<br />Cette promotion correspond &agrave; quel <span style=\"color: #3598db;\">pourcentage gratuit en plus</span>?</p>",
+      "choices": [
+        "*=1/3 = 33.33%",
+        "=1/4 = 25%",
+        "=1/5 = 20%",
+        "1 plaquette"
+      ],
+      "id": "math/06.3",
+      "explain": "<p>Le nombre initial de plaquettes est de 3.<br />On en donne 1 gratuite en plus de 3.<br />Le montant de l'augmentation est de 1 plaquette de plus par rapport &agrave; 3.<br />1 &frasl; 3 = 0,333... = 33,33... / 100 = 33,33%</p>"
+    },
+    {
+      "question": "<p>Durant les soldes, le prix d'une robe passe de 100 &agrave; 80 &euro;. Quel est le <span style=\"color: #3598db;\">pourcentage</span> de la remise?</p>",
+      "choices": [
+        "*(100 - 80) / 100 = 0,2 = 20%",
+        "= 80 / 100 = 0,8 = 80%",
+        "(100-80) / 80 = 0,25 = 25% "
+      ],
+      "id": "math/06.4",
+      "explain": "<p>Je calcule d'abord le <span style=\"color: #e67e23;\">montant de la remise</span><span style=\"color: #e74c3c;\"><br /></span>= 100 - 80 = 20 &euro;.</p>\n<p>Le % de remise est le <span style=\"color: #e67e23;\">montant de la remise <strong>divis&eacute;</strong>&nbsp;</span>par le<span style=\"color: #e67e23;\"> prix initial</span><span style=\"color: #e74c3c;\"><br /></span>20 / 100 = 0,2 = 20%</p>"
+    },
+    {
+      "question": "<p>Pour pr&eacute;parer un g&acirc;teau, il faut 200g de farine, 100g de beurre et 100g de lait. Quel est le pourcentage de beurre dans ce g&acirc;teau?</p>",
+      "choices": [
+        "*100 / (200+100+100) = 100/400 = 25%",
+        "200 / (200+100+100) = 200/400=50%",
+        "100 / (200 + 100 + 200) = 100/500 = 20%"
+      ],
+      "id": "math/06.5",
+      "explain": "<p>Je calcule d'abord le<span style=\"color: #e67e23;\"> poids total du g&acirc;teau</span><br />= 200+100+100 = 400g</p>\n<p>Le % de beurre dans le g&acirc;teau est le <span style=\"color: #e67e23;\">poids du beurre <strong>divis&eacute;</strong>&nbsp;par le poids total du g&acirc;teau</span><br />= 100 / 400 = 0.25 = 25%</p>"
+    },
+    {
+      "question": "<p>Aujourd'hui le prix de l'essence est 1,30 &euro; / litre. Il y a 3 mois il &eacute;tait de 1 &euro; / litre.</p>\n<p>Quel est le pourcentage d'augmentation de l'essence?</p>",
+      "choices": [
+        "*(1,3 - 1) / 1 = 0,3 /1 = 30%",
+        "(1,3 - 1) / 1,3 = 0,3 /1,3 = 23%",
+        "(1,3 + 1) / 1 = 2,3 /1 = 230%",
+        "(1,3 - 1) / 1 = 0,3 €"
+      ],
+      "id": "math/06.6",
+      "explain": "<p>Je calcule d'abord le<span style=\"color: #e67e23;\"> montant de l'augmentation du prix</span><br />= 1,3 - 1 = 0,3 &euro;/litre</p>\n<p>&nbsp;Le % d'augmentation est le <span style=\"color: #e67e23;\">montant de l'augmentation divis&eacute; par le prix initial</span><br />= 0,3 / 1 = 0,3 = 30%</p>"
+    },
+    {
+      "question": "<p>0,25 c'est</p>",
+      "choices": [
+        "*25%",
+        "0,25%",
+        "2.5%",
+        "250%"
+      ],
+      "id": "math/06.7",
+      "explain": "<p>C'est 25%, car</p>\n<p>25% = <span style=\"color: #e67e23;\">25 pourcent = 25 / 100</span> = 0,25</p>"
+    },
+    {
+      "question": "<p>1 c'est</p>",
+      "choices": [
+        "*100%",
+        "10%",
+        "1%"
+      ],
+      "id": "math/06.8",
+      "explain": "<p>C'est 100%, car</p>\n<p>100% = 100 pourcent = 100 / 100 = 1</p>"
+    },
+    {
+      "question": "<p>0,1 c'est</p>",
+      "choices": [
+        "*10%",
+        "1%",
+        "100%",
+        "0.1%"
+      ],
+      "id": "math/06.9",
+      "explain": "<p>C'est 10%, car</p>\n<p>10% = <span style=\"color: #e67e23;\">10 pourcent = 10 / 100</span> = 0,1</p>"
+    },
+    {
+      "question": "<p>Aujourd'hui le prix de l'essence est de 1,30 &euro; / litre. Il y a 3 mois il &eacute;tait de 1 &euro; / litre.</p>\n<p>Quel <span style=\"color: #3598db;\">sera le prix</span> de l'essence si elle <span style=\"color: #3598db;\">baisse de 10%</span>?</p>",
+      "choices": [
+        "*1,3 - (10/100*1,3) = 1,3 - 0,13 = 1,17 Eur",
+        "10/100*1,3 = 0,13 Euro",
+        "1,3 + (10/100*1,3) = 1,3 + 0,13 = 1,47 Eur"
+      ],
+      "id": "math/06.10",
+      "explain": "<p>Je calcule d'abord le<span style=\"color: #e67e23;\"> montant de baisse de prix de 10%</span> par rapport au<span style=\"color: #e67e23;\"> prix actuel </span>de 1,30 &euro;/ litre<br />= (10 &frasl; 100) &times; 1,30 = 0,13 &euro;</p>\n<p>Le nouveau prix est la <span style=\"color: #e67e23;\">diff&eacute;rence</span> entre le <span style=\"color: #e67e23;\">prix actuel</span> et la <span style=\"color: #e67e23;\">baisse de prix</span><br />= 1,3&nbsp; &minus; 0,13 = 1,17 &euro;</p>"
+    },
+    {
+      "question": "<p>L'effectif du club de football &eacute;tait de 350. Il a augment&eacute; de 10%.</p>\n<p>Quel est le nouvel effectif?</p>",
+      "choices": [
+        "*=350 + 350×(10/100) = 350 + 35=385",
+        "350 +10 = 360",
+        "350×(10/100) = 35",
+        "350 + 300×(10/100) = 350 + 30=380"
+      ],
+      "id": "math/06.11",
+      "explain": "<p>Je calcule <span style=\"color: #e67e23;\">d'abord l'augmentation</span>&nbsp;<br />=350&times;(10 &frasl; 100) = 35</p>\n<p>Le nouvel effectif est <span style=\"color: #e67e23;\">la somme</span> de <span style=\"color: #e67e23;\">l'effectif initial</span> plus <span style=\"color: #e67e23;\">l'augmentation</span><br />=350 + 35 = 385</p>"
+    },
+    {
+      "question": "<p><span style=\"color: #3598db;\">20%</span> des moutons d'un troupeau sont blancs. Le troupeau comporte exactement 40 moutons blancs.</p>\n<p>Combien y a-t-il de <span style=\"color: #3598db;\">moutons en tout</span>?</p>",
+      "choices": [
+        "*(40/20) * 100 = 2 * 100 = 200",
+        "(100-20)*40 = 80*40 = 320",
+        "(20/100)*40 = 0,2*40 = 8 "
+      ],
+      "id": "math/06.12",
+      "explain": "<p>Si 20% des moutons repr&eacute;sentent 40 moutons,<br /><span style=\"color: #e67e23;\">alors 1%</span> des moutons repr&eacute;sente<span style=\"color: #e67e23;\"> 20 fois moins</span>, soit 40/20 = 2 moutons<br />Donc 100% des moutons repr&eacute;sentent 100 fois plus<br />= 2 &times; 100 = 200 moutons</p>"
+    },
+    {
+      "question": "<p>Calculer 50 % de 50</p>",
+      "choices": [
+        "*(50/100)*50=(1/2)*50=25",
+        "50*50 = 2500",
+        "50+50=100"
+      ],
+      "id": "math/06.13",
+      "explain": "<p>Pour calculer le pourcentage d'un nombre, je <span style=\"color: #e67e23;\">multiplie</span> le <span style=\"color: #e67e23;\">nombre</span> par ce <span style=\"color: #e67e23;\">pourcentage</span>:<br />=(50 &frasl; 100) &times; 50 = 0.5 &times; 50 = 25</p>"
+    },
+    {
+      "question": "<p>4 &frasl; 5 correspond &agrave; quel pourcentage?</p>",
+      "choices": [
+        "*80%",
+        "70%",
+        "45%",
+        "75%"
+      ],
+      "id": "math/06.14",
+      "explain": "<p>4 &frasl; 5 = 4 &divide; 5 = 0,8 = 80 &frasl; 100</p>"
+    },
+    {
+      "question": "<p>Dans une bo&icirc;te, on a 6 boules blanches et 18 boules bleues. Quel est le pourcentage de boules blanches?</p>",
+      "choices": [
+        "*25%",
+        "30%",
+        "40%",
+        "35%"
+      ],
+      "id": "math/06.15",
+      "explain": "<p>Le nombre total de boules est: 6 + 18 = 24</p>\n<p>Le pourcentage de boules blanches est: 6 &frasl; 24 = 1 &frasl; 4 = 25%</p>"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 15,
+  "theme": "fonction",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

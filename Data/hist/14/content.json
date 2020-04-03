@@ -1,0 +1,288 @@
+{
+  "id": "hist/14",
+  "title": "Hitler & L'Allemagne Nazie",
+  "pages": [],
+  "questions": [
+    {
+      "question": "<p>&nbsp;Depuis les ann&eacute;es 1930, l'Allemagne connait...</p>",
+      "choices": [
+        "*La crise economique",
+        "La peur",
+        "La prosperite"
+      ],
+      "id": "hist/14.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui parvient au pouvoir de mani&egrave;re d&eacute;mocratique?</p>",
+      "choices": [
+        "*L'extreme droite",
+        "Les communistes",
+        "Le centre"
+      ],
+      "id": "hist/14.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est l'id&eacute;e maitresse du parti nazi?</p>",
+      "choices": [
+        "*La revanche sur la 1ere guerre mondiale",
+        "Maintenir la paix",
+        "Retablir la prosperite economique"
+      ],
+      "id": "hist/14.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que fait Hilter &agrave; son arriv&eacute;e au pouvoir?</p>",
+      "choices": [
+        "*Organise une repression",
+        "Signe un traite de paix",
+        "Organise des reformes economiques"
+      ],
+      "id": "hist/14.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>En quelle ann&eacute;e Hitler arrive t-il au pouvoir?</p>",
+      "choices": [
+        "*1933",
+        "1929",
+        "1935"
+      ],
+      "id": "hist/14.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que votent les d&eacute;put&eacute;s en mars 1933 ?</p>",
+      "choices": [
+        "*Les pleins pouvoirs à Hitler",
+        "La republique Germanique",
+        "Les accords de Berlin"
+      ],
+      "id": "hist/14.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que signifie les pleins pouvoirs d'Hilter?</p>",
+      "choices": [
+        "*La dictature",
+        "La paix",
+        "La democratie"
+      ],
+      "id": "hist/14.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qu'est ce que les SS?</p>",
+      "choices": [
+        "*La garde rapprochee d'Hitler",
+        "Des missiles Sol-Sol",
+        "La Securite Sociale"
+      ],
+      "id": "hist/14.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>&nbsp;'Que signifie la devise d'Hitler: ''<u>Ein volk, ein Reich, ein Fuhrer</u> '' ?'</p>",
+      "choices": [
+        "*Un peuple, un empire, un chef",
+        "Le pouvoir pour tous",
+        "Gloire à l'Allemagne"
+      ],
+      "id": "hist/14.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'adh&eacute;sion aux J<u>eunesses Hitl&eacute;riennes</u> est-elle obligatoire d&egrave;s 1936 et d&egrave;s 14ans?</p>",
+      "choices": [
+        "*Oui",
+        "Non",
+        "seulement pour les garcons"
+      ],
+      "id": "hist/14.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le fondement du r&eacute;gime nazi?</p>",
+      "choices": [
+        "*La race aryenne",
+        "Le capitalisme",
+        "Le communisme",
+        "La democratie"
+      ],
+      "id": "hist/14.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment qualifier l'id&eacute;ologie nazie?</p>",
+      "choices": [
+        "*Antisemite et raciste",
+        "Pacifique et tolerante",
+        "Autoritaire et bienveillante"
+      ],
+      "id": "hist/14.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le but du <u>Reich</u>?</p>",
+      "choices": [
+        "*La germanistation",
+        "La paix",
+        "Le commerce"
+      ],
+      "id": "hist/14.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle communaut&eacute; est victime du nazisme d&egrave;s 1933?</p>",
+      "choices": [
+        "*les Juifs",
+        "les Armeniens",
+        "Les Arabes"
+      ],
+      "id": "hist/14.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel secteur industriel est prioritaire pour l'Allemagne?</p>",
+      "choices": [
+        "*L'armement",
+        "L'agriculture",
+        "Les services"
+      ],
+      "id": "hist/14.15",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel pays est annex&eacute; en 1938 ?</p>",
+      "choices": [
+        "*L'Autriche",
+        "La Suisse",
+        "La Belgique",
+        "La Pologne"
+      ],
+      "id": "hist/14.16",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment s'est faite la venue au pouvoir d'Hitler?</p>",
+      "choices": [
+        "*Democratiquement",
+        "Par un coup d'etat",
+        "Par hasard"
+      ],
+      "id": "hist/14.17",
+      "explain": ""
+    },
+    {
+      "question": "<p>Dans quel livre Hitler explique il son idelogie?</p>",
+      "choices": [
+        "*Mein Kampf",
+        "Le petit livre rouge",
+        "Also sprach Karatoustra"
+      ],
+      "id": "hist/14.18",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les <u>lois de Nuremberg</u> en <u>1935</u> suppriment leurs droits ______ aux Juifs</p>",
+      "choices": [
+        "*politiques",
+        "economiques",
+        "religieux"
+      ],
+      "id": "hist/14.19",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les Juifs sont <u>d&eacute;port&eacute;s</u> dans des camps _________</p>",
+      "choices": [
+        "*d'extermination",
+        "de regroupement",
+        "de travail forcé"
+      ],
+      "id": "hist/14.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le parti Nazi veut conquerir&nbsp; ______ a l'Est de l'Allemagne</p>",
+      "choices": [
+        "*un espace vital",
+        "un territoire"
+      ],
+      "id": "hist/14.21",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'unique parti politique autorise en l'Allemagne est le&nbsp;</p>",
+      "choices": [
+        "*NSDAP",
+        "OTAN",
+        "RATP",
+        "SS"
+      ],
+      "id": "hist/14.22",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>La nuit de cristal</u> en Nov 1938 est</p>",
+      "choices": [
+        "*massacre collectif des Juifs",
+        "grand discours d'Hitler",
+        "l'annexion de l'Autriche"
+      ],
+      "id": "hist/14.23",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qu'est qu'un <u>pogrom</u>?</p>",
+      "choices": [
+        "*massacre des Juifs",
+        "fete religieuse",
+        "gateau traditionnel bavarois"
+      ],
+      "id": "hist/14.24",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le parti Nazi brule les livres (<u>autodafe</u>) et <u>censure</u> les medias</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "hist/14.25",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le nom du genocide Juif?</p>",
+      "choices": [
+        "* La Shoah",
+        "l'Anschluss",
+        "le Shabbat",
+        "L'Alyah"
+      ],
+      "id": "hist/14.26",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le genocide orchestre par les Nazis a fait plus de ______ de morts.</p>",
+      "choices": [
+        "*5 millions",
+        "1 million",
+        "50 Millions"
+      ],
+      "id": "hist/14.27",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 0,
+  "questionCounter": 27,
+  "warning": "1",
+  "theme": "8",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

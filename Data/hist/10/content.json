@@ -1,0 +1,294 @@
+{
+  "id": "hist/10",
+  "title": "1ere Guerre Mondiale",
+  "pages": [
+    "hist/10/1.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quels pays forment la <u>Triple Entente</u>?</p>",
+      "choices": [
+        "Allemagne, Autriche-Hongrie, Italie",
+        "*Angleterre, France, Russie",
+        "Belgique, Serbie, Russie"
+      ],
+      "id": "hist/10.1",
+      "explain": "<p><span style=\"color: #e74c3c;\">En</span>tente comme <span style=\"color: #e74c3c;\">An</span>gleterre</p>"
+    },
+    {
+      "question": "<p>Quel &eacute;v&eacute;nement marque le d&eacute;but de la Grande Guerre ?</p>",
+      "choices": [
+        "*L'assassinat de l'heritier au trone de l'Autriche-Hongrie",
+        "l'invasion de la Pologne",
+        "Des rivalites coloniales"
+      ],
+      "id": "hist/10.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qu&rsquo;est-ce qu&rsquo;un <u>poilu</u> dans la 1ere guerre mondiale?</p>",
+      "choices": [
+        "*Un soldat Francais",
+        "un soldat Britannique",
+        "un type d'obus"
+      ],
+      "id": "hist/10.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pendant la <u>guerre de position</u>, les combattants</p>",
+      "choices": [
+        "*s'enterrent dans les tranchees",
+        "font avancer le front",
+        "s'espionnent"
+      ],
+      "id": "hist/10.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quels pays forment la <u>Triple Alliance</u>?</p>",
+      "choices": [
+        "*Allemagne, Autriche-Hongrie, Italie",
+        "Angleterre, France, Russie",
+        "Belgique, Serbie, Russie"
+      ],
+      "id": "hist/10.5",
+      "explain": "<p><span style=\"color: #e74c3c;\">Alli</span>ance comme <span style=\"color: #e74c3c;\">All</span>emagne</p>"
+    },
+    {
+      "question": "<p>Quelle <u>nouvelle arme</u> terrible a ete introduit pendant la 1ere guerre mondiale?</p>",
+      "choices": [
+        "*Les gaz",
+        "La bombe atomique",
+        "l'artillerie lourde"
+      ],
+      "id": "hist/10.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel <u>parti politique</u> arrive au pouvoir en Russie en 1917?</p>",
+      "choices": [
+        "*le parti bolchevique",
+        "le parti nazi",
+        "le parti fascite",
+        "le parti stalinien"
+      ],
+      "id": "hist/10.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle population a ete <u>exterminee</u> dans l'<u>empire Ottoman</u>?</p>",
+      "choices": [
+        "*Les Armeniens",
+        "les Juifs",
+        "les Grecs",
+        "les Croates"
+      ],
+      "id": "hist/10.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>En quelle annee se termine la premiere guerre mondiale?</p>",
+      "choices": [
+        "*1918",
+        "1919",
+        "1945",
+        "1914"
+      ],
+      "id": "hist/10.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel <u>traite</u> est signe en <u>Juin 1919</u>?</p>",
+      "choices": [
+        "*Le traite de Versailles",
+        "le traite de Paris",
+        "le traite de Moscou"
+      ],
+      "id": "hist/10.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel evenement <u>favorable</u> aux <u>Francais</u> se passe en <u>1917</u>?</p>",
+      "choices": [
+        "*L'entree en guerre des Etats-Unis",
+        "Le retrait de la Russie",
+        "La mutinerie des soldats francais"
+      ],
+      "id": "hist/10.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel evenement <u>favorable</u> aux Allemands (Triple Alliance) se passe en <u>1917</u>?</p>",
+      "choices": [
+        "L'entree en guerre des Etats-Unis",
+        "*Le retrait de la Russie"
+      ],
+      "id": "hist/10.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qu&rsquo;est-ce qui a &eacute;t&eacute; cr&eacute;&eacute; apr&egrave;s la Premi&egrave;re Guerre mondiale pour maintenir la paix ?</p>",
+      "choices": [
+        "*La SDN",
+        "l'ONU",
+        "l'OTAN"
+      ],
+      "id": "hist/10.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>en 1914, la majorite des Francais pensaient que la guerre allait durer</p>",
+      "choices": [
+        "*2 mois",
+        "2 ans",
+        "4 ans"
+      ],
+      "id": "hist/10.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Dans quelle ville l&rsquo;archiduc h&eacute;ritier d&rsquo;Autriche-Hongrie fut-il assassin&eacute; ?</p>",
+      "choices": [
+        "*Sarajevo",
+        "Vienne",
+        "Berlin"
+      ],
+      "id": "hist/10.15",
+      "explain": ""
+    },
+    {
+      "question": "<p>En 1914, la France a declare la guerre a l'Allemagne?</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "hist/10.16",
+      "explain": "<p>C'est Allemange qui declare la premiere a la guerre a la France.</p>"
+    },
+    {
+      "question": "<p>Comment s'appelle l'heritier au trone d'Autriche-Hongrie qui est assassine en 1914?</p>",
+      "choices": [
+        "*Francois-Ferdinand",
+        "Bismark",
+        "Nicolas II",
+        "Lenine"
+      ],
+      "id": "hist/10.17",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la <u>raison profonde</u> qui declenche la 1ere guerre mondiale?</p>",
+      "choices": [
+        "*L'imperialisme",
+        "L'assasinat de Francois Ferdinand",
+        "L'antisemitisme"
+      ],
+      "id": "hist/10.18",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est <u>l'engrennage</u> qui conduit a une guerre entre tous les pays Europeens suite a la declaration de guerre de l'Autriche-Hongrie a la Serbie?</p>",
+      "choices": [
+        "*Le jeu des alliances",
+        "La diplomacie",
+        "Le manque de ressources"
+      ],
+      "id": "hist/10.19",
+      "explain": ""
+    },
+    {
+      "question": "<p>Entre <u>Aout et Decembre 1914</u>, la guerre entre la France et l'Allemgagne est une</p>",
+      "choices": [
+        "*guerre de mouvement",
+        "guerre de position",
+        "guerre psychologique",
+        "guerre froide"
+      ],
+      "id": "hist/10.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>Entre <u>Decembre 1914 et Mars 1918</u>, la guerre entre la France et l'Allemgagne est une</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "guerre de mouvement",
+        "*guerre de position",
+        "guerre psychologique"
+      ],
+      "id": "hist/10.21",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est l'evement clef qui permet au Francais et Anglais de gagner la 1ere guerre mondiale?</p>",
+      "choices": [
+        "*L'entree en guerre des Etats-Unis",
+        "La revolution bolchevique en Russie",
+        "La lassitude des soldats Allemands"
+      ],
+      "id": "hist/10.22",
+      "explain": ""
+    },
+    {
+      "question": "<p>Ou est signee&nbsp; l'armistice en 1918?</p>",
+      "choices": [
+        "*Rethondes",
+        "Versailles",
+        "Paris",
+        "Berlin"
+      ],
+      "id": "hist/10.23",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la date de l'armistice ?</p>",
+      "choices": [
+        "*11 Novembre 1918",
+        "3 Novembre 1918",
+        "28 Juin 1919"
+      ],
+      "id": "hist/10.24",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pendant la <u>guerre de position,</u> les soldats se cachent dans</p>",
+      "choices": [
+        "*des tranchees",
+        "des bunkers",
+        "sous terre",
+        "abris anti-atomique"
+      ],
+      "id": "hist/10.25",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle grande bataille a eu lieu pendant la <u>guerre de mouvement</u> en 1914?</p>",
+      "choices": [
+        "*La bataille de la Marne",
+        "La bataille de Verdun",
+        "La bataille d'Austerlitz",
+        "La bataille de la Somme"
+      ],
+      "id": "hist/10.26",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle grande bataille a eu lieu pendant la <u>guerre de position</u> en 1916 et a dure 10 mois?</p>",
+      "choices": [
+        "La bataille de la Marne",
+        "*La bataille de Verdun",
+        "La bataille d'Austerlitz"
+      ],
+      "id": "hist/10.27",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 1,
+  "questionCounter": 27,
+  "warning": "1",
+  "theme": "8",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

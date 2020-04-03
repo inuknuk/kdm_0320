@@ -1,0 +1,284 @@
+{
+  "id": "sci/37",
+  "title": "Modèle atomique et tableau périodique",
+  "pages": [
+    "sci/37/1.htm",
+    "sci/37/2.htm",
+    "sci/37/3.htm",
+    "sci/37/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quelle est la dimension du nuage &eacute;lectronique d'un atome?</p>",
+      "explain": "",
+      "choices": [
+        "*$$10^{-10}\\text{m}$$",
+        "$$10^{-15}\\text{m}$$",
+        "$$10^{-20}\\text{m}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.1"
+    },
+    {
+      "question": "<p>Le noyau d'un atome est compos&eacute; de:</p>",
+      "explain": "",
+      "choices": [
+        "Protons",
+        "*Protons et Neutrons",
+        "Protons et électrons",
+        "Electrons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.2"
+    },
+    {
+      "question": "<p>Quelle est la dimension du noyau d'un atome?</p>",
+      "explain": "",
+      "choices": [
+        "$$10^{-10}\\text{m}$$",
+        "*$$10^{-15}\\text{m}$$",
+        "$$10^{-20}\\text{m}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.3"
+    },
+    {
+      "question": "<p>Si Me est la masse d'un &eacute;lectron et Mp la masse d'un proton alors</p>",
+      "explain": "",
+      "choices": [
+        "Me = 2000 × Mp",
+        "*Mp=2000 × Me",
+        "Mp= 10 × Me",
+        "Me=10 × Mp"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.4"
+    },
+    {
+      "question": "<p>Les &eacute;lectrons et les protons ont</p>",
+      "explain": "<p>Si Mp est la masse du proton et Me la masse de l'&eacute;lectron, Mp= 2000xMe.</p>\n<p>De plus, les charges des protons et des &eacute;lectrons sont oppos&eacute;es (de signe contraire).</p>",
+      "choices": [
+        "Même charge et même masse",
+        "Même charge mais pas même masse",
+        "Même masse mais pas même charge",
+        "*Ni même masse ni même charge"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.5"
+    },
+    {
+      "question": "<p>Les neutrons</p>",
+      "explain": "<p>Comme leur nom l'indique, les neutrons n'ont pas de charge &eacute;lectrique.</p>\n<p>Leur charge electrique est nulle.</p>\n<p>Note : ils ont par contre la m&ecirc;me masse qu'un proton.</p>",
+      "choices": [
+        "Ont une masse négligeable",
+        "*Ont une charge nulle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.6"
+    },
+    {
+      "question": "<p>Le <u>nombre de masses A</u> d'un atome, c'est:</p>",
+      "explain": "<p>Les nucl&eacute;ons sont les protons + les neutrons.</p>\n<p>Les protons et les neutrons ayant la m&ecirc;me masse, on d&eacute;finit le nombre de masses comme le nombre de nucl&eacute;ons.</p>",
+      "choices": [
+        "*Son nombre de nucléons",
+        "Son nombre de protons",
+        "Son nombre de neutrons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.7"
+    },
+    {
+      "question": "<p>Le <u>nombre de charges Z</u> (ou num&eacute;ro atomique) d'un atome, c'est:</p>",
+      "explain": "<p>Les protons sont charg&eacute;s positivement. Pour assurer la neutralit&eacute; &eacute;l&eacute;ctronique de l'atome, il y a le m&ecirc;me nombre de protons que d'&eacute;lectrons.</p>\n<p>Donc Z = nombre de protons = nombre d'&eacute;lectrons&nbsp;</p>",
+      "choices": [
+        "Son nombre de nucléons",
+        "*Son nombre de protons",
+        "Son nombre de neutrons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.8"
+    },
+    {
+      "question": "<p>Un atome est caract&eacute;ris&eacute; par:&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "Z son nombre de charges",
+        "A son nombre de masses",
+        "*Z et A"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.9"
+    },
+    {
+      "question": "<p>Un &eacute;l&eacute;ment est caract&eacute;ris&eacute; par:&nbsp;</p>",
+      "explain": "<p>Atome et &eacute;l&eacute;ment chimique sont donc bien deux notions diff&eacute;rentes.</p>",
+      "choices": [
+        "*Z son nombre de charges",
+        "A son nombre de masses",
+        "Z et A"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.10"
+    },
+    {
+      "question": "<p>Dans la <u>classification p&eacute;riodique</u>, les &eacute;l&eacute;ments sont rang&eacute;s par:</p>",
+      "explain": "",
+      "choices": [
+        "Nombre de masses A croissant",
+        "*Nombre de charges Z croissant",
+        "Nombre de masses A décroissant",
+        "Nombre de charges Z décroissant",
+        "Ordre alphabétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.11"
+    },
+    {
+      "question": "<p>Dans la <u>classification p&eacute;riodique</u>, une p&eacute;riode est:</p>",
+      "explain": "",
+      "choices": [
+        "Une colonne",
+        "*Une ligne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.12"
+    },
+    {
+      "question": "<p>On trouve les familles d'&eacute;l&eacute;ments chimiques selon:</p>",
+      "explain": "<p>Les familles d'&eacute;l&eacute;ments chimiques regroupent des &eacute;l&eacute;ments qui ont des propri&eacute;t&eacute;s similaires.</p>\n<p>Les propri&eacute;t&eacute;s des &eacute;l&eacute;ments sont li&eacute;s au nombre d'&eacute;l&eacute;ctrons pr&eacute;sents sur leur couche externe.&nbsp;</p>\n<p>Pour une m&ecirc;me colonne, il y a le m&ecirc;me nombre d'&eacute;lectrons sur la couche de valence.</p>\n<p>Les familles se trouvent donc bien suivant des colonnes de la classification.</p>",
+      "choices": [
+        "Les lignes",
+        "*Les colonnes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.13"
+    },
+    {
+      "question": "<p>Tous les &eacute;l&eacute;ments chimiques r&eacute;pertori&eacute;s dans la classification sont naturels.</p>",
+      "explain": "<p>C'est faux: certains &eacute;l&eacute;ments sont synth&eacute;tis&eacute;s en laboratoire et ont une dur&eacute;e de vie tr&egrave;s courte.</p>\n<p>Ils sont introuvables dans la nature.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.14"
+    },
+    {
+      "question": "<p>Le num&eacute;ro de ligne d'un &eacute;l&eacute;ment dans la classification p&eacute;riodique indique:</p>",
+      "explain": "",
+      "choices": [
+        "Le nombre d'électrons présents sur sa couche externe",
+        "Son nombre total d'électrons",
+        "*Le nombre de couches électroniques entourant le noyau"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.15"
+    },
+    {
+      "question": "<p>Le Carbone C poss&egrave;de 4 &eacute;lectrons sur sa couche externe, ce qui veut dire qu'il appartient &agrave;</p>",
+      "explain": "",
+      "choices": [
+        "la 4ème période de la classification",
+        "*la 4ème colonne de la classification"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.16"
+    },
+    {
+      "question": "<p>Le lithium Li poss&egrave;de 3 &eacute;lectrons: 2 sur sa couche interne et 1 sur sa couche externe. Il se trouve donc:</p>",
+      "explain": "<p>Le lithium poss&egrave;de deux couches &eacute;lectroniques: il appartient donc &agrave; la 2&egrave;me p&eacute;riode.</p>\n<p>De plus, un seul &eacute;lectron occupe sa couche externe: Li appartient donc &agrave; la 1&egrave;re colonne.</p>",
+      "choices": [
+        "En 3ème période, 1ère colonne",
+        "En 1ère période, 3ème colonne",
+        "En 1ère période, 2ème colonne",
+        "*En 2ème période, 1ère colonne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.17"
+    },
+    {
+      "question": "<p>Le fluor F poss&egrave;de 3 &eacute;lectrons de plus que le carbone C, il se trouve donc:</p>",
+      "explain": "<p>Le remplissage de la classification se fait de gauche &agrave; droite, par num&eacute;ro atomique Z croissant (donc nombre d'&eacute;lectrons croissant).</p>",
+      "choices": [
+        "3 lignes en dessous de C",
+        "*3 colonnes après C"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.18"
+    },
+    {
+      "question": "<p>Le bore B poss&egrave;de 3 &eacute;lectrons de valence (&eacute;lectrons de la couche externe), ce qui signifie que:</p>",
+      "explain": "<p>La premi&egrave;re affirmation est fausse: il appartient &agrave; la 3&egrave;me <u>colonne</u>.</p>\n<p>Le nombre d'&eacute;lectrons de valence donne (en g&eacute;n&eacute;ral, et pour les premiers &eacute;l&eacute;ments de la classification) le nombre d'&eacute;lectrons qu'un atome peut engager dans des liasons.</p>",
+      "choices": [
+        "Il appartient à la 3ème période",
+        "*Il ne peut faire que 3 liaisons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.19"
+    },
+    {
+      "question": "<p>La classification permet &agrave; elle seule de savoir si un &eacute;l&eacute;ment est &eacute;lectron&eacute;gatif, oxydant ou r&eacute;ducteur...</p>",
+      "explain": "<p>C'est vrai! C'est tout ce qui fait la puissance de cet outil en chimie.&nbsp;</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.20"
+    },
+    {
+      "question": "<p>Un&nbsp;<u>atome</u>&nbsp;possede 12&nbsp;<u>protons</u>&nbsp;et 13&nbsp;<u>neutrons</u>.</p>\n<p>Donc il poss&egrave;de</p>",
+      "explain": "<p>Un atome poss&egrave;de autant d'&eacute;lectrons que de protons.</p>\n<p>12 protons donc 12 &eacute;lectrons</p>",
+      "choices": [
+        "*12 électrons",
+        "13 électrons",
+        "1 électron",
+        "25 électrons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.21"
+    },
+    {
+      "question": "<p>Un&nbsp;<u>atome</u>&nbsp;poss&egrave;de 12&nbsp;<u>protons</u>&nbsp;et 13&nbsp;<u>neutrons</u>.</p>\n<p>Donc il poss&egrave;de</p>",
+      "explain": "<p>Le nombre de nucl&eacute;ons et la somme des protons + neutrons.</p>\n<p>donc 12 + 13 = 25 nucl&eacute;ons</p>",
+      "choices": [
+        "12 nucléons",
+        "13 nucléons",
+        "1 nucléon",
+        "*25 nucléons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/37.22"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 22,
+  "theme": "1",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "julie.mariettaaleina@gmail.com"
+}

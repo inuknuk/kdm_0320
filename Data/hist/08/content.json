@@ -1,0 +1,151 @@
+{
+  "id": "hist/08",
+  "title": "La guerre de 100 ans",
+  "pages": [
+    "hist/08/1.htm",
+    "hist/08/2.htm",
+    "hist/08/3.htm",
+    "hist/08/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quand commence la guerre de 100 ans?</p>",
+      "choices": [
+        "897",
+        "1412",
+        "*1337"
+      ],
+      "id": "hist/08.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Combien de temps a dur&eacute; la guerre de cent ans?</p>",
+      "choices": [
+        "100 ans",
+        "90 ans",
+        "*plus de 100 ans"
+      ],
+      "id": "hist/08.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>La <u>guerre de 100 ans</u> oppose qui contre qui?</p>",
+      "choices": [
+        "*Francais contre Anglais",
+        "Francais contre Allemenands",
+        "Le roi contre les seigneurs"
+      ],
+      "id": "hist/08.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pourquoi la guerre a-t-elle &eacute;t&eacute; d&eacute;clench&eacute;e?</p>",
+      "choices": [
+        "*Charles IV n'avait pas d'heritier",
+        "Les Anglais voulaient envahir la France"
+      ],
+      "id": "hist/08.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui est <u>Jeanne d'Arc</u>?</p>",
+      "choices": [
+        "*une paysane",
+        "une noble",
+        "une nonne"
+      ],
+      "id": "hist/08.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui Jeanne d'Arc reconnait elle &agrave; Chinon?</p>",
+      "choices": [
+        "*Charles VII",
+        "Charles VIII",
+        "Louis XI",
+        "Philippe Auguste"
+      ],
+      "id": "hist/08.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Dans quelle ville Jeanne d'Arc reconnait elle le roi?</p>",
+      "choices": [
+        "*Chinon",
+        "Reims",
+        "Amboise",
+        "Paris",
+        "Rouen"
+      ],
+      "id": "hist/08.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Jeanne d'Arc &eacute;tait-elle une femme chevalier?</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "id": "hist/08.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qu'arrive t-il &agrave; Jeanne d'Arc &agrave; la fin?</p>",
+      "choices": [
+        "*meurt brulee",
+        "meurt a la guerre",
+        "epouse le roi",
+        "devient duchesse"
+      ],
+      "id": "hist/08.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Jeanne d'Arc aide <u>Charles VII</u> &agrave;:</p>",
+      "choices": [
+        "*se faire sacrer roi",
+        "s’échapper de prison"
+      ],
+      "id": "hist/08.10",
+      "explain": "<p>Jeanne d'Arc aide le dauphin Charles VII a se faire sacre roi a Reims en 1419</p>"
+    },
+    {
+      "question": "<p>Dans quelle ville Jeanne d'Arc meurt?</p>",
+      "choices": [
+        "*Rouen",
+        "Chinon",
+        "Reims",
+        "Tours"
+      ],
+      "id": "hist/08.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>De quoi est accus&eacute;e Jeanne d'Arc par les anglais lors de son proc&egrave;s?</p>",
+      "choices": [
+        "*d'heresie",
+        "de trahison"
+      ],
+      "id": "hist/08.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui remporte la <u>guerre de cent ans</u>?</p>",
+      "choices": [
+        "*Le royaume de France",
+        "Le royaume d'Angleterre",
+        "le duche de Bourgogne"
+      ],
+      "id": "hist/08.16",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 16,
+  "theme": "2",
+  "level": [
+    "5"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

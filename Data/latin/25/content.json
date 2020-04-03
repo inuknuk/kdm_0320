@@ -1,0 +1,61 @@
+{
+  "id": "latin/25",
+  "title": "La 2eme declinaison (puer)",
+  "pages": [
+    "latin/25/1.htm",
+    "latin/25/2.htm",
+    "latin/25/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "Le nominatif singulier de puer est",
+      "choices": [
+        "*puer",
+        "puerum",
+        "puerus",
+        "puera"
+      ],
+      "id": "latin/25.1"
+    },
+    {
+      "question": "L'accusatif singulier de puer est",
+      "choices": [
+        "puer",
+        "*puerum",
+        "pueri",
+        "pueram"
+      ],
+      "id": "latin/25.2"
+    },
+    {
+      "question": "Le Vocatif singulier de puer est",
+      "choices": [
+        "*puer",
+        "puere",
+        "puerum",
+        "pueram"
+      ],
+      "id": "latin/25.3"
+    },
+    {
+      "question": "Le Genitif Singulier de puer est",
+      "choices": [
+        "*pueri",
+        "puero",
+        "puerorum",
+        "puerae"
+      ],
+      "id": "latin/25.4"
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 4,
+  "warning": "1",
+  "theme": "declinaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

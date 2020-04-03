@@ -1,0 +1,413 @@
+{
+  "id": "latin/53",
+  "title": "Voca 4 : Noms",
+  "editor": "tbrethes@gmail.com",
+  "pages": [],
+  "questions": [
+    {
+      "question": "Filius, filii, m.",
+      "explain": "",
+      "choices": [
+        "*fils",
+        "projet, résolution",
+        "mari",
+        "injustice"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.1"
+    },
+    {
+      "question": "Injuria, injuriae, f.",
+      "explain": "",
+      "choices": [
+        "*injustice",
+        "orgueil, arrogance",
+        "roi",
+        "épouse"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.2"
+    },
+    {
+      "question": "Vitium, vitii, n.",
+      "explain": "",
+      "choices": [
+        "*vice, défaut",
+        "injustice",
+        "roi",
+        "épouse"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.3"
+    },
+    {
+      "question": "Causa, causae, f.",
+      "explain": "",
+      "choices": [
+        "*motif, cause",
+        "vice, défaut",
+        "fils",
+        "consul"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.4"
+    },
+    {
+      "question": "Uxor, uxoris, f.",
+      "explain": "",
+      "choices": [
+        "*épouse",
+        "orgueil, arrogance",
+        "ami",
+        "mari"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.5"
+    },
+    {
+      "question": "Amicus, amici, m.",
+      "explain": "",
+      "choices": [
+        "*ami",
+        "mari",
+        "vice, défaut",
+        "orgueil, arrogance"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.6"
+    },
+    {
+      "question": "Rex, regis, m.",
+      "explain": "",
+      "choices": [
+        "*roi",
+        "injustice",
+        "consul",
+        "vice, défaut"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.7"
+    },
+    {
+      "question": "Consul, consulis, m.",
+      "explain": "",
+      "choices": [
+        "*consul",
+        "projet, résolution",
+        "orgueil, arrogance",
+        "mari"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.8"
+    },
+    {
+      "question": "Maritus, mariti, m.",
+      "explain": "",
+      "choices": [
+        "*mari",
+        "fils",
+        "roi",
+        "consul"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.9"
+    },
+    {
+      "question": "Superbia, superbiae, f.",
+      "explain": "",
+      "choices": [
+        "*orgueil, arrogance",
+        "ami",
+        "épouse",
+        "projet, résolution"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.10"
+    },
+    {
+      "question": "Consilium, consilii, n.",
+      "explain": "",
+      "choices": [
+        "*projet, résolution",
+        "vice, défaut",
+        "consul",
+        "injustice"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.11"
+    },
+    {
+      "question": "fils",
+      "explain": "",
+      "choices": [
+        "*Filius, filii, m.",
+        "Rex, regis, m.",
+        "Uxor, uxoris, f.",
+        "Amicus, amici, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.12"
+    },
+    {
+      "question": "injustice",
+      "explain": "",
+      "choices": [
+        "*Injuria, injuriae, f.",
+        "Uxor, uxoris, f.",
+        "Amicus, amici, m.",
+        "Filius, filii, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.13"
+    },
+    {
+      "question": "vice, défaut",
+      "explain": "",
+      "choices": [
+        "*Vitium, vitii, n.",
+        "Filius, filii, m.",
+        "Injuria, injuriae, f.",
+        "Rex, regis, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.14"
+    },
+    {
+      "question": "motif, cause",
+      "explain": "",
+      "choices": [
+        "*Causa, causae, f.",
+        "Uxor, uxoris, f.",
+        "Vitium, vitii, n.",
+        "Consilium, consilii, n."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.15"
+    },
+    {
+      "question": "épouse",
+      "explain": "",
+      "choices": [
+        "*Uxor, uxoris, f.",
+        "Superbia, superbiae, f.",
+        "Injuria, injuriae, f.",
+        "Vitium, vitii, n."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.16"
+    },
+    {
+      "question": "ami",
+      "explain": "",
+      "choices": [
+        "*Amicus, amici, m.",
+        "Filius, filii, m.",
+        "Maritus, mariti, m.",
+        "Superbia, superbiae, f."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.17"
+    },
+    {
+      "question": "roi",
+      "explain": "",
+      "choices": [
+        "*Rex, regis, m.",
+        "Uxor, uxoris, f.",
+        "Causa, causae, f.",
+        "Consilium, consilii, n."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.18"
+    },
+    {
+      "question": "consul",
+      "explain": "",
+      "choices": [
+        "*Consul, consulis, m.",
+        "Uxor, uxoris, f.",
+        "Filius, filii, m.",
+        "Maritus, mariti, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.19"
+    },
+    {
+      "question": "mari",
+      "explain": "",
+      "choices": [
+        "*Maritus, mariti, m.",
+        "Consul, consulis, m.",
+        "Causa, causae, f.",
+        "Consilium, consilii, n."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.20"
+    },
+    {
+      "question": "orgueil, arrogance",
+      "explain": "",
+      "choices": [
+        "*Superbia, superbiae, f.",
+        "Maritus, mariti, m.",
+        "Rex, regis, m.",
+        "Vitium, vitii, n."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.21"
+    },
+    {
+      "question": "projet, résolution",
+      "explain": "",
+      "choices": [
+        "*Consilium, consilii, n.",
+        "Vitium, vitii, n.",
+        "Injuria, injuriae, f.",
+        "Causa, causae, f."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.22"
+    },
+    {
+      "question": "fils",
+      "explain": "",
+      "choices": [
+        "*Filius, filii, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.23"
+    },
+    {
+      "question": "injustice",
+      "explain": "",
+      "choices": [
+        "*Injuria, injuriae, f."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.24"
+    },
+    {
+      "question": "vice, défaut",
+      "explain": "",
+      "choices": [
+        "*Vitium, vitii, n."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.25"
+    },
+    {
+      "question": "motif, cause",
+      "explain": "",
+      "choices": [
+        "*Causa, causae, f."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.26"
+    },
+    {
+      "question": "épouse",
+      "explain": "",
+      "choices": [
+        "*Uxor, uxoris, f."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.27"
+    },
+    {
+      "question": "ami",
+      "explain": "",
+      "choices": [
+        "*Amicus, amici, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.28"
+    },
+    {
+      "question": "roi",
+      "explain": "",
+      "choices": [
+        "*Rex, regis, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.29"
+    },
+    {
+      "question": "consul",
+      "explain": "",
+      "choices": [
+        "*Consul, consulis, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.30"
+    },
+    {
+      "question": "mari",
+      "explain": "",
+      "choices": [
+        "*Maritus, mariti, m."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.31"
+    },
+    {
+      "question": "orgueil, arrogance",
+      "explain": "",
+      "choices": [
+        "*Superbia, superbiae, f."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.32"
+    },
+    {
+      "question": "projet, résolution",
+      "explain": "",
+      "choices": [
+        "*Consilium, consilii, n."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/53.33"
+    }
+  ],
+  "pageCounter": 0,
+  "questionCounter": 33,
+  "warning": "1",
+  "theme": "declinaison",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

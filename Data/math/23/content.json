@@ -1,0 +1,238 @@
+{
+  "id": "math/23",
+  "title": "Angles particuliers",
+  "pages": [
+    "math/23/2.htm",
+    "math/23/7.htm",
+    "math/23/6.htm",
+    "math/23/4.htm",
+    "math/23/8.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un angle qui fait 176&deg; est un angle</p>",
+      "choices": [
+        "*obtus",
+        "droit",
+        "plat",
+        "aigu"
+      ],
+      "id": "math/23.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un angle qui fait 76&deg; est un angle</p>",
+      "choices": [
+        "obtus",
+        "droit",
+        "plat",
+        "*aigu"
+      ],
+      "id": "math/23.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un angle qui fait 180&deg; est un angle</p>",
+      "choices": [
+        "obtus",
+        "droit",
+        "*plat",
+        "aigu"
+      ],
+      "id": "math/23.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un angle qui fait 90&deg; est un angle</p>",
+      "choices": [
+        "obtus",
+        "*droit",
+        "plat",
+        "aigu"
+      ],
+      "id": "math/23.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un angle qui fait 179&deg; est un angle</p>",
+      "choices": [
+        "*obtus",
+        "droit",
+        "plat",
+        "aigu"
+      ],
+      "id": "math/23.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un angle qui fait 1&deg; est un angle</p>",
+      "choices": [
+        "obtus",
+        "droit",
+        "plat",
+        "*aigu"
+      ],
+      "id": "math/23.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un angle <u>aigu</u> est un angle <u>saillant</u></p>",
+      "explain": "<p>Un angle aigu est compris entre 0 et 90&deg;</p>\n<p>Or un angle saillant est compris entre 0 et 180&deg;</p>\n<p>Donc un angle aigu est un angle saillant.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.7"
+    },
+    {
+      "question": "<p>Un angle <u>obtus</u> est un angle <u>saillant</u></p>",
+      "explain": "<p>Un angle obtus est compris entre 90&deg; et 180&deg;</p>\n<p>Or un angle saillant est compris entre 0 et 180&deg;</p>\n<p>Donc un angle obtus est un angle saillant.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.8"
+    },
+    {
+      "question": "<p>Un angle de 200&deg; est un angle</p>",
+      "explain": "<p>Un angle rentrant est plus grand qu'un angle plat et plus petit qu'un angle plein (360&deg;)</p>",
+      "choices": [
+        "saillant",
+        "*rentrant",
+        "obtus",
+        "plat"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.9"
+    },
+    {
+      "question": "<p>Combien de degr&eacute;s (&deg;) fait un angle droit?</p>",
+      "explain": "",
+      "choices": [
+        "*90"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.10"
+    },
+    {
+      "question": "<p>Combien de degr&eacute;s (&deg;) fait un angle plat?</p>",
+      "explain": "",
+      "choices": [
+        "*180"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.11"
+    },
+    {
+      "question": "<p>Un angle qui fait 35&deg; est un angle</p>",
+      "explain": "",
+      "choices": [
+        "*aigu"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.12"
+    },
+    {
+      "question": "<p>Un angle qui fait 135&deg; est un angle</p>",
+      "explain": "",
+      "choices": [
+        "*obtus"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.13"
+    },
+    {
+      "question": "<p>Deux angles $$\\widehat{A}$$ et $$\\widehat{B}$$ sont tels que:</p>\n<p>$$\\widehat{A} + \\widehat{B} \\text{ = 90}^{\\circ}$$</p>\n<p>Ce sont deux angles</p>",
+      "explain": "",
+      "choices": [
+        "*complémentaires",
+        "supplémentaires"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.14"
+    },
+    {
+      "question": "<p>Deux angles $$\\widehat{A}$$ et $$\\widehat{B}$$ sont tels que:</p>\n<p>$$\\widehat{A} + \\widehat{B} \\text{ = 180}^{\\circ}$$</p>\n<p>Ce sont deux angles</p>",
+      "explain": "",
+      "choices": [
+        "complémentaires",
+        "*supplémentaires"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.15"
+    },
+    {
+      "question": "<p>Deux angles $$\\widehat{A}$$ et $$\\widehat{B}$$ sont tels que:</p>\n<p>$$\\widehat{A} \\text{ = 80}^{\\circ} \\text{ et } \\widehat{B} \\text{ = 10}^{\\circ}$$</p>\n<p>Ce sont deux angles</p>",
+      "explain": "<p>Deux angles dont la&nbsp;somme est &eacute;gale &agrave; 90&deg;&nbsp;sont des angles&nbsp;compl&eacute;mentaires.</p>",
+      "choices": [
+        "*complémentaires",
+        "supplémentaires"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.16"
+    },
+    {
+      "question": "<p>Deux angles $$\\widehat{A}$$ et $$\\widehat{B}$$ sont tels que:</p>\n<p>$$\\widehat{A} \\text{ = 100}^{\\circ} \\text{ et } \\widehat{B} \\text{ = 80}^{\\circ}$$</p>\n<p>Ce sont deux angles</p>",
+      "explain": "<p>Deux angles dont la somme est &eacute;gale &agrave; 180&deg; sont des angles suppl&eacute;mentaires.</p>",
+      "choices": [
+        "complémentaires",
+        "*supplémentaires"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.17"
+    },
+    {
+      "question": "<p>Deux angles $$\\widehat{A}$$ et $$\\widehat{B}$$ sont tels que:</p>\n<p>$$\\widehat{A} \\text{ = 45}^{\\circ} \\text{ et } \\widehat{B} \\text{ = 45}^{\\circ}$$</p>\n<p>Ce sont deux angles</p>",
+      "explain": "<p>Deux angles dont la&nbsp;somme est &eacute;gale &agrave; 90&deg;&nbsp;sont des angles&nbsp;compl&eacute;mentaires.</p>",
+      "choices": [
+        "*complémentaires"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.18"
+    },
+    {
+      "question": "<p>$$\\widehat{xOy}$$ est un angle</p>\n<p><img src=\"img/angledroitexo.png\" /></p>",
+      "explain": "<p>Les demi-droites [Ox) et [Oy) sont perpendiculaires.</p>\n<p>xOy est un angle de 90&deg;.</p>",
+      "choices": [
+        "*droit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.19"
+    },
+    {
+      "question": "<p>$$\\widehat{xOy}$$ est un angle</p>\n<p><img src=\"img/angleaiguexo.png\" /></p>",
+      "explain": "<p>L'angle xOy est compris entre 0 et 90&deg;.</p>",
+      "choices": [
+        "*aigu"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/23.20"
+    }
+  ],
+  "pageCounter": 8,
+  "questionCounter": 20,
+  "theme": "geometrie",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tingnat@gmail.com"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "math/13",
+  "title": "Priorité dans les calculs",
+  "pages": [
+    "math/13/1.htm",
+    "math/13/2.htm",
+    "math/13/3.htm",
+    "math/13/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Calcule</p>\n<p><u>4 + 3 &times; 2</u></p>",
+      "choices": [
+        "*4 + 6 = 10",
+        "7 * 2 = 10",
+        " 4 + 5 = 9",
+        "12 x 2 = 24"
+      ],
+      "id": "math/13.1",
+      "explain": "<p>Il faut faire la multiplication en premier 3&times;2 = 6</p>\n<p>= 4 + 6</p>\n<p>= 10</p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>2 &times; 7 + 3 &times; 8</u></p>",
+      "choices": [
+        "*14 + 24 = 38",
+        "2 + 10 + 8 = 20",
+        "2 + 7 + 11 = 20",
+        "17 + 8 = 25"
+      ],
+      "id": "math/13.2",
+      "explain": "<p>On doit faire les <u>multiplications d'abord</u></p>\n<p>= <span style=\"color: #e74c3c;\">2 x 7</span> +&nbsp;<span style=\"color: #e74c3c;\">3 x 8</span><br />= <span style=\"color: #e74c3c;\">14</span> + <span style=\"color: #e74c3c;\">24<br /></span>=<span style=\"color: #e74c3c;\"> 38</span></p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>5 + 3 &times; 2</u></p>",
+      "choices": [
+        "*11",
+        "16",
+        "10",
+        "17"
+      ],
+      "id": "math/13.3",
+      "explain": "<p>On doit faire la <u>multiplication d'abord</u></p>\n<p>= 5 + <span style=\"color: #e74c3c;\">3 x 2</span><br />= 5 + <span style=\"color: #e74c3c;\">6<br /></span>=<span style=\"color: #e74c3c;\"> 11</span></p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>2 &times; 5 + 3 &times; 4</u></p>",
+      "choices": [
+        "*22",
+        "20",
+        "36",
+        "17"
+      ],
+      "id": "math/13.4",
+      "explain": "<p>On doit faire les <u>multiplications d'abord</u></p>\n<p>= <span style=\"color: #e74c3c;\">2 x 5</span>&nbsp;+&nbsp;<span style=\"color: #e74c3c;\">3 x 4</span><br />= <span style=\"color: #e74c3c;\">10</span> + <span style=\"color: #e74c3c;\">12<br /></span>=<span style=\"color: #e74c3c;\"> 22</span></p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>10 - 4 &divide; 2</u></p>",
+      "choices": [
+        "*10 - 2 = 8",
+        "6 &divide; 2 = 3",
+        "10 - 6 = 4",
+        "14 &divide; 2 = 7"
+      ],
+      "id": "math/13.5",
+      "explain": "<p>On doit faire la <u>division d'abord</u></p>\n<p>= 10 - <span style=\"color: #e74c3c;\">4 &divide; 2<br /></span>= 10 - <span style=\"color: #e74c3c;\">2</span><br />= 8</p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>8 &minus; 6 &divide; 2</u></p>",
+      "choices": [
+        "*5",
+        "1",
+        "6",
+        "3"
+      ],
+      "id": "math/13.6",
+      "explain": "<p>On doit faire la <u>division d'abord</u></p>\n<p>= 8 &minus; <span style=\"color: #e74c3c;\">6 &divide; 2<br /></span>= 8 &minus; <span style=\"color: #e74c3c;\">3</span><br />= 5</p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>6 &times; 6 - 6 &divide; 6</u></p>",
+      "choices": [
+        "*35",
+        "0",
+        "30",
+        "5"
+      ],
+      "id": "math/13.7",
+      "explain": "<p>On fait d'abord la <u>multiplication</u> et la <u>division</u></p>\n<p>= <span style=\"color: #e74c3c;\">6x6</span>&nbsp; - <span style=\"color: #e74c3c;\">6&divide;6<br /></span>= <span style=\"color: #e74c3c;\">36</span> - <span style=\"color: #e74c3c;\">1</span><br />= 35</p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>10 + (2 &times; 5 &minus; 3 &times; 2)</u></p>",
+      "choices": [
+        "*14",
+        "15",
+        "24",
+        "12"
+      ],
+      "id": "math/13.8",
+      "explain": "<p>On calcule l'interieur des <u>parenth&egrave;ses d'abord.</u><br />On fait les 2 <u>multiplications</u> avant la soustraction</p>\n<p>(2 &times; 5 &minus; 3 &times; 2)<br />= (10 &minus; 6)<br />= 4</p>\n<p>Puis on ajoute 10<br />= 10 + 4<br />= 10</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p><u>&minus;6+2&times;(4&minus;1)+12&divide;(3&minus;1)</u></p>",
+      "choices": [
+        "*6",
+        "10",
+        "0",
+        "14"
+      ],
+      "id": "math/13.9",
+      "explain": "<p>On calcule d'abord entre les parenth&egrave;ses</p>\n<p>= &minus;6 + 2&times;<span style=\"color: #e74c3c;\">(4&minus;1) </span>+ 12&divide;<span style=\"color: #e74c3c;\">(3&minus;1)<br /></span>= &minus;6 + 2x<span style=\"color: #e74c3c;\">3</span> + 12&divide;<span style=\"color: #e74c3c;\">2</span><br /><br />Puis les multiplications et divisions<br />= &minus;6 + <span style=\"color: #e74c3c;\">2x3</span> + <span style=\"color: #e74c3c;\">12&divide;2<br /></span>= &minus;6 + <span style=\"color: #e74c3c;\">6</span> + <span style=\"color: #e74c3c;\">6</span><br />= 0 + 6<br />= 6</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p>2 &times; (1 + (2 + 2) &times; 3)</p>",
+      "choices": [
+        "18",
+        "30",
+        "*26",
+        "14"
+      ],
+      "id": "math/13.10",
+      "explain": "<p>On calcule d'abord la <u>parenth&egrave;se la plus &agrave; l&rsquo;int&eacute;rieur</u>:</p>\n<p>2 &times; (1 + (<span style=\"color: #e67e23;\">2 + 2</span>) &times; 3) = 2 &times; (1 + 4 &times; 3)</p>\n<p>Puis dans la parenth&egrave;se, la <u>multiplication avant l'addition</u>:</p>\n<p>2 &times; (1 + <span style=\"color: #e67e23;\">4 &times; 3</span>) = 2 &times; (1 + 12)</p>\n<p>Puis la parenthese:</p>\n<p>2 &times; (<span style=\"color: #e67e23;\">1 + 12</span>) = 2 &times; 13 = 26</p>"
+    },
+    {
+      "question": "<p>Calcule</p>\n<p>2 + (3 &times; (3 + 1))</p>",
+      "choices": [
+        "20",
+        "*14",
+        "12",
+        "16"
+      ],
+      "id": "math/13.11",
+      "explain": "<p>On calcule d'abord la <span style=\"color: #3598db;\">parenth&egrave;se la plus &agrave; l&rsquo;int&eacute;rieur</span>:</p>\n<p>2 + (3 &times; <span style=\"color: #e67e23;\">(3 + 1)</span>)<br />= 2 + (3 &times; <span style=\"color: #e67e23;\">4</span>)</p>\n<p>Puis la parenth&egrave;se:</p>\n<p>2 + <span style=\"color: #e67e23;\">(3 &times; 4)</span><br />= 2 + <span style=\"color: #e67e23;\">12</span><br />= 14</p>"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 11,
+  "theme": "calcul",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

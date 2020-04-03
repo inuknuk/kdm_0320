@@ -1,0 +1,161 @@
+{
+  "id": "latin/01",
+  "title": "Le Nominatif",
+  "pages": [
+    "latin/01/1.htm",
+    "latin/01/2.htm",
+    "latin/01/3.htm",
+    "latin/01/4.htm"
+  ],
+  "questions": [
+    {
+      "id": "latin/01.1",
+      "question": "<p><u>&ldquo;Tu es la plus belle deesse&rdquo;.</u></p>\n<p>Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "Tu",
+        "es",
+        "belle",
+        "*la plus belle deesse"
+      ],
+      "explain": "<p><strong>\"es\"</strong>&nbsp;est le verbe etre, c'est un&nbsp;<strong>verbe d'etat</strong></p>\n<p>Le sujet est <strong>\"tu\"</strong></p>\n<p>L'attribut du sujet est <strong>La plus belle deesse</strong></p>"
+    },
+    {
+      "id": "latin/01.2",
+      "question": "<p><u>Tu es la plus belle deesse.</u></p>\n<p>Quel est le sujet?</p>",
+      "choices": [
+        "*Tu",
+        "deesse",
+        "la plus belle"
+      ],
+      "explain": "<p>Pour trouver le sujet, on pose la question <strong>QUI?</strong></p>\n<p>Qui est la plus belle deesse?</p>\n<p><strong>Tu</strong>, c'est le <strong>sujet</strong></p>"
+    },
+    {
+      "id": "latin/01.3",
+      "question": "<p><u>Le fils de la deesse est Cupidon.</u></p>\n<p>Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "Le fils de la deesse",
+        "*Cupidon",
+        "la deesse"
+      ],
+      "explain": "<p><strong>est</strong> = verbe etre, c'est un verbe d'etat.</p>\n<p>Cupidon est donc <strong>l'attribut du sujet</strong></p>"
+    },
+    {
+      "id": "latin/01.4",
+      "question": "<p><u>Le fils de la d&eacute;esse est Cupidon.</u></p>\n<p>Quel est le <strong>sujet</strong>?</p>",
+      "choices": [
+        "*Le fils de la déesse",
+        "Cupidon",
+        "la deesse"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/01.5",
+      "question": "<p><u>Flora est une jeune fille.</u></p>\n<p>Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "Flora",
+        "*une jeune fille",
+        "jeune",
+        "est"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/01.6",
+      "question": "<p><u>Vous &ecirc;tes des jeunes filles.</u></p>\n<p>Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "Vous",
+        "*des jeunes filles",
+        "etes"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/01.7",
+      "question": "<p><u>La d&eacute;esse donne une rose a Flora.</u></p>\n<p>Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "La deesse",
+        "a Rosa",
+        "une rose",
+        "*Il n'y en a pas"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/01.8",
+      "question": "<p>La jeune fille regarde la statue. En latin, a quel cas faut il decliner \"La jeune fille\"?</p>",
+      "choices": [
+        "*Nominatif",
+        "Accusaitf",
+        "Vocatif",
+        "Aucun"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/01.9",
+      "question": "<p>Flora est une jeune fille? En Latin, a quel cas faut il decliner \"une jeune fille\" ?</p>",
+      "choices": [
+        "*Nominatif",
+        "Accusatif",
+        "Vocatif",
+        "Aucun"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/01.10",
+      "question": "<p>Flora est une jeune fille? En Latin, a quel cas faut il decliner \"Flora\" ?</p>",
+      "choices": [
+        "*Nominatif",
+        "Vocatif",
+        "Accusatif",
+        "Aucun"
+      ],
+      "explain": ""
+    },
+    {
+      "id": "latin/01.1",
+      "question": "<p><u>&ldquo;Tu es la plus belle d&eacute;esse&rdquo;.</u><br />Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "Tu",
+        "es",
+        "belle",
+        "*la plus belle déesse"
+      ],
+      "explain": "<p><strong>\"es\"</strong> est le verbe &ecirc;tre, c'est un&nbsp;<strong>verbe d'&eacute;tat</strong></p>\n<p>Le sujet est <strong>\"tu\"</strong></p>\n<p>L'attribut du sujet est <strong>La plus belle d&eacute;esse</strong></p>"
+    },
+    {
+      "id": "latin/01.1",
+      "question": "<p><u>&ldquo;Tu es la plus belle d&eacute;esse&rdquo;.</u><br />Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "Tu",
+        "es",
+        "belle",
+        "*la plus belle déesse"
+      ],
+      "explain": "<p><strong>\"es\"</strong> est le verbe &ecirc;tre, c'est un&nbsp;<strong>verbe d'&eacute;tat</strong></p>\n<p>Le sujet est <strong>\"tu\"</strong></p>\n<p>L'attribut du sujet est <strong>La plus belle d&eacute;esse</strong></p>"
+    },
+    {
+      "id": "latin/01.1",
+      "question": "<p><u>&ldquo;Tu es la plus belle d&eacute;esse&rdquo;.</u><br />Quel est <strong>l'attribut du sujet</strong>?</p>",
+      "choices": [
+        "Tu",
+        "es",
+        "belle",
+        "*la plus belle déesse"
+      ],
+      "explain": "<p><strong>\"es\"</strong> est le verbe &ecirc;tre, c'est un&nbsp;<strong>verbe d'&eacute;tat</strong></p>\n<p>Le sujet est <strong>\"tu\"</strong></p>\n<p>L'attribut du sujet est <strong>La plus belle d&eacute;esse</strong></p>"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 10,
+  "theme": "declinaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

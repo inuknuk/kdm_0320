@@ -1,0 +1,236 @@
+{
+  "id": "sci/22",
+  "title": "Les forces",
+  "pages": [
+    "sci/22/1.htm",
+    "sci/22/2.htm",
+    "sci/22/3.htm",
+    "sci/22/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quelle est l&rsquo;<u>unit&eacute;</u> de l&rsquo;intensit&eacute; d&rsquo;une force ?</p>",
+      "choices": [
+        "*Le Newton (N)",
+        "Le kilogramme (kg)",
+        "Le Watt (W)"
+      ],
+      "id": "sci/22.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Avec quel appareil mesure-t-on une force ?</p>",
+      "choices": [
+        "*Un dynamomètre",
+        "Une balance",
+        "Un thermomètre",
+        "Un mètre"
+      ],
+      "id": "sci/22.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le joueur de foot frappe dans le ballon.</p>",
+      "choices": [
+        "*C'est une force",
+        "Ce n'est pas une force"
+      ],
+      "id": "sci/22.3",
+      "explain": "<p>Le point de contact entre la chaussure et le ballon est le point d'application de la force.</p>"
+    },
+    {
+      "question": "<p>Julie regarde son t&eacute;l&eacute;phone.</p>",
+      "choices": [
+        "C'est une force",
+        "*Ce n'est pas une force"
+      ],
+      "id": "sci/22.5",
+      "explain": "<p>Il n'y a pas d'interaction physique entre les deux.</p>"
+    },
+    {
+      "question": "<p>La balle glisse sur le chemin en pente.</p>",
+      "choices": [
+        "*C'est une force",
+        "Ce n'est pas une force"
+      ],
+      "id": "sci/22.7",
+      "explain": "<p>La force de pesanteur met la balle en mouvement.</p>"
+    },
+    {
+      "question": "<p>Un objet soumis &agrave; deux forces qui se <u>compensent</u> est</p>",
+      "choices": [
+        "*En équilibre",
+        "A l’équivalence",
+        "En phase",
+        "En chute libre"
+      ],
+      "id": "sci/22.8",
+      "explain": "<p>L'objet en &eacute;quilibre est soit immobile, soit en mouvement constant.</p>"
+    },
+    {
+      "question": "<p>Une force appliqu&eacute;e &agrave; un syst&egrave;me physique peut le d&eacute;former.</p>",
+      "explain": "<p>C'est vrai si le syst&egrave;me est d&eacute;formable.</p>\n<p>Par exemple, si vous pressez entre vos deux mains une balle de tennis, vous pourrez la d&eacute;former.&nbsp;</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.10"
+    },
+    {
+      "question": "<p>Une force n'est caract&eacute;ris&eacute;e que par sa valeur.&nbsp;</p>",
+      "explain": "<p>On repr&eacute;sente une force par une fl&egrave;che (vecteur).&nbsp;</p>\n<p>Cette fl&egrave;che &agrave; une longueur, qui repr&eacute;sente l'intensit&eacute; (ou valeur, en Newtons) de la force.&nbsp;</p>\n<p>Mais cette fl&egrave;che a &eacute;galement une <u>direction</u>, un <u>sens</u> et un <u>point d'application</u>.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.11"
+    },
+    {
+      "question": "<p>Le point d'application d'une force est:</p>\n<p><img src=\"img/hhh.png\" /></p>",
+      "explain": "<p>Sur le sch&eacute;ma, les points d'application des forces F1 et F2 sont marqu&eacute;s par les &eacute;toiles.</p>",
+      "choices": [
+        "*Le point du système sur lequel s'applique la force",
+        "Le point pointé par la flèche (vecteur) force"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.12"
+    },
+    {
+      "question": "<p>Un dynamom&egrave;tre fonctionne avec:</p>\n<p><img src=\"img/yjhgikj.png\" /></p>",
+      "explain": "<p>Voir le sch&eacute;ma de principe de fonctionnement d'un dynamom&egrave;tre.</p>",
+      "choices": [
+        "Une masse de référence",
+        "*Un ressort de référence",
+        "Un thermomètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.13"
+    },
+    {
+      "question": "<p>La force de r&eacute;action du support est une force:</p>",
+      "explain": "<p>La force de r&eacute;action du support est une force qui s'exerce entre une surface et un objet qui repose sur cette surface.</p>\n<p>C'est le <u>contact</u> entre ces deux objets qui est &agrave; l'origine de la force.&nbsp;</p>",
+      "choices": [
+        "A distance",
+        "*De contact"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.14"
+    },
+    {
+      "question": "<p>Les forces de frottements sont des forces:</p>\n<p>&nbsp;</p>",
+      "explain": "<p>Les forces de frottement s'exercent sur la surface d'un syst&egrave;me en <u>contact</u> avec un fluide (air, eau,...) ou un solide (glace).&nbsp;</p>",
+      "choices": [
+        "A distance",
+        "*De contact"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.16"
+    },
+    {
+      "question": "<p>La force d'interaction gravitationnelle est une force:</p>",
+      "explain": "<p>Deux plan&egrave;tes sont attir&eacute;es l'une par l'autre <u>sans &ecirc;tre en contact</u> (c'est pourquoi la Terre tourne autour du soleil).</p>\n<p>Il existe donc bien une force &agrave; distance entre ces deux entit&eacute;s: c'est la force d'interaction gravitationnelle.&nbsp;</p>",
+      "choices": [
+        "*A distance",
+        "De contact"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.17"
+    },
+    {
+      "question": "<p>Une force &agrave; distance s'exerce:</p>",
+      "explain": "",
+      "choices": [
+        "Sur toute la surface d'un système",
+        "*Au centre de gravité d'un système",
+        "En un unique point quelconque d'un système"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.18"
+    },
+    {
+      "question": "<p>Il existe uniquement deux types de forces: les forces &agrave; distance et les forces de contact.&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.19"
+    },
+    {
+      "question": "<p>Un objet immobile ne subit aucune force.&nbsp;</p>",
+      "explain": "<p>Techniquement, tout syst&egrave;me dans l'univers subit une ou plusieurs forces (au moins les forces d'interaction).</p>\n<p>Les objets immobiles ne sont donc pas des syst&egrave;mes isol&eacute;s mais des syst&egrave;mes pour lesquels les forces qui y sont appliqu&eacute;es <u>se compensent parfaitement</u>.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.20"
+    },
+    {
+      "question": "<p>Lequel de ces deux sch&eacute;mas repr&eacute;sente correctement l'application d'une force <u>&agrave; distance</u> sur le syst&egrave;me repr&eacute;sent&eacute; par le cube ?&nbsp;</p>\n<p><img src=\"img/iiii.png\" width=\"317\" height=\"206\" /></p>",
+      "explain": "<p>Une force &agrave; distance s'applique au <u>centre de gravit&eacute;</u> d'un syst&egrave;me.</p>\n<p>En supposant la r&eacute;partition de masse uniforme, le centre de gravit&eacute; du cube est donc au centre du cube, et non pas en surface.</p>",
+      "choices": [
+        "*Celui de gauche",
+        "Celui de droite"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.21"
+    },
+    {
+      "question": "<p>R&eacute;chauffer un plat au micro-ondes c'est appliquer une force &agrave; ce plat.</p>",
+      "explain": "<p>Une force est une action m&eacute;canique, c'est &agrave; dire que ses cons&eacute;quences sur le syst&egrave;me sont m&eacute;caniques (modification de la position, de la vitesse, de la trajectoire, de la forme, ...).</p>\n<p>Un &eacute;change de chaleur avec un syst&egrave;me n'est donc pas une force.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.22"
+    },
+    {
+      "question": "<p>Si je veux porter un objet &agrave; une hauteur fixe du sol, je dois appliquer sur cet objet une force sup&eacute;rieure &agrave; son poids.</p>",
+      "explain": "<p>Si vous poussez plus fort (en Newtons) que le poids de l'objet (&eacute;galement en Newtons), l'objet monte.</p>\n<p>Si vous poussez moins fort, l'objet descend.</p>\n<p>Si vous voulez le maintenir &agrave; une distance fixe du sol, il faut donc exactement compenser son poids (m&ecirc;me valeur des forces).&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.23"
+    },
+    {
+      "question": "<p>Pour une force, direction et sens sont une seul et m&ecirc;me caract&eacute;ristique.&nbsp;</p>",
+      "explain": "<p>La direction est l'orientation de la fl&egrave;che dans l'espace, tandis que le sens est le c&ocirc;t&eacute; duquel pointe la fl&egrave;che.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/22.24"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 24,
+  "theme": "3",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "julie.mariettaaleina@gmail.com"
+}

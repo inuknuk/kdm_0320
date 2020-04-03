@@ -1,0 +1,263 @@
+{
+  "id": "math/70",
+  "title": "Triangles égaux et semblables",
+  "pages": [
+    "math/70/1.htm",
+    "math/70/2.htm",
+    "math/70/3.htm",
+    "math/70/4.htm",
+    "math/70/8.htm",
+    "math/70/5.htm",
+    "math/70/6.htm",
+    "math/70/7.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Les angles en violet $$\\widehat{B}$$ et $$\\widehat{E}$$ sont &eacute;gaux.</p>\n<p>Quels sont respectivement les <u>c&ocirc;t&eacute;s oppos&eacute;s</u> &agrave; chaque angle violet?<img src=\"img/capturedecran20200210a164850.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>&nbsp;Le<strong>&nbsp;c&ocirc;t&eacute; oppos&eacute;</strong> &agrave; l'angle violet du <strong>triangle ABC</strong> est <u>AC</u>.</p>\n<p>&nbsp;Le&nbsp;<strong>c&ocirc;t&eacute; oppos&eacute;</strong> &agrave; l'angle violet du <strong>triangle DEF</strong> est <u>DF</u>.</p>",
+      "choices": [
+        "*AC et DF",
+        "AB et BC",
+        "DE et EF"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.6"
+    },
+    {
+      "question": "<p>Les triangles ABC et DEF sont <u>semblables</u>: les c&ocirc;t&eacute;s oppos&eacute;s aux angles &eacute;gaux sont <u>proportionnels</u>.</p>\n<p>Ce qui veut dire:</p>\n<p><img src=\"img/capturedecran20200210a170603.png\" /></p>",
+      "explain": "<p>Les c&ocirc;t&eacute;s <strong>oppos&eacute;s</strong> aux <strong>angles violets</strong>&nbsp;sont&nbsp;<u>AC et DF</u>!</p>\n<p>Les c&ocirc;t&eacute;s <strong>oppos&eacute;s</strong> aux <strong>angles verts</strong>&nbsp;sont&nbsp;<u>AB et DE</u>!</p>\n<p>On a: AB/DE = AC/DF</p>",
+      "choices": [
+        "$$\\frac{\\text{DE}}{EF} = \\frac{EF}{FD}$$",
+        "*$$\\frac{\\text{AB}}{DE} = \\frac{AC}{DF}$$",
+        "$$\\frac{\\text{AB}}{BC} = \\frac{BC}{CA}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.3"
+    },
+    {
+      "question": "<p>Deux triangles sont <u>semblables</u> s'ils ont :</p>",
+      "explain": "<p>C'est une propri&eacute;t&eacute; de deux triangles semblables!</p>\n<p>Pour montrer que 2 triangles sont <u>semblables</u>, il suffit de montrer qu'ils ont 2 angles respectivement &eacute;gaux.</p>",
+      "choices": [
+        "aucun angle égal.",
+        "1 angle respectivement égal.",
+        "*2 angles respectivement égaux."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.1"
+    },
+    {
+      "question": "<p>Sachant que les <u>angles verts $$\\widehat{C} et \\widehat{F}$$</u> sont <u>&eacute;gaux</u>, &agrave; quelle condition ces triangles sont-ils <u>semblables</u>?</p>\n<p><img src=\"img/capturedecran20200210a172210.png\" /></p>",
+      "explain": "<p>Deux triangles sont semblables s'ils ont au moins 2 angles respectivement &eacute;gaux.</p>\n<p>Ils ont d&eacute;ja <strong>un angle &eacute;gal</strong> respectivement : l'angle <strong>vert</strong>.</p>\n<p>Il faut donc que <strong>l'angle violet soit &eacute;gal &agrave; l'angle rose</strong>, c'est-&agrave;-dire que l'angle<u> ABC mesure 136&deg;</u> !</p>",
+      "choices": [
+        "*$$\\widehat{ABC} = 136°$$",
+        "AC = DE",
+        "L'angle violet est égal à l'angle vert."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.4"
+    },
+    {
+      "question": "<p>Deux triangles ont un <u>angle &eacute;gal</u> compris <u>entre deux c&ocirc;t&eacute;s respectivement proportionnels</u>.</p>\n<p>On peut affirmer qu'ils sont&nbsp;<u>semblables</u>.</p>",
+      "explain": "<p>C'est une propri&eacute;t&eacute; de&nbsp;<strong>deux triangles semblables</strong>&nbsp;!</p>\n<p>Pour montrer que 2 angles sont&nbsp;<u>semblables</u>, il suffit de montrer qu'ils ont<strong>&nbsp;</strong><strong>un angle &eacute;gal</strong>&nbsp;compris entre&nbsp;<strong>deux c&ocirc;t&eacute;s respectivement proportionnels</strong><strong>.</strong></p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.2"
+    },
+    {
+      "question": "<p>Ces deux triangles sont-ils <u>semblables</u>?</p>\n<p><img src=\"img/capturedecran20200210a105925.png\" /></p>",
+      "explain": "<p>Ils ont un angle <strong>&eacute;gal</strong>, l'angle <strong>vert</strong>.</p>\n<p>L'angle vert de ABC est compris entre AB et BC, et l'angle vert de DEF est compris entre DE et EF.</p>\n<p>Or : AB/DE = 2 et BC/EF = 2, donc l'angle vert est compris entre&nbsp;<strong>deux c&ocirc;t&eacute;s respectivement proportionnels</strong>.&nbsp;</p>\n<p>Les 2 triangles sont donc <u>semblables</u> !</p>",
+      "choices": [
+        "*Oui",
+        "Non",
+        "On ne peut pas savoir"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.5"
+    },
+    {
+      "question": "<p>Ces deux triangles sont-ils <strong>semblables</strong>?</p>\n<p><img src=\"img/capturedecran20200210a173546.png\" /></p>",
+      "explain": "<p>Les angles verts de chaque triangle <strong>n'ont pas la m&ecirc;me mesure!</strong></p>\n<p>Donc ces triangles ne sont <strong>pas sembables</strong>.</p>",
+      "choices": [
+        "Oui",
+        "*Non",
+        "On ne peut pas savoir"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.7"
+    },
+    {
+      "question": "<p>Soient 2 triangles quelconques ABC et DEF.</p>\n<p>Nous n'avons aucune information sur les mesures de leurs angles.</p>\n<p>Ces deux triangles sont <u>semblables</u> si:</p>",
+      "explain": "<p>C'est une propri&eacute;t&eacute; &agrave; conna&icirc;tre !</p>",
+      "choices": [
+        "*leurs 3 côtés sont respectivement proportionnels.",
+        "2 côtés sont respectivement proportionnels.",
+        "1 côté est respectivement proportionnel."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.8"
+    },
+    {
+      "question": "<p>ABC et DEF sont <u>semblables</u> si :</p>\n<p><img src=\"img/capturedecran20200210a181124.png\" /></p>",
+      "explain": "<p>ABC et DEF sont<strong> semblables</strong> si <strong>leurs 3 c&ocirc;t&eacute;s sont respectivement proportionnels</strong>.</p>\n<p>Or :&nbsp;<strong>AC/DF = BC/EF = 2</strong></p>\n<p>Donc <strong>AB/DE = 2</strong> donc <u>DE = AB/2 = 2</u>, &agrave; l'aide du produit en croix.</p>",
+      "choices": [
+        "*DE = 2",
+        "DE = 4",
+        "DE = 3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.9"
+    },
+    {
+      "question": "<p>Deux triangles sont <u>superposables</u> s'ils sont :</p>",
+      "explain": "<p>C'est une d&eacute;finition &agrave; conna&icirc;tre!</p>\n<p>Deux triangles superposables sont &eacute;gaux et vice versa.</p>",
+      "choices": [
+        "*Égaux",
+        "Semblables",
+        "Rectangles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.10"
+    },
+    {
+      "question": "<p>Deux triangles sont <u>&eacute;gaux</u> s'ils ont leurs <u>3 angles respectivement de m&ecirc;me mesure</u>:</p>",
+      "explain": "<p>C'est la d&eacute;finition de 2 triangles <strong>&eacute;gaux</strong> !</p>",
+      "choices": [
+        "*et leurs 3 côtés respectivement de même longueur.",
+        "et leurs 3 côtés de longueur quelconque.",
+        "cette condition suffit."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.11"
+    },
+    {
+      "question": "<p>Deux triangles sont &eacute;gaux s'ils ont <u>un c&ocirc;t&eacute; de m&ecirc;me longueur</u> compris entre :</p>",
+      "explain": "<p>Si deux triangles ont <strong>un c&ocirc;t&eacute; de m&ecirc;me longueur </strong>compris entre&nbsp;<strong>2 angles de m&ecirc;me mesure&nbsp;</strong>alors ils sont <strong>&eacute;gaux</strong>.</p>",
+      "choices": [
+        "*2 angles de même mesure.",
+        "2 angles quelconque.",
+        "1 angle égal et 1 angle différent."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.12"
+    },
+    {
+      "question": "<p>Sachant que les angles <u>rouges et verts</u> sont <u>&eacute;gaux deux &agrave; deux</u>, &agrave; quelle condition les triangles ABC et DEF sont ils <u>&eacute;gaux</u>?</p>\n<p><img src=\"img/capturedecran20200210a185305.png\" /></p>",
+      "explain": "<p>Deux triangles sont &eacute;gaux s'ils ont&nbsp;<strong>un c&ocirc;t&eacute; de m&ecirc;me longueur&nbsp;</strong>compris entre&nbsp;<strong>2 angles de m&ecirc;me mesure</strong>.</p>\n<p>Les c&ocirc;t&eacute;s compris entre les angles rouges et verts sont <strong>BC et EF</strong>.</p>\n<p>Donc <u>BC = EF = 8</u>.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "AC = 8",
+        "AB =8",
+        "*BC = 8"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.13"
+    },
+    {
+      "question": "<p>Ces deux triangles sont-ils <u>&eacute;gaux</u> ?</p>\n<p><img src=\"img/capturedecran20200210a185921.png\" /></p>",
+      "explain": "<p>Ces deux triangles ont&nbsp;<strong>un c&ocirc;t&eacute; de m&ecirc;me longueur</strong>&nbsp;<u>(BC = EF)</u>&nbsp;compris entre&nbsp;<strong>2 angles de m&ecirc;me mesure</strong> (les angles <u>verts et rouges</u>) donc ils sont&nbsp;<strong>&eacute;gaux.</strong></p>",
+      "choices": [
+        "*Oui",
+        "Non",
+        "On ne peut pas savoir."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.14"
+    },
+    {
+      "question": "<p>Si deux triangles ont un <u>angle</u> de <u>m&ecirc;me mesure compris entre 2 c&ocirc;t&eacute;s</u> de <u>m&ecirc;me longueur</u>, alors ils sont <u>&eacute;gaux</u>.</p>",
+      "explain": "<p>C'est une propri&eacute;t&eacute; &agrave; conna&icirc;tre pour montrer que 2 triangles sont &eacute;gaux !</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.15"
+    },
+    {
+      "question": "<p>Sachant que les <u>angles rouges sont &eacute;gaux</u>, &agrave; quelle condition ces triangles sont-ils <u>&eacute;gaux</u> ?</p>\n<p><img src=\"img/capturedecran20200210a191008.png\" /></p>",
+      "explain": "<p>Les deux triangles ont un angle de m&ecirc;me mesure, l'angle rouge.</p>\n<p>Ils ont un c&ocirc;t&eacute; de m&ecirc;me mesure, AB = HI.</p>\n<p>Or si deux triangles ont&nbsp;<strong>un angle de m&ecirc;me mesure compris entre 2 c&ocirc;t&eacute;s de m&ecirc;me longueur</strong>, alors ils sont&nbsp;&eacute;gaux.&nbsp;</p>\n<p>Donc il faut : <u>HJ = AC = 12</u>.</p>",
+      "choices": [
+        "BC = 12",
+        "IJ = 12",
+        "*HJ = 12"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.16"
+    },
+    {
+      "question": "<p>Ces deux triangles sont-ils <u>&eacute;gaux</u> ?</p>\n<p><img src=\"img/capturedecran20200210a192125.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Les deux triangles ont <strong>deux c&ocirc;t&eacute;s &eacute;gaux</strong>.</p>\n<p>Ils ont <strong>un angle &eacute;gal</strong>, l'angle rouge, mais il <strong>n'est pas compris</strong> entre les deux c&ocirc;t&eacute;s &eacute;gaux.</p>\n<p>Pour que les deux triangles soient &eacute;gaux, il faudrait : <strong>HJ = AC</strong>.</p>\n<p>Or on ne conna&icirc;t pas la longueur du c&ocirc;t&eacute; HJ, donc <u>on ne peut pas savoir</u>.</p>",
+      "choices": [
+        "Oui",
+        "Non",
+        "*On ne peut pas savoir"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.17"
+    },
+    {
+      "question": "<p>Deux triangles sont <u>&eacute;gaux</u> s'ils ont :</p>",
+      "explain": "<p>C'est une propri&eacute;t&eacute; &agrave; conna&icirc;tre !</p>",
+      "choices": [
+        "*leurs côtés deux à deux de même longueur",
+        "leurs côtés de longueur quelconque.",
+        "1 côté de même longueur."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.18"
+    },
+    {
+      "question": "<p>Les deux triangles sont <u>&eacute;gaux</u> si :</p>\n<p><img src=\"img/capturedecran20200210a193013.png\" /></p>",
+      "explain": "<p>Deux triangles sont <strong>&eacute;gaux</strong> s'ils ont <strong>leurs c&ocirc;t&eacute;s deux &agrave; deux de m&ecirc;me longueur</strong>.</p>\n<p>Donc <u>IJ = AC = 3,6</u>.</p>",
+      "choices": [
+        "IJ = 4,5",
+        "IJ = 6",
+        "*IJ = 3,6"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.19"
+    },
+    {
+      "question": "<p>Ces deux triangles sont <u>&eacute;gaux</u> si :</p>\n<p><img src=\"img/capturedecran20200210a193552.png\" /></p>",
+      "explain": "<p>Pour que les triangles soient <strong>&eacute;gaux</strong>, il faut qu'ils aient leurs <strong>c&ocirc;t&eacute;s deux &agrave; deux de m&ecirc;me longueur</strong>.</p>\n<p>Il faut bien identifier quels c&ocirc;t&eacute;s correspondent !</p>\n<p>Ici, le <strong>plus petit c&ocirc;t&eacute;</strong> entre IJ et HJ <strong>est IJ</strong>.</p>\n<p>Donc <u>IJ = 20</u>&nbsp;et <u>HJ = 23</u>.</p>",
+      "choices": [
+        "IJ = 23 et HJ = 20",
+        "*IJ = 20 et HJ = 23",
+        "HJ = 31 et IJ = 23"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/70.20"
+    }
+  ],
+  "pageCounter": 8,
+  "questionCounter": 20,
+  "theme": "geometrie",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "chloe.lhoustau@centrale-marseille.fr"
+}

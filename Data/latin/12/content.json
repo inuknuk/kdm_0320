@@ -1,0 +1,220 @@
+{
+  "title": "La 2eme declinaison (dominus)",
+  "pages": [
+    "latin/12/1.htm",
+    "latin/12/2.htm",
+    "latin/12/3.htm"
+  ],
+  "id": "latin/12",
+  "questions": [
+    {
+      "question": "Le Nominatif Singulier de dominus est",
+      "choices": [
+        "*dominus",
+        "domine",
+        "dominum",
+        "domini"
+      ],
+      "id": "latin/12:1"
+    },
+    {
+      "question": "L'accusatif singulier de dominus est",
+      "choices": [
+        "*dominum",
+        "dominos",
+        "dominus",
+        "domini"
+      ],
+      "id": "latin/12:2"
+    },
+    {
+      "question": "Le genitif singulier de dominus est",
+      "choices": [
+        "*domini",
+        "domino",
+        "dominus",
+        "dominum"
+      ],
+      "id": "latin/12:3"
+    },
+    {
+      "question": "Le Vocatif Singulier de dominus est",
+      "choices": [
+        "dominus",
+        "*domine",
+        "dominum",
+        "domini"
+      ],
+      "id": "latin/12:4"
+    },
+    {
+      "question": "Le Datif singulier de dominus est",
+      "choices": [
+        "*domino",
+        "dominis",
+        "dominus",
+        "domini"
+      ],
+      "id": "latin/12:5"
+    },
+    {
+      "question": "Le nominatif pluriel de dominus est",
+      "choices": [
+        "*domini",
+        "dominus",
+        "dominos",
+        "dominis"
+      ],
+      "id": "latin/12:6"
+    },
+    {
+      "question": "L'accusatif pluriel de dominus est",
+      "choices": [
+        "*dominos",
+        "dominum",
+        "dominis",
+        "domini"
+      ],
+      "id": "latin/12:7"
+    },
+    {
+      "question": "Le genitif pluriel de dominus est",
+      "choices": [
+        "*dominorum",
+        "dominos",
+        "dominis",
+        "domini"
+      ],
+      "id": "latin/12:8"
+    },
+    {
+      "question": "Le Datif et l'Ablatif pluriel de dominus est",
+      "choices": [
+        "*dominis",
+        "domini",
+        "dominorum",
+        "dominos"
+      ],
+      "id": "latin/12:9"
+    },
+    {
+      "question": "dominus indique le",
+      "choices": [
+        "*Nominatif Singulier",
+        "Accusatif Singulier",
+        "Vocatif Singulier",
+        "Nominatif Pluriel"
+      ],
+      "id": "latin/12:10"
+    },
+    {
+      "question": "dominum indique le",
+      "choices": [
+        "Nominatif Singulier",
+        "*Accusatif Singulier",
+        "Vocatif Singulier",
+        "Accusatif Pluriel"
+      ],
+      "id": "latin/12:11"
+    },
+    {
+      "question": "domini indique le",
+      "choices": [
+        "*Genitif Singulier",
+        "Accusatif Pluriel",
+        "Vocatif Singulier",
+        "Datif Singulier"
+      ],
+      "id": "latin/12:12"
+    },
+    {
+      "question": "<p>Je donne une rose au maitre. En Latin, au maitre se traduit par</p>",
+      "choices": [
+        "domini",
+        "dominum",
+        "*domino",
+        "dominorum"
+      ],
+      "id": "latin/12:13",
+      "explain": "<p><span style=\"color: #e74c3c;\">domino </span></p>\n<p>car au maitre -&gt; COI -&gt; Datif</p>"
+    },
+    {
+      "question": "Le maitre donne une rose a la jeune fille. En Latin, le maitre se traduit par",
+      "choices": [
+        "*dominus",
+        "dominum",
+        "domino",
+        "domini"
+      ],
+      "id": "latin/12:14"
+    },
+    {
+      "question": "Je regarde le maitre. En Latin, le maitre se traduit par",
+      "choices": [
+        "*dominum",
+        "dominus",
+        "domino",
+        "domini"
+      ],
+      "id": "latin/12:15"
+    },
+    {
+      "question": "Les maitres sont severes. En Latin, les maitres se traduit par",
+      "choices": [
+        "*domini",
+        "dominus",
+        "dominos",
+        "dominis"
+      ],
+      "id": "latin/12:16"
+    },
+    {
+      "question": "<p>Les roses du maitre sont belles. En latin, du maitre se traduit par</p>",
+      "choices": [
+        "*domini",
+        "dominorum",
+        "dominos",
+        "dominis"
+      ],
+      "id": "latin/12:17",
+      "explain": ""
+    },
+    {
+      "question": "verum, -i est-il un mot de la 2eme déclinaison? Pourquoi",
+      "choices": [
+        "Oui car le nominatif est en -um",
+        "*Oui car le génitif est en -i",
+        "Non"
+      ],
+      "id": "latin/12.18"
+    },
+    {
+      "question": "vestis, -is est-il un mot de la 2eme declinaison? Pourquoi?",
+      "choices": [
+        "Oui car le nominatif est en -is",
+        "Oui car le génitif est en -is",
+        "*Non car le génitif n'est pas en -i"
+      ],
+      "id": "latin/12.19"
+    },
+    {
+      "question": "equus, -i: le cheval. A quel cas est le mot <b>eque</b>",
+      "choices": [
+        "Ablatif",
+        "*Vocatif sing.",
+        "Vocatif plur.",
+        "Génitif sing."
+      ],
+      "id": "latin/12.20"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 20,
+  "theme": "declinaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

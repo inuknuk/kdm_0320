@@ -1,0 +1,140 @@
+{
+  "title": "Les grandes periodes de l'histoire Romaine",
+  "pages": [
+    "latin/11/1.htm",
+    "latin/11/2.htm",
+    "latin/11/3.htm"
+  ],
+  "id": "latin/11",
+  "questions": [
+    {
+      "question": "<p>La fondation de Rome est en</p>",
+      "choices": [
+        "*753 av JC",
+        "27 av JC",
+        "509 av JC",
+        "476 ap JC"
+      ],
+      "id": "latin/11:2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui a fonde Rome en -753?</p>",
+      "explain": "<p>Romulus</p>\n<p>Il a ete ete &eacute;lev&eacute; par une louve avec son frere R&eacute;mus.</p>",
+      "choices": [
+        "*Romulus",
+        "Remus",
+        "Auguste",
+        "Jules Cesar"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/11.7"
+    },
+    {
+      "question": "<p><u>Romulus</u> est un _____ de Rome.</p>",
+      "explain": "<p>C'est un roi</p>\n<p>Il est le fondateur et le premier roi de Rome.</p>",
+      "choices": [
+        "*Roi",
+        "Empereur",
+        "Consul",
+        "Dieu"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/11.8"
+    },
+    {
+      "question": "<p>Quel est le <u>dernier roi de Rome</u> tyranique chass&eacute; par ses habitants?</p>",
+      "explain": "",
+      "choices": [
+        "*Tarquin le Superbe",
+        "Romulus",
+        "Vercingetorix",
+        "Jules Cesar"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/11.5"
+    },
+    {
+      "question": "<p>La republique Romaine dure de</p>",
+      "choices": [
+        "753 av JC -> 509 av JC",
+        "*509 av JC -> 27 av JC",
+        "27 av JC -> 476"
+      ],
+      "id": "latin/11:4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui d&eacute;tient le pouvoir durant la <u>R&eacute;publique Romaine</u>?</p>",
+      "explain": "<p>Les 2 consuls.</p>\n<p>Ils sont r&eacute;elus chaque ann&eacute;e par le Senat.</p>",
+      "choices": [
+        "*les consuls",
+        "le roi",
+        "les generaux",
+        "l'empereur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/11.9"
+    },
+    {
+      "question": "<p>Quel g&eacute;n&eacute;ral romain gagne la bataille<u> d'Al&eacute;sia</u> en Gaulle en <u>52 av JC</u>?</p>",
+      "explain": "<p>C'est Jules C&eacute;sar.</p>\n<p>Il&nbsp; a &eacute;crit son recit dans un livre en latin, qui s'appelle \"La Guerre des Gaulles\".</p>",
+      "choices": [
+        "*Jules César",
+        "Vercingetorix",
+        "Romulus",
+        "Auguste"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/11.10"
+    },
+    {
+      "question": "<p>Choisir l'ordre qui convient</p>",
+      "choices": [
+        "*Royaute / Republique / Empire",
+        "Republique / Royaute / Empire",
+        "Empire / Republique / Royaute",
+        "Empire / Royaute / Republique"
+      ],
+      "id": "latin/11:1",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'empire commence en</p>",
+      "choices": [
+        "*27 av JC",
+        "509 av JC",
+        "753 av JC"
+      ],
+      "id": "latin/11:3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le nom du premier <u>empereur romain</u>?</p>",
+      "explain": "<p>Octave.</p>\n<p>Il est le fils adoptif de Jules Cesar.</p>\n<p>Il prend comme nom Auguste en devenant empereur. Octave = Auguste!</p>",
+      "choices": [
+        "*Octave",
+        "Jules Cesar",
+        "Tarquin le Superbe",
+        "Romulus"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/11.6"
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 10,
+  "theme": "civilisation",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

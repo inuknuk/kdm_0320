@@ -1,0 +1,99 @@
+{
+  "title": "Les Adjectifs qualificatifs de la 2eme classe",
+  "pages": [
+    "latin/15/1.htm",
+    "latin/15/2.htm",
+    "latin/15/3.htm",
+    "latin/15/4.htm",
+    "latin/15/5.htm",
+    "latin/15/6.htm",
+    "latin/15/7.htm"
+  ],
+  "id": "latin/15",
+  "questions": [
+    {
+      "question": "Décliner <u>similis causa</u> au singulier",
+      "choices": [
+        "similis causa, simila causa, similam causam, similae causae, similae causae, simila causa",
+        "*similis causa, similis causa, similem causam, similis causae, simili causae, simili causa"
+      ],
+      "id": "latin/15.1"
+    },
+    {
+      "question": "Décliner <u>fortis rex</u> au singulier",
+      "choices": [
+        "*fortis rex, fortis rex, fortem regem, fortis regis, forti regi, forti rege",
+        "fortis rex, fortis rex, fortem regem, fortis regis, forti regi, forti regi"
+      ],
+      "id": "latin/15.2"
+    },
+    {
+      "question": "Décliner <u>vetus templum</u> au singulier",
+      "choices": [
+        "*vetus templum, vetus templum, vetus templum, veteris templi, veteri templo, vetere templo",
+        "vetus templum, vetus templum, vetus templum, veteri templi, vetero templo, vetero templo"
+      ],
+      "id": "latin/15.3"
+    },
+    {
+      "question": "Décliner <u>fortis rex</u> au pluriel",
+      "choices": [
+        "fortes reges, fortes reges, fortes reges, fortum regum, fortibus regibus, fortibus regibus",
+        "*fortes reges, fortes reges, fortes reges, fortium regum, fortibus regibus, fortibus regibus"
+      ],
+      "id": "latin/15.4"
+    },
+    {
+      "question": "Décliner <u>similis causa</u> au pluriel",
+      "choices": [
+        "*similes causae, similes causae, similes causas, similium causarum, similibus causis, similibus causis",
+        "similae causae, similae causae, similas causas, similum causarum, similis causis, similis causis"
+      ],
+      "id": "latin/15.5"
+    },
+    {
+      "question": "Décliner <u>vetus templum</u> au pluriel",
+      "choices": [
+        "*vetera templa, vetera templa, vetera templa, veterum templorum, veteribus templis, veteribus templis",
+        "vetera templa, vetera templa, vetera templa, veterum templum, veteris templis, veteris templis."
+      ],
+      "id": "latin/15.6"
+    },
+    {
+      "question": "Donner le genre, nombre et cas de <u>dominum</u> et accorder avec l'adjectif <u>sapiens</u>",
+      "choices": [
+        "Masc. plur. Acc. sapientium dominum",
+        "*Masc. sing. Acc. sapientem dominum",
+        "Masc. plur. Gen. sapientium dominum"
+      ],
+      "id": "latin/15.7"
+    },
+    {
+      "question": "Donner le genre, nombre et cas de <u>maris</u> et accorder avec l'adjectif <u>ingens</u>",
+      "choices": [
+        "Neutre. plur. Gen. ingentis maris",
+        "Neutre. sing. Abl. ingenti maris",
+        "*Neutre. sing. Gen. ingentis maris"
+      ],
+      "id": "latin/15.8"
+    },
+    {
+      "question": "Donner le genre, nombre et cas de <u>puellas</u> et accorder avec l'adjectif <u>fortis</u>",
+      "choices": [
+        "Fem. plur. Nom. fortes puellas",
+        "*Fem. plur. Acc. fortes puellas",
+        "Fem. plur. Acc. fortas puellas"
+      ],
+      "id": "latin/15.9"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 9,
+  "warning": "1",
+  "theme": "declinaison",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

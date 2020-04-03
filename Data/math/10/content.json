@@ -1,0 +1,132 @@
+{
+  "id": "math/10",
+  "title": "Proportionnalité",
+  "pages": [
+    "math/10/1.htm",
+    "math/10/2.htm",
+    "math/10/3.htm",
+    "math/10/4.htm",
+    "math/10/5.htm",
+    "math/10/6.htm",
+    "math/10/7.htm",
+    "math/10/8.htm",
+    "math/10/9.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un restaurant propose un menu &agrave; prix unique. Une famille de 3 personnes vient de payer l'addition 36 &euro;. Combien va payer un groupe de 12 personnes?</p>",
+      "choices": [
+        "3 × 36 €= 108 €",
+        "*(36 € ÷ 3) × 12 = 144 €",
+        "12 × 36 €= 432 €",
+        "(36 € × 3) ÷ 12 = 9 €"
+      ],
+      "id": "math/10.1",
+      "explain": "<p>C'est un probl&egrave;me de <u>r&egrave;gle de 3</u>. On utilise la m&eacute;thode du <u>passage par l&rsquo;unit&eacute;</u> pour le r&eacute;soudre.</p>\n<p>On calcule d'abord le prix pour <u>1 personne</u>.<br />C'est facile ensuite de calculer le prix pour <u>12 personnes</u>.</p>\n<p>Le prix pour 1 personne, c'est le prix pour 3 personnes divis&eacute; par 3: 36 &euro; &divide; 3 = 12 &euro;</p>\n<p>Le prix pour 12 personnes, c'est le prix pour 1 personne fois 12: 12 &euro; &times; 12 = 144 &euro;</p>"
+    },
+    {
+      "question": "<p>Un restaurant propose un menu &agrave; prix unique. Une famille de 4 personnes vient de payer l'addition 44 &euro;. Combien va payer un groupe de 10 personnes?</p>",
+      "choices": [
+        "*(44 € ÷ 4) × 10 = 110 €",
+        "6 × 44 = 264 €",
+        "10 × 44 = 440 €"
+      ],
+      "id": "math/10.2",
+      "explain": "<p>C'est un probl&egrave;me de&nbsp;<u>r&egrave;gle de 3</u>. On utilise la m&eacute;thode du&nbsp;<u>passage par l&rsquo;unit&eacute;</u>&nbsp;pour le r&eacute;soudre.</p>\n<p>On calcule d'abord le prix pour&nbsp;<u>1 personne</u>.<br />C'est facile ensuite de calculer le prix pour&nbsp;<u>10 personnes</u>.</p>\n<p>Le prix pour 1 personne, c'est le prix pour 4 personnes divis&eacute; par 4: 44 &euro; &divide; 4 = 11 &euro;</p>\n<p>Le prix pour 10 personnes, c'est le prix pour 1 personne fois 10: 11 &euro; &times; 10 = 110 &euro;</p>"
+    },
+    {
+      "question": "<p>La <u>taille </u>d'une personne est <u>proportionnelle </u>&agrave; son <u>&acirc;ge</u>.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "id": "math/10.4",
+      "explain": "<p>Un homme de 20 ans mesure en moyenne 1,75m.</p>\n<p>Mais un homme de 40 ans ne mesure pas 1,75 &times; 2 = 3m50!</p>\n<p>On ne grandit pas ind&eacute;finiment! On s'arr&ecirc;te a l'age adulte.</p>"
+    },
+    {
+      "question": "<p>J'utilise des briques identiques pour construire un mur.</p>\n<p>Le poids total des briques est-il <u>proportionnel </u>au nombre de briques?</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "id": "math/10.5",
+      "explain": "<p>On note <u>p</u> le poids d'une brique.</p>\n<p>Poids total = <u>p</u> &times; nombre de briques.</p>\n<p>p est le <u>coefficient de proportionnalit&eacute;</u>.</p>\n<p>Donc la reponse est Oui.</p>"
+    },
+    {
+      "question": "<p>Le <u>p&eacute;rim&egrave;tre </u>P d'un cercle est-il <u>proportionnel </u>&agrave; son <u>rayon </u>R ?</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "math/10.6",
+      "explain": "<p>On sait que P = 2&pi; &times; R</p>\n<p>2&pi; est le coefficient de proportionnalit&eacute;.</p>"
+    },
+    {
+      "question": "<p>Pour calculer le p&eacute;rim&egrave;tre P d'un rectangle de grand c&ocirc;t&eacute; L et petit c&ocirc;t&eacute; l, on &eacute;crit: P = 2 &times; L + 2 &times; l</p>\n<p>Si L &ne; l, est-ce que P est proportionnel &agrave; L?</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "id": "math/10.7",
+      "explain": "<p>On ne peut pas trouver de <u>coefficient de proportionnalit&eacute;</u>, c'est-&agrave;-dire un nombre constant qu'on multiplie par L pour obtenir P.</p>\n<p>Les deux grandeurs P et L ne sont donc pas proportionnelles.</p>"
+    },
+    {
+      "question": "<p>Quel est le coefficient de proportionnalit&eacute; de ce tableau?</p>\n<table style=\"border: 2px solid black;\">\n<tbody>\n<tr>\n<td>5</td>\n<td>10</td>\n<td>15</td>\n<td>20</td>\n</tr>\n<tr>\n<td>10</td>\n<td>20</td>\n<td>30</td>\n<td>40</td>\n</tr>\n</tbody>\n</table>",
+      "choices": [
+        "5",
+        "10",
+        "*2"
+      ],
+      "id": "math/10.8",
+      "explain": "<p>Pour obtenir les valeurs de la 2&egrave;me ligne, on multiplie les valeurs de la 1&egrave;re ligne par le <u>coefficient 2</u>:</p>\n<p>5&nbsp; &nbsp;<u>&times; 2</u> = 10<br />10 <u>&times; 2</u> = 20<br />15 <u>&times; 2</u> = 30<br />20 <u>&times; 2</u> = 40</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\">9</td>\n<td style=\"width: 50%;\">12</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">6</td>\n<td style=\"width: 50%;\">8</td>\n</tr>\n</tbody>\n</table>\n<p>Est-ce un tableau de proportionnalit&eacute;?</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "id": "math/10.9",
+      "explain": "<p>D&rsquo;apr&egrave;s la propri&eacute;t&eacute; de <u>l&rsquo;&eacute;galit&eacute; des produits en croix</u>:</p>\n<p>9 &times; 8 = 6 &times; 12 = 72</p>\n<p>Donc c'est bien un tableau de proportionnalit&eacute;.</p>"
+    },
+    {
+      "question": "<p>Un lot de 10 cahiers identiques co&ucirc;te 18 &euro;. Quel est le prix de 6 cahiers?</p>",
+      "choices": [
+        "10 x (18 € ÷ 6) = 30 €",
+        "6 x (10 ÷ 18 €) = 3,33 €",
+        "*6 x 1,8 € = 10,8 €"
+      ],
+      "id": "math/10.10",
+      "explain": "<p>C'est un probl&egrave;me de&nbsp;<u>r&egrave;gle de 3</u>. On utilise la m&eacute;thode du&nbsp;<u>passage par l&rsquo;unit&eacute;</u>&nbsp;pour le r&eacute;soudre.</p>\n<p>On calcule d'abord le prix pour&nbsp;<u>1 cahier</u>.<br />C'est facile ensuite de calculer le prix pour <u>6 cahiers</u>.</p>\n<p>Le prix pour 1 cahier, c'est le prix pour 10 cahiers divis&eacute; par 10: 18 &euro; &divide; 10 = 1,8 &euro;</p>\n<p>Le prix pour 6 cahiers, c'est le prix pour 1 cahier fois 6: 1,8 &euro; &times; 6 = 10,8 &euro;</p>"
+    },
+    {
+      "question": "<p>Un sachet de 500g de bonbons co&ucirc;te 2,50 &euro;. Combien co&ucirc;tent 750g de bonbons?</p>",
+      "choices": [
+        "(2€50  ÷ 500) x 75",
+        "*(2€50 ÷ 5) x 7,5",
+        "(500 ÷ 2€50) x 750"
+      ],
+      "id": "math/10.11",
+      "explain": "<p>C'est un probl&egrave;me de&nbsp;<u>r&egrave;gle de 3</u>. On utilise la m&eacute;thode du&nbsp;<u>passage par l&rsquo;unit&eacute;</u>&nbsp;pour le r&eacute;soudre.</p>\n<p>On calcule d'abord le prix pour&nbsp;<u>1g</u>.<br />C'est facile ensuite de calculer le prix pour <u>750g</u>.</p>\n<p>Pour faciliter les calculs, on s&rsquo;aper&ccedil;oit qu'on peut aussi calculer le prix pour 100g.</p>\n<p>Le prix pour 100g, c'est le prix pour 500g divis&eacute; par 5: 2,50 &euro; &divide; 5 = 0,5 &euro;</p>\n<p>Le prix pour 750g, c'est le prix pour 100g fois 7,5: 0,5 &euro; &times; 7 = 3,50 &euro;</p>"
+    },
+    {
+      "question": "<p>Un man&egrave;ge tourne &agrave; une vitesse constante et fait 5 tours complets en 4 minutes. Le billet co&ucirc;te 3 &euro; pour une s&eacute;ance de 10 minutes. Au d&eacute;part, l'enfant est sur le man&egrave;ge juste devant son parent. Aucun des deux ne bouge pendant la s&eacute;ance. L'enfant revient-il au m&ecirc;me endroit &agrave; la fin de la s&eacute;ance?</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "id": "math/10.12",
+      "explain": "<p>C'est un probl&egrave;me de&nbsp;<u>r&egrave;gle de 3</u>. On utilise la m&eacute;thode du&nbsp;<u>passage par l&rsquo;unit&eacute;</u>&nbsp;pour le r&eacute;soudre.</p>\n<p>On calcule d'abord le nombre de tours en <u>1 minute</u>.<br />C'est facile ensuite de calculer le nombre de tours en <u>10 minutes</u>.</p>\n<p>Le nombre de tours en 1 minute, c'est nombre de tours en 4 minutes divis&eacute; par 4: 5 &divide; 4 = 1,25 tours</p>\n<p>Le nombre de tours en 10 minutes, c'est le nombre de tours en 1 minute fois 10: 1,25 &times; 10 = <u>12,5 tours</u></p>\n<p>Il n'y a pas un nombre entier de tours pendant une s&eacute;ance: donc l'enfant ne revient pas au m&ecirc;me endroit.</p>"
+    }
+  ],
+  "pageCounter": 9,
+  "questionCounter": 12,
+  "theme": "fonction",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": ""
+}

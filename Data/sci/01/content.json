@@ -1,0 +1,264 @@
+{
+  "id": "sci/01",
+  "title": "Ions et électrons",
+  "pages": [
+    "sci/01/1.htm",
+    "sci/01/2.htm",
+    "sci/01/3.htm",
+    "sci/01/4.htm",
+    "sci/01/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un atome a une <u>charge &eacute;lectrique</u></p>",
+      "choices": [
+        "*neutre",
+        "positive",
+        "négative"
+      ],
+      "id": "sci/01.2",
+      "explain": "<p>L'atome est compos&eacute; de charges &eacute;lectriques oppos&eacute;es qui s&rsquo;annulent.</p>\n<p>Il est &eacute;lectriquement neutre.</p>"
+    },
+    {
+      "question": "<p>Le <u>noyau</u> d'un atome est</p>",
+      "explain": "",
+      "choices": [
+        "*chargé positivement",
+        "chargé négativement",
+        "neutre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/01.23"
+    },
+    {
+      "question": "<p>Un <u>&eacute;lectron</u> a une charge &eacute;lectrique</p>",
+      "choices": [
+        "neutre",
+        "positive",
+        "*négative"
+      ],
+      "id": "sci/01.1",
+      "explain": "<p>Les &eacute;lectrons sont des particules charg&eacute;es n&eacute;gativement.</p>"
+    },
+    {
+      "question": "<p>Dans un atome, il y a exactement le m&ecirc;me nombre d&rsquo;<u>&eacute;lectrons</u> (charg&eacute;s n&eacute;gativement) que de <u>protons</u> (charg&eacute;s positivement) dans le noyau.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Ça dépend"
+      ],
+      "id": "sci/01.3",
+      "explain": "<p>Les atomes sont compos&eacute;s d&rsquo;un <u>noyau</u> &eacute;lectriquement <u>positif</u> et d&rsquo;<u>&eacute;lectrons</u> &eacute;lectriquement <u>n&eacute;gatifs</u>.</p>\n<p>Le noyau est compos&eacute; de <u>neutrons</u> et de <u>protons</u>.</p>\n<p>Les <u>protons</u> poss&egrave;dent une charge &eacute;lectrique <u>positive</u>. Les neutrons sont &eacute;lectriquement neutres.</p>\n<p>Dans un atome il y a autant d&rsquo;&eacute;lectrons que de protons.</p>"
+    },
+    {
+      "question": "<p>Un <u>ion positif</u> est un atome qui a ____ un ou plusieurs &eacute;lectrons.</p>",
+      "choices": [
+        "*perdu",
+        "gagné",
+        "créé"
+      ],
+      "id": "sci/01.4",
+      "explain": "<p>L'atome est &eacute;lectriquement neutre.</p>\n<p>Quand il perd des &eacute;lectrons charg&eacute;s n&eacute;gativement, la charge devient positive.</p>"
+    },
+    {
+      "question": "<p>Un <u>ion n&eacute;gatif</u> est un atome qui a ____ un ou plusieurs &eacute;lectrons.</p>",
+      "choices": [
+        "perdu",
+        "*gagné",
+        "créé"
+      ],
+      "id": "sci/01.5",
+      "explain": "<p>L'atome est &eacute;lectriquement neutre.</p>\n<p>Quand il gagne des &eacute;lectrons charg&eacute;s n&eacute;gativement, la charge devient n&eacute;gative.</p>"
+    },
+    {
+      "question": "<p>Quelles sont les 2 parties d'un <u>atome</u>?</p>",
+      "choices": [
+        "*noyau et électrons",
+        "protons et neutrons",
+        "noyau et neutrons"
+      ],
+      "id": "sci/01.11",
+      "explain": "<p>Les atomes sont compos&eacute;s d&rsquo;un&nbsp;<u>noyau</u>&nbsp;&eacute;lectriquement&nbsp;<u>positif</u>&nbsp;et d&rsquo;<u>&eacute;lectrons</u>&nbsp;&eacute;lectriquement&nbsp;<u>n&eacute;gatifs</u>.</p>\n<p>Le noyau est compos&eacute; de&nbsp;<u>neutrons</u>&nbsp;et de&nbsp;<u>protons</u>.</p>"
+    },
+    {
+      "question": "<p>Combien d'atomes contient l'ion <u>NO<sub>3</sub><sup>-</sup></u> ?</p>",
+      "choices": [
+        "*4",
+        "3",
+        "2",
+        "1"
+      ],
+      "id": "sci/01.6",
+      "explain": "<p>Il contient 1 atome d'azote : N</p>\n<p>Et 3 atomes d&rsquo;oxyg&egrave;ne: O<sub>3</sub></p>\n<p>Donc 4 atomes en tout!</p>"
+    },
+    {
+      "question": "<p>Combien d&rsquo;&eacute;lectrons en exc&egrave;s contient l'ion <u>NO<sub>3</sub><sup>-</sup></u> ?</p>",
+      "choices": [
+        "*1",
+        "3",
+        "2",
+        "4"
+      ],
+      "id": "sci/01.7",
+      "explain": "<p>1 seul, indiqu&eacute; par le signe - apr&egrave;s le nom de l'ion.</p>"
+    },
+    {
+      "question": "<p>Pour donner l'ion Fe<sup>3+</sup>, l'atome de Fer a</p>",
+      "choices": [
+        "*perdu 3 électrons",
+        "gagné 3 électrons",
+        "perdu 1 électron",
+        "gagné 1 électron"
+      ],
+      "id": "sci/01.8",
+      "explain": "<p>L'ion Fe<sup>3+</sup> est charg&eacute; <u>positivement</u>.</p>\n<p>L'atome de Fe, qui est neutre, a perdu 3 &eacute;lectrons charg&eacute;s n&eacute;gativement.</p>"
+    },
+    {
+      "question": "<p>L'atome de brome <u>Br</u> contient <u>35 protons</u> dans son noyau.</p>\n<p>Combien l'ion bromure <u>Br<sup>-</sup></u>&nbsp;comporte-t-il d'&eacute;lectrons?</p>",
+      "choices": [
+        "*36 électrons",
+        "34 électrons",
+        "1 électron",
+        "35 électrons"
+      ],
+      "id": "sci/01.9",
+      "explain": "<p>L'ion Br<sup>-</sup> est charg&eacute; n&eacute;gativement.</p>\n<p>L'atome Br a gagn&eacute; un &eacute;lectron pour donner l'ion Br<sup>-</sup>.</p>\n<p>Dans un atome il y a autant d&rsquo;&eacute;lectrons que de protons.</p>\n<p>Or le brome a 35 protons.</p>\n<p>Donc il y a <u>35 + 1 = 36</u> &eacute;lectrons dans le bromure Br<sup>-</sup></p>"
+    },
+    {
+      "question": "<p>L'atome de fluor de symbole <u>F</u> poss&egrave;de <u>10 &eacute;lectrons</u>.</p>\n<p>L'ion fluorure poss&egrave;de <u>un &eacute;lectron de plus</u> que l'atome de fluor.</p>\n<p>Sa formule est&nbsp;</p>",
+      "choices": [
+        "*F<sup>-</sup>",
+        "F<sup>+</sup>",
+        "F<sup>9+</sup>",
+        "F<sup>10+</sup>",
+        "F<sup>11-</sup>"
+      ],
+      "id": "sci/01.10",
+      "explain": "<p>L'atome F a <u>gagn&eacute; un &eacute;lectron</u> pour donner l'ion fluorure.</p>\n<p>L'ion est charg&eacute; n&eacute;gativement.</p>\n<p>On indique l'electron suppl&eacute;mentaire dans la formule: F<sup>-</sup></p>\n<p><u>Attention</u>: ca ne d&eacute;pend pas du nombre d&rsquo;&eacute;lectrons que poss&egrave;de l'atome F.</p>\n<p>L'atome F est <u>&eacute;lectriquement neutre</u> parce qu'il poss&egrave;de autant de protons positifs que d'&eacute;lectrons n&eacute;gatifs.</p>"
+    },
+    {
+      "question": "<p>Un <u>cation</u> est un ion qui a une charge &eacute;lectrique</p>",
+      "choices": [
+        "*positive",
+        "négative",
+        "neutre"
+      ],
+      "id": "sci/01.12",
+      "explain": "<p>Un cation est un ion positif, par d&eacute;finition.</p>"
+    },
+    {
+      "question": "<p>Un <u>anion</u> est un ion qui a une charge &eacute;lectrique</p>",
+      "choices": [
+        "positive",
+        "*négative",
+        "neutre"
+      ],
+      "id": "sci/01.13",
+      "explain": "<p>Un anion est un ion n&eacute;gatif, par d&eacute;finition.</p>"
+    },
+    {
+      "question": "<p>L'ion <u>Na<sup>+</sup></u> est un&nbsp;</p>",
+      "choices": [
+        "*cation",
+        "anion",
+        "atome"
+      ],
+      "id": "sci/01.14",
+      "explain": "<p>Le signe + indique que l'ion&nbsp;Na<sup>+</sup> est charg&eacute; positivement.</p>\n<p>Un cation est un ion positif.</p>"
+    },
+    {
+      "question": "<p>L'ion <u>chlorure Cl<sup>-</sup></u> est un</p>",
+      "choices": [
+        "cation",
+        "*anion",
+        "atome"
+      ],
+      "id": "sci/01.15",
+      "explain": "<p>Le signe - indique que l'ion Cl<sup>-</sup> est charg&eacute; n&eacute;gativement.</p>\n<p>Un anion est un ion n&eacute;gatif.</p>"
+    },
+    {
+      "question": "<p>L'ion <u>chlorure Cl-</u> est un ion</p>",
+      "choices": [
+        "*monoatomique",
+        "polyatomique",
+        "monotomique",
+        "monovalent"
+      ],
+      "id": "sci/01.16",
+      "explain": "<p>Sa formule indique qu'il a un seul atome Cl.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<p>L'ion nitrate <u>&nbsp;NO<sub>3</sub><sup>-</sup></u> est un ion</p>",
+      "choices": [
+        "monoatomique",
+        "*polyatomique",
+        "dynomique",
+        "monovalent"
+      ],
+      "id": "sci/01.17",
+      "explain": "<p>Sa formule indique qu'il a un atome N et trois atomes O.</p>\n<p>Il est polyatomique.</p>"
+    },
+    {
+      "question": "<p>Pour tester la pr&eacute;sence d'un ion dans une solution aqueuse, on rajoute un r&eacute;actif correctement choisi.</p>\n<p>Le test est positif, il se forme</p>",
+      "choices": [
+        "*un précipité",
+        "un soluté",
+        "une réaction"
+      ],
+      "id": "sci/01.18",
+      "explain": "<p>Pour identifier les ions pr&eacute;sents dans des solutions, on utilise des r&eacute;actifs qui&nbsp; provoquent l&rsquo;apparition d&rsquo;un pr&eacute;cipit&eacute; color&eacute; caract&eacute;ristique.</p>"
+    },
+    {
+      "question": "<p>Une solution de nitrate d'argent contient les ions:</p>",
+      "choices": [
+        "*Ag<sup>+</sup> et NO<sub>3</sub><sup>-</sup>",
+        "Ag<sup>+</sup>",
+        "Ag<sup>-</sup> et NO<sub>3</sub><sup>+</sup>",
+        "Na<sup>+</sup>",
+        "Ag et NO<sub>3</sub>"
+      ],
+      "id": "sci/01.19",
+      "explain": "<p>Les ions argent : Ag<sup>+</sup></p>\n<p>Et les ions nitrate NO<sub>3</sub><sup>-</sup></p>"
+    },
+    {
+      "question": "<p>Une solution d<u>'hydroxyde de sodium</u> contient les ions</p>",
+      "choices": [
+        "*Na<sup>+</sup> et OH<sup>-</sup>",
+        "So<sup>+</sup> et OH<sup>-</sup>",
+        "Na<sup>-</sup> et OH<sup>+</sup>",
+        "Na et H<sub>2</sub>0"
+      ],
+      "id": "sci/01.20",
+      "explain": "<p>L'ion sodium : Na+</p>\n<p>Et l'ion hydroxyde : OH<sup>-</sup><br /><br />Pour se souvenir:</p>\n<p>Hydro - &gt; H</p>\n<p>Oxyde -&gt; O</p>\n<p>Sodium = Na</p>"
+    },
+    {
+      "question": "<p>Un atome qui a perdu un ou deux &eacute;lectrons s'appelle un</p>",
+      "explain": "<p>Un atome a une charge <u>neutre</u>.</p>\n<p>Quand il perd des &eacute;lectrons, la charge devient <u>positive</u>.</p>\n<p>C'est un ion <u>positif</u>, appel&eacute; aussi <u>cation</u>.</p>",
+      "choices": [
+        "*cation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/01.21"
+    },
+    {
+      "question": "<p>Un atome qui a gagn&eacute; un ou deux &eacute;lectrons s'appelle un</p>",
+      "explain": "<p>Un atome a une charge <u>neutre</u>.</p>\n<p>Quand il gagne des &eacute;lectrons, la charge devient <u>n&eacute;gative</u>.</p>\n<p>C'est un ion <u>n&eacute;gatif</u>, appel&eacute; aussi <u>anion</u>.</p>",
+      "choices": [
+        "*anion"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/01.22"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 25,
+  "theme": "2",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "tingnat@gmail.com"
+}

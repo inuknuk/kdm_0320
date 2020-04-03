@@ -1,0 +1,281 @@
+{
+  "id": "math/50",
+  "title": "Pavé et Prisme droits",
+  "pages": [
+    "math/50/1.htm",
+    "math/50/2.htm",
+    "math/50/3.htm",
+    "math/50/4.htm",
+    "math/50/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>De combien de <u>bases</u> est compos&eacute; un prisme droit ?</p>",
+      "explain": "<p>Un prisme droit un solide limit&eacute; par <u>deux bases</u> (polygones superposables dans des plans parall&egrave;les).</p>",
+      "choices": [
+        "0",
+        "1",
+        "*2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.1"
+    },
+    {
+      "question": "<p>Quelle est la forme des faces lat&eacute;rales d'un prisme droit ?</p>",
+      "explain": "<p>Un prisme droit un solide limit&eacute; par deux bases et des <u>faces lat&eacute;rales rectangulaires</u>.</p>",
+      "choices": [
+        "Triangle",
+        "*Rectangle",
+        "Pentagone",
+        "Hexagone régulier"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.2"
+    },
+    {
+      "question": "<p>Quelle est la hauteur du prisme suivant ?&nbsp;</p>\n<p><img src=\"img/quhauteur.png\" /></p>",
+      "explain": "<p>La hauteur du prisme correspond &agrave; l'ar&ecirc;te joignant ses bases. Dans ce cas, les bases sont triangulaires et la <u>hauteur du prisme est A</u>.</p>",
+      "choices": [
+        "*A",
+        "B",
+        "C",
+        "D"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.11"
+    },
+    {
+      "question": "<p>Soit un prisme droit &agrave; <u>base triangulaire</u>. Combien de faces lat&eacute;rales a-t-il?</p>",
+      "explain": "<p>Les bases du prisme sont des triangles. Le prisme a donc <u>trois faces lat&eacute;rales</u>.</p>",
+      "choices": [
+        "*3",
+        "4",
+        "5",
+        "6"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.3"
+    },
+    {
+      "question": "<p>Soit un prisme droit dont les bases sont des <u>hexagones</u>. Combien de faces lat&eacute;rales a-t-il?</p>",
+      "explain": "<p>Les bases du prisme sont des hexagones. Le prisme a donc <u>six faces lat&eacute;rales</u>.</p>",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "*6"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.4"
+    },
+    {
+      "question": "<p>Soit un prisme droit &agrave; <u>base triangulaire</u>. Combien de faces a-t-il au total ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>Les bases du prisme sont des triangles. Le prisme a donc trois faces lat&eacute;rales et deux bases, soit <u>cinq faces</u> au total.</p>",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "*5"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.12"
+    },
+    {
+      "question": "<p>De quelle forme sont les <u>bases</u> d'un pav&eacute; droit ?</p>",
+      "explain": "<p>Un pav&eacute; droit est un prisme droit particulier dans les bases sont des <u>rectangles</u>.</p>",
+      "choices": [
+        "Triangle",
+        "*Rectangle",
+        "Pentagone",
+        "Hexagone régulier"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.6"
+    },
+    {
+      "question": "<p>Soit un pav&eacute; droit. Combien de faces a-t-il au total ?</p>",
+      "explain": "<p>Comme un pav&eacute; droit est un prisme droit particulier dans les bases sont des rectangles. Il a deux bases et quatre faces lat&eacute;rales soit <u>six faces</u> au total.</p>",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "*6"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.7"
+    },
+    {
+      "question": "<p>Soit un prisme droit dont les bases sont des <u>hexagones</u>. Combien de faces a-t-il au total ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>Les bases du prisme sont des hexagones. Le prisme a donc six faces lat&eacute;rales et deux bases. Il a donc <u>huit faces</u> au totales.</p>",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "*8"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.13"
+    },
+    {
+      "question": "<p>Comment appelle t-on ce type de figure ?</p>\n<p><img src=\"img/patron.png\" /></p>",
+      "explain": "<p>Cette figure est un <u>patron</u>.</p>",
+      "choices": [
+        "*Un patron ",
+        "Une allure",
+        "Une structure",
+        "Une forme "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.8"
+    },
+    {
+      "question": "<p>De quel forme est la base du prisme droit form&eacute; par ce patron ?</p>\n<p><img src=\"img/patron.png\" /></p>",
+      "explain": "<p>Le patron est form&eacute; de rectangles et de triangles. Hors les faces lat&eacute;rales d'un prisme sont des rectangles. <u>Les triangles correspondent donc aux bases</u>.</p>",
+      "choices": [
+        "*Triangle",
+        "Carré",
+        "Rectangle",
+        "Prisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.9"
+    },
+    {
+      "question": "<p>De quel forme est la base du prisme droit form&eacute; par ce patron ?</p>\n<p><img src=\"img/patronrec.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Le patron est form&eacute; de rectangles. Les faces lat&eacute;rales et les bases sont des <u>rectangles</u>.&nbsp;</p>",
+      "choices": [
+        "Triangle",
+        "Carré",
+        "*Rectangle",
+        "Prisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.10"
+    },
+    {
+      "question": "<p>Comment appelle-t-on la perspective suivante ?</p>\n<p><img src=\"img/cavaliere.png\" /></p>",
+      "explain": "<p>Cette vue s'appelle la <u>perspective cavali&egrave;re</u>.</p>",
+      "choices": [
+        "*Perspective cavalière",
+        "Perspective droite",
+        "Perspective 3D",
+        "Perspective linéaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.14"
+    },
+    {
+      "question": "<p>Soit le prisme droit suivant. Quelle est la <u>longueur d'un des c&ocirc;t&eacute;s</u> de la base ?</p>\n<p><img src=\"img/qucavadistance.png\" /></p>",
+      "explain": "<p>Un c&ocirc;t&eacute; de la base est de longueur <u>4 cm</u>.</p>",
+      "choices": [
+        "1,5 cm",
+        "*4 cm",
+        "5,5 cm",
+        "12 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.15"
+    },
+    {
+      "question": "<p>Soit le prisme droit suivant. Quel est sa <u>hauteur</u> ?</p>\n<p><img src=\"img/qucavadistance.png\" /></p>",
+      "explain": "<p>La hauteur du prisme droit est de <u>1,5 cm</u>.</p>",
+      "choices": [
+        "*1,5 cm",
+        "4 cm",
+        "5,5 cm",
+        "12 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.16"
+    },
+    {
+      "question": "<p>Soit le prisme droit suivant. Quel est le <u>p&eacute;rim&egrave;tre</u> de sa base ?</p>\n<p><img src=\"img/qucavadistance.png\" /></p>",
+      "explain": "<p>Comme la base est triangulaire, le p&eacute;rim&egrave;tre de la base vaut :&nbsp;</p>\n<p>p = 3 &times; C = 3 &times; 4 = <u>12 cm</u>.</p>",
+      "choices": [
+        "1,5 cm",
+        "4 cm",
+        "5,5 cm",
+        "*12 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.17"
+    },
+    {
+      "question": "<p>Soit le prisme droit suivant. Quelle est la somme des <u>aires de ses surfaces lat&eacute;rales</u> ?</p>\n<p><img src=\"img/qucavadistance.png\" /></p>",
+      "explain": "<p>Comme la base est triangulaire, la somme des aires de ses surfaces lat&eacute;rales vaut :&nbsp;</p>\n<p>Alat = 3 &times; C &times; h = 3 &times; 4 &times; 1,5 = 3 &times; 6 = <u>18 cm&sup2;</u>.</p>",
+      "choices": [
+        "1,5 cm²",
+        "4 cm²",
+        "6 cm²",
+        "*18 cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.18"
+    },
+    {
+      "question": "<p>Soit le prisme droit suivant. Quel est l'<u>aire de ses deux bases</u> ?</p>\n<p><img src=\"img/qucavadistance.png\" /></p>",
+      "explain": "<p>L'aire des deux triangles &eacute;quilat&eacute;raux qui sont les bases vaut :&nbsp;</p>\n<p>Abase = 2 &times; &radic;(3) &times; C&sup2; / 4 = <u>&radic;(3) &times; 8</u> = 13,85 cm&sup2;.</p>",
+      "choices": [
+        "*8 × √(3) cm²",
+        "8 cm²",
+        "√(3) cm²",
+        "6 cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.19"
+    },
+    {
+      "question": "<p>Soit le prisme droit suivant. Quel est son <u>volume</u> ?&nbsp;</p>\n<p><img src=\"img/qucavadistance.png\" /></p>",
+      "explain": "<p>Le volume du prisme droit vaut :&nbsp;</p>\n<p>V = Abase &times; h = &radic;(3) &times; 8 &times; 1,5 = <u>12 &times; &radic;(3)</u> = 20,78 cm&sup3;.</p>",
+      "choices": [
+        "*12 × √(3) cm³",
+        "24 cm³",
+        "4 × √(3) cm³",
+        "6 cm³"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.20"
+    },
+    {
+      "question": "<p>La figure suivante est-elle un prisme ?</p>\n<p><img src=\"img/generation.png\" /></p>",
+      "explain": "<p>Non, il s'agit d'un <u>c&ocirc;ne</u>.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/50.21"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 21,
+  "theme": "geometrie",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

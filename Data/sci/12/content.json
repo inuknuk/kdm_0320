@@ -1,0 +1,276 @@
+{
+  "id": "sci/12",
+  "title": "Mouvement: Référentiel et Trajectoire",
+  "pages": [
+    "sci/12/1.htm",
+    "sci/12/2.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>La description du mouvement d'un object se fait toujours <u>par rapport</u> a _______</p>",
+      "choices": [
+        "*un referentiel",
+        "un solide",
+        "une trajectoire",
+        "un systeme",
+        "une vitesse"
+      ],
+      "id": "sci/12.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un referentiel est ______&nbsp;&nbsp;par rapport auquel on rep&egrave;re une position ou un mouvement.</p>",
+      "choices": [
+        "*un solide",
+        "une trajectoire",
+        "une vitesse"
+      ],
+      "id": "sci/12.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le <u>mouvement</u> d'un object <u>depend</u> du <u>referentiel</u> choisi pour l'observer</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "sci/12.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>La <u>trajectoire</u> d'un object est independante du <u>referentiel</u></p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "sci/12.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un object est en <u>mouvement</u> par rapport a un referentiel si _____ qui les separe <u>varie.</u></p>",
+      "choices": [
+        "*la distance",
+        "la vitesse",
+        "la position",
+        "la trajectoire"
+      ],
+      "id": "sci/12.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Si la <u>distance</u> entre un object et un referentiel <u>varie</u>, l'object est ____ par rapport a celui -ci.</p>",
+      "choices": [
+        "*en mouvement",
+        "fixe",
+        "accelere",
+        "ralenti"
+      ],
+      "id": "sci/12.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Si la <u>distance</u> entre un object et un referentiel ne change pas, l'object est ____ par rapport a celui -ci.</p>",
+      "choices": [
+        "en mouvement",
+        "*fixe",
+        "accelere",
+        "ralenti"
+      ],
+      "id": "sci/12.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>La trajectoire d'un object est l'ensemble des _____ successives de l'object au cours du temps.</p>",
+      "choices": [
+        "*positions",
+        "vitesses",
+        "masses",
+        "referentiels"
+      ],
+      "id": "sci/12.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Donne un synonyme de <u>trajectoire</u>:</p>",
+      "choices": [
+        "*mouvement",
+        "vitesse",
+        "accelerarion",
+        "referentiel"
+      ],
+      "id": "sci/12.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>La <u>vitesse</u> est&nbsp; ____ parcourue par&nbsp; unobject <u>pendant un instant</u> donne.</p>",
+      "choices": [
+        "*la distance",
+        "la masse",
+        "la trajectoire",
+        "le referentiel"
+      ],
+      "id": "sci/12.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>La <u>vitesse</u> est&nbsp; la distance parcourue par un object pendant ______ .</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*un temps",
+        "une masse",
+        "une longueur"
+      ],
+      "id": "sci/12.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>La formule pour calculer la <u>vitesse</u> d'un object est&nbsp;</p>",
+      "choices": [
+        "*v = d / t",
+        "v = d - t",
+        "v = t / d",
+        "v = d + t"
+      ],
+      "id": "sci/12.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'unite de la <u>vitesse</u> est&nbsp;</p>",
+      "choices": [
+        "*m/s",
+        "m . s",
+        "kWh",
+        "m",
+        "kg"
+      ],
+      "id": "sci/12.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Une <u>autre unite</u> souvent utilisee pour la <u>vitesse</u> des objects <u>usuels</u> est le&nbsp;</p>",
+      "choices": [
+        "*km/h",
+        "kmh",
+        "kWh",
+        "km/s"
+      ],
+      "id": "sci/12.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Par rapport a un referentiel donne, un mouvement dont la trajectoire est <u>une droite</u> est un mouvement:</p>",
+      "choices": [
+        "*rectiligne",
+        "uniforme",
+        "ralenti",
+        "accelere",
+        "circulaire"
+      ],
+      "id": "sci/12.15",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un mouvement dont la trajectoire est une <u>courbe quelconque</u> est un mouvement</p>",
+      "choices": [
+        "*curviligne",
+        "circulaire",
+        "uniforme",
+        "ralenti",
+        "rectiligne"
+      ],
+      "id": "sci/12.16",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un mouvement &agrave; <u>vitesse constante</u> est un mouvement</p>",
+      "choices": [
+        "rectiligne",
+        "*uniforme",
+        "circulaire",
+        "curviligne"
+      ],
+      "id": "sci/12.17",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un mouvement dont la trajectoire est un <u>cercle</u> est un mouvement</p>",
+      "choices": [
+        "curviligne",
+        "*circulaire",
+        "uniforme",
+        "ralenti"
+      ],
+      "id": "sci/12.18",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un mouvement pour lequel la <u>vitesse diminue</u> est un</p>",
+      "choices": [
+        "*mouvement ralenti",
+        "mouvement uniforme",
+        "mouvement circulaire",
+        "mouvement accelere"
+      ],
+      "id": "sci/12.19",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pour se d&eacute;fouler, les hamsters font r&eacute;guli&egrave;rement du sport en courant dans une roue dans leur cage. Par rapport au sol de la cage, leur mouvement est</p>",
+      "choices": [
+        "*immobile",
+        "rectiligne uniforme",
+        "circulaire"
+      ],
+      "id": "sci/12.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la trajectoire d&rsquo;un point situ&eacute; sur le bord de la roue quand le hamster l&rsquo;utilise dans sa cage ?</p>",
+      "choices": [
+        "*circulaire",
+        "rectiligne",
+        "accelere"
+      ],
+      "id": "sci/12.21",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le mouvement d'une voiture qui arrive devant un feu rouge est un mouvement</p>",
+      "choices": [
+        "*rectiligne non uniforme",
+        "rectiligne uniforme"
+      ],
+      "id": "sci/12.22",
+      "explain": ""
+    },
+    {
+      "question": "<p>Par rapport &agrave; sa cam&eacute;ra&nbsp; accroch&eacute;e sur son casque, un pilote de moto a un mouvement</p>",
+      "choices": [
+        "*immobile",
+        "uniforme",
+        "accelere",
+        "rectiligne"
+      ],
+      "id": "sci/12.23",
+      "explain": ""
+    },
+    {
+      "question": "<p>Au cours d&rsquo;un mouvement <u>rectiligne</u></p>",
+      "choices": [
+        "*la direction du mouvement ne change pas",
+        "la valeur de la vitesse ne change pas"
+      ],
+      "id": "sci/12.24",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 24,
+  "theme": "3",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

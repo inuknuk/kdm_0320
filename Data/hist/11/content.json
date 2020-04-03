@@ -1,0 +1,235 @@
+{
+  "id": "hist/11",
+  "title": "1ere guerre mondiale : Les civils",
+  "pages": [],
+  "questions": [
+    {
+      "question": "<p>Est ce que les civils participent a l'effort de guerre?</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "id": "hist/11.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pourquoi dit on que la 1ere guerre mondiale est une <u>guerre totale</u>?</p>",
+      "choices": [
+        "*mobilise la totalite des ressources",
+        "a cause de l'usage de gaz mortels",
+        "car c'est une guerre mondiale"
+      ],
+      "id": "hist/11.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Afin de proteger le moral des troupes,&nbsp; que fait le gouvernement?</p>",
+      "choices": [
+        "*Met en place la censure",
+        "Distribue de la nourriture",
+        "Change les uniformes des soldats"
+      ],
+      "id": "hist/11.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les femmes sont mobilisees pour&nbsp;</p>",
+      "choices": [
+        "*fabriquer des munitions",
+        "apporter la nourriture aux soldats",
+        "remonter le moral des troupes"
+      ],
+      "id": "hist/11.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Durant les guerre, les civils souffrent de <u>carences alimentaires</u></p>",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Seulement les enfants"
+      ],
+      "id": "hist/11.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pour <u>financer</u> l'effort de guerre, le gouvernement</p>",
+      "choices": [
+        "*lance des emprunts de guerre",
+        "imprime plus de billets",
+        "confisque l'argent des civisl"
+      ],
+      "id": "hist/11.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Durant la guerre, on appelle <u>munitionnettes</u>,&nbsp;</p>",
+      "choices": [
+        "*les femmes qui travaillent dans les usines",
+        "de petits projectiles performant",
+        "les enfants de poilus"
+      ],
+      "id": "hist/11.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les enfants doivent travailler dans les usines d'armement pour aider l'effort de guerrre</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "hist/11.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Vers la fin de la guerre, les enfants de plus de 15 ans&nbsp; doivent se battre au front</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "hist/11.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les enfants dont les peres sont partis au front sont appeles</p>",
+      "choices": [
+        "*Graines de poilus",
+        "Pupilles de la nation",
+        "Munitionnettes"
+      ],
+      "id": "hist/11.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les populations civiles dans les zones occupees par les Allemands sont victimes</p>",
+      "choices": [
+        "*de requisitions de nourriture",
+        "d'extermination",
+        "d'emprisonnement"
+      ],
+      "id": "hist/11.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>En 1917, apres 3 annees de guerre, du cote Francais, il y a</p>",
+      "choices": [
+        "*des mutineries de soldats",
+        "un coup d'etat",
+        "un changement d'etat major",
+        "des greves de civils"
+      ],
+      "id": "hist/11.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment repond l'etat majot de l'armee face aux <u>mutineries</u> de soldats?</p>",
+      "choices": [
+        "*ils sont fusilles",
+        "on leur donne une permission",
+        "on ameliore leurs conditions de vie"
+      ],
+      "id": "hist/11.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>La deportation et l'extermination d'une population s'appelle</p>",
+      "choices": [
+        "*un genocide",
+        "une immolation",
+        "un regicide"
+      ],
+      "id": "hist/11.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel premier genocide de l'histoire&nbsp; a eu lieu durant la premiere guerre mondiale?</p>",
+      "choices": [
+        "*Genocide Armenien",
+        "Genocide Juif",
+        "Genocide Cambodgien"
+      ],
+      "id": "hist/11.15",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle pourcentage de la population Armenienne va etre exterminee?</p>",
+      "choices": [
+        "*La moitie",
+        "20%",
+        "90%"
+      ],
+      "id": "hist/11.16",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui est le <u>responsable</u> du <u>genocide Armenien</u> en 1915?</p>",
+      "choices": [
+        "*L'empire Ottoman",
+        "l'Empire Austro-Hongrois",
+        "L'Allemagne",
+        "La Russie"
+      ],
+      "id": "hist/11.17",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les Armeniens sont une minorite _____ dans l'<u>Empire Ottoman</u> a majorite musulmane.</p>",
+      "choices": [
+        "*catholique",
+        "juive"
+      ],
+      "id": "hist/11.18",
+      "explain": ""
+    },
+    {
+      "question": "<p>A la fin de premiere guerre mondiale, quelle est la grande <u>puissance qui emerge</u> au niveau mondial?</p>",
+      "choices": [
+        "*Les Etats-Unis",
+        "La Russie",
+        "L'Angleterre",
+        "La France"
+      ],
+      "id": "hist/11.19",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel mouvement emerge a la fin de la guerre?</p>",
+      "choices": [
+        "*mouvement pacifiste",
+        "mouvement mondialiste",
+        "mouvement ecologique",
+        "mouvement nationaliste"
+      ],
+      "id": "hist/11.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le slogan \"<u>La Ders des ders</u>\" se rapporte a la premiere guerre mondiale, qui ne devrait plus jamais se reproduire.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "hist/11.21",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel changement de societe important a lieu pour <u>les femmes</u> aux <u>Etats-Unis</u> et en <u>Angleterre</u> suite la la guerre?</p>",
+      "choices": [
+        "*le droit de vote",
+        "le droit a l'avortement",
+        "le droit au divorce"
+      ],
+      "id": "hist/11.22",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 0,
+  "questionCounter": 22,
+  "warning": "1",
+  "theme": "8",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

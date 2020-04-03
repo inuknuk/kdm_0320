@@ -1,0 +1,298 @@
+{
+  "id": "latin/43",
+  "title": "Comparatif & Superlatif de l'adverbe",
+  "pages": [
+    "latin/43/1.htm",
+    "latin/43/2.htm",
+    "latin/43/3.htm",
+    "latin/43/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p><u>longe</u>&nbsp;signife</p>",
+      "choices": [
+        "*Longuement",
+        "Plus longuement",
+        "Le plus longuement"
+      ],
+      "id": "latin/43.1",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>longius</u>&nbsp;signifie</p>",
+      "choices": [
+        "Longuement",
+        "*Plus / Trop longuement",
+        "Le plus longuement"
+      ],
+      "id": "latin/43.5",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>longissime</u>&nbsp;signifie</p>",
+      "choices": [
+        "Longuement",
+        "Plus / Trop longuement",
+        "*Le plus / tres longuement"
+      ],
+      "id": "latin/43.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis&nbsp; <u>longuement</u> en latin</p>",
+      "choices": [
+        "*longe",
+        "longius",
+        "longissime"
+      ],
+      "id": "latin/43.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis&nbsp; <u>plus longuement</u> en latin</p>",
+      "choices": [
+        "longe",
+        "*longius",
+        "longissime"
+      ],
+      "id": "latin/43.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis&nbsp; <u>le plus longuement</u> en latin</p>",
+      "choices": [
+        "longe",
+        "longius",
+        "*longissime"
+      ],
+      "id": "latin/43.9",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>optime</u> est un adverbe au:&nbsp;</p>",
+      "choices": [
+        "*Superlatif",
+        "Comparatif"
+      ],
+      "id": "latin/43.11",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>optime</u> signifie</p>",
+      "choices": [
+        "*Tres bien / le mieux",
+        "mieux",
+        "bien",
+        "aussi bien"
+      ],
+      "id": "latin/43.12",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>melius</u>&nbsp;signifie</p>",
+      "choices": [
+        "Tres bien / le mieux",
+        "*mieux",
+        "bien",
+        "moins bien"
+      ],
+      "id": "latin/43.14",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>melius</u> est un adverbe au</p>",
+      "choices": [
+        "*Comparatif",
+        "Superlatif"
+      ],
+      "id": "latin/43.15",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>bene</u> signifie</p>",
+      "choices": [
+        "*Bien",
+        "Mieux",
+        "Le mieux",
+        "moins bien"
+      ],
+      "id": "latin/43.16",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Le mieux</u> se traduit en latin par</p>",
+      "choices": [
+        "*optime",
+        "melius",
+        "bene"
+      ],
+      "id": "latin/43.17",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Mieux</u>&nbsp;se traduit en latin par</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "optime",
+        "*melius",
+        "bene"
+      ],
+      "id": "latin/43.18",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis <u>le plus proche</u> en latin</p>",
+      "choices": [
+        "*proxime",
+        "propius",
+        "prope"
+      ],
+      "id": "latin/43.19",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis <u>plus proche</u> en latin</p>",
+      "choices": [
+        "proxime",
+        "*propius",
+        "prope"
+      ],
+      "id": "latin/43.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis <u>proche</u> en latin</p>",
+      "choices": [
+        "proxime",
+        "propius",
+        "*prope"
+      ],
+      "id": "latin/43.21",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pour transformer un adjectif en un <u>adverbe</u> au <u>comparatif</u>, on rajoute au radical de l'adjectif la terminaison :</p>",
+      "choices": [
+        "*-ius",
+        "-issime",
+        "-is",
+        "-us"
+      ],
+      "id": "latin/43.22",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pour transformer un adjectif en un <u>adverbe</u> au <u>superlatif</u>, on rajoute au radical de l'adjectif la terminaison :</p>",
+      "choices": [
+        "-ius",
+        "*-issime",
+        "-is",
+        "-us"
+      ],
+      "id": "latin/43.23",
+      "explain": ""
+    },
+    {
+      "question": "<p>La terminaison <u>-issime</u> d'un adverbe en latin indique</p>",
+      "choices": [
+        "*Le superlatif",
+        "Le comparatif",
+        "l'egalite"
+      ],
+      "id": "latin/43.24",
+      "explain": ""
+    },
+    {
+      "question": "<p>La terminaison <u>-ius</u>&nbsp;d'un adverbe en latin indique</p>",
+      "choices": [
+        "Le superlatif",
+        "*Le comparatif",
+        "L'egalite"
+      ],
+      "id": "latin/43.25",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Certissime</u> signifie</p>",
+      "choices": [
+        "*Tres certainement",
+        "Certainement",
+        "*Plus certainement",
+        "*Moins certainement",
+        "*Aussi certainement"
+      ],
+      "id": "latin/43.26",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Felicissime</u> signifie</p>",
+      "choices": [
+        "*Avec le plus grand bonheur",
+        "Avec un plus grand bonheur",
+        "Avec autant de bonheur",
+        "Avec bonheur"
+      ],
+      "id": "latin/43.27",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pour exprimer <u>l'egalite</u>, on utilise le mot ______ avant l'adverbe</p>",
+      "choices": [
+        "*tam",
+        "minus",
+        "minime"
+      ],
+      "id": "latin/43.28",
+      "explain": ""
+    },
+    {
+      "question": "<p><strong>felicissime vixit</strong> se traduit par :</p>\n<p>Il a vecu ______</p>",
+      "choices": [
+        "*dans un tres grand bonheur",
+        "avec bonheur",
+        "heureusement"
+      ],
+      "id": "latin/43.29",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>minime rapide</u> signifie</p>",
+      "choices": [
+        "*le moins rapidement possible",
+        "rapidement",
+        "moins rapidement",
+        "le plus rapidement"
+      ],
+      "id": "latin/43.30",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>minus rapide</u> signifie</p>",
+      "choices": [
+        "le moins rapidement possible",
+        "rapidement",
+        "*moins rapidement",
+        "le plus rapidement"
+      ],
+      "id": "latin/43.31",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>tam rapide</u> se traduit par</p>",
+      "choices": [
+        "*aussi rapidement",
+        "le moins rapidement",
+        "tres rapidement",
+        "trop rapidement"
+      ],
+      "id": "latin/43.32",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 32,
+  "theme": "grammaire",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

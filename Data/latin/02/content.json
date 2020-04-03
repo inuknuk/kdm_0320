@@ -1,0 +1,18 @@
+{
+  "id": "latin/02",
+  "title": "Le Vocatif",
+  "pages": [
+    "latin/02/1.htm"
+  ],
+  "questions": [],
+  "pageCounter": 1,
+  "questionCounter": 0,
+  "warning": "1",
+  "theme": "declinaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "draft"
+}

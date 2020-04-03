@@ -1,0 +1,214 @@
+{
+  "id": "sci/40",
+  "title": "Tension continue et alternative",
+  "editor": "julie.mariettaaleina@gmail.com",
+  "pages": [
+    "sci/40/1.htm",
+    "sci/40/4.htm",
+    "sci/40/2.htm",
+    "sci/40/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Une <u>tension</u> qui ne <u>varie pas</u> au cours du temps est une tension</p>",
+      "explain": "<p>La valeur de la tension reste constante au cours du temps.</p>",
+      "choices": [
+        "*continue"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.1"
+    },
+    {
+      "question": "<p>Une <u>tension</u> dont la valeur <u>change au cours du temps</u> est une tension</p>",
+      "explain": "",
+      "choices": [
+        "*variable"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.14"
+    },
+    {
+      "question": "<p>Une <u>tension</u> qui prend successivement des valeurs <u>positives</u> et <u>n&eacute;gatives</u> dans le temps est une tension</p>",
+      "explain": "<p>Alternatif signifie que la tension alterne entre des valeurs positives et n&eacute;gatives</p>",
+      "choices": [
+        "*alternative"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.15"
+    },
+    {
+      "question": "<p>Une tension qui d&eacute;crit un motif qui se r&eacute;p&egrave;te r&eacute;guli&egrave;rement dans le temps est dite</p>",
+      "explain": "",
+      "choices": [
+        "*périodique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.16"
+    },
+    {
+      "question": "<p>Une <u>tension p&eacute;riodique</u> est forc&eacute;ment toujours <u>alternative</u>.</p>",
+      "explain": "<p>Une tension peut d&eacute;crire un motif qui se r&eacute;p&egrave;te, mais avec des valeurs toujours positives.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.17"
+    },
+    {
+      "question": "<p>Un pile est un g&eacute;n&eacute;rateur de tension</p>",
+      "explain": "",
+      "choices": [
+        "*continue",
+        "alternative"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.2"
+    },
+    {
+      "question": "<p>Les <u>circuits &eacute;lectriques domestiques</u> sont aliment&eacute;s en r&eacute;gime</p>",
+      "explain": "",
+      "choices": [
+        "continu",
+        "*alternatif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.3"
+    },
+    {
+      "question": "<p>La p&eacute;riode T d'un signal p&eacute;riodique est:</p>",
+      "explain": "<p>C'est la dur&eacute;e entre deux tensions de m&ecirc;me valeur (en secondes).</p>",
+      "choices": [
+        "*La durée d'un motif",
+        "La valeur de la tension à l'instant initial",
+        "La valeur maximale de la tension"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.4"
+    },
+    {
+      "question": "<p>La fr&eacute;quence f d'un signal p&eacute;riodique se calcule &agrave; partir de la p&eacute;riode T par la formule:</p>",
+      "explain": "<p>La fr&eacute;quence f correspond au nombre de cycles par seconde, obtenue par la formule: f = 1/T&nbsp;</p>\n<p>(en hertz, symbole Hz)</p>",
+      "choices": [
+        "f= T /√2",
+        "f = √2 / T",
+        "*f = 1/ T"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.5"
+    },
+    {
+      "question": "<p>La p&eacute;riode s'exprime en:</p>",
+      "explain": "<p>C'est la dur&eacute;e entre deux tensions de m&ecirc;me valeur.</p>",
+      "choices": [
+        "Hertz (Hz)",
+        "*Secondes (s)",
+        "Volts (V)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.6"
+    },
+    {
+      "question": "<p>Pour une tension alternative sinuso&iuml;dale d'amplitude Umax, la tension efficace Ueff se calcule par la formule:</p>",
+      "explain": "<p>Par d&eacute;finition.</p>",
+      "choices": [
+        "*Ueff= Umax / √2",
+        "Ueff= Umax × √2"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.7"
+    },
+    {
+      "question": "<p>Donnez la p&eacute;riode du signal suivant (un carr&eacute; = 1s):</p>\n<p><img src=\"img/tftftf.png\" width=\"297\" height=\"231\" /></p>",
+      "explain": "<p>Il y a 4 carr&eacute;s entre deux tensions de m&ecirc;me valeur.</p>",
+      "choices": [
+        "T= 1s",
+        "T= 2s",
+        "T = 3s",
+        "*T = 4s"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.8"
+    },
+    {
+      "question": "<p>Donnez la tension efficace du signal suivant (une graduation = 2V):</p>\n<p><img src=\"img/tftftf.png\" width=\"297\" height=\"231\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>L'amplitude Umax = 6V</p>\n<p>La tension efficace se calcule par: Umax / &radic;2</p>",
+      "choices": [
+        "Ueff = 6V",
+        "*Ueff= 6/√2 V"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.9"
+    },
+    {
+      "question": "<p>Donnez la p&eacute;riode du signal suivant:</p>\n<p><img src=\"img/fffffff.png\" width=\"409\" height=\"223\" /></p>",
+      "explain": "<p>Il y a 1s entre deux tensions de m&ecirc;me valeur.</p>",
+      "choices": [
+        "T= 0.5 s",
+        "*T= 1 s",
+        "T= 1.5 s",
+        "T = 2 s"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.10"
+    },
+    {
+      "question": "<p>Soit un signal de p&eacute;riode T = 20ms, quelle est sa fr&eacute;quence f?&nbsp;</p>",
+      "explain": "<p>f = 1/T avec f en Hz et T en s</p>\n<p>Ici il faut donc convertir T en secondes: T=0,02s&nbsp;</p>\n<p>Puis par application de la formule on obtient f = 1 / 0,002 = 50 Hz</p>",
+      "choices": [
+        "f = 0.5 Hz",
+        "*f= 50 Hz ",
+        "f = 0.005 Hz",
+        "f = 0.02 Hz"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.11"
+    },
+    {
+      "question": "<p>Soit un signal de p&eacute;riode T = 0.4min, quelle est sa fr&eacute;quence?&nbsp;</p>",
+      "explain": "<p>f= 1/T avec f en Hz et T en s</p>\n<p>Ici il faut donc convertir T en secondes: T= 0.4*60=24s&nbsp;</p>\n<p>Puis par application de la formule on obtient f = 1 / 24 = 0.042 Hz</p>",
+      "choices": [
+        "f = 42 Hz",
+        "f= 2.5 Hz ",
+        "*f = 0.042 Hz"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.12"
+    },
+    {
+      "question": "<p>Une tension est alternative si:</p>",
+      "explain": "<p>Par d&eacute;finition.</p>",
+      "choices": [
+        "*Elle prend successivement des valeurs positives et négatives",
+        "Elle change de valeur aléatoirement "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/40.13"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 17,
+  "theme": "5",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

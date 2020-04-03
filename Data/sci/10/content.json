@@ -1,0 +1,250 @@
+{
+  "id": "sci/10",
+  "title": "Techniques de séparation d’un mélange",
+  "pages": [
+    "sci/10/2.htm",
+    "sci/10/3.htm",
+    "sci/10/4.htm",
+    "sci/10/5.htm",
+    "sci/10/6.htm",
+    "sci/10/7.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>La d&eacute;cantation est une m&eacute;thode de s&eacute;paration de m&eacute;langes</p>",
+      "explain": "",
+      "choices": [
+        "Homogènes",
+        "*Hétérogènes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.1"
+    },
+    {
+      "question": "<p>La distillation est une m&eacute;thode de s&eacute;paration de m&eacute;langes</p>",
+      "explain": "",
+      "choices": [
+        "*Homogènes",
+        "Hétérogènes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.2"
+    },
+    {
+      "question": "<p>La centrifugation est une m&eacute;thode de s&eacute;paration de m&eacute;langes</p>",
+      "explain": "",
+      "choices": [
+        "Homogènes",
+        "*Hétérogènes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.3"
+    },
+    {
+      "question": "<p>La filtration est une m&eacute;thode de s&eacute;paration de m&eacute;langes</p>",
+      "explain": "",
+      "choices": [
+        "Homogènes",
+        "*Hétérogènes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.4"
+    },
+    {
+      "question": "<p>L'&eacute;vaporation est une m&eacute;thode de s&eacute;paration de m&eacute;langes</p>",
+      "explain": "",
+      "choices": [
+        "*Homogènes",
+        "Hétérogènes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.5"
+    },
+    {
+      "question": "<p>La d&eacute;cantation repose sur&nbsp;</p>",
+      "explain": "<p>Le liquide le plus dense (plus lourd) tombe au fond du r&eacute;cipient car son poids est plus important!</p>",
+      "choices": [
+        "La gravité seule",
+        "Les différences de densité des composants",
+        "*Les deux "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.6"
+    },
+    {
+      "question": "<p>Dans une chromatographie, le liquide utilis&eacute; pour faire migrer les composants s'appelle:</p>",
+      "explain": "",
+      "choices": [
+        "Le solvant",
+        "*L'éluant"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.7"
+    },
+    {
+      "question": "<p>Dans une distillation, le liquide qu'on r&eacute;cup&egrave;re en dehors du ballon s'appelle:</p>",
+      "explain": "",
+      "choices": [
+        "*Le distilat",
+        "Le distillé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.8"
+    },
+    {
+      "question": "<p>Lorsqu'un liquide A est<u> plus volatile</u> qu'un liquide B, la <u>temp&eacute;rature d'&eacute;bullition</u> de A est&nbsp; _____ que celle de B.</p>",
+      "explain": "<p>Plus volatile veut dire qui s'&eacute;vapore avec plus de facilit&eacute;.</p>\n<p>Donc la temp&eacute;rature d'&eacute;bullition de A est plus BASSE que cellle de B.</p>",
+      "choices": [
+        "plus élevée",
+        "*plus basse",
+        "la même"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.9"
+    },
+    {
+      "question": "<p>Lors d'une distillation, le distilat est le liquide</p>",
+      "explain": "<p>Le liquide le plus volatile s'&eacute;vapore en premier, c'est donc lui qui va se condenser dans la colonne puis que l'on va r&eacute;cup&eacute;rer en sortie: c'est le distilat.</p>",
+      "choices": [
+        "*Le plus volatile",
+        "Le moins volatile"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.10"
+    },
+    {
+      "question": "<p>Comment d&eacute;duit-on que deux compos&eacute;s ne sont pas identitiques gr&acirc;ce &agrave; une chromatographie?</p>",
+      "explain": "<p>Deux compos&eacute;s diff&eacute;rents n'interagissent pas de la m&ecirc;me mani&egrave;re ni avec la plaque de silice ni avec l'&eacute;luant. Donc ils n'ont pas la m&ecirc;me facilit&eacute; &agrave; &ecirc;tre entra&icirc;n&eacute;s par la mont&eacute;e de l'&eacute;luant.</p>",
+      "choices": [
+        "Par la différence de taille des tâches formées",
+        "*Par la différence de distance parcourue sur la plaque"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.11"
+    },
+    {
+      "question": "<p>Lors d'une chromatographie, le r&eacute;cipient qui contient l'&eacute;luant et la plaque doit &ecirc;tre:</p>",
+      "explain": "<p>Le principe d'une chromatographie est que la cuve dans laquelle on met la plaque doit &ecirc;tre satur&eacute;e en &eacute;luant: il faut donc fermer cette cuve.</p>",
+      "choices": [
+        "*Fermé",
+        "Ouvert"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.12"
+    },
+    {
+      "question": "<p>L'&eacute;vaporation d'un m&eacute;lange de H2O et de NaCl donne comme r&eacute;sultat final:</p>",
+      "explain": "<p>C'est bien l'eau liquide qui passe en phase gazeuse (&eacute;vaporation) et le sel reste dans le r&eacute;cipient.</p>",
+      "choices": [
+        "*NaCl cristallisé au fond du récipient, sans eau",
+        "De l'eau appauvrie en sel (NaCl)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.13"
+    },
+    {
+      "question": "<p>Quelle technique choisir pour s&eacute;parer de l'eau et du sable fin (formant un m&eacute;lange homog&egrave;ne boueux)?</p>",
+      "explain": "<p>La filtration serait ici rapide et efficace. La distillation ne s'applique pas pour un m&eacute;lange solide-liquide!</p>",
+      "choices": [
+        "L'évaporation",
+        "*La filtration",
+        "La distillation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.14"
+    },
+    {
+      "question": "<p>Quelle technique choisir pour s&eacute;parer les diff&eacute;rents composants du sang humain (plaquettes et globules).</p>",
+      "explain": "<p>Le sang est un m&eacute;lange presque homog&egrave;ne, une simple d&eacute;cantation ne suffira pas &agrave; s&eacute;parer les composants rapidement. Il faut donc penser &agrave; la centrifugation, qui permet d'obtenir le m&ecirc;me r&eacute;sultat mais plus rapidement!</p>\n<p>La filtration et la distillation seraient ici inefficaces.</p>",
+      "choices": [
+        "La filtration",
+        "La distillation",
+        "*La centrifugation",
+        "La décantation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.15"
+    },
+    {
+      "question": "<p>Une d&eacute;cantation s'effectue g&eacute;n&eacute;ralement</p>",
+      "explain": "<p>Il est plus pratique d'utiliser une ampoule &agrave; d&eacute;canter: l'ouverture permet de r&eacute;cup&eacute;rer le liquide le plus dense; et sa zone inf&eacute;rieure est plus fine, pour mieux entrevoir l'interface entre les deux liquides.</p>\n<p>Cependant la d&eacute;cantation peut naturellement se faire dans tous les r&eacute;cipients.</p>",
+      "choices": [
+        "*Dans une ampoule ",
+        "Dans un bécher ",
+        "Dans un ballon"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.16"
+    },
+    {
+      "question": "<p>Pour une distillation, il faut chauffer le m&eacute;lange</p>",
+      "explain": "<p>Il faut choisir une temp&eacute;rature interm&eacute;diaire aux deux temp&eacute;ratures d'&eacute;bullition des compos&eacute;s &agrave; s&eacute;parer. Ainsi, l'un s'&eacute;vaporera tandis que l'autre restera &agrave; l'&eacute;tat liquide dans le ballon.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.17"
+    },
+    {
+      "question": "<p>Comment la centrifugeuse permet-elle de s&eacute;parer les compos&eacute;s d'un m&eacute;lange h&eacute;t&eacute;rog&egrave;ne?</p>",
+      "explain": "",
+      "choices": [
+        "*Par rotation",
+        "Par agitation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.18"
+    },
+    {
+      "question": "<p>Il est impossible de s&eacute;parer deux constituants gazeux formant un m&eacute;lange gazeux homog&egrave;ne.</p>",
+      "explain": "<p>D'autres techniques de s&eacute;paration des m&eacute;langes sont envisageables lorsque le m&eacute;lange est gazeux, m&ecirc;me si ce cours ne contient que des exemples pour les liquides/solides !</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.19"
+    },
+    {
+      "question": "<p>Le choix de l'&eacute;luant pour une chromatographie n'a pas d'importance.</p>",
+      "explain": "<p>La migration des composants sur la plaque repose sur les interactions entre le composant, la plaque et l'&eacute;luant: le choix de l'&eacute;luant n'est donc certainement pas sans importance.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/10.20"
+    }
+  ],
+  "pageCounter": 8,
+  "questionCounter": 20,
+  "theme": "1",
+  "editor": "julie.mariettaaleina@gmail.com",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

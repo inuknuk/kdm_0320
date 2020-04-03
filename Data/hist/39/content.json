@@ -1,0 +1,378 @@
+{
+  "id": "hist/39",
+  "title": "La Revolution Francaise",
+  "pages": [
+    "hist/39/1.htm",
+    "hist/39/2.htm",
+    "hist/39/3.htm",
+    "hist/39/4.htm",
+    "hist/39/5.htm",
+    "hist/39/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Entre <u>F&eacute;vrier et Mai 1789</u>, le roi Louis XVI d&eacute;cide de convoquer</p>",
+      "explain": "",
+      "choices": [
+        "*les Etats généraux",
+        "les Etats Unis",
+        "les Etats régionaux",
+        "le Tiers etat"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.1"
+    },
+    {
+      "question": "<p>Les Etats G&eacute;neraux rassemblent des repr&eacute;sentants</p>",
+      "explain": "",
+      "choices": [
+        "*des 3 ordres",
+        "du Tiers état",
+        "De la noblesse et du clergé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.2"
+    },
+    {
+      "question": "<p>Les <u>Etats G&eacute;neraux</u> se soldent par</p>",
+      "explain": "",
+      "choices": [
+        "*un échec",
+        "un succes",
+        "une réconciliation nationale"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.3"
+    },
+    {
+      "question": "<p>Le 20 juin 1789, les d&eacute;put&eacute;s du <u>tiers &eacute;tat</u> font la promesse de rester unis jusqu'&agrave; ce qu'ils aient donn&eacute; &agrave; la France une <u>constitution</u>, il s'agit</p>",
+      "explain": "",
+      "choices": [
+        "*du serment du jeu de paume",
+        "du serment du jeu de baume",
+        "du serment d'Hypocrate",
+        "du serment des Tuileries"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.4"
+    },
+    {
+      "question": "<p>A la suite du <u>serment du jeu de paume</u>, le roi Louis XVI accepte de former</p>",
+      "explain": "",
+      "choices": [
+        "*une assemblée nationale constituante",
+        "une monarchie parlementaire",
+        "une république"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.5"
+    },
+    {
+      "question": "<p><u>L'assembl&eacute;e nationale constituante</u> a pour objectif de mettre en place:</p>",
+      "explain": "",
+      "choices": [
+        "*une constitution",
+        "une république",
+        "une monarchie parlementaire",
+        "la séparation des pouvoirs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.6"
+    },
+    {
+      "question": "<p><u>Necker</u>, ministre de Louis XVI, est favorable</p>",
+      "explain": "",
+      "choices": [
+        "*au Tiers état",
+        "à la noblesse",
+        "au clergé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.7"
+    },
+    {
+      "question": "<p>Le <u>14 juillet 1789</u>, les Parisiens s'emparent de</p>",
+      "explain": "",
+      "choices": [
+        "*la Bastille",
+        "du Louvres",
+        "des Tuileries",
+        "du roi"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.8"
+    },
+    {
+      "question": "<p>La <u>prise de la Bastille</u> a lieu le&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*14 Juillet 1789",
+        "20 juin 1789",
+        "4 Aout 1789",
+        " 21 janvier 1793"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.9"
+    },
+    {
+      "question": "<p>Le <u>Serment du Jeu de Paume</u> &nbsp;a lieu le&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "14 Juillet 1789",
+        "*20 juin 1789",
+        "4 Aout 1789",
+        " 21 janvier 1793"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.10"
+    },
+    {
+      "question": "<p>En <u>Aout 1789</u>, les paysans se revoltent et brulent</p>",
+      "explain": "",
+      "choices": [
+        "*les registres seigneuraux",
+        "les registres de baptème",
+        "les reliques dans les Eglises"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.11"
+    },
+    {
+      "question": "<p>En ao&ucirc;t 1789, les paysans br&ucirc;lent les registres dans lesquels sont consign&eacute;s les <u>droits seigneuriaux</u>.&nbsp; Cet &eacute;pisode est appel&eacute;</p>",
+      "explain": "",
+      "choices": [
+        "*la Grande Peur",
+        "la Grande Vadrouille",
+        "la Grande Révolte",
+        "La Terreur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.12"
+    },
+    {
+      "question": "<p>Afin de ramener le calme, <u>l'Assembl&eacute;e nationale constituante </u>vote la nuit du <u>4 au 5 ao&ucirc;t 1789</u>.</p>",
+      "explain": "",
+      "choices": [
+        "*la fin des privilèges",
+        "la déclaration des Droits de l'homme",
+        "la mort du roi",
+        "l'arrestation du roi"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.13"
+    },
+    {
+      "question": "<p>A quelle date les d&eacute;put&eacute;s adoptent-ils <u>la D&eacute;claration des droits de l'homme et du citoyen</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "20 juin 1789",
+        "14 juillet 1789",
+        "4 août 1789",
+        "*26 août 1789"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.14"
+    },
+    {
+      "question": "<p>La <u>D&eacute;claration des droits de l'homme</u> et du citoyen &eacute;tablit <u>l'&eacute;galit&eacute; juridique</u> entre tous les citoyens ainsi que la <u>libert&eacute; d'expression</u> et de la presse.</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Seulement pour le tiers état."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.15"
+    },
+    {
+      "question": "<p>En 1791, la premi&egrave;re <u>constitution fran&ccedil;aise</u> est r&eacute;dig&eacute;e, elle met en place une</p>",
+      "explain": "",
+      "choices": [
+        "*monarchie constitutionnelle",
+        "monarchie absolue",
+        "république",
+        "dictature"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.16"
+    },
+    {
+      "question": "<p>La <u>monarchie constitutionnelle </u>pr&eacute;voit une <u>assembl&eacute;e</u>, qui poss&egrave;de le pouvoir</p>",
+      "explain": "",
+      "choices": [
+        "*législatif",
+        "exécutif",
+        "judiciaire",
+        "absolu"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.17"
+    },
+    {
+      "question": "<p>L'assembl&eacute;e est &eacute;lue au <u>suffage</u></p>",
+      "explain": "",
+      "choices": [
+        "*suffrage censitaire",
+        "suffrage universel",
+        "suffrage capacitif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.18"
+    },
+    {
+      "question": "<p>Le monde de suffrage dans lequel <u>le droit de vote</u> est r&eacute;serv&eacute; aux citoyens qui acquittent un <u>imp&ocirc;t direct au-del&agrave; d'un seuil</u> appel&eacute; <u>cens &eacute;lectoral</u> est le :</p>",
+      "explain": "",
+      "choices": [
+        "*suffrage censitaire",
+        "suffrage universel",
+        "suffrage direct",
+        "suffrage capacitaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.19"
+    },
+    {
+      "question": "<p>Dans la <u>monarchie constitutionnelle</u>, qui poss&egrave;de le <u>pouvoir ex&eacute;cutif</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "*le roi",
+        "l'assemblée",
+        "le peuple",
+        "les ministres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.20"
+    },
+    {
+      "question": "<p>Comment peut on qualifier <u>le pouvoir executif du roi</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*fort",
+        "faible",
+        "modéré"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.21"
+    },
+    {
+      "question": "<p>Le <u>pouvoir ex&eacute;cutif du roi est fort</u> car il</p>",
+      "explain": "",
+      "choices": [
+        "*a un droit de veto",
+        "controle l'armée",
+        "peut dissoudre l'assemblée",
+        "grace aux lettres de cachet"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.22"
+    },
+    {
+      "question": "<p>En Aout 1791, le roi cherche &agrave; s'enfuir, il est reconnu &agrave;</p>",
+      "explain": "",
+      "choices": [
+        "*Varennes",
+        "Versailles",
+        "Rouen",
+        "Starsbourg"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.23"
+    },
+    {
+      "question": "<p>Comment appelle-t-on les<u> r&eacute;volutionnaires fran&ccedil;ais</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*Les sans culottes",
+        "les sans papiers",
+        "les sans peur et sans reproche",
+        "les frondeurs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.25"
+    },
+    {
+      "question": "<p>En <u>avril 1792</u>, l'Assembl&eacute;e nationale vote</p>",
+      "explain": "",
+      "choices": [
+        "*la guerre contre la Prusse et l'Autriche",
+        "la guerre contre l'Angleterre",
+        "la dissolution de l'assemblée",
+        "la première république"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.26"
+    },
+    {
+      "question": "<p>Suite aux &eacute;checs des arm&eacute;es r&eacute;volutionnaires contre la Prusse et l'Autriche,</p>",
+      "explain": "",
+      "choices": [
+        "*le roi est emprisonné",
+        "le roi est rétabli dans ses fonctions",
+        "le roi abdique",
+        "le roi est guillotiné"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.27"
+    },
+    {
+      "question": "<p>Le<u> 22 septembre 1792</u>, la nouvelle assembl&eacute;e, l<u>a Convention</u>, institue:</p>",
+      "explain": "",
+      "choices": [
+        "*la première République",
+        "l'Anarchie",
+        "la Restauration",
+        "l'Empire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.28"
+    },
+    {
+      "question": "<p>Le groupe de d&eacute;put&eacute;s &agrave; la Convention dont le chef est <u>Robespierre</u> s'appelle:</p>",
+      "explain": "",
+      "choices": [
+        "*les Montagnards",
+        "les Girondins",
+        "les non alignés",
+        "les Alsaciens"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/39.29"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 29,
+  "theme": "4",
+  "level": [
+    "4"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

@@ -1,0 +1,206 @@
+{
+  "id": "latin/48",
+  "title": "Mots Latin dans la langue francaise",
+  "pages": [
+    "latin/48/1.htm",
+    "latin/48/2.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un ordre ou une decision <strong>irr&eacute;vocable</strong></p>",
+      "explain": "<p>C'est un ultimatum.</p>\n<p>Vient du latin \"ultimus\", qui signifie dernier, ultime.</p>",
+      "choices": [
+        "*ultimatum",
+        "curriculum vitae",
+        "nota bene",
+        "alibi"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.1"
+    },
+    {
+      "question": "<p>Note ou remarque en marge d'un document ou d'une lettre</p>",
+      "explain": "<p>Nota Bene.</p>\n<p>Signifie \"Note bien\" en latin.</p>",
+      "choices": [
+        "*Nota bene (N.B)",
+        "Post scriptum (P.S)",
+        "Et ceatera (etc...)",
+        "Ave"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.2"
+    },
+    {
+      "question": "<p>Mettre son opposition lors du vote d'une loi</p>",
+      "explain": "<p>Veto</p>\n<p>Signifie \"je m'oppose\" en latin.</p>",
+      "choices": [
+        "*veto",
+        "ultimatum",
+        "alter ego",
+        "nota bene"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.3"
+    },
+    {
+      "question": "<p>Un ami ins&eacute;parable</p>",
+      "explain": "<p>alter ego</p>\n<p>Signifie \"un autre moi\" en latin.</p>\n<p>alter&nbsp; = autre, ego = moi</p>",
+      "choices": [
+        "*alter ego",
+        "ex aequo",
+        "lavado"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.4"
+    },
+    {
+      "question": "<p>Un carnet dans lequel on ecrit les taches a accomplir.</p>",
+      "explain": "<p>agenda.</p>\n<p>Du verbe latin \"agere\", signifie les choses a faire.</p>",
+      "choices": [
+        "*agenda",
+        "post scriptum",
+        "nota bene",
+        "veto"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.5"
+    },
+    {
+      "question": "<p>Un livre compos&eacute; de pages blanches sur lequel on dessine ou on colle des photos.</p>",
+      "explain": "<p>Un album.</p>\n<p>Du latin \"tableau blanc.</p>",
+      "choices": [
+        "*album",
+        "veto",
+        "post scriptum",
+        "photo maton"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.6"
+    },
+    {
+      "question": "<p><u>Lieu ou reunion</u> ou l'on <u>d&eacute;bat</u> d'un sujet.</p>",
+      "explain": "<p>un <strong>forum</strong>.</p>\n<p>Dans la Rome antique, c'est la <strong>place publique</strong> ou l'on discutait politique.&nbsp;</p>\n<p>De nos jours, c'est aussi un site Internet o&ugrave; l'on discute et poste des messages.&nbsp;</p>",
+      "choices": [
+        "*forum",
+        "veto",
+        "alter ego",
+        "post scriptum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.7"
+    },
+    {
+      "question": "<p>Preuve permettant de se disculper, car on se trouvait dans un autre lieu que celui du crime.</p>",
+      "explain": "<p>C'est un alibi</p>\n<p>Signifie \"ailleurs\" en latin.</p>\n<p>On ne peut pas &ecirc;tre coupable car on se trouvait \"ailleurs\"</p>",
+      "choices": [
+        "*alibi",
+        "nota bene",
+        "alter ego",
+        "veto"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.8"
+    },
+    {
+      "question": "<p>Un ajout en bas d'une lettre ou d'une signature</p>",
+      "explain": "<p>Un post scriptum</p>\n<p>Signifie en latin \"&eacute;crit apres\"</p>\n<p>post = apr&egrave;s, scriptum&nbsp; = &eacute;criture.</p>",
+      "choices": [
+        "*post scriptum",
+        "nota bene",
+        "veto",
+        "lavabo"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.9"
+    },
+    {
+      "question": "<p>Un ordre ou une decision <strong>irr&eacute;vocable</strong></p>",
+      "explain": "<p>C'est un ultimatum.</p>\n<p>Vient du latin \"ultimus\", qui signifie dernier, ultime.</p>",
+      "choices": [
+        "*ultimatum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.10"
+    },
+    {
+      "question": "<p>Quel est le mot en fran&ccedil;ais pour mettre son <u>opposition lors du vote d'une loi?</u></p>",
+      "explain": "<p>Veto</p>\n<p>Signifie \"je m'oppose\" en latin.</p>",
+      "choices": [
+        "*veto"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.11"
+    },
+    {
+      "question": "<p>Quel est le nom fran&ccedil;ais pour indiquer le&nbsp; <u>lieu ou la r&eacute;union</u> ou l'on <u>d&eacute;bat</u> d'un sujet</p>",
+      "explain": "<p>un <strong>forum</strong>.</p>\n<p>Dans la Rome antique, c'est la <strong>place publique</strong> ou l'on discutait politique.&nbsp;</p>\n<p>De nos jours, c'est aussi un site Internet o&ugrave; l'on discute et poste des messages.&nbsp;</p>",
+      "choices": [
+        "*forum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.12"
+    },
+    {
+      "question": "<p>Quel est le nom fran&ccedil;ais pour d&eacute;signer un <u>livre compos&eacute; de pages blanches</u> sur lequel on colle des photos?</p>",
+      "explain": "<p>Un album.</p>\n<p>Du latin \"tableau blanc\".</p>",
+      "choices": [
+        "*album"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.13"
+    },
+    {
+      "question": "<p>Quel est le nom fran&ccedil;ais pour d&eacute;signer un <u>preuve permettant de se disculper</u>, car on se trouvait dans un autre lieu que celui du crime?</p>",
+      "explain": "<p>C'est un alibi</p>\n<p>Signifie \"ailleurs\" en latin.</p>\n<p>On ne peut pas &ecirc;tre coupable car on se trouvait \"ailleurs\"</p>",
+      "choices": [
+        "*alibi"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.14"
+    },
+    {
+      "question": "<p>Quel est le mot fran&ccedil;ais pour indiquer une <u>note ou remarque</u> en <u>marge d'un documen</u>t ou d'une lettre?</p>",
+      "explain": "<p>Nota Bene.</p>\n<p>Signifie \"Note bien\" en latin.</p>",
+      "choices": [
+        "*Nota bene"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.15"
+    },
+    {
+      "question": "<p>Quel est le nom fran&ccedil;ais pour indiquer <u>un ajout en bas d'une lettre</u>, apres la signature?</p>",
+      "explain": "<p>Un post scriptum</p>\n<p>Signifie en latin \"ecrit apres\"</p>\n<p>post = apr&egrave;s, scriptum&nbsp; = &eacute;criture.</p>",
+      "choices": [
+        "post scriptum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/48.16"
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 16,
+  "theme": "civilisation",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

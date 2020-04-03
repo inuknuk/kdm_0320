@@ -1,0 +1,327 @@
+{
+  "id": "sci/24",
+  "title": "Atomes et molécules",
+  "pages": [
+    "sci/24/1.htm",
+    "sci/24/2.htm",
+    "sci/24/3.htm",
+    "sci/24/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un atome c'est:</p>",
+      "explain": "<p>Un atome c'est l'ensemble form&eacute; par le noyau</p>\n<p>ET le nuage &eacute;lectronique qui contient les &eacute;lectrons.</p>",
+      "choices": [
+        "Un noyau",
+        "Des électrons",
+        "*Un noyau et des électrons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.1"
+    },
+    {
+      "question": "<p>La taille du <u>noyau d'un atome</u> est de l'ordre de</p>",
+      "explain": "<p>Attention c'est une question piege!</p>\n<p>L'atome (noyau + &eacute;lectrons) a une taille de 10 puissance -10 m&egrave;tre.</p>\n<p>Mais le noyau tout seul est encore plus petit : 10 puissance -15 m&egrave;tre.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*10 puissance -15 mètre",
+        "10 puissance -10 mètre",
+        "10 puissance 10 mètre",
+        "10 puissance 15 mètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.2"
+    },
+    {
+      "question": "<p>La dimension d'un <u>atome</u> est de l'ordre de</p>",
+      "explain": "<p>Attention c'est une question pi&egrave;ge!</p>\n<p>Le noyau a une dimension de 10 puissance -15 m&egrave;tre.</p>\n<p>Mais l'atome en entier (noyau + &eacute;lectrons) a une taille de 10 puissance -10 m&egrave;tre.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "10 puissance -15 mètre",
+        "*10 puissance -10 mètre",
+        "10 puissance 10 mètre",
+        "10 puissance 15 mètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.4"
+    },
+    {
+      "question": "<p>Par quoi repr&eacute;sente-t-on un atome?</p>",
+      "explain": "<p>Par exemple, le carbone est not&eacute; C, l'oxyg&egrave;ne O et le chlore Cl...</p>",
+      "choices": [
+        "*Une ou plusieurs lettres",
+        "Un ou plusieurs chiffres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.8"
+    },
+    {
+      "question": "<p>Combien <u>d'&eacute;l&eacute;ments diff&eacute;rents</u> existe-t-il dans l'univers?</p>",
+      "explain": "<p>118 &eacute;l&eacute;ments diff&eacute;rents sont r&eacute;pertori&eacute;s.&nbsp;</p>",
+      "choices": [
+        "7",
+        "*118",
+        "Une infinité"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.9"
+    },
+    {
+      "question": "<p>L'eau H2O est:</p>",
+      "explain": "<p>H2O contient plus d'un atome (trois exactement) c'est donc une mol&eacute;cule (les atomes sont li&eacute;s entre eux).</p>",
+      "choices": [
+        "Un atome",
+        "Un proton",
+        "*Une molécule"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.10"
+    },
+    {
+      "question": "<p>H<span style=\"font-size: 8pt; line-height: 11.4133px;\">2</span>O contient</p>",
+      "explain": "<p>Attention, le nombre d'atomes d'une certaine nature se met en indice <u>apr&egrave;s</u> la lettre symbolisant cet atome et pas avant.</p>\n<p>Ne pas confondre les termes atome et mol&eacute;cule.</p>",
+      "choices": [
+        "2 molécules H et 1 molécule O",
+        "1 atome H et 2 atomes O",
+        "*2 atomes H et 1 atome O"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.11"
+    },
+    {
+      "question": "<p>Le symbole de <u>l'azote</u> est&nbsp;</p>",
+      "explain": "<p>Il faut l'apprendre, c'est une notation officielle.</p>",
+      "choices": [
+        "O",
+        "*N",
+        "C",
+        "H"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.12"
+    },
+    {
+      "question": "<p>Le symbole du carbone est&nbsp;</p>",
+      "explain": "<p>Il faut l'apprendre, c'est une notation officielle.</p>",
+      "choices": [
+        "O",
+        "N",
+        "*C",
+        "H"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.13"
+    },
+    {
+      "question": "<p>Le symbole de <u>l'oxyg&egrave;ne</u> est</p>",
+      "explain": "<p>Il faut l'apprendre, c'est une notation officielle.</p>",
+      "choices": [
+        "*O",
+        "N",
+        "C",
+        "H"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.14"
+    },
+    {
+      "question": "<p>Le symbole de<u> l'hydrog&egrave;ne</u> est</p>",
+      "explain": "<p>Il faut l'apprendre, c'est une notation officielle.</p>",
+      "choices": [
+        "O",
+        "N",
+        "C",
+        "*H"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.15"
+    },
+    {
+      "question": "<p>Lors d'une r&eacute;action chimique il y a conservation</p>",
+      "explain": "<p>Rien ne se perd, rien de se cr&eacute;e, tout se transforme: le nombre de chaque type d'atome est identique, mais pas l'organisation des atomes.</p>",
+      "choices": [
+        "du nombre d'atomes",
+        "*du nombre et de la nature des atomes",
+        "de l'ordre des atomes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.16"
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><u>la mol&eacute;cule C<sub>6</sub>H<sub>12</sub>O<sub>2</sub></u><span style=\"mso-spacerun: yes;\"> contient</span></p>",
+      "explain": "<p>Attention, le nombre d'atomes se met en indice <u>apr&egrave;s</u> la lettre symbolisant cet atome et pas avant.</p>",
+      "choices": [
+        "*12 atomes d'hydrogène",
+        "6 atomes d'hydrogène"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.17"
+    },
+    {
+      "question": "<p>CO2 est</p>",
+      "explain": "",
+      "choices": [
+        "Un atome",
+        "*Une molécule"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.19"
+    },
+    {
+      "question": "<p>Combien d'atomes contient C<sub>6</sub>H<sub>12</sub>O<sub>2&nbsp;</sub></p>",
+      "explain": "<p>Cette mol&eacute;cule contient trois types d'atomes diff&eacute;rents (C, H et O) mais elle contient bien 20 atomes (6+12+2).</p>",
+      "choices": [
+        "3",
+        "*20"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.20"
+    },
+    {
+      "question": "<p>Les atomes sont les plus petits &eacute;l&eacute;ments constitutifs de la mati&egrave;re</p>",
+      "explain": "<p>Il existe encore plus petit: les nucl&eacute;ons, puis les &eacute;lectrons, puis les quarks....&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.21"
+    },
+    {
+      "question": "<p>Le dioxyg&egrave;ne est:</p>",
+      "explain": "<p>Le <u>di</u>oxyg&egrave;ne est, comme son nom l'indique, compos&eacute; de <u>deux atomes d'oxyg&egrave;ne.</u> C'est donc une mol&eacute;cule.</p>",
+      "choices": [
+        "Un atome",
+        "*Une molécule"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.22"
+    },
+    {
+      "question": "<p>Dans un litre d'eau, &agrave; combien estimeriez-vous le nombre de mol&eacute;cules de H2O.&nbsp;</p>",
+      "explain": "<p>C'est un ordre de grandeur &agrave; retenir...</p>",
+      "choices": [
+        "100",
+        "1000000000",
+        "*10^25"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.23"
+    },
+    {
+      "question": "<p>N₂ est un atome</p>",
+      "explain": "<p>C'est faux.</p>\n<p>Le dizaote N₂ est compos&eacute; de 2 atomes d'azote N, c'est une mol&eacute;cule.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.24"
+    },
+    {
+      "question": "<p>Il n'existe pas d'objet consitu&eacute; d'un seul type d'atome, ce sont forc&eacute;ment des&nbsp;mol&eacute;cules.</p>",
+      "explain": "<p>Le graphite par exemple, n'est constitu&eacute; que d'atomes de carbone C</p>\n<p>Le Fer Fe est un autre exemple.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.25"
+    },
+    {
+      "question": "<p>Les <u>mol&eacute;cules</u> sont des particules</p>",
+      "explain": "",
+      "choices": [
+        "*indéformables",
+        "déformables"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.26"
+    },
+    {
+      "question": "<p>Les <u>mol&eacute;cules</u> sont s&eacute;par&eacute;es par</p>",
+      "explain": "",
+      "choices": [
+        "*du vide",
+        "de l'air",
+        "de l'eau"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.27"
+    },
+    {
+      "question": "<p>Les <u>mol&eacute;cules</u> sont ____ &agrave; l'oeil nu.</p>",
+      "explain": "",
+      "choices": [
+        "*invisibles",
+        "visibles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.28"
+    },
+    {
+      "question": "<p>La <u>plus petite quantit&eacute;</u> d'eau est la <u>gouttelette.</u></p>",
+      "explain": "<p>C'est faux.</p>\n<p>Un gouttelette contient des millions de mol&eacute;cules d'eau.</p>\n<p>La plus petite quantit&eacute;, c'est la mol&eacute;cule.</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.29"
+    },
+    {
+      "question": "<p>La taille d'une <u>mol&eacute;cule</u> est</p>",
+      "explain": "",
+      "choices": [
+        "*microscopique",
+        "macroscopique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.30"
+    },
+    {
+      "question": "<p>le symbole <u>N</u> repr&eacute;sente l'atome</p>",
+      "explain": "<p>Azote</p>\n<p>Car en anglais, Azote se dit Nitrogen</p>\n<p>Azote = Nitrogen = N</p>",
+      "choices": [
+        "*d'azote",
+        "de néon",
+        "de nitrate"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/24.31"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 31,
+  "theme": "1",
+  "editor": "julie.mariettaaleina@gmail.com",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

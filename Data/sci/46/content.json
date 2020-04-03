@@ -1,0 +1,260 @@
+{
+  "id": "sci/46",
+  "title": "Espèces Chimiques",
+  "editor": "tbrethes@gmail.com",
+  "pages": [
+    "sci/46/1.htm",
+    "sci/46/2.htm",
+    "sci/46/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Le <u>cuivre (Cu)</u> est une esp&egrave;ce chimique</p>",
+      "explain": "<p>atomique</p>\n<p>car il ne contient qu'un seul atome de cuivre Cu</p>",
+      "choices": [
+        "*atomique",
+        "moléculaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.1"
+    },
+    {
+      "question": "<p>le <u>dixoyg&egrave;ne O₂</u> est est une esp&egrave;ce chimique</p>\n<p>&nbsp;</p>",
+      "explain": "<p>sa formule est O₂, il contient 2 atomes de O, c'est une mol&eacute;cule.</p>",
+      "choices": [
+        "atomique",
+        "*moléculaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.3"
+    },
+    {
+      "question": "<p><u>l'eau </u>est est une esp&egrave;ce chimique</p>",
+      "explain": "<p>sa formule est H₂O, il contient 2 atomes de H, et un atome de O c'est donc une mol&eacute;cule.</p>",
+      "choices": [
+        "atomique",
+        "*moléculaire",
+        "artificielle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.20"
+    },
+    {
+      "question": "<p>Une <u>esp&egrave;ce chimique</u> est dite <u>synthetique</u> si elle est&nbsp;&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*fabriquée par l'homme",
+        "se trouve dans la nature",
+        "solide",
+        "élastique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.4"
+    },
+    {
+      "question": "<p>Une esp&egrave;ce chimique <u>naturelle</u> est</p>",
+      "explain": "",
+      "choices": [
+        "*produite par la nature",
+        "produite par l'homme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.5"
+    },
+    {
+      "question": "<p>Les <u>mati&egrave;res plastiques</u> sont des esp&egrave;ces chimiques</p>",
+      "explain": "",
+      "choices": [
+        "*synthétiques",
+        "naturelles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.6"
+    },
+    {
+      "question": "<p><u>L'eau</u> est une esp&egrave;ce chimique</p>",
+      "explain": "",
+      "choices": [
+        "*naturelle",
+        "synthétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.7"
+    },
+    {
+      "question": "<p>Le <u>p&eacute;trole</u> est une esp&egrave;ce chimique</p>",
+      "explain": "<p>naturelle</p>\n<p>Il est extrait du sol</p>",
+      "choices": [
+        "*naturelle",
+        "synthétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.8"
+    },
+    {
+      "question": "<p><u>L'eau</u> peut etre <u>synth&eacute;tis&eacute;e</u> par l'homme?</p>",
+      "explain": "<p>C'est vrai.</p>\n<p>Quand on brule du m&eacute;thane ou du bois, on produit du CO₂ et de l'eau H₂O.</p>\n<p>L'eau produite lors de la combustion est synth&eacute;tique.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.12"
+    },
+    {
+      "question": "<p>Le <u>fructose</u> est pr&eacute;sent dans certains fruits, le nectar des fleurs et dans le miel.</p>\n<p>Le fructose est une <u>esp&egrave;ce chimique</u></p>",
+      "explain": "",
+      "choices": [
+        "*naturelle",
+        "synthétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.9"
+    },
+    {
+      "question": "<p>Le <u>sorbitol</u> est une mol&eacute;cule que l'on trouve dans les algues rouges, les cerises et les prunes.</p>\n<p>On peut aussi le fabriquer par <u>r&eacute;action chimique</u> a partir du glucose et du dihydrog&eacute;ne.</p>\n<p>Quel peut &ecirc;tre <u>l'int&eacute;ret de le synthetiser</u> pour l'industrie agro alimentaire?</p>",
+      "explain": "",
+      "choices": [
+        "*Cela coute moins cher",
+        "Cela pollue",
+        "On peut varier la couleur obtenue"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.10"
+    },
+    {
+      "question": "<p>Dans les sous-marins, on r&eacute;alise <u>l'&eacute;lectrolyse</u> de l'eau de mer, en faisant passer un courant &eacute;lectrique dans l'eau.</p>\n<p>Cela produit du dihydrog&egrave;ne H₂ et du dioxyg&egrave;ne O₂.</p>\n<p>Ce <u>dioxygene</u>, utilis&eacute; pour respirer, est une esp&egrave;ce chimique</p>",
+      "explain": "<p>Synth&eacute;tique</p>\n<p>Il est produit par l'homme avec une r&eacute;action chimique.</p>",
+      "choices": [
+        "*synthétique",
+        "naturelle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.21"
+    },
+    {
+      "question": "<p>Que signifie ce pictogramme?</p>\n<p><img src=\"img/corrosif.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "*Produit corrosif",
+        "Produit inflammable",
+        "Produit toxique",
+        "Produit irritant"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.11"
+    },
+    {
+      "question": "<p>Que signifie ce pictogramme?</p>\n<p><img src=\"img/flamme.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "*Produit inflammable",
+        "Produit comburant",
+        "Produit nocif",
+        "Produit cancérigène"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.13"
+    },
+    {
+      "question": "<p>Que signifie ce pictogramme?</p>\n<p><img src=\"img/exclam.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "*Produit nocif ou irrirant",
+        "Produit inflammable",
+        "Produit corrosif",
+        "Produit dangereux pour l'environnement"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.14"
+    },
+    {
+      "question": "<p>Que signifie ce pictogramme?</p>\n<p><img src=\"img/toxique.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "Produit nocif ou irrirant",
+        "Produit inflammable",
+        "Produit corrosif",
+        "*Produit toxique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.19"
+    },
+    {
+      "question": "<p>Que signifie ce pictogramme?</p>\n<p><img src=\"img/pression.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "*Gaz sous pression",
+        "Gaz explosif",
+        "Gaz nocif",
+        "Produit explosif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.15"
+    },
+    {
+      "question": "<p>Quelles <u>pr&eacute;cautions</u> faut-il prendre en voyant ce pictogramme?&nbsp;</p>\n<p><img src=\"img/corrosif.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "*Porter une blouse, des gants et des lunettes",
+        "Manipuler avec précaution",
+        "Tenir éloigné d'une source de chaleur",
+        "Récupérer les résidus dans des bidons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.16"
+    },
+    {
+      "question": "<p>Quelles <u>pr&eacute;cautions</u> faut-il prendre en voyant ce pictogramme?&nbsp;</p>\n<p><img src=\"img/exclam.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "*Porter une blouse, des gants et des lunettes",
+        "Manipuler avec précaution",
+        "Tenir éloigné d'une source de chaleur",
+        "Récupérer les résidus dans des bidons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.17"
+    },
+    {
+      "question": "<p>Quelles <u>pr&eacute;cautions</u> faut-il prendre en voyant ce pictogramme?&nbsp;</p>\n<p><img src=\"img/flamme.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "Porter une blouse, des gants et des lunettes",
+        "Manipuler avec précaution",
+        "*Tenir éloigné d'une source de chaleur",
+        "Récupérer les résidus dans des bidons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/46.18"
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 21,
+  "theme": "1",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

@@ -1,0 +1,458 @@
+{
+  "id": "math/44",
+  "title": "Puissances de 10",
+  "pages": [
+    "math/44/1.htm",
+    "math/44/2.htm",
+    "math/44/3.htm",
+    "math/44/4.htm",
+    "math/44/11.htm",
+    "math/44/5.htm",
+    "math/44/12.htm",
+    "math/44/6.htm",
+    "math/44/13.htm"
+  ],
+  "questions": [
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "10^(3)×10^(4)",
+          "explain": "E𝑥prime sous ƒorme d'une puissance de 10"
+        },
+        {
+          "response": "10^(3+4)",
+          "explain": "Utilise la formule 10^(a)×10^(b)=10^(a+b)"
+        },
+        {
+          "response": "10^(7)",
+          "explain": "Additionne 3+4=7"
+        }
+      ],
+      "id": "math/44.1"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "10^(7)×10^(-11)",
+          "explain": "E𝑥prime sous ƒorme de puissance de 10"
+        },
+        {
+          "response": "10^(7-11)",
+          "explain": "Utilise la formule 10^(a)×10^(b)=10^(a+b)"
+        },
+        {
+          "response": "10^(-4)",
+          "explain": "Additionne 7-11=-4 "
+        }
+      ],
+      "id": "math/44.2"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "10^(5)×10^(-4)",
+          "explain": "E𝑥prime sous ƒorme de puissance de 10"
+        },
+        {
+          "response": "10^(5-4)",
+          "explain": "Utilise la formule 10^(a)×10^(b)=10^(a+b)"
+        },
+        {
+          "response": "10^(1)",
+          "explain": "Simplifie 10^(1) en 10 tout simplement"
+        },
+        {
+          "response": "10",
+          "explain": ""
+        }
+      ],
+      "id": "math/44.3"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "10^(12)÷10^(8)",
+          "explain": "E𝑥prime sous ƒorme de puissance de 10"
+        },
+        {
+          "response": "10^(12-8)",
+          "explain": "Utilise la ƒormule 10^(a) ÷ 10^(b) = 10^(a-b)"
+        },
+        {
+          "response": "10^(4)",
+          "explain": "Calcule 12-8=4"
+        }
+      ],
+      "id": "math/44.4"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "10^(8)÷10^(15)",
+          "explain": "E𝑥prime sous ƒorme de puissance de 10"
+        },
+        {
+          "response": "10^(8-15)",
+          "explain": "Utilise la ƒormule 10^(a) ÷ 10^(b) = 10^(a-b)"
+        },
+        {
+          "response": "10^(-7)",
+          "explain": "Calcule 8-15=-7"
+        }
+      ],
+      "id": "math/44.5"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(10^(4))^(7)",
+          "explain": "E𝑥prime sous ƒorme de puissance de 10"
+        },
+        {
+          "response": "10^(4×7)",
+          "explain": "Utilise la ƒormule (10^(a))^b=10^(a×b)"
+        },
+        {
+          "response": "10^(28)",
+          "explain": "Calcule 4×7=28"
+        }
+      ],
+      "id": "math/44.6"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "10÷10^(7)",
+          "explain": "E𝑥prime sous forme de puissance de 10"
+        },
+        {
+          "response": "10^(1)/10^(7)",
+          "explain": "Réécris 10 sous la forme 10^(1)"
+        },
+        {
+          "response": "10^(1-7)",
+          "explain": "Utilise la formule 10^(a)/10^(b)=10^(a-b)"
+        },
+        {
+          "response": "10^(-6)",
+          "explain": "Calcule 1-7=-6"
+        }
+      ],
+      "id": "math/44.7"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "1/10^(-3)",
+          "explain": "Calcule sous forme de puissance de 10"
+        },
+        {
+          "response": "10^(-(-3))",
+          "explain": "Utilise la formule 1/10^(n)=10^(-n). Attention au𝑥 2 signes - à la suite!"
+        },
+        {
+          "response": "10^(3)",
+          "explain": "Simplifie -(-3) en 3"
+        }
+      ],
+      "id": "math/44.8"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "1/10^(5)",
+          "explain": "Calcule"
+        },
+        {
+          "response": "10^(-5)",
+          "explain": "Utilise la formule 1/10^(n)=10^(-n)"
+        }
+      ],
+      "id": "math/44.9"
+    },
+    {
+      "question": "<p>$$10^{5}$$ vaut:</p>",
+      "explain": "<p>L&rsquo;exposant est <u>5</u> donc il faut mettre <u>5 z&eacute;ros</u>.</p>",
+      "choices": [
+        "10 000",
+        "*100 000",
+        "1 000"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.10"
+    },
+    {
+      "question": "<p>$$10^{0}$$ est &eacute;gal &agrave;:</p>",
+      "explain": "<p>C&rsquo;est un cas particulier &agrave; conna&icirc;tre par <span class=\"ILfuVd\"><span class=\"e24Kjd\">c&oelig;ur </span></span>!</p>",
+      "choices": [
+        "*1",
+        "0",
+        "10"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.11"
+    },
+    {
+      "question": "<p>$$10^{-2}$$ est &eacute;gal &agrave;:</p>",
+      "explain": "<p>L&rsquo;exposant est <u>-2</u> donc il faut mettre <u>2 d&eacute;cimales</u>.</p>",
+      "choices": [
+        "*0,01",
+        "100",
+        "0,001"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.12"
+    },
+    {
+      "question": "<p>356,92 poss&egrave;de:</p>",
+      "explain": "<p>On compte 2 chiffres apr&egrave;s la virgule (9 et 2)</p>\n<p>Donc il y a 2 d&eacute;cimales!</p>",
+      "choices": [
+        "5 décimales",
+        "3 décimales",
+        "*2 décimales"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.13"
+    },
+    {
+      "question": "<p>$$10^{-6}$$ vaut:</p>",
+      "explain": "<p>L&rsquo;exposant est <u>-6</u> donc il faut mettre <u>6 d&eacute;cimales</u>.</p>",
+      "choices": [
+        "1 000 000",
+        "0,00001",
+        "*0,000001"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.14"
+    },
+    {
+      "question": "<p>$$10^{4}$$ est &eacute;gal &agrave;:</p>",
+      "explain": "<p>L&rsquo;exposant est <u>4</u> donc il faut mettre <u>4 z&eacute;ros</u>.</p>",
+      "choices": [
+        "*10 000",
+        "1 000",
+        "100 000"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.15"
+    },
+    {
+      "question": "<p>56 300 est &eacute;gal &agrave;:</p>",
+      "explain": "<p>Pour passer de 5,63 &agrave; 56 300 il faut d&eacute;placer <u>4</u> fois la virgule vers la droite</p>\n<p>Et donc multiplier 5,63 par 10⁴</p>",
+      "choices": [
+        "$$56,3\\times10^{1}$$",
+        "$$56,3\\times10^{2}$$",
+        "*$$5,63\\times10^{4}$$",
+        "$$5,63\\times10^{3}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.16"
+    },
+    {
+      "question": "<p>4,7 vaut:</p>",
+      "explain": "<p>Pour passer de 47 &agrave; 4,7 il faut d&eacute;placer <u>1 fois</u> la virgule vers la <u>gauche</u></p>\n<p>Et donc multiplier par 10⁻&sup1;</p>",
+      "choices": [
+        "$$0,47\\times10^{3}$$",
+        "*$$47\\times10^{-1}$$",
+        "$$0,47\\times10^{-1}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.17"
+    },
+    {
+      "question": "<p>1 million est &eacute;gal &agrave;:</p>",
+      "explain": "<p>1 million = 1 000 000 = 10⁶</p>\n<p>car il y a <u>6 z&eacute;ros</u>.</p>",
+      "choices": [
+        "*$$10^{6}$$",
+        "$$10^{9}$$",
+        "100 000"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.18"
+    },
+    {
+      "question": "<p>$$10^{-5}\\times10^{2}$$ vaut:</p>",
+      "explain": "<p>C&rsquo;est une <u>multiplication</u> de puissances de 10 donc pour trouver l&rsquo;exposant, on calcule :</p>\n<p>-5 + 2 = -3</p>",
+      "choices": [
+        "$$10^{3}$$",
+        "*$$10^{-3}$$",
+        "$$10^{-7}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.19"
+    },
+    {
+      "question": "<p>$$10^{8}$$ &divide; $$10^{3}$$ vaut:</p>",
+      "explain": "<p>C&rsquo;est une <u>division</u> de puissances de 10 donc pour trouver l&rsquo;exposant, on calcule :</p>\n<p>8 - 3 = 5</p>",
+      "choices": [
+        "*$$10^{5}$$",
+        "$$10^{-5}$$",
+        "$$10^{11}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.20"
+    },
+    {
+      "question": "<p>$$123\\times10^{-4}$$ est &eacute;gal &agrave;:</p>",
+      "explain": "<p>Pour passer de 12,3 &agrave; 123 il faut d&eacute;placer <u>1 fois</u> la virgule vers la <u>droite</u></p>\n<p>Donc multiplier par 10&sup1;</p>\n<p>Or 10⁻⁴ &times; 10&sup1; = 10⁻⁴⁺&sup1; = 10⁻&sup3;</p>",
+      "choices": [
+        "*$$12,3\\times10^{-3}$$",
+        "$$12,3\\times10^{-5}$$",
+        "$$1,23\\times10^{-6}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.21"
+    },
+    {
+      "question": "<p>$$0,729\\times10^{3}$$ vaut:</p>",
+      "explain": "<p>Pour passer de 0,0729 &agrave; 0,729 il faut d&eacute;placer une fois la virgule vers la droite</p>\n<p>Donc multiplier par 10&sup1;</p>\n<p>Or 10&sup3; x 10&sup1; = 10&sup3;⁺&sup1; = 10⁴</p>",
+      "choices": [
+        "$$0,0729\\times10^{2}$$",
+        "$$72900\\times10^{-1}$$",
+        "*$$0,0729\\times10^{4}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.22"
+    },
+    {
+      "question": "<p>26,365 x $$10^{5}$$ est une &eacute;criture scientifique.</p>",
+      "explain": "<p>26,365 <u>&gt; 10</u> donc ce n&rsquo;est pas une &eacute;criture scientifique.</p>\n<p>La bonne r&eacute;ponse serait :</p>\n<p>2,6365 &times; 10⁶</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.23"
+    },
+    {
+      "question": "<p>$$5,81\\times10^{-7}$$ est une &eacute;criture scientifique.</p>",
+      "explain": "<p><u>1 &lt;</u> 5,81 <u>&lt; 10</u></p>\n<p>donc c&rsquo;est une &eacute;criture scientifique.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.24"
+    },
+    {
+      "question": "<p>L&rsquo;&eacute;criture scientifique de 210 000 est:</p>",
+      "explain": "<p>On a <u>1 &lt;</u> 2,1 <u>&lt; 10</u>.</p>\n<p>Pour passer de 2,1 &agrave; 210 000 il faut d&eacute;placer <u>5 fois</u> la virgule vers la droite</p>\n<p>Donc multiplier 2,1 par 10⁵</p>",
+      "choices": [
+        "$$21\\times10^{4}$$",
+        "$$2,1\\times10^{4}$$",
+        "*$$2,1\\times10^{5}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.25"
+    },
+    {
+      "question": "<p>L&rsquo;&eacute;criture scientifique de 0,0715 est:</p>",
+      "explain": "<p>On a <u>1 &lt;</u> 7,15 <u>&lt; 10</u>.</p>\n<p>Pour passer de 7,15 &agrave; 0,0715 il faut d&eacute;placer 2 fois la virgule vers la gauche</p>\n<p>Donc multiplier 7,15 par 10⁻&sup2;</p>",
+      "choices": [
+        "*$$7,15\\times10^{-2}$$",
+        "$$71,5\\times10^{-3}$$",
+        "$$7,15\\times10^{-1}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.26"
+    },
+    {
+      "question": "<p>L&rsquo;&eacute;criture scientifique de $$0,083\\times10^{5}$$ est:</p>",
+      "explain": "<p>On a <u>1 &lt;</u> 8,3 <u>&lt; 10</u>.</p>\n<p>Pour passer de 8,3 &agrave; 0,083 il faut d&eacute;placer <u>2 fois</u> la virgule vers la <u>gauche</u></p>\n<p>Donc multiplier 0,083 x 10⁵ par 10⁻&sup2;</p>\n<p>Or 10⁵ &times; 10⁻&sup2; = 10⁵⁻&sup2; = 10&sup3;</p>",
+      "choices": [
+        "*$$8,3\\times10^{3}$$",
+        "$$8,3\\times10^{7}$$",
+        "$$0,83\\times10^{4}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.27"
+    },
+    {
+      "question": "<p>L&rsquo;&eacute;criture scientifique de $$123,76\\times10^{-8}$$ est:</p>",
+      "explain": "<p>On a <u>1 &lt;</u> 1,2376 <u>&lt; 10</u>.</p>\n<p>Pour passer de 1,2376 &agrave; 123,76 il faut d&eacute;placer 2 fois la virgule vers la droite</p>\n<p>Donc multiplier 123,76 &times; 10⁻⁸ par 10&sup2;</p>\n<p>Or 10⁻⁸ &times; 10&sup2; = 10⁻⁸⁺&sup2; = 10⁻⁶</p>",
+      "choices": [
+        "$$1,23\\times10^{- 9}$$",
+        "*$$1,2376\\times10^{-6}$$",
+        "$$1,2376\\times10^{-10}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.28"
+    },
+    {
+      "question": "<p>L&rsquo;&eacute;criture scientifique de $$0,0045\\times10^{3}$$ est:</p>",
+      "explain": "<p>On a <u>1 &lt;</u> 4,5 <u>&lt; 10</u>.</p>\n<p>Pour passer de 4,5 &agrave; 0,0045 il faut d&eacute;placer <u>3 fois</u> la virgule vers la <u>gauche</u></p>\n<p>Donc multiplier 0,0045 &times; 10&sup3; par 10⁻&sup3;</p>\n<p>Or 10&sup3; &times; 10⁻&sup3; = 10⁻&sup3;⁺&sup3; = 10⁰ = 1</p>\n<p>Et 3 &times; 1 = 3</p>",
+      "choices": [
+        "$$4,5 \\times 10^{-6}$$",
+        "*4,5 ",
+        "4,5 x 10"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/44.29"
+    }
+  ],
+  "pageCounter": 13,
+  "questionCounter": 29,
+  "theme": "calcul",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexis.cunin@centrale-marseille.fr"
+}

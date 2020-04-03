@@ -1,0 +1,325 @@
+{
+  "id": "math/69",
+  "title": "Triangles: les droites remarquables",
+  "pages": [
+    "math/69/1.htm",
+    "math/69/2.htm",
+    "math/69/7.htm",
+    "math/69/3.htm",
+    "math/69/4.htm",
+    "math/69/6.htm",
+    "math/69/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>La droite qui passe par le sommet d'un angle et le partage en <u>2 angles &eacute;gaux</u> s'appelle une:</p>",
+      "choices": [
+        "*bissectrice",
+        "hauteur",
+        "médiane",
+        "médiatrice"
+      ],
+      "id": "math/69.1",
+      "explain": "<p>C'est la d&eacute;finition de la bissectrice.</p>"
+    },
+    {
+      "question": "<p>La droite qui passe par le sommet d'un angle et qui est <u>perpendiculaire</u> au c&ocirc;t&eacute; oppos&eacute; s'appelle une:</p>",
+      "choices": [
+        "bissectrice",
+        "*hauteur",
+        "médiane",
+        "médiatrice"
+      ],
+      "id": "math/69.2",
+      "explain": "<p>C'est la d&eacute;finition de la hauteur.</p>"
+    },
+    {
+      "question": "<p>La droite qui passe par le sommet d'un triangle et qui passe par le <u>milieu</u> du c&ocirc;t&eacute; oppos&eacute; s'appelle une:</p>",
+      "choices": [
+        "bissectrice",
+        "hauteur",
+        "*médiane",
+        "médiatrice"
+      ],
+      "id": "math/69.3",
+      "explain": "<p>C'est la d&eacute;finition de la m&eacute;diane.</p>"
+    },
+    {
+      "question": "<p>Dans un triangle, une droite perpendiculaire &agrave; un c&ocirc;t&eacute; et qui passe par son milieu s'appelle une</p>",
+      "choices": [
+        "bissectrice",
+        "hauteur",
+        "médiane",
+        "*médiatrice"
+      ],
+      "id": "math/69.5",
+      "explain": "<p>C'est la d&eacute;finition de la m&eacute;diatrice.</p>"
+    },
+    {
+      "question": "<p>Dans un triangle ABC, la m&eacute;diatrice du c&ocirc;t&eacute; [BC] passe toujours par le sommet A.</p>",
+      "explain": "<p>La m&eacute;diatrice est perpendiculaire &agrave; [BC], mais elle ne passe g&eacute;n&eacute;ralement pas par le sommet A.</p>\n<p>C'est la <u>hauteur</u> qui est perpendiculaire &agrave; [BC] et passe par le sommet A.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.6"
+    },
+    {
+      "question": "<p>Dans un triangle ABC, la m&eacute;diatrice du segment [BC] passe par le sommet A, dans le cas de:</p>",
+      "explain": "<p>Dans un triangle isoc&egrave;le de base [BC], le sommet A est tel que:</p>\n<p>AB = AC</p>\n<p>Donc A &isin; m&eacute;diatrice de [BC].</p>",
+      "choices": [
+        "un triangle rectangle en A",
+        "*un triangle isocèle de base [BC]",
+        "Jamais"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.7"
+    },
+    {
+      "question": "<p>Dans un triangle ABC, la m&eacute;diane du sommet A coupe toujours l'angle $$\\widehat{A}$$ en 2 angles &eacute;gaux.</p>",
+      "explain": "<p>La m&eacute;diane passe par le sommet A et par le milieu de [BC].</p>\n<p>C'est la <u>bissectrice</u> qui coupe l'angle $$\\widehat{A}$$ en 2 angles &eacute;gaux.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.8"
+    },
+    {
+      "question": "<p>Dans un triangle ABC, la hauteur du c&ocirc;t&eacute; [BC] passe toujours par le sommet A.</p>",
+      "explain": "<p>Par d&eacute;finition, la <u>hauteur</u> est perpendiculaire &agrave; [BC] et passe par le sommet A.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.9"
+    },
+    {
+      "question": "<p>Dans un triangle ABC, la m&eacute;diane qui passe par le sommet A est toujours perpendiculaire &agrave; [BC].</p>",
+      "explain": "<p>La m&eacute;diane passe par le sommet A et le milieu de [BC].</p>\n<p>C'est la <u>hauteur</u> qui est perpendiculaire &agrave; [BC] et passe par le sommet A.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.10"
+    },
+    {
+      "question": "<p>Dans un triangle ABC, la bissectrice du sommet A passe toujours par le milieu de [BC].</p>",
+      "explain": "<p>La bissectrice du sommet A coupe l'angle A en deux.</p>\n<p>C'est la <u>m&eacute;diane</u> qui passe par le sommet A et par le milieu de [BC].</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.11"
+    },
+    {
+      "question": "<p>Les m&eacute;diatrices d'un triangle se coupent en un m&ecirc;me point qui est</p>",
+      "explain": "<p>C'est la d&eacute;finition du point de concourance des m&eacute;diatrices.</p>",
+      "choices": [
+        "l'orthocentre",
+        "le centre de gravité",
+        "*le centre du cercle circonscrit",
+        "le centre du cercle inscrit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.12"
+    },
+    {
+      "question": "<p>Le cercle circonscrit au triangle ABC</p>",
+      "explain": "<p>C'est le point d'intersection des m&eacute;diatrices du triangle.</p>",
+      "choices": [
+        "*passe par A, B et C",
+        "Est de centre A",
+        "a pour centre l'orthocentre de ABC",
+        "a pour diamètre un des côtés"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.13"
+    },
+    {
+      "question": "<p>Soit O le centre du cercle circonscrit au triangle ABC.</p>\n<p>Quelle affirmation est toujours vraie?</p>",
+      "explain": "<p>O est le point d'intersection des m&eacute;diatrices du triangle.</p>\n<p>Donc O appartient &agrave; la m&eacute;diatrice de [BC].</p>\n<p>Donc OB = OC.</p>",
+      "choices": [
+        "*OB = OC",
+        "(OA) ⊥ (BC)",
+        "$$\\widehat{OAB} = \\widehat{OAC}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.14"
+    },
+    {
+      "question": "<p>Les m&eacute;dianes d'un triangle se coupent en un m&ecirc;me point qui est</p>",
+      "explain": "<p>C'est la d&eacute;finition du point de concourance des m&eacute;dianes.</p>",
+      "choices": [
+        "l'orthocentre",
+        "*le centre de gravité",
+        "le centre du cercle circonscrit",
+        "le centre du cercle inscrit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.15"
+    },
+    {
+      "question": "<p>Les bissectrices d'un triangle se coupent en un m&ecirc;me point qui est</p>",
+      "explain": "<p>C'est la d&eacute;finition du point de concourance des bissectrices.</p>",
+      "choices": [
+        "l'orthocentre",
+        "le centre de gravité",
+        "le centre du cercle circonscrit",
+        "*le centre du cercle inscrit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.16"
+    },
+    {
+      "question": "<p>Les hauteurs d'un triangle se coupent en un m&ecirc;me point qui est</p>",
+      "explain": "<p>C'est la d&eacute;finition du point de concourance des hauteurs.</p>",
+      "choices": [
+        "l'orthocentre",
+        "le centre de gravité",
+        "le centre du cercle circonscrit",
+        "*le centre du cercle inscrit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.17"
+    },
+    {
+      "question": "<p>Le centre de gravit&eacute; d'un triangle est le point de concourance des&nbsp;</p>",
+      "explain": "<p>C'est la d&eacute;finition du centre de gravit&eacute;.</p>",
+      "choices": [
+        "médiatrices",
+        "*médianes",
+        "hauteurs",
+        "bissectrices"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.19"
+    },
+    {
+      "question": "<p>L'orthocentre d'un triangle est le point de concourance des</p>",
+      "explain": "<p>C'est la d&eacute;finition de l'orthocentre.</p>",
+      "choices": [
+        "médiatrices",
+        "médianes",
+        "*hauteurs",
+        "bissectrices"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.20"
+    },
+    {
+      "question": "<p>Le centre du cercle circonscrit &agrave; un triangle est le point de concourance de ses</p>",
+      "explain": "<p>C'est la d&eacute;finition du centre du cercle circonscrit.</p>",
+      "choices": [
+        "*médiatrices",
+        "médianes",
+        "hauteurs",
+        "bissectrices"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.21"
+    },
+    {
+      "question": "<p>Le centre du cercle inscrit &agrave; un triangle est le point de concourance de ses</p>",
+      "explain": "<p>C'est la d&eacute;finition du centre du cercle inscrit.</p>",
+      "choices": [
+        "médiatrices",
+        "médianes",
+        "hauteurs",
+        "*bissectrices"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.22"
+    },
+    {
+      "question": "<p>L'orthocentre d'un triangle peut se trouver &agrave; l&rsquo;ext&eacute;rieur du triangle.</p>",
+      "explain": "<p>Dans le cas d'un triangle avec <u>1 angle obtus</u>, l'orthocentre est &agrave; <u>l&rsquo;ext&eacute;rieur</u> du triangle.</p>\n<p>Dans le cas d'un triangle avec <u>3 angles aigus</u>, l'orthocentre est &agrave;&nbsp;<u>l&rsquo;int&eacute;rieur</u>&nbsp;du triangle.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.18"
+    },
+    {
+      "question": "<p>Dans quel type de triangle les 3 <u>hauteurs</u> sont-elles <u>confondues</u> avec les 3 <u>m&eacute;diatrices</u>?</p>",
+      "choices": [
+        "*triangle équilatéral",
+        "triangle rectangle",
+        "triangle isocèle",
+        "jamais"
+      ],
+      "id": "math/69.4",
+      "explain": "<p>Dans un triangle &eacute;quilat&eacute;ral, les hauteurs, m&eacute;diatrices, m&eacute;dianes et bissectrices sont toutes confondues 3 par 3.</p>"
+    },
+    {
+      "question": "<p>G est le centre de gravit&eacute; du triangle ABC.<br />On sait que BJ = 9 cm. Quelle est la longueur BG ?</p>\n<p><img src=\"img/trianglemedianes.png\" /></p>",
+      "explain": "<p>On sait que le centre de gravit&eacute; est aux <u>deux tiers</u> de la longueur de la m&eacute;diane &agrave; partir du sommet B.</p>\n<p>BG = 2/3 &times; BJ = 2/3 &times; 9 = 6 cm&nbsp;</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*BG = 6 cm",
+        "BG = 4,5 cm",
+        "BG = 3 cm",
+        "BG = 5 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.23"
+    },
+    {
+      "question": "<p>Le triangle ABC est rectangle en C. Le point I est le centre du cercle circonscrit au triangle.</p>\n<p>AB = 10 cm. Quelle est la longueur IC ?</p>\n<p><img src=\"img/circonscrittriangrect.png\" /></p>",
+      "explain": "<p>Le cercle circonscrit &agrave; un triangle rectangle a pour&nbsp;<u>diam&egrave;tre l&rsquo;hypot&eacute;nuse</u>&nbsp;de ce triangle.</p>\n<p>Donc I est le milieu de l'hypot&eacute;nuse [AB] :</p>\n<p>AB = 2 &times; IA = 2 &times; IB</p>\n<p>I &eacute;tant le centre du cercle circonscrit:</p>\n<p>IA = IB = IC</p>\n<p>Donc IC = AB / 2 = 5 cm</p>",
+      "choices": [
+        "*5 cm",
+        "2,5 cm",
+        "√10 cm",
+        "√5 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.24"
+    },
+    {
+      "question": "<p>Le triangle ABC est rectangle en A. Quel est l'orthocentre de ABC?&nbsp;</p>\n<p><img src=\"img/orthocentretrianglerectangle.png\" /></p>",
+      "explain": "<p>ABC est rectangle en A, donc (AB) &perp; (AC)</p>\n<p>La hauteur relative au c&ocirc;t&eacute; (AB) est (AC).</p>\n<p>La hauteur relative au cot&eacute; (AC) est (AB).</p>\n<p>(AB) et (AC) se coupent en A, qui est donc <u>l'orthocentre</u> du triangle.</p>",
+      "choices": [
+        "H",
+        "*A",
+        "B",
+        "C"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/69.25"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 25,
+  "theme": "geometrie",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tingnat@gmail.com"
+}

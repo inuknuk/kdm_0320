@@ -1,0 +1,181 @@
+{
+  "id": "hist/17",
+  "title": "Les Carolingiens",
+  "pages": [
+    "hist/17/1.htm",
+    "hist/17/2.htm",
+    "hist/17/3.htm",
+    "hist/17/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qui fonde la dynastie des <u>Carolingiens</u> en <u>751</u>?</p>",
+      "choices": [
+        "*Pepin le Bref",
+        "Charlemagne",
+        "Charles Martel",
+        "Clovis"
+      ],
+      "id": "hist/17.1",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Pepin le Bref</u> etait surnom&eacute; ainsi car il etait</p>",
+      "choices": [
+        "*de petite taille",
+        "rapide a la course",
+        "timide",
+        "concis dans ses paroles"
+      ],
+      "id": "hist/17.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Pepin le Bref est le premier roi de la dynastie des&nbsp;</p>",
+      "choices": [
+        "*Carolingiens",
+        "Mérovingiens",
+        "Capétiens",
+        "Valois"
+      ],
+      "id": "hist/17.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le fils de Pepin le Bref, qui lui succede sur le trone s'appelle</p>",
+      "choices": [
+        "*Charlemagne",
+        "Charles Martel",
+        "Charles de Gaulle",
+        "Clovis"
+      ],
+      "id": "hist/17.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>En <u>768</u>, <u>Charlemagne</u> devient...</p>",
+      "choices": [
+        "*Roi des Francs",
+        "Empereur",
+        "Dictateur",
+        "Consul"
+      ],
+      "id": "hist/17.5",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Charlemagne</u> (Carlus Magnus) est un surnom qui indique qu'il &eacute;tait&nbsp;&nbsp;</p>",
+      "choices": [
+        "*très grand",
+        "magnanime",
+        "magnifique",
+        "très courageux"
+      ],
+      "id": "hist/17.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Charlemagne est un roi&nbsp;</p>",
+      "choices": [
+        "*Chrétien Catholique",
+        "Juif",
+        "Chrétien Orthodoxe",
+        "Paien"
+      ],
+      "id": "hist/17.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>O&ugrave; se trouve la <u>capitale</u> de l'Empire de Charlemagne ?</p>",
+      "choices": [
+        "*Aix La Chapelle",
+        "Berlin",
+        "Paris",
+        "Rome"
+      ],
+      "id": "hist/17.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle date Charlemagne est sacr&eacute; <u>empereur</u> ?&nbsp;</p>",
+      "choices": [
+        "*25 Décembre 800",
+        "25 novembre 800",
+        "25 Décembre 768",
+        "25 Décembre 900"
+      ],
+      "id": "hist/17.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Dans quel <u>pays</u> se trouve aujourd'hui la capitale de l'Empire de Charlemagne, <u>Aix la Chapelle</u>?</p>",
+      "choices": [
+        "*Allemagne",
+        "France",
+        "Italie",
+        "Suisse"
+      ],
+      "id": "hist/17.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment s'appellent<u> les envoy&eacute;s</u> de Charlemagne pour rendre la <u>justice</u>, collecter les <u>imp&ocirc;ts</u> et s'occuper de <u>l'arm&eacute;e</u>?</p>",
+      "choices": [
+        "*Les missi dominici",
+        "les comtes",
+        "les préfets"
+      ],
+      "id": "hist/17.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Durant son r&egrave;gne, l'Empire de Charlemagne&nbsp;</p>",
+      "choices": [
+        "*s'agrandit beaucoup",
+        "reste de même taille",
+        "se réduit"
+      ],
+      "id": "hist/17.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Charlemagne a beaucoup &oelig;uvr&eacute; pour le <u>savoir</u>. Il a fait ouvrir des&nbsp;&nbsp;</p>",
+      "choices": [
+        "*écoles",
+        "magasins",
+        "chateaux forts",
+        "des monastères"
+      ],
+      "id": "hist/17.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Apres la mort de Charlemagne, son <u>empire est divis&eacute;</u> en&nbsp;</p>",
+      "choices": [
+        "*3 parties",
+        "2 parties",
+        "4 parties"
+      ],
+      "id": "hist/17.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>En&nbsp;<u>843</u>, quel <u>trait&eacute;</u> partage l'empire en 3 royaumes?</p>",
+      "choices": [
+        "*Le traité de Verdun",
+        "Le traité de Versailles",
+        "Le traité de Paris"
+      ],
+      "id": "hist/17.15",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 15,
+  "theme": "1",
+  "level": [
+    "5"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

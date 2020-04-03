@@ -1,0 +1,270 @@
+{
+  "id": "math/37",
+  "title": "Théorème de Thalès",
+  "pages": [
+    "math/37/3.htm",
+    "math/37/1.htm",
+    "math/37/2.htm",
+    "math/37/4.htm",
+    "math/37/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Par le produit crois&eacute; &agrave; qui est &eacute;quivalent&nbsp;<span style=\"font-family: Arial, sans-serif; font-size: 15pt;\">$$ \\frac{a}{b} = \\frac{c}{d} $$</span></p>",
+      "explain": "<p>Par le produit crois&eacute; on a:&nbsp;</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span lang=\"EN-US\" style=\"font-size: 15.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US; mso-fareast-language: FR;\">a/b = c/d &hArr; a&times;d = c&times;b</span></p>",
+      "choices": [
+        "*$$ a\\times d = c\\times b $$ ",
+        "$$ a\\times c = d\\times b $$ ",
+        "$$ a\\times b = c\\times d $$ "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.1"
+    },
+    {
+      "question": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span lang=\"EN-US\" style=\"font-size: 15.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US; mso-fareast-language: FR;\">Que vaut 𝑥?</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span lang=\"EN-US\" style=\"font-size: 15.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US; mso-fareast-language: FR;\">$$ \\frac{x}{2} = \\frac{3}{4} $$</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">&nbsp;</p>",
+      "explain": "<p>Par le produit crois&eacute;, on a:</p>\n<p>4&times;𝑥 = 3&times;2</p>\n<p>Donc, 𝑥 = (3&times;2)/4</p>",
+      "choices": [
+        "*$$ \\frac{3 \\times 2}{4} $$",
+        "$$ \\frac{4 \\times 2}{3} $$",
+        "$$ \\frac{3 \\times 4}{2} $$",
+        "$$ \\frac{3}{4 \\times 2} $$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.2"
+    },
+    {
+      "question": "<p>A quoi sert le th&eacute;or&egrave;me de Thal&egrave;s?</p>",
+      "explain": "<p>Le th&eacute;or&egrave;me de Thal&egrave;s sert &agrave; <u>calculer des longueurs.</u></p>",
+      "choices": [
+        "Trouver des milieux",
+        "Prouver des des droites sont parallèles",
+        "*Calculer des longueurs ",
+        "Calculer des angles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.17"
+    },
+    {
+      "question": "<p>A quelle condition sur les droites d et d' peut-on appliquer le <u>th&eacute;or&egrave;me de Thal&egrave;s</u> ?</p>\n<p>Elles doivent &ecirc;tre&nbsp;</p>",
+      "explain": "<p><u>d et d' doivent &ecirc;tre s&eacute;cantes</u> pour appliquer le th&eacute;or&egrave;me de Thal&egrave;s.</p>",
+      "choices": [
+        "confondues",
+        "*sécantes",
+        "parallèles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.3"
+    },
+    {
+      "question": "<p>A quelle <u>condition sur (BD) et (CE)</u> peut-on appliquer le th&eacute;or&egrave;me de Thal&egrave;s ?</p>\n<p>(BD) et (CE) doivent &ecirc;tre</p>\n<p><img src=\"img/qutheoreme.png\" /></p>",
+      "explain": "<p>(BD) et (CE) doivent &ecirc;tre <u>parall&egrave;les</u> pour appliquer le th&eacute;or&egrave;me de Thal&egrave;s.</p>",
+      "choices": [
+        "*parallèles",
+        "perpendiculaires",
+        "quelconques",
+        "sécantes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.4"
+    },
+    {
+      "question": "<p>(BD) et (CE) sont parall&egrave;les. Dans ce cas, quel r&egrave;gle peut-on appliquer?</p>\n<p><img src=\"img/qutheoreme.png\" /></p>",
+      "explain": "<p>Comme :</p>\n<p>d et d' sont s&eacute;cantes en A, et</p>\n<p>Les points B, A, C et D, A, E sont align&eacute;s respectivement sur d et d' dans le m&ecirc;me ordre, et</p>\n<p>Les droites (BD) et (CE) sont parall&egrave;les.</p>\n<p>On peut alors appliquer le <u>th&eacute;or&egrave;me de Thal&egrave;s</u>.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "Théorème de Pythagore",
+        "*Théorème de Thalès",
+        "Réciproque du théorème de Thalès",
+        "Théorème de l'angle au centre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.5"
+    },
+    {
+      "question": "<p>(BD) et (CE) sont parall&egrave;les.</p>\n<p>Dans ce cas, peut-on appliquer le Th&eacute;or&egrave;me de Thal&egrave;s?</p>\n<p><img src=\"img/qureci2.png\" /></p>",
+      "explain": "<p>d et d' sont s&eacute;cantes en A,</p>\n<p>B, A, C et D, A, E sont align&eacute;s respectivement sur d et d',</p>\n<p>(BD) et (CE) sont parall&egrave;les.</p>\n<p>On peut appliquer le <u>th&eacute;or&egrave;me de Thal&egrave;s</u>.&nbsp;</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.16"
+    },
+    {
+      "question": "<p>(BD) et (CE) sont parall&egrave;les. Quelle &eacute;galit&eacute; est v&eacute;rifi&eacute;e?</p>\n<p><img src=\"img/qutheoreme.png\" /></p>",
+      "explain": "<p>Comme :</p>\n<p>d et d' sont s&eacute;cantes en A, et</p>\n<p>Les points B, A, C et D, A, E sont align&eacute;s respectivement sur d et d' dans le m&ecirc;me ordre, et</p>\n<p>Les droites (BD) et (CE) sont parall&egrave;les.</p>\n<p>On peut appliquer le <u>th&eacute;or&egrave;me de Thal&egrave;s</u> :</p>\n<p>AB/AC = AD/AE</p>",
+      "choices": [
+        "*$$ \\frac{AB}{AC} = \\frac{AD}{AE} $$",
+        "$$ \\frac{AB}{AD} = \\frac{AC}{AE} $$",
+        "AB = AC",
+        "AD = AE"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.6"
+    },
+    {
+      "question": "<p>(BD) et (CE) sont parall&egrave;les. Quelle &eacute;galit&eacute; est v&eacute;rifi&eacute;e?</p>\n<p><img src=\"img/qutheoreme.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Comme :</p>\n<p>d et d' sont s&eacute;cantes en A, et</p>\n<p>Les points B, A, C et D, A, E sont align&eacute;s respectivement sur d et d' dans le m&ecirc;me ordre, et</p>\n<p>Les droites (BD) et (CE) sont parall&egrave;les.</p>\n<p>On peut appliquer le <u>th&eacute;or&egrave;me de Thal&egrave;s</u>:&nbsp;</p>\n<p>AD/AE = BD/CE</p>",
+      "choices": [
+        "*$$ \\frac{AD}{AE} = \\frac{BD}{CE} $$",
+        "$$ \\frac{BD}{AD} = \\frac{CE}{EA} $$",
+        "BD = AD",
+        "BD = CE"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.7"
+    },
+    {
+      "question": "<p>(BD) et (CE) sont parall&egrave;les.</p>\n<p>Quel est la <u>longueur de CE</u> ?</p>\n<p><img src=\"img/theoreme.png\" /></p>",
+      "explain": "<p>Dans ce cas, on peut <u>appliquer le th&eacute;or&egrave;me de Thal&egrave;s</u>.</p>\n<p>On a, AB/AC = BD/CE</p>\n<p>On remplace par les longueurs connues:</p>\n<p>5/4 = 3/CE</p>\n<p>Donc, CE =&nbsp; (3&times;4)/5 = 2,4 cm</p>",
+      "choices": [
+        "*2,4 cm",
+        "2,8 cm",
+        "3,6 cm",
+        "2 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.8"
+    },
+    {
+      "question": "<p>(BD) et (CE) sont parall&egrave;les.</p>\n<p>Quel est la <u>longueur de AD</u> ?</p>\n<p><img src=\"img/theoreme.png\" /></p>",
+      "explain": "<p>Dans ce cas, on peut <u>appliquer le th&eacute;or&egrave;me de Thal&egrave;s</u>.</p>\n<p>On a, AB/AC = AD/AE</p>\n<p>On remplace par les longueurs connues:</p>\n<p>5/4 = AD/4,8</p>\n<p>Donc, AD =&nbsp; (5&times;4,8)/4 = 6 cm</p>",
+      "choices": [
+        "5,2 cm",
+        "5,6 cm",
+        "*6 cm",
+        "6,4 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.9"
+    },
+    {
+      "question": "<p>Dans ce cas, peut-on appliquer le Th&eacute;or&egrave;me de Thal&egrave;s ?</p>\n<p><img src=\"img/qutheoreme2.png\" /></p>",
+      "explain": "<p>d et d' sont s&eacute;cantes en A,</p>\n<p>B, A, C et D, A, E sont align&eacute;s respectivement sur d et d',</p>\n<p><span style=\"white-space: pre;\">Cependant, </span><u>(BD) et (CE) ne sont pas parall&egrave;les.</u></p>\n<p>On <u>ne peut pas</u> appliquer le <u>th&eacute;or&egrave;me de Thal&egrave;s</u>.&nbsp;</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.10"
+    },
+    {
+      "question": "<p>A quoi sert la <u>r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s</u> ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>La r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s sert &agrave; <u>prouver que des droites sont parall&egrave;les.</u></p>",
+      "choices": [
+        "Trouver des milieux",
+        "*Prouver que des droites sont parallèles",
+        "Calculer des longueurs ",
+        "Calculer des angles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.18"
+    },
+    {
+      "question": "<p>A quelle condition sur les droites d et d' peut on appliquer la <u>r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s</u> ? Elle doivent &ecirc;tre&nbsp;</p>",
+      "explain": "<p><u>d et d' doivent &ecirc;tre s&eacute;cantes</u> pour appliquer la r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s.</p>",
+      "choices": [
+        "confondues",
+        "*sécantes",
+        "parallèles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.12"
+    },
+    {
+      "question": "<p>A quelle condition peut-on appliquer la r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s ?&nbsp;</p>\n<p><img src=\"img/qutheoreme.png\" /></p>",
+      "explain": "<p>Pour appliquer la r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s, il faut:</p>\n<p>d et d' sont s&eacute;cantes en A,</p>\n<p>Les points B, C, A et D, E, A sont align&eacute;s respectivement sur d et d' dans le m&ecirc;me ordre, et</p>\n<p>L'&eacute;galit&eacute; suivante : AB/AC = AD/AE</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*$$ \\frac{AB}{AC} = \\frac{AD}{AE} $$ ",
+        "$$ \\frac{AB}{AD} = \\frac{AC}{AE} $$ ",
+        "BD = CE",
+        "AD = AB"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.13"
+    },
+    {
+      "question": "<p>Que peut-on d&eacute;duire de la r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s ?&nbsp;</p>\n<p><img src=\"img/qutheoreme.png\" /></p>",
+      "explain": "<p>La r&eacute;ciproque du th&eacute;or&egrave;me de Thal&egrave;s nous dit que <u>(BD) et (CE) sont parall&egrave;les.</u></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*(BD) et (CE) sont parallèles",
+        "(AD) et (AE) sont parallèles ",
+        "BD = CE",
+        "AD = AB"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.15"
+    },
+    {
+      "question": "<p>Les droites (BD) et (CE) sont-elles parall&egrave;les ?</p>\n<p><img src=\"img/qureciproque3.png\" /></p>",
+      "explain": "<p>Les droites d et d' sont s&eacute;cantes en A,</p>\n<p>Les points B, A, C et D, A, E sont align&eacute;s respectivement sur d et d',</p>\n<p>AB/AC = 5/4 et</p>\n<p>AD/AE = 6/4,8 = (5&times;1,2)/(4&times;1,2) = 5/4</p>\n<p>D'apr&egrave;s la <u>r&eacute;ciproque</u> du <u>th&eacute;or&egrave;me de Thal&egrave;s</u> :</p>\n<p>(BD) et (CE) sont <u>parall&egrave;les</u>.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.19"
+    },
+    {
+      "question": "<p>Les droites (BD) et (CE) sont-elles parall&egrave;les ?</p>\n<p><img src=\"img/qureci4.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Les droites d et d' sont s&eacute;cantes en A,</p>\n<p>Les points B, C, A et D, E, A sont align&eacute;s respectivement sur d et d',</p>\n<p>AB/AC = 4,5/3 = 3/2 et</p>\n<p>AD/AE = 8/4 = 2</p>\n<p>D'apr&egrave;s la <u>r&eacute;ciproque</u> du <u>th&eacute;or&egrave;me de Thal&egrave;s</u> :</p>\n<p>AB/AC &ne; AD/AE donc (BD) et (CE) <u>ne sont pas parall&egrave;les</u>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.21"
+    },
+    {
+      "question": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span lang=\"EN-US\" style=\"font-size: 15.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US; mso-fareast-language: FR;\">Que vaut AB?</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span lang=\"EN-US\" style=\"font-size: 15.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US; mso-fareast-language: FR;\">$$ \\frac{AB}{5} = \\frac{5}{2} $$</span></p>",
+      "explain": "<p>Par le produit crois&eacute;,</p>\n<p>2&times;AB = 5&times;5</p>\n<p>Donc, AB = (5&times;5)/2 = 25/2</p>",
+      "choices": [
+        "*$$ AB = \\frac{25}{2} $$",
+        "$$ AB = \\frac{5}{10} $$",
+        "$$ AB = \\frac{2}{25} $$",
+        "$$ AB = \\frac{5}{10} $$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.23"
+    },
+    {
+      "question": "<p>(CE) et (BD) sont parall&egrave;les.&nbsp;</p>\n<p>Que vaut AD ?</p>\n<p><img src=\"img/lastquestion.png\" /></p>",
+      "explain": "<p>Dans ce cas, on peut&nbsp;<u>appliquer le th&eacute;or&egrave;me de Thal&egrave;s</u>.</p>\n<p>On a, AB/AC = AD/AE</p>\n<p>On remplace par les longueurs connues:</p>\n<p>5/4 = AD/4</p>\n<p>Donc, AD = (5&times;4)/4 = 5 cm</p>",
+      "choices": [
+        "4 cm",
+        "4,6 cm",
+        "*5 cm",
+        "5,8 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/37.24"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 24,
+  "theme": "geometrie",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

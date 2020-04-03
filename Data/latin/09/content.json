@@ -1,0 +1,80 @@
+{
+  "title": "Le verbe pouvoir (possum) au présent",
+  "pages": [
+    "latin/09/1.htm",
+    "latin/09/2.htm"
+  ],
+  "id": "latin/09",
+  "questions": [
+    {
+      "question": "Conjugue posse a la 2e personne du pluriel",
+      "choices": [
+        "potest",
+        "possum",
+        "*potestis",
+        "possumus"
+      ],
+      "id": "latin/09:1"
+    },
+    {
+      "question": "Potes signifie",
+      "choices": [
+        "ils peuvent",
+        "je peux",
+        "vous pouvez",
+        "*tu peux"
+      ],
+      "id": "latin/09:2"
+    },
+    {
+      "question": "Conjugue posse a la 3e personne du singulier",
+      "choices": [
+        "possunt",
+        "possum",
+        "potestis",
+        "*potest"
+      ],
+      "id": "latin/09:3"
+    },
+    {
+      "question": "Possumus signifie",
+      "choices": [
+        "je peux",
+        "*nous pouvons",
+        "vous pouvez",
+        "tu peux"
+      ],
+      "id": "latin/09:4"
+    },
+    {
+      "question": "Potestis signifie",
+      "choices": [
+        "je peux",
+        "nous pouvons",
+        "*vous pouvez",
+        "tu peux"
+      ],
+      "id": "latin/09:5"
+    },
+    {
+      "question": "Elles peuvent se traduit par",
+      "choices": [
+        "*possunt",
+        "possum",
+        "potestis",
+        "potest"
+      ],
+      "id": "latin/09:6"
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 6,
+  "warning": "1",
+  "theme": "conjugaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

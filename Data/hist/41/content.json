@@ -1,0 +1,443 @@
+{
+  "id": "hist/41",
+  "title": "La Revolution industrielle",
+  "pages": [
+    "hist/41/1.htm",
+    "hist/41/2.htm",
+    "hist/41/3.htm",
+    "hist/41/4.htm",
+    "hist/41/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Dans quel pays est n&eacute;e la R&eacute;volution industrielle ?</p>",
+      "explain": "",
+      "choices": [
+        "*En Angleterre",
+        "En France",
+        "En Allemagne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.2"
+    },
+    {
+      "question": "<p>Sous quel si&egrave;cle est n&eacute;e la R&eacute;volution industrielle ?</p>",
+      "explain": "",
+      "choices": [
+        "Au 18e siècle",
+        "*Au 19e siècle",
+        "Au 20e siècle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.3"
+    },
+    {
+      "question": "<p>Qui a invent&eacute; la <u>machine &agrave; vapeur</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "Adolphe Schneider",
+        "Karl Marx",
+        "*James Watt",
+        "Henri Ford"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.4"
+    },
+    {
+      "question": "<p>Quelle est l'une des voitures produites en s&eacute;rie &agrave; moins de 500 dollars au d&eacute;but du XXe si&egrave;cle ?</p>",
+      "explain": "",
+      "choices": [
+        "Bébé Peugeot",
+        "*Ford Modèle T",
+        "Citroën Type A"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.5"
+    },
+    {
+      "question": "<p>Quand s'est tenue la premi&egrave;re <u>exposition universelle</u> de Paris ?</p>",
+      "explain": "",
+      "choices": [
+        "1800",
+        "*1855",
+        "1885",
+        "1985"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.6"
+    },
+    {
+      "question": "<p>Quels pays font partie du coeur industriel de l'Europe au XIXe si&egrave;cle ?</p>",
+      "explain": "",
+      "choices": [
+        "Angleterre / France / Espagne",
+        "Angleterre / Allemagne / Russie",
+        "*Angleterre / France / Allemagne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.7"
+    },
+    {
+      "question": "<p>Dans quel secteur travaille l'usine Schneider du Creusot ?</p>",
+      "explain": "",
+      "choices": [
+        "*La sidérurgie",
+        "Le textile",
+        "La chimie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.8"
+    },
+    {
+      "question": "<p>Quelles sont les quatre grandes <u>places financi&egrave;res </u>du XIXe si&egrave;cle ?</p>",
+      "explain": "",
+      "choices": [
+        "*Londres / Paris / Berlin / Vienne",
+        "Londres / Madrid / Rome / Paris",
+        "Londres / Berlin / Moscou / Stockholm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.9"
+    },
+    {
+      "question": "<p>Qu'est-ce que le capital ?</p>",
+      "explain": "",
+      "choices": [
+        "La ville principale d'un pays",
+        "*L'argent",
+        "Un monument de Washington DC"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.10"
+    },
+    {
+      "question": "<p>Quelle invention est &agrave; l'origine de la r&eacute;volution industrille?</p>",
+      "explain": "",
+      "choices": [
+        "*la machine a vapeur",
+        "l'électricité",
+        "la chimie",
+        "la sidérurgie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.11"
+    },
+    {
+      "question": "<p>Sur quelle <u>source d'&eacute;nergie</u> repose la 1ere R&eacute;volution industrielle?</p>",
+      "explain": "",
+      "choices": [
+        "*charbon",
+        "pétrole",
+        "fer",
+        "électricité"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.12"
+    },
+    {
+      "question": "<p>Les <u>paysans</u> quittent la campagne pour aller travailler sans les usines, c'est</p>",
+      "explain": "",
+      "choices": [
+        "*l'exode rural",
+        "la migration",
+        "l'industruialisation",
+        "le libéralisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.13"
+    },
+    {
+      "question": "<p>Qui s'enrichit et domine la soci&eacute;t&eacute; au 19e si&egrave;cle gr&acirc;ce &agrave; l'industrialisation ?</p>",
+      "explain": "",
+      "choices": [
+        "*les bouregeois",
+        "les ouvriers",
+        "les paysans",
+        "la classe moyenne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.14"
+    },
+    {
+      "question": "<p>Qu'est ce que le prol&eacute;tariat?</p>",
+      "explain": "",
+      "choices": [
+        "*les ouvriers",
+        "la classe moyenne",
+        "les syndicats",
+        "les paysans"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.15"
+    },
+    {
+      "question": "<p>Vers la fni du 19e siecle, quelle <u>nouvelle &eacute;nergie</u> remplace la charbon?</p>",
+      "explain": "",
+      "choices": [
+        "*le pétrole",
+        "le fer",
+        "l'uranium",
+        "l'energie solaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.16"
+    },
+    {
+      "question": "<p>L'industrie de <u>transformation des m&eacute;taux</u> s'appelle la</p>",
+      "explain": "",
+      "choices": [
+        "*sidérurgie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.17"
+    },
+    {
+      "question": "<p>Les r&eacute;gions dont le paysage change &agrave; cause de l'industrialisation rapide s'appelent.</p>",
+      "explain": "",
+      "choices": [
+        "les pays developpes",
+        "*les pays noirs",
+        "les pays de cocagne",
+        "les pays usines"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.19"
+    },
+    {
+      "question": "<p>Les grands <u>patrons d'industrie</u>, <u>banquiers</u> et grands commercants composent:</p>",
+      "explain": "",
+      "choices": [
+        "*la bourgeoisie",
+        "la classe moyenne",
+        "le prolétariat"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.20"
+    },
+    {
+      "question": "<p>L\"industrialisation commence au Nord-Est des USA puis s'etend en Angleterre et en France</p>",
+      "explain": "<p>C'est l'inverse.</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.21"
+    },
+    {
+      "question": "<p>Les conditions de vie et de travail des ouvriers sont plutot bonnes car les patrons leur fournissent un logement gratuit.</p>",
+      "explain": "<p>Les conditions de vie des ouvriers sont difficiles et dangereuses.</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.22"
+    },
+    {
+      "question": "<p>Les petit artisans, m&eacute;decins, journalistes, professeurs composent</p>",
+      "explain": "",
+      "choices": [
+        "*la classe moyenne",
+        "la bourgeoisie",
+        "le prolétariat"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.23"
+    },
+    {
+      "question": "<p>La nouvelle <u>id&eacute;ologie dominante</u> est</p>",
+      "explain": "",
+      "choices": [
+        "*le libéralisme",
+        "le socialisme",
+        "l'anarchie",
+        "le dirigisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.24"
+    },
+    {
+      "question": "<p>Le <u>lib&eacute;ralisme</u> a pour fondement</p>",
+      "explain": "",
+      "choices": [
+        "*la liberté d'entreprise",
+        "la lutte des classes",
+        "la redistribution des richesses",
+        "la liberté d'opinion"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.25"
+    },
+    {
+      "question": "<p>Dans le <u>lib&eacute;ralisme</u>, <u>l'Etat</u> doit intervenir</p>",
+      "explain": "",
+      "choices": [
+        "*le moins possible",
+        "le plus possible"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.26"
+    },
+    {
+      "question": "<p>Un synonyme de <u>lib&eacute;ralisme</u> est:</p>",
+      "explain": "",
+      "choices": [
+        "*capitalisme",
+        "communisme",
+        "marxisme",
+        "socialisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.27"
+    },
+    {
+      "question": "<p>Qui a th&eacute;oris&eacute; le <u>lib&eacute;ralisme</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*Adam Smith",
+        "Karl Max",
+        "James Watt",
+        "Ford"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.28"
+    },
+    {
+      "question": "<p>La decouverte du <u>p&eacute;trole</u>, qui remplace le charbon permet l'invention de</p>",
+      "explain": "",
+      "choices": [
+        "*du moteur à explosion",
+        "de la machine a vapeur",
+        "de la sidérurgie",
+        "de l'electricité"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.29"
+    },
+    {
+      "question": "<p>La <u>machine &agrave; vapeur</u> fonctionne avec</p>",
+      "explain": "",
+      "choices": [
+        "*de l'eau et du charbon",
+        "de la vapeur et du pétrole",
+        "de l'électricité",
+        "du fer"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.30"
+    },
+    {
+      "question": "<p>Une des cons&eacute;quences de l'invention de la <u>machine &agrave; vapeur,</u> est le d&eacute;velopement:</p>",
+      "explain": "",
+      "choices": [
+        "*des mines de charbon",
+        "des mines de fer",
+        "des gisements de pétrole",
+        "des centrales électriques"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.31"
+    },
+    {
+      "question": "<p>Quelle id&eacute;olgie s'oppose au <u>lib&eacute;ralisme</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*le socialisme",
+        "le capitalisme",
+        "l'anarchie",
+        "le christiasnisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.32"
+    },
+    {
+      "question": "<p>Un synonyme du <u>socialisme</u> est le&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*marxisme",
+        "capitalisme",
+        "le dogmatisme",
+        "l'égalitarisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.33"
+    },
+    {
+      "question": "<p>Qui a th&eacute;oris&eacute; le <u>socialisme / communisme</u>?</p>",
+      "explain": "",
+      "choices": [
+        "Adam Smith",
+        "*Karl Max",
+        "James Watt",
+        "Ford"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.35"
+    },
+    {
+      "question": "<p>La <u>marxisme</u> a pour but le controle des moyens de production par le prol&eacute;tariat et la r&eacute;partion des richesses pour tous.</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.36"
+    },
+    {
+      "question": "<p>Durant la r&eacute;volution industrielle, <u>la population&nbsp; en Europe</u></p>",
+      "explain": "",
+      "choices": [
+        "*augmente rapidement",
+        "augment lentement",
+        "diminue ",
+        "stagne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/41.37"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 37,
+  "theme": "6",
+  "level": [
+    "4"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

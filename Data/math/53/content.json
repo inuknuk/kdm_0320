@@ -1,0 +1,276 @@
+{
+  "id": "math/53",
+  "title": "Sphère et Boule",
+  "pages": [
+    "math/53/1.htm",
+    "math/53/2.htm",
+    "math/53/3.htm",
+    "math/53/4.htm",
+    "math/53/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Dans quel sport utilise-t-on des boules ?&nbsp;</p>",
+      "explain": "<p>On utilise des boules quand on joue &agrave; la <u>p&eacute;tanque</u>.</p>",
+      "choices": [
+        "*Pétanque",
+        "Rugby",
+        "Javelot",
+        "Lancer de disque"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.1"
+    },
+    {
+      "question": "<p>Soit une boule de centre O et de rayon R. A quelle <u>distance</u> d de O sont les points constituant le solide ?&nbsp;</p>",
+      "explain": "<p>La boule de centre O et de rayon R est le solide constitu&eacute; de tous les points de l'espace situ&eacute;s &agrave; une <u>distance inf&eacute;rieure ou &eacute;gale &agrave; R</u> du point O.</p>",
+      "choices": [
+        "*d ≤ R",
+        "d = R ",
+        "d > R",
+        "D ≥ R"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.2"
+    },
+    {
+      "question": "<p>A quoi correspond une <u>boule</u> ?</p>",
+      "explain": "<p>Une boule est un solide constitu&eacute; de tous les points dont la distance est inf&eacute;rieure ou &eacute;gale &agrave; d. Il s'agit donc d'un <u>volume</u>.</p>",
+      "choices": [
+        "Une longueur ",
+        "Une surface",
+        "*Un volume"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.3"
+    },
+    {
+      "question": "<p>A quoi correspond une <u>sph&egrave;re</u> ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>Une sph&egrave;re est constitu&eacute; de tous les points dont la distance est &eacute;gale &agrave; d. Il s'agit donc d'une aire ou d'une <u>surface</u>.</p>",
+      "choices": [
+        "Une longueur ",
+        "*Une suface",
+        "Un volume"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.4"
+    },
+    {
+      "question": "<p>A quoi correspond la sph&egrave;re d'une boule de p&eacute;tanque ?</p>",
+      "explain": "<p>La sph&egrave;re de la boule de p&eacute;tanque est sa <u>surface ext&eacute;rieure</u>.</p>",
+      "choices": [
+        "Sa surface intérieure",
+        "*Sa surface extérieure",
+        "Son contenu",
+        "Son intérieur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.5"
+    },
+    {
+      "question": "<p>Soit une sph&egrave;re de rayon R. Quel est la formule de l'<u>aire de la sph&egrave;re</u> ?</p>",
+      "explain": "<p>L'aire de la sph&egrave;re vaut :&nbsp;<u>A =&nbsp;4 &times; &pi; &times; R&sup2;</u>.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "4 × π × R  ",
+        "*4 × π × R²",
+        "2 × π × R  ",
+        "π × R²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.6"
+    },
+    {
+      "question": "<p>Soit une boule de rayon R. Quel est la formule du <u>volume de la boule</u> ?&nbsp;</p>",
+      "explain": "<p>Le volume de la boule vaut :&nbsp;</p>\n<p>V =&nbsp;(4 &divide; 3) &times; &pi; &times; R&sup3;</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*(4 ÷ 3) × π × R³",
+        "4 × π × R³",
+        "(4 ÷ 3) × π × R²",
+        "4 × π × R²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.7"
+    },
+    {
+      "question": "<p>Quelle longueur correspond &agrave; un <u>rayon</u> de la boule ?&nbsp;</p>\n<p><img src=\"img/qudiam.png\" /></p>",
+      "explain": "<p>OB est un rayon de la boule. Tout comme AO et OC.&nbsp;</p>",
+      "choices": [
+        "AC",
+        "*OB",
+        "CB",
+        "AB"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.8"
+    },
+    {
+      "question": "<p>Quelle longueur correspond &agrave; un <u>diam&egrave;tre</u> de la boule ?&nbsp;</p>\n<p><img src=\"img/qudiam.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>La longueur AB relie deux points de la sph&egrave;re et passe par le centre de la boule O. Il s'agit donc du <u>diam&egrave;tre</u> de la boule.</p>",
+      "choices": [
+        "AC",
+        "OB",
+        "CB",
+        "*AB"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.9"
+    },
+    {
+      "question": "<p>A quoi correspond la <u>surface de la terre</u> ?</p>",
+      "explain": "<p>La surface de la Terre est approximativement une <u>sph&egrave;re</u>.</p>",
+      "choices": [
+        "Une boule",
+        "*Une sphère",
+        "Un cube",
+        "Un disque"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.10"
+    },
+    {
+      "question": "<p>Quelle est la longueur du rayon de la <u>sph&egrave;re terrestre</u> ?</p>",
+      "explain": "<p>La surface de la Terre est approximativement une <u>sph&egrave;re de rayon 6 370 km</u>.</p>",
+      "choices": [
+        "Environ 1000 km",
+        "*Environ 6370 km",
+        "Environ 12 740 km",
+        "Environ 143 600 km"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.11"
+    },
+    {
+      "question": "<p>Comment appelle-t-on le cercle joignant le p&ocirc;le nord et le p&ocirc;le sud ? (en vert sur le sch&eacute;ma)</p>\n<p><img src=\"img/qumeridien.png\" /></p>",
+      "explain": "<p>Il s'agit d'un <u>m&eacute;ridien</u>.</p>",
+      "choices": [
+        "*Un méridien",
+        "Un tropique",
+        "L'équateur",
+        "La longitude"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.12"
+    },
+    {
+      "question": "<p>Comment appelle-t-on un cercle parall&egrave;le &agrave; l'&eacute;quateur ? (en bleu sur le sch&eacute;ma)</p>\n<p><img src=\"img/quparallele.png\" /></p>",
+      "explain": "<p>Cinq parall&egrave;les ont des noms particuliers du nord au sud : Cercle polaire artique, Tropique du Cancer, Equateur, Tropique du Capricorne et Cercle polaire antarctique.</p>",
+      "choices": [
+        "Un méridien",
+        "Un tropique",
+        "*Un parallèle",
+        "La longitude"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.14"
+    },
+    {
+      "question": "<p>Comment s'appelle le <u>m&eacute;ridien d'origine</u> ?</p>",
+      "explain": "<p>Le m&eacute;ridien d'origine s'appelle le m&eacute;ridien de <u>Greenwich</u>.</p>",
+      "choices": [
+        "*Greenwich",
+        "Paris",
+        "Equateur",
+        "Tropicorne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.15"
+    },
+    {
+      "question": "<p>Quelle information est mesur&eacute;e par les <u>m&eacute;ridiens</u> ?</p>",
+      "explain": "<p>La <u>longitude</u> est mesur&eacute;e par les m&eacute;ridiens.</p>",
+      "choices": [
+        "*La longitude ",
+        "La latitude"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.16"
+    },
+    {
+      "question": "<p>Quelle information est mesur&eacute;e par les <u>parall&egrave;les</u> ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>La <u>latitude</u> est mesur&eacute;e par les parall&egrave;les.</p>",
+      "choices": [
+        "La longitude ",
+        "*La latitude"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.17"
+    },
+    {
+      "question": "<p>Comment est donn&eacute;e l'information de <u>longitude</u> ?</p>",
+      "explain": "<p>L'information de longitude est comprise <u>entre 0&deg; et 180&deg; </u>et est compl&eacute;t&eacute;e par <u>est ou ouest</u> (par rapport au m&eacute;ridien de Greenwich).</p>",
+      "choices": [
+        "*Entre 0° et 180°, Est ou Ouest",
+        "Entre 0° et 180°, Nord ou Sud",
+        "Entre 0° et 90°, Est ou Ouest",
+        "Entre 0° et 90°, Nord ou Sud"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.18"
+    },
+    {
+      "question": "<p>Comment est donn&eacute;e l'information de <u>latitude</u> ?</p>",
+      "explain": "<p>L'information de longitude est comprise <u>entre 0&deg; et 90&deg;</u> et est compl&eacute;t&eacute;e par <u>nord ou sud</u> (par rapport &agrave; l'&eacute;quateur).</p>",
+      "choices": [
+        "Entre 0° et 180°, Est ou Ouest",
+        "Entre 0° et 180°, Nord ou Sud",
+        "Entre 0° et 90°, Est ou Ouest",
+        "*Entre 0° et 90°, Nord ou Sud"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.19"
+    },
+    {
+      "question": "<p>Combien d'informations sont n&eacute;cessaires pour rep&eacute;rer un point sur la Terre ?</p>",
+      "explain": "<p><u>Deux informations</u> sont n&eacute;cessaires pour rep&eacute;rer tout point sur Terre.</p>",
+      "choices": [
+        "0",
+        "1",
+        "*2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.20"
+    },
+    {
+      "question": "<p>Quelles sont les deux informations n&eacute;cessaires pour rep&eacute;rer un point sur la Terre ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p><u>La longitude et la latitude</u> sont n&eacute;cessaires pour rep&eacute;rer tout point sur Terre.</p>",
+      "choices": [
+        "*Longitude et latitude",
+        "Longitude et distance",
+        "Nord et est",
+        "Greenwich et équateur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/53.21"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 21,
+  "theme": "geometrie",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

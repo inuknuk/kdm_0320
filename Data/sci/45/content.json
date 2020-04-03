@@ -1,0 +1,208 @@
+{
+  "id": "sci/45",
+  "title": "La Pile a Hydrogene (Pb)",
+  "editor": "tbrethes@gmail.com",
+  "pages": [
+    "sci/45/1.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Relit bien l'&eacute;nonc&eacute; de la page pr&eacute;c&eacute;dente.</p>\n<p>Qu'est ce que l'on doit <u>trouver</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*le volume d'eau produit",
+        "la masse d'eau produite",
+        "le volume d'oxygène consommé",
+        "le volume d'hydrogène produit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.1"
+    },
+    {
+      "question": "<p>Que ce que je <u>connais</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*la masse de l'hydrogène consommé",
+        "le volume de l'hydrogène consommé",
+        "la masse de l'eau produit",
+        "le volume de l'oxygene consommé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.3"
+    },
+    {
+      "question": "<p>Pour calculer le <u>volume d'eau produit,</u>&nbsp;je dois d'abord</p>",
+      "explain": "",
+      "choices": [
+        "*Ecrire la réaction chimique",
+        "Calculer la masse d'eau",
+        "Calculer le volume d'oxygène consommé",
+        "Calculer le volume de l'hydrogène"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.2"
+    },
+    {
+      "question": "<p>Quelle est <u>l'&eacute;quation chimique</u> de la reaction?</p>",
+      "explain": "",
+      "choices": [
+        "*Hydrogène + Oxygène → Eau",
+        "Hydrogène + Oxygène → Eau + CO2",
+        "Hydrogène → Eau + Oxygène",
+        "Oxygène → Hydrogène + Eau",
+        "Eau → Hydrogène + Oxygène"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.4"
+    },
+    {
+      "question": "<p>&nbsp;Maintenant que je connais la r&eacute;action chimique</p>\n<p><u>Hygrog&egrave;ne + Oxyg</u><u>&egrave;</u><u>ne -&gt; Eau</u></p>\n<p>Je dois <u>l'&eacute;quilibrer</u> avec les <u>bons co&eacute;fficents</u>.</p>\n<p>Quelle est la bonne &eacute;quation?&nbsp;</p>",
+      "explain": "<p>Il doit y avoir le m&ecirc;me&nbsp; nombre d'atomes de H et et O &agrave; gauche et &agrave; droite.</p>\n<p>C'est la conservation de la masse.</p>",
+      "choices": [
+        "*2 H2 + O2 → 2 H20",
+        "H2 + O2 → H20",
+        "H2 + 2 O2 → 2 H20",
+        "3 H2 + 2 O2 → 3 H20"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.5"
+    },
+    {
+      "question": "<p>La r&eacute;action chimique:</p>\n<p><u>2 H2 + O2 &rarr; 2 H20</u></p>\n<p>indique que</p>\n<p>2 ______ d'hydrog&egrave;ne produisent 2 _____ d'eau.</p>",
+      "explain": "",
+      "choices": [
+        "*molécules / molécules ",
+        "kilogrammes / kilogrammes",
+        "molécules / kilogrammes ",
+        "litres / litres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.9"
+    },
+    {
+      "question": "<p>Regarde les coefficients de la r&eacute;action:</p>\n<p><u>2 H2 + O2 &rarr; 2 H20</u></p>\n<p>Pour <u>2 mol&eacute;cules d'hydrogene</u> consomm&eacute;es, combien de <u>molecules d'eau</u> ont &eacute;t&eacute; produites?</p>\n<p>&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*2",
+        "1",
+        "3",
+        "0"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.6"
+    },
+    {
+      "question": "<p>Dans notre r&eacute;action chimique:</p>\n<p><u>2 H2 + O2 &rarr; 2 H20</u></p>\n<p>Le nombre de mol&eacute;cules d'eau produites est ____ au nombre de mol&eacute;cules de H2 consomm&eacute;es.</p>",
+      "explain": "",
+      "choices": [
+        "*égale",
+        "2 fois superieur",
+        "2 fois inferieur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.7"
+    },
+    {
+      "question": "<p>J'ai consomm&eacute; <u>8kg</u> de H2. Afin de <u>pouvoir utiliser</u> ma reaction chimique</p>\n<p><u>2 H2 + O2 &rarr; 2 H20</u></p>\n<p>Je dois <u>convertir</u> ces 8kg dH2 en</p>",
+      "explain": "",
+      "choices": [
+        "*nombre de molecules de H2",
+        "volume de H2",
+        "nombre de molecules de H20",
+        "masse de H2"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.8"
+    },
+    {
+      "question": "<p>On sait que la masse d'<u>un atome H</u> est de <u>1,7E-27 kg</u>.</p>\n<p>Quel est la masse d'<u>une mol&eacute;cule de dihydrogene H2</u>?</p>",
+      "explain": "<p>Il y a 2 atomes de H dans le dihydrog&egrave;ne H2.</p>\n<p>Donc 2 &times; 1,7E-27 kg</p>",
+      "choices": [
+        "*2 × 1,7E-27 = 3,4E-27 kg",
+        " 1,7E-27 kg",
+        "1,7E-27 / 2 = 3,5E-28 kg"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.10"
+    },
+    {
+      "question": "<p>On vient de calculer que la masse d'<u>une mol&eacute;cule de H2</u> est de <u>3,4E-27 kg.</u></p>\n<p>Les <u>8kg</u> de H2 consomm&eacute;s correspondent &agrave; <u>combien de mol&eacute;cules</u>?</p>",
+      "explain": "<p>masse = Nombre de mol&eacute;cules &times; masse 1 mol&eacute;cule</p>\n<p>Nombre de mol&eacute;cules = Masse / Masse 1 mol&eacute;cule</p>\n<p>donc = 8 / 3,4E-27 mol&eacute;cules</p>",
+      "choices": [
+        "*= 8 / 3,4E-27 = 2,4E27 molécules",
+        "= 8 * 3,4E-27 = 27,2E27 molécules"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.16"
+    },
+    {
+      "question": "<p>On a calcul&eacute; a l'etape precedente que on avait consomm&eacute; <u>2,4E27 mol&eacute;cules de H2.</u></p>\n<p>Sachant que l'equation est</p>\n<p><u>2 H2 + O2 &rarr; 2 H20</u></p>\n<p>Quelle est le nombre de mol&eacute;cules d'eau produites?</p>",
+      "explain": "",
+      "choices": [
+        "*2,4E27 molécules",
+        "2 × 2,4E27 molécules",
+        "2,4E27 kg",
+        "2,4E27 / 2 molécules"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.11"
+    },
+    {
+      "question": "<p>On vient de calculer que l'on a produit <u>2,4E27 mol&eacute;cules de H20</u></p>\n<p>Pour calculer la <u>masse</u> ces molecules, je dois <u>d'abord</u> calculer ______&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*la masse d'une molécule d'eau",
+        "la masse volumique",
+        "le volume d'une molécule d'eau",
+        "la masse d'une molécule de H2"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.12"
+    },
+    {
+      "question": "<p>La masse d'un atome H est de&nbsp; <u>1,7E-27kg</u></p>\n<p>La masse d'un atome 0 est <u>2,7E-26 kg</u></p>\n<p>Quelle est la <u>masse d'une mol&eacute;cule d'eau H20</u>?</p>",
+      "explain": "<p>Il y a 2 atomes de O plus 1 atome de H dans l'eau</p>",
+      "choices": [
+        "*= 2 × 1,7E-27 + 2,7E-26 = 3E-26kg ",
+        "= 1,7E-27 + 2,7E-26 = 2,9E-26kg ",
+        "= 1,7E-27 + 2 × 2,7E-26 = 5,6E-26kg "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.13"
+    },
+    {
+      "question": "<p>On a produit <u>2,4E27 mol&eacute;cules d'eau.</u></p>\n<p>On a calcul&eacute; la masse d'une mol&eacute;cule d'eau = 3E-26kg.</p>\n<p>Qelle est la <u>masse d'eau</u> produite?</p>",
+      "explain": "",
+      "choices": [
+        "*= 2,4E27 × 3E-26 = 72 kg",
+        "= 2,4E27 / 3E-26 = 8E51 kg",
+        "= 3E-26  / 2,4E27 = 1,3E-53 kg"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/45.14"
+    }
+  ],
+  "pageCounter": 1,
+  "questionCounter": 16,
+  "warning": "1",
+  "theme": "2",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

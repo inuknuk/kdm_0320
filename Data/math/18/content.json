@@ -1,0 +1,54 @@
+{
+  "id": "math/18",
+  "title": "Transformation du plan: MOVE QUIZZES AND DELETE",
+  "pages": [],
+  "questions": [
+    {
+      "question": "<p>Deux figures symetriques par symetrie axiale se supperposent par un pliage le long de l'axe des symetrie</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "id": "math/18.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Une figure et son image par une symetrie axiale ou centrale sont superposables</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "math/18.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les angles sont preservees lors d'une symetrie centrale ou axiale</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "math/18.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les <u>aires</u> sont preservees lors d'une <u>symetrie centrale ou axiale</u></p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "math/18.8",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 0,
+  "questionCounter": 9,
+  "warning": "1",
+  "theme": "geometrie",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "draft",
+  "editor": ""
+}

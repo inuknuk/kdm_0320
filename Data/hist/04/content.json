@@ -1,0 +1,110 @@
+{
+  "id": "hist/04",
+  "title": "Commerce en Mediterranee",
+  "pages": [
+    "hist/04/1.htm",
+    "hist/04/2.htm"
+  ],
+  "questions": [
+    {
+      "question": "Qui domine le commerce en Mediterranne entre le 8eme et le Xeme siecle?",
+      "choices": [
+        "*Byzance",
+        "Badgad",
+        "Genes",
+        "Florence"
+      ],
+      "id": "hist/04.1"
+    },
+    {
+      "question": "A partir de quel siecle, le commerce en Mediterannee connait un fort essor?",
+      "choices": [
+        "*XIIeme siecle",
+        "Xeme siecle",
+        "XIVeme siecle",
+        "XVeme siecle"
+      ],
+      "id": "hist/04.2"
+    },
+    {
+      "question": "Qui domine le commerce en Mediteranee a partir du XIIeme?",
+      "choices": [
+        "*Les villes italiennes",
+        "L'empereur byzantin",
+        "Le calife",
+        "la Grece"
+      ],
+      "id": "hist/04.3"
+    },
+    {
+      "question": "Un comptoir etabli a l'etranger permet de faciliter les echanges commerciaux",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "hist/04.4"
+    },
+    {
+      "question": "Un comptoir contient",
+      "choices": [
+        "*Des entrepots",
+        "Un souk",
+        "Une mosquee",
+        "Un hamman"
+      ],
+      "id": "hist/04.5"
+    },
+    {
+      "question": "Un comptoir est situe",
+      "choices": [
+        "*A l'etranger",
+        "dans son propre pays"
+      ],
+      "id": "hist/04.6"
+    },
+    {
+      "question": "L'objectif principal d'un comptoir est",
+      "choices": [
+        "*commercial",
+        "scientifique",
+        "artistique",
+        "diplomatique"
+      ],
+      "id": "hist/04.7"
+    },
+    {
+      "question": "Pise, Gene et Florence achetent au monde Arabo-Mulsulam",
+      "choices": [
+        "*des biens precieux",
+        "des armes",
+        "du ble",
+        "du vin"
+      ],
+      "id": "hist/04.8"
+    },
+    {
+      "question": "Venise revend beaucoup de biens venant d'Occident au monde Musulman",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "hist/04.9"
+    },
+    {
+      "question": "Florence, Pise et Genes achetent des epices et de la soie au monde Arabo Musulman et les revendent en Occidant",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "hist/04.10"
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 10,
+  "theme": "1",
+  "level": [
+    "5"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

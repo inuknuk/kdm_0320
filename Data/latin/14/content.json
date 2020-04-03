@@ -1,0 +1,162 @@
+{
+  "title": "Les Adjectifs qualificatifs de la 1ere classe",
+  "pages": [
+    "latin/14/1.htm",
+    "latin/14/2.htm",
+    "latin/14/3.htm",
+    "latin/14/4.htm",
+    "latin/14/5.htm",
+    "latin/14/6.htm",
+    "latin/14/7.htm",
+    "latin/14/8.htm"
+  ],
+  "id": "latin/14",
+  "questions": [
+    {
+      "question": "Dans la phrase: <u>Servus malus est<u>, quel est l'adjectif?",
+      "choices": [
+        "servus",
+        "*malus",
+        "est"
+      ],
+      "id": "latin/14:1"
+    },
+    {
+      "question": "Dans la phrase <u>Dea bona est</u> quel est l'adjectif?",
+      "choices": [
+        "Dea",
+        "*bona",
+        "est"
+      ],
+      "id": "latin/14:2"
+    },
+    {
+      "question": "Dans la phrase: <u>Sumus magnae<u>, quel est l'adjectif?",
+      "choices": [
+        "sumus",
+        "*magnae",
+        "Il n'y en a pas"
+      ],
+      "id": "latin/14.3"
+    },
+    {
+      "question": "Dans la phrase: <u>Templum novum est<u>, quel est l'adjectif?",
+      "choices": [
+        "templum",
+        "*novum",
+        "est",
+        "Il n'y en a pas"
+      ],
+      "id": "latin/14.4"
+    },
+    {
+      "question": "Dans la phrase: <u>Templum novum est<u>, quel est l'adjectif? (Copy)",
+      "choices": [
+        "templum",
+        "*novum",
+        "est",
+        "Il n'y en a pas"
+      ],
+      "id": "latin/14.5"
+    },
+    {
+      "question": "Traduit en latin <u>Un mauvais maitre</u>",
+      "choices": [
+        "*malus dominus",
+        "mala dominus",
+        "malum dominus",
+        "mali domini"
+      ],
+      "id": "latin/14.6"
+    },
+    {
+      "question": "Traduit en latin <u>Des mauvais maitres</u>",
+      "choices": [
+        "malus dominus",
+        "mala dominus",
+        "malum dominus",
+        "*mali domini"
+      ],
+      "id": "latin/14.7"
+    },
+    {
+      "question": "Traduit en latin, <u>l'esclave est mauvais</u>",
+      "choices": [
+        "*Servus malus est",
+        "Servus malum est",
+        "Servi mali sunt",
+        "Servus mala est"
+      ],
+      "id": "latin/14.8"
+    },
+    {
+      "question": "Traduit en latin, <u>les esclaves sont mauvais</u>",
+      "choices": [
+        "*Servi mali sunt",
+        "Servi malae sunt",
+        "Servi mala sunt",
+        "Servus malus est"
+      ],
+      "id": "latin/14.9"
+    },
+    {
+      "question": "Traduire: Les esclaves construisent un nouveau forum",
+      "choices": [
+        "Servi aedificare novus forum",
+        "Servi aedificare nova forum",
+        "*Servi aedificare novum forum",
+        "Servi aedificare novus forumus"
+      ],
+      "id": "latin/14.10"
+    },
+    {
+      "question": "A quel cas est l'adjectif dans cette phrase: <u>Loqui, bonum amicum!</u>",
+      "choices": [
+        "Nominatif",
+        "Accusatif",
+        "*Vocatif",
+        "Ablatif"
+      ],
+      "id": "latin/14.11"
+    },
+    {
+      "question": "Traduire: Le maître du malheureux esclave est méchant.",
+      "choices": [
+        "Dominus miserum servi malus est",
+        "*Dominus miseri servi malus est",
+        "Dominus misero servo malus est",
+        "Dominus miserum servus malus est"
+      ],
+      "id": "latin/14.12"
+    },
+    {
+      "question": "Traduire: Le maître donne de l'eau au petit cheval",
+      "choices": [
+        "Dominus dat aqua parvus equus",
+        "Dominus dat aqua parvi equi",
+        "*Dominus dat aqua parvo equo",
+        "Dominus dat aqua parvus equo"
+      ],
+      "id": "latin/14.13"
+    },
+    {
+      "question": "Traduire: La statue est dans le grand temple",
+      "choices": [
+        "Statua est in magni templum",
+        "Statua est in magnus templum",
+        "*Statua est in magno templo",
+        "Statua est in magni templi"
+      ],
+      "id": "latin/14.14"
+    }
+  ],
+  "pageCounter": 8,
+  "questionCounter": 14,
+  "theme": "declinaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

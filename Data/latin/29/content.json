@@ -1,0 +1,102 @@
+{
+  "id": "latin/29",
+  "title": "Traductions",
+  "pages": [
+    "latin/29/1.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p><u>Servum puella spectat.</u> Quelle est la bonne traduction?</p>",
+      "choices": [
+        "*La jeune fille regarde l'esclave",
+        "L'esclave regarde la jeune fille",
+        "La jeune fille regarde les esclaves",
+        "l'esclave de la jeune fille la regarde"
+      ],
+      "id": "latin/29.1",
+      "explain": "<p><u>Servum puella spectat</u></p>\n<p>spectat (voit) est le <u>verbe</u> (3eme pers.du sing.)</p>\n<p>puella (jeune fille) se termine en <u>-a</u>,&nbsp; donc <u>Nominatif</u> (1ere decl.) : c'est le <strong>sujet</strong></p>\n<p>servum (esclave) se termine en <u>-um</u>, donc <u>Accusatif</u>, (2eme decl.), c'est le <strong>COD</strong></p>\n<p><strong>La jeune fille regarde l'esclave</strong></p>"
+    },
+    {
+      "question": "<p><u>Servus puellam spectat.</u> Quelle est la bonne traduction?</p>",
+      "choices": [
+        "*L'esclave regarde la jeune fille",
+        "La jeune fille regarde l'esclave",
+        "La jeune fille regarde les esclaves",
+        "l'esclave de la jeune fille regarde"
+      ],
+      "id": "latin/29.2",
+      "explain": "<p><u>Servus puellam spectat</u></p>\n<p>spectat (voit) est le&nbsp;<u>verbe</u>&nbsp;(3eme pers.du sing.)</p>\n<p>servus (esclave) se termine en&nbsp;<u>-us</u>, donc&nbsp;<u>Nominatif</u>, (2eme decl.), c'est le&nbsp;<strong>S<strong>ujet</strong></strong></p>\n<p>puellam (jeune fille) se termine en&nbsp;<u>-am</u>, donc <u>Accusatif</u> (1ere decl.), c'est le<strong> COD</strong></p>\n<p><strong>L'esclave regarde l</strong><strong>a jeune fille&nbsp;</strong></p>"
+    },
+    {
+      "question": "<p><u>Servus puellae spectat.</u> Quelle est la bonne traduction?</p>",
+      "choices": [
+        "*L'esclave de la jeune fille regarde",
+        "La jeune fille regarde l'esclave",
+        "La jeune fille regarde les esclaves",
+        "L'esclave regarde la jeune fille"
+      ],
+      "id": "latin/29.3",
+      "explain": "<p><u>Servus puellae spectat</u></p>\n<p>spectat (voit) est le&nbsp;<u>verbe</u>&nbsp;(3eme pers.du sing.)</p>\n<p>servus (esclave) se termine en&nbsp;<u>-us</u>, donc&nbsp;<u>Nominatif</u>, (2eme decl.), c'est le&nbsp;<strong>S<strong>ujet</strong></strong></p>\n<p>puellae (jeune fille) se termine en <u>-ae</u>, donc <u>Genitif Singulier</u> <u>(</u>1ere decl.), c'est le <strong>Complement du nom</strong> de servus</p>\n<p><strong>L'esclave de la jeune fille regarde</strong></p>"
+    },
+    {
+      "question": "<u>Dei templum dominus spectat</u>. Quelle est la bonne traduction?",
+      "choices": [
+        "*Le maitre regarde le temple du dieu",
+        "Le dieu regarde le temple du maitre",
+        "Au temple, le maitre regarde le dieu",
+        "Le maitre regarde le temple des dieux"
+      ],
+      "id": "latin/29.4"
+    },
+    {
+      "question": "<u>Deorum templum dominus spectat</u>. Quelle est la bonne traduction?",
+      "choices": [
+        "*Le maitre regarde le temple des dieux",
+        "Les dieux regardent le temple du maitre",
+        "Le maitre des dieux regarde le temple",
+        "Le maitre regarde le temple du dieu"
+      ],
+      "id": "latin/29.5"
+    },
+    {
+      "question": "<u>Domini filium deus spectat</u>. Quelle est la bonne traduction?",
+      "choices": [
+        "*Le dieu regarde le fils du maitre",
+        "Les maitres regardent le fils du dieu",
+        "Les dieux regardent le fils du maitre",
+        "Le fils du maitre regarde le dieu"
+      ],
+      "id": "latin/29.6"
+    },
+    {
+      "question": "<u>Dominus deo filium spectat</u>. Quelle est la bonne traduction?",
+      "choices": [
+        "Le dieu regarde le fils du maitre",
+        "*Le maitre regarde le fils du dieu",
+        "Les dieux regardent le fils du maitre",
+        "Le fils du maitre regarde le dieu"
+      ],
+      "id": "latin/29.7"
+    },
+    {
+      "question": "<u>Domini filius  deum spectat</u>. Quelle est la bonne traduction?",
+      "choices": [
+        "Le dieu regarde le fils du maitre",
+        "Le maitre regarde le fils du dieu",
+        "Les dieux regardent le fils du maitre",
+        "*Le fils du maitre regarde le dieu"
+      ],
+      "id": "latin/29.8"
+    }
+  ],
+  "pageCounter": 1,
+  "questionCounter": 8,
+  "warning": "1",
+  "theme": "grammaire",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

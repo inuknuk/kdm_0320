@@ -1,0 +1,148 @@
+{
+  "id": "hist/09",
+  "title": "Le renforcement de l'Etat Royal",
+  "pages": [
+    "hist/09/1.htm",
+    "hist/09/2.htm",
+    "hist/09/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Comment Louis XI etablit sa domination sur les grands seigneurs?</p>",
+      "choices": [
+        "*par la diplomatie et la ruse",
+        "par la guerre",
+        "en mariant sa fille",
+        "par des emprisonnements"
+      ],
+      "id": "hist/09.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>La&nbsp;<u>chambre des comptes</u>, cree par Louis XI pour affirmer le pouvoir royal s'occupe de:</p>",
+      "choices": [
+        "*des finances",
+        "de justice",
+        "de politique",
+        "de l'armee"
+      ],
+      "id": "hist/09.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le <u>conseil du Roi</u>, cree par Louis XI pour affirmer le pouvoir royal s'occupe de:</p>",
+      "choices": [
+        "des finances",
+        "de justice",
+        "*de politique",
+        "de l'armee"
+      ],
+      "id": "hist/09.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le <u>Parlement</u>, cree par Louis XI pour affirmer le pouvoir royal s'occupe de:</p>",
+      "choices": [
+        "des finances",
+        "*de justice",
+        "de politique",
+        "de l'armee"
+      ],
+      "id": "hist/09.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui s'occupe des <u>finances</u>?</p>",
+      "choices": [
+        "*la chambre des Comptes",
+        "le Parlement",
+        "le connetable",
+        "le conseil de Roi"
+      ],
+      "id": "hist/09.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui s'occupe des affaires <u>militaires</u>?</p>",
+      "choices": [
+        "la chambre des Comptes",
+        "le Parlement",
+        "*le connetable",
+        "le conseil de Roi"
+      ],
+      "id": "hist/09.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui s'occupe des affaires <u>politiques</u> ?</p>",
+      "choices": [
+        "la chambre des Comptes",
+        "le Parlement",
+        "le connetable",
+        "*le conseil du Roi"
+      ],
+      "id": "hist/09.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui s'occupe de la justice et des lois?&nbsp;</p>",
+      "choices": [
+        "la chambre des Comptes",
+        "*le Parlement",
+        "le connetable",
+        "le conseil du Roi"
+      ],
+      "id": "hist/09.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les <u>representants</u> du Roi dans les <u>provinces du Nord</u> de la France sont les:</p>",
+      "choices": [
+        "*les baillis",
+        "les senechaux",
+        "les prevots"
+      ],
+      "id": "hist/09.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les <u>representants</u> du Roi dans les <u>provinces du Sud</u>&nbsp;de la France sont les:</p>",
+      "choices": [
+        "les baillis",
+        "*les senechaux",
+        "les prevots"
+      ],
+      "id": "hist/09.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les agents qui <u>prelevent les impots&nbsp;</u> pour le Roi se nomment</p>",
+      "choices": [
+        "les baillis",
+        "les senechaux",
+        "*les prevots"
+      ],
+      "id": "hist/09.12",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Louis XI</u> est le fils de&nbsp;</p>",
+      "choices": [
+        "*Charles VII",
+        "Charles VIII",
+        "Philippe Auguste",
+        "Huges Capet"
+      ],
+      "id": "hist/09.13",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 13,
+  "theme": "2",
+  "level": [
+    "5"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

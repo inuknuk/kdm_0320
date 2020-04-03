@@ -1,0 +1,27 @@
+{
+  "id": "math/79",
+  "title": "Equations du 2nd degré",
+  "editor": "tingnat@gmail.com",
+  "pages": [],
+  "questions": [
+    {
+      "question": "<p>-3 est-il solution de l'&eacute;quation:</p>\n<p><u>𝑥&sup2; - 9 = 0</u>&nbsp;?</p>",
+      "explain": "<p>On teste si l&rsquo;&eacute;galit&eacute; est vraie pour 𝑥 = -3</p>\n<p>(-3)&sup2; - 9 = 0 ?</p>\n<p>(-3)&times;(-3) - 9 = 0 ?</p>\n<p>9 - 9 = 0</p>\n<p>C'est vrai!</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/79.1"
+    }
+  ],
+  "pageCounter": 0,
+  "questionCounter": 1,
+  "warning": "1",
+  "theme": "calcul",
+  "level": [
+    "3"
+  ],
+  "status": "draft"
+}

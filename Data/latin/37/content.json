@@ -1,0 +1,182 @@
+{
+  "id": "latin/37",
+  "title": "Present Passif",
+  "pages": [
+    "latin/37/2.htm",
+    "latin/37/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Traduis <u>Je suis aim&eacute;</u></p>",
+      "choices": [
+        "*amor",
+        "amaris",
+        "amatur",
+        "amantur"
+      ],
+      "id": "latin/37.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis&nbsp; <u>Elle est aim&eacute;</u></p>",
+      "choices": [
+        "amor",
+        "amaris",
+        "*amatur",
+        "amantur",
+        "amamini"
+      ],
+      "id": "latin/37.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis <u>tu es aim&eacute;</u></p>",
+      "choices": [
+        "amor",
+        "*amaris",
+        "amatur",
+        "amamini",
+        "amantur"
+      ],
+      "id": "latin/37.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis <u>nous sommes aim&eacute;s</u></p>",
+      "choices": [
+        "amor",
+        "amaris",
+        "*amamur",
+        "amamini",
+        "amatur"
+      ],
+      "id": "latin/37.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis <u>vous etes aim&eacute;s</u></p>",
+      "choices": [
+        "amatur",
+        "amaris",
+        "amamur",
+        "*amamini",
+        "amantur"
+      ],
+      "id": "latin/37.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis&nbsp; <u>Elles sont aim&eacute;es</u></p>",
+      "choices": [
+        "amor",
+        "amaris",
+        "amatur",
+        "*amantur",
+        "amamini"
+      ],
+      "id": "latin/37.7",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amor</u> indique la voix</p>",
+      "choices": [
+        "*Passive",
+        "Active"
+      ],
+      "id": "latin/37.8",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amat</u>&nbsp;indique la voix</p>",
+      "choices": [
+        "Passive",
+        "*Active"
+      ],
+      "id": "latin/37.9",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amatur</u>&nbsp;indique la voix</p>",
+      "choices": [
+        "*Passive",
+        "Active"
+      ],
+      "id": "latin/37.10",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amamini</u>&nbsp;indique la voix</p>",
+      "choices": [
+        "*Passive",
+        "Active"
+      ],
+      "id": "latin/37.11",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amaris</u> signifie</p>",
+      "choices": [
+        "*Tu es aimé",
+        "Tu aimes",
+        "Nous aimons",
+        "Vous etes amarés"
+      ],
+      "id": "latin/37.12",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amatur</u>&nbsp;signifie</p>",
+      "choices": [
+        "*Elle est aimée",
+        "Tu aimes",
+        "Vous aimez",
+        "Elles sont aimées",
+        "Nous sommes aimés"
+      ],
+      "id": "latin/37.13",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amantur</u>&nbsp;signifie</p>",
+      "choices": [
+        "Elle est aimée",
+        "Tu aimes",
+        "Vous aimez",
+        "*Elles sont aimées",
+        "Nous sommes aimés"
+      ],
+      "id": "latin/37.14",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amamur</u>&nbsp;signifie</p>",
+      "choices": [
+        "Elle est aimée",
+        "Tu aimes",
+        "Vous aimez",
+        "Elles sont aimées",
+        "*Nous sommes aimés"
+      ],
+      "id": "latin/37.15",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>amamus</u> signifie</p>",
+      "choices": [
+        "*Nous aimons",
+        "Nous sommes aimés",
+        "Vous aimez",
+        "Tu es aimé"
+      ],
+      "id": "latin/37.16",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 16,
+  "theme": "conjugaison",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

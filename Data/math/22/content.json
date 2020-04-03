@@ -1,0 +1,201 @@
+{
+  "id": "math/22",
+  "title": "Triangles",
+  "pages": [
+    "math/22/1.htm",
+    "math/22/3.htm",
+    "math/22/4.htm",
+    "math/22/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un triangle a 2 de ses angles qui mesurent 65&deg; et 35&deg;. Quel est la mesure du 3&egrave;me angle?</p>",
+      "choices": [
+        "*180 - 65 - 35 = 80°",
+        "65  + 35 = 100°",
+        "90 + 65 + 35 = 190°",
+        "90 - 65 - 35 = -10°"
+      ],
+      "id": "math/22.1",
+      "explain": "<p>La <u>somme des 3 angles</u> d'un triangle fait toujours <u>180&deg;</u>.</p>\n<p>Donc le 3&egrave;me angle vaut:<br />= <u>180 - 65 - 35</u><br />= 180&nbsp; - 100<br />= 80&deg;</p>"
+    },
+    {
+      "question": "<p>Si un triangle a un angle obtus, les 2 autres angles sont forc&eacute;ment aigus.</p>",
+      "explain": "<p>La mesure d'un angle obtus est &gt; 90&deg;.</p>\n<p>Or la somme des angles d'un triangle est toujours &eacute;gale &agrave; 180&deg;.</p>\n<p>Donc la somme des 2 autres angles est &lt; 90&deg;.</p>\n<p>Donc chacun des angles est forc&eacute;ment &lt; 90&deg;, c'est &agrave; dire un angle aigu.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.16"
+    },
+    {
+      "question": "<p>Un triangle a 2 de ses angles qui mesurent 90&deg; et 50&deg;. Quel est la mesure du 3&egrave;me angle?</p>",
+      "choices": [
+        "*180 - 90 - 50 = 40°",
+        "90  + 50 = 140°",
+        "180 - 90  + 50 = 140°",
+        "90 - 90 - 50 = -50°"
+      ],
+      "id": "math/22.2",
+      "explain": "<p>La <u>somme des 3 angles</u> d'un triangle est &eacute;gale &agrave; <u>180&deg;</u>.</p>\n<p>Donc le 3&egrave;me angle vaut<br />= <u>180 - 90 - 50</u><br />= 180&nbsp; - 140<br />= <u>40&deg;</u></p>"
+    },
+    {
+      "question": "<p>Un triangle a 2 de ses angles qui mesurent 60&deg;. C'est un triangle:</p>",
+      "choices": [
+        "isocèle",
+        "*équilatéral",
+        "rectangle",
+        "quelconque"
+      ],
+      "id": "math/22.3",
+      "explain": "<p>Ce triangle a 2 angles de 60&deg;.</p>\n<p>Il est donc isoc&egrave;le.</p>\n<p>Mais le 3&egrave;me angle mesure:</p>\n<p>= 180 - 60 - 60<br />= 180 - 120<br />&nbsp;= 60&deg;<br /><u>Ses 3 angles mesurent 60&deg;.</u></p>\n<p>Il est donc <u>&eacute;quilat&eacute;ral</u></p>"
+    },
+    {
+      "question": "<p>En <u>multipliant par 3</u> toutes les <u>longueurs</u> d'un triangle, les mesures des angles sont:</p>",
+      "choices": [
+        "*conservées",
+        "multipliées par 3",
+        "multipliées par 9"
+      ],
+      "id": "math/22.4",
+      "explain": "<p>En multipliant toutes les longueurs d'un triangle, on l'agrandit, mais on conserve sa forme et ses proportions.<br />Les angles sont donc conserv&eacute;s.</p>"
+    },
+    {
+      "question": "<p>Un triangle peut avoir deux angles obtus?</p>",
+      "choices": [
+        "*non",
+        "oui",
+        "seulement s'il est équilatéral"
+      ],
+      "id": "math/22.5",
+      "explain": "<p>Un angle obtus est sup&eacute;rieur &agrave; 90&deg;.</p>\n<p>Si deux angles &eacute;taient obtus, la somme des 3 angles d&eacute;passerait 180&deg;.</p>\n<p>Ce qui est impossible pour un triangle.</p>"
+    },
+    {
+      "question": "<p>Est-ce possible de construire un triangle tel que ses 3 angles valent 50&deg;, 50&deg; et 64&deg;?</p>",
+      "choices": [
+        "*Non",
+        "Oui",
+        "Ça dépend de la longueur des côtés"
+      ],
+      "id": "math/22.6",
+      "explain": "<p>Non car 50 + 50 + 64 = 164&deg;</p>\n<p><u>La somme des angles d'un triangle fait toujours 180&deg;</u></p>"
+    },
+    {
+      "question": "<p>Est-ce possible de construire un triangle tel que ses 3 angles valent 61&deg;, 39&deg; et 80&deg;?</p>",
+      "choices": [
+        "*Oui",
+        "Non",
+        "Ça dépend de la longueur des côtés"
+      ],
+      "id": "math/22.7",
+      "explain": "<p>Oui car 61 + 39 + 80 = 180&deg;</p>\n<p><u>La somme des angles d'un triangle fait toujours 180&deg;</u></p>"
+    },
+    {
+      "question": "<p>Soient A, B et M, trois points quelconques. Quelle affirmation est toujours vraie?</p>",
+      "explain": "<p><u>L&rsquo;in&eacute;galit&eacute; triangulaire</u> dit:</p>\n<p><u>AB + BM &ge; AM</u></p>\n<p>Si A, B et M sont align&eacute;s, on a: AB + BM = AM ou AB + BM &gt; AM</p>\n<p>Dans le cas o&ugrave; ABM forme un triangle, on a: AB + BM &gt; AM</p>",
+      "choices": [
+        "AB + BM < AB",
+        "AB + BM > AM",
+        "*AB + BM ≥ AM"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.15"
+    },
+    {
+      "question": "<p>Soient A, B et M, trois points non align&eacute;s. Quelle affirmation est vraie?</p>",
+      "explain": "<p><u>L&rsquo;in&eacute;galit&eacute; triangulaire</u> dit:</p>\n<p><u>AB + BM &ge; AM</u></p>\n<p>Comme A, B et M ne sont pas align&eacute;s, on est dans le cas o&ugrave; ABM forme un triangle.</p>\n<p>Donc <u>AB + BM &gt; AM</u></p>\n<p>&nbsp;</p>",
+      "choices": [
+        "AB + BM < AB",
+        "AB + BM = AM",
+        "*AB + BM > AM"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.8"
+    },
+    {
+      "question": "<p>Soient A, B et M, trois points tels que <u>AB + BM = AM</u>.</p>\n<p>Que peut-on dire?</p>",
+      "explain": "<p><u>L&rsquo;in&eacute;galit&eacute; triangulaire</u>&nbsp;dit:</p>\n<p><u>AB + BM &ge; AM</u></p>\n<p>Dans le cas d'un triangle, on aurait AB + BM &gt; AM</p>\n<p>On est dans le cas A, B et M sont align&eacute;s.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "ABM est un triangle isocèle",
+        "*A, B et M sont alignés",
+        "A, B et M ne sont pas alignés"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.9"
+    },
+    {
+      "question": "<p>Soient A, B et M, trois points tels que&nbsp;<u>AB + BM &gt; AM</u>.</p>\n<p>A, B et M peuvent-ils &ecirc;tre align&eacute;s?</p>",
+      "explain": "<p>A, B et M peuvent &ecirc;tre align&eacute;s dans le cas o&ugrave; ils appartiennent &agrave; une m&ecirc;me droite, mais M &notin; [AB]</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.10"
+    },
+    {
+      "question": "<p>On a trois points A, B et C, tels que:</p>\n<p>AB = 11 cm<br />AC = 5 cm</p>\n<p>Pour quelle longueur du segment [BC] peut-on construire un triangle?</p>",
+      "explain": "<p>La longueur du <u>plus grand c&ocirc;t&eacute;</u> doit &ecirc;tre <u>strictement inf&eacute;rieure</u>&nbsp;&agrave;&nbsp;la&nbsp;<u>somme</u> des&nbsp;longueurs des&nbsp;<u>2 autres</u>.</p>\n<p>Pour BC = 4 cm, AC + BC = 9 cm &lt; AB (=11 cm)</p>\n<p>Pour BC = 5 cm, AC + BC = 10 cm &lt; AB (=11 cm)</p>\n<p>Pour BC = 7 cm, AC + BC = 12 cm &gt; AB (=11 cm). C'est donc la bonne r&eacute;ponse.</p>",
+      "choices": [
+        "*BC = 7 cm",
+        "BC = 4 cm",
+        "BC = 5 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.11"
+    },
+    {
+      "question": "<p>On a trois points A, B et C, tels que:</p>\n<p>AB = 4 cm<br />AC = 5 cm</p>\n<p>Pour quelle longueur du segment [BC] peut-on construire un triangle?</p>",
+      "explain": "<p>La longueur du <u>plus grand c&ocirc;t&eacute;</u> doit &ecirc;tre <u>strictement inf&eacute;rieure</u>&nbsp;&agrave;&nbsp;la&nbsp;<u>somme</u> des&nbsp;longueurs des&nbsp;<u>2 autres</u>.</p>\n<p>Pour BC = 10 cm, AB + AC = 9 cm &lt; BC</p>\n<p>Pour BC = 12 cm, AB + AC&nbsp;= 9 cm &lt; BC</p>\n<p>Pour BC = 8 cm, AB + AC = 9 cm &gt; BC. C'est donc la bonne r&eacute;ponse.</p>",
+      "choices": [
+        "BC = 10 cm",
+        "*BC = 8 cm",
+        "BC = 12 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.12"
+    },
+    {
+      "question": "<p>On a trois points A, B et C, tels que:</p>\n<p>AB = 8 cm<br />AC = 5 cm</p>\n<p>Peut-on construire un triangle ABC tel que BC = 10 cm?</p>",
+      "explain": "<p>La longueur du <u>plus grand c&ocirc;t&eacute;</u> doit &ecirc;tre <u>strictement inf&eacute;rieure</u>&nbsp;&agrave;&nbsp;la&nbsp;<u>somme</u> des&nbsp;longueurs des&nbsp;<u>2 autres</u>.</p>\n<p>BC = 10 cm est la plus grande longueur.</p>\n<p>10 &lt; 8 + 5</p>\n<p>Donc le triangle ABC est <u>constructible</u>.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.13"
+    },
+    {
+      "question": "<p>On a trois points A, B et C, tels que:</p>\n<p>AB = 6 cm<br />AC = 8 cm</p>\n<p>Dans quel cas le triangle ABC est-il impossible &agrave; construire?</p>",
+      "explain": "<p>La longueur du <u>plus grand c&ocirc;t&eacute;</u> doit &ecirc;tre <u>strictement inf&eacute;rieure</u>&nbsp;&agrave;&nbsp;la&nbsp;<u>somme</u> des&nbsp;longueurs des&nbsp;<u>2 autres</u>.</p>\n<p>Si BC est la plus grande longueur, on doit avoir:</p>\n<p>BC &gt; 8 cm<br />et<br />BC &lt; 8 + 6 = 14 cm</p>\n<p>Si AC est la plus grande longueur, on doit avoir:</p>\n<p>BC &lt; 8 cm<br />et<br />8 &lt; 6 + BC, ou BC &gt; 8 - 6, ou BC &gt; 2 cm</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "(BC > 8 cm) et (BC < 8 + 6 cm)",
+        "(BC < 8 cm) et (8 < BC + 6)",
+        "(BC < 8 cm) et (BC > 2 cm)",
+        "*BC > 14 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/22.14"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 16,
+  "theme": "geometrie",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tingnat@gmail.com"
+}

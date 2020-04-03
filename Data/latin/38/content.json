@@ -1,0 +1,273 @@
+{
+  "id": "latin/38",
+  "title": "Jules Cesar",
+  "pages": [
+    "latin/38/1.htm",
+    "latin/38/2.htm",
+    "latin/38/3.htm",
+    "latin/38/4.htm",
+    "latin/38/5.htm",
+    "latin/38/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Cesar est n&eacute;&nbsp;dans une famille de&nbsp;</p>",
+      "choices": [
+        "*patriciens",
+        "plébeiens",
+        "esclaves",
+        "etrangers"
+      ],
+      "id": "latin/38.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Un des postes politiques occupes par Jules Caser est <u>questeur</u>.</p>\n<p>Les questeurs sont responsables des</p>",
+      "choices": [
+        "*finances",
+        "administration",
+        "justice",
+        "armees"
+      ],
+      "id": "latin/38.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Cesar etablit un <u>triumvirat</u> afin de devenir consul. Un triumvirat est l'association de combien d'homme politques</p>",
+      "choices": [
+        "*3",
+        "2",
+        "13"
+      ],
+      "id": "latin/38.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quels sont les 2 autres personnes composant le <u>triumvirat</u> avec Cesar?</p>",
+      "choices": [
+        "*Pompee & Crassus",
+        "Pompee & Brutus",
+        "Octave & Crassus"
+      ],
+      "id": "latin/38.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>La <u>conquete de la Gaulle</u> par Cesar a lieu entre&nbsp;</p>",
+      "choices": [
+        "*58 et 52 avant JC",
+        "52 et 58 apres JC",
+        "52 et 49 avant JC"
+      ],
+      "id": "latin/38.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le chef Gaulois ennemi de Cesar s'appelle</p>",
+      "choices": [
+        "*Vercingerotix",
+        "Abraracourcix",
+        "Obelix",
+        "Brutus",
+        "Pompee"
+      ],
+      "id": "latin/38.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Gergovie est une victoire</p>",
+      "choices": [
+        "*gaulloise",
+        "romaine",
+        "grecque",
+        "egyptienne"
+      ],
+      "id": "latin/38.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le vainqueur de la bataille d'Alesia en 52 av JC?</p>",
+      "choices": [
+        "*Jules Cesar",
+        "Vercingetorix",
+        "Pompee",
+        "Brutus",
+        "Crassus"
+      ],
+      "id": "latin/38.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le Rubicon est</p>",
+      "choices": [
+        "*un fleuve",
+        "une boisson gauloise",
+        "l'epee de Cesar",
+        "une colline"
+      ],
+      "id": "latin/38.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quels est la phrase prononcee par Cesar en traversant le Rubicon avec son armee?</p>",
+      "choices": [
+        "*Alea Jacta est",
+        "Tu quoque mi file",
+        "Quo vadis?",
+        "Ave Cesar"
+      ],
+      "id": "latin/38.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traverser le <u>Rubicon</u> signifie pour Cesar&nbsp;</p>",
+      "choices": [
+        "*declarer la guerre au Senat",
+        "faire la paix avec Pompee",
+        "terminer la guerre des Gaulles",
+        "reconnaitre Brutus comme son fils"
+      ],
+      "id": "latin/38.11",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>Alea jacta est</u> signifie</p>",
+      "choices": [
+        "*le sort en est jeté",
+        "La fortune sourit aux audacieux",
+        "Les dés sont pipés",
+        "la vie est injuste"
+      ],
+      "id": "latin/38.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Contre qui se bat Cesar apres la conquete de la Gaulle pour obtenir les pleins pouvoirs?</p>",
+      "choices": [
+        "*Pompée",
+        "Brutus",
+        "Vercingetorix",
+        "Octave"
+      ],
+      "id": "latin/38.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Apres sa d&eacute;faite contre Cesar, dans quel pays se refugie Pomp&eacute;e?</p>",
+      "choices": [
+        "*Egypte",
+        "Grece",
+        "Sicile",
+        "Numidie",
+        "Espagne"
+      ],
+      "id": "latin/38.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Jules Cesar est le premier empereur romain</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "latin/38.15",
+      "explain": "<p>C'est <span style=\"color: #e74c3c;\">faux</span>. Cesar est nomme <span style=\"color: #e74c3c;\"><u>dictateur a vie</u></span> par le Senat. Rome est toujours une republique.</p>"
+    },
+    {
+      "question": "<p>Quel est le titre de Jules Cesar?</p>",
+      "choices": [
+        "*Dictator pepetuus",
+        "Empereur",
+        "Roi",
+        "Président"
+      ],
+      "id": "latin/38.16",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment meurt Jules Cesar?</p>",
+      "choices": [
+        "*assassiné",
+        "de maladie",
+        "au combat",
+        "de vieillesse"
+      ],
+      "id": "latin/38.17",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que dit Cesar en mourant?</p>",
+      "choices": [
+        "*Tu quoque mi fili",
+        "Alea jacta est",
+        "Morituri te salutant",
+        "Veni, Vidi, Vici",
+        "Ad vitam aeternam"
+      ],
+      "id": "latin/38.18",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui etait <u>Brutus</u> pour Cesar?</p>",
+      "choices": [
+        "*son fils adoptif",
+        "son fils",
+        "son cousin",
+        "son chien",
+        "son esclave prefere"
+      ],
+      "id": "latin/38.19",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui a conquis <u>la Gaulle</u> en 52 av JC?</p>",
+      "choices": [
+        "*Jules César",
+        "Pompée",
+        "Brutus",
+        "Crassus",
+        "Lustucru"
+      ],
+      "id": "latin/38.20",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que signifie de nos jours l'expression<br />\"Franchir le Rubicon\"?</p>",
+      "choices": [
+        "*prendre une decision irrevocable",
+        "Faire le premier pas",
+        "Realiser un grand exploit",
+        "Faire la paix des braves"
+      ],
+      "id": "latin/38.21",
+      "explain": ""
+    },
+    {
+      "question": "<p>En quelle annee Cesar est assassine?</p>",
+      "choices": [
+        "*44 avant JC",
+        "52 avant JC",
+        "44 apres JC",
+        "48 avant JC"
+      ],
+      "id": "latin/38.22",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le prenom de Jules Cesar?</p>",
+      "choices": [
+        "*Caius",
+        "Julius"
+      ],
+      "id": "latin/38.23",
+      "explain": "<p>Son nom complet est <span style=\"color: #e74c3c;\">Caius Julius Ceasar</span><br /><span style=\"color: #e74c3c;\">Caius</span> est son prenom<br /><span style=\"color: #e74c3c;\">Julius</span> son nom de famille<br /><span style=\"color: #e74c3c;\">Ceasar</span> son surnom</p>"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 23,
+  "theme": "civilisation",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

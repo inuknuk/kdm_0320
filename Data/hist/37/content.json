@@ -1,0 +1,407 @@
+{
+  "id": "hist/37",
+  "title": "Traites négrières et Esclavage",
+  "pages": [
+    "hist/37/5.htm",
+    "hist/37/6.htm",
+    "hist/37/7.htm",
+    "hist/37/8.htm",
+    "hist/37/9.htm",
+    "hist/37/10.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qu'appelle-t-on la <u>traite n&eacute;gri&egrave;re</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "Le commerce triangulaire",
+        "*Le commerce des esclaves noirs d'Afrique",
+        "Le commerce des esclaves d'Asie",
+        "Le commerce des esclaves entre Amérique et Afrique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.1"
+    },
+    {
+      "question": "<p>Quel continent organise la <u>traite atlantique </u>?</p>",
+      "explain": "",
+      "choices": [
+        "Asie",
+        "Afrique",
+        "*Europe",
+        "Amérique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.2"
+    },
+    {
+      "question": "<p>Quel si&egrave;cle correspond &agrave; l'apog&eacute;e de la <u>traite atlantique</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "16e siècle",
+        "17e siècle",
+        "*18e siècle",
+        "19e siècle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.3"
+    },
+    {
+      "question": "<p>Qui sont les<u> chasseurs d'esclaves</u> en Afrique ?</p>",
+      "explain": "",
+      "choices": [
+        "*Des Africains eux même",
+        "Des Européens",
+        "Des marchands d'Amérique",
+        "Les musulmans"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.4"
+    },
+    {
+      "question": "<p>Dans les guerres entre royaumes africains, les <u>prisonniers </u>deviennent souvent des <u>esclaves</u>.</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.24"
+    },
+    {
+      "question": "<p>Comment appelle-t-on les <u>attaques de guerriers</u> dans des villages en Afrique en vue de capturer des <u>esclaves</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*des razzias",
+        "des rafios",
+        "des ouadis",
+        "des pogroms"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.23"
+    },
+    {
+      "question": "<p>Une fois captur&eacute;s dans leurs villages, les prisonniers noirs sont emmen&eacute;s :</p>",
+      "explain": "",
+      "choices": [
+        "Vers l'intérieur de l'Afrique",
+        "En Europe directement",
+        "*Vers les côtes africaines"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.5"
+    },
+    {
+      "question": "<p>En Afrique, Les produits europ&eacute;ens sont &eacute;chang&eacute;s contre</p>",
+      "explain": "",
+      "choices": [
+        "*des esclaves",
+        "du coton, café, cacao",
+        "des fusils",
+        "des bijoux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.16"
+    },
+    {
+      "question": "<p>Le <u>commerce triangulaire</u> a lieu entre</p>",
+      "explain": "",
+      "choices": [
+        "*l'Europe, l'Afrique et l'Amérique",
+        "L'Amérique, l'Asie et l'Europe",
+        "L'Europe, l'Afrique et l'Asie",
+        "L'Asie, le Moyen Orient et l'Afrique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.20"
+    },
+    {
+      "question": "<p>La <u>traite atlantique </u>utilise des routes commerciales dont le trac&eacute; forme un ________ entre l'Europe, l'Afrique et l'Am&eacute;rique</p>",
+      "explain": "",
+      "choices": [
+        "*triangle",
+        "cercle",
+        "rectangle",
+        "losange"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.19"
+    },
+    {
+      "question": "<p>Combien de temps dure la travers&eacute;e des <u>bateaux n&eacute;griers</u> d'Afrique vers l'Am&eacute;rique?</p>",
+      "explain": "",
+      "choices": [
+        "plusieurs jours",
+        "*plusieurs semaines",
+        "plusieurs mois"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.25"
+    },
+    {
+      "question": "<p>les <u>bateaux n&eacute;griers</u>, partent d'Europe charg&eacute;s de produits europ&eacute;ens comme du <u>textile, des fusils, de l'alcool, des bijoux</u></p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.15"
+    },
+    {
+      "question": "<p>Quelle est la motivation principale des <u>armateurs </u>de la traite <u>atlantique</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*Réaliser d'importants profits.",
+        "Développer l'Amérique",
+        "Eduquer les populations d'Afrique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.21"
+    },
+    {
+      "question": "<p>Comment sont appel&eacute;s les <u>bateaux transportant les esclaves </u>d'Afrique vers l'Am&eacute;rique ?</p>",
+      "explain": "",
+      "choices": [
+        "Les navires africains",
+        "Les navires de guerre",
+        "Les navires blancs",
+        "*Les navires négriers",
+        "Les navires noirs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.6"
+    },
+    {
+      "question": "<p>Combien <u>d'africains </u>sont d&eacute;port&eacute;s par les <u>n&eacute;griers europ&eacute;ens</u>?</p>",
+      "explain": "",
+      "choices": [
+        "1 million",
+        "2 millions",
+        "*12 millions",
+        "120 millions"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.17"
+    },
+    {
+      "question": "<p>Le gain r&eacute;alis&eacute; par la vente des esclaves en Amerique permet d'acheter:</p>",
+      "explain": "",
+      "choices": [
+        "*des produits coloniaux : sucre, café, cacao,",
+        "des produits manufactures: fusils, bioux",
+        "d'autres bateaux",
+        "d'autres esclaves"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.18"
+    },
+    {
+      "question": "<p>Les esclaves sont <u>souvent encha&icirc;n&eacute;s</u> pendant la travers&eacute;e.</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.7"
+    },
+    {
+      "question": "<p>Les conditions des esclaves pendant la travers&eacute;e sont</p>",
+      "explain": "",
+      "choices": [
+        "Plutôt bonnes",
+        "Moyennes",
+        "*Très Mauvaises"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.8"
+    },
+    {
+      "question": "<p>Quel <u>pourcentage </u>represente la population d'esclave noirs en Am&eacute;rique au 18e siecle?</p>",
+      "explain": "",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "*80%",
+        "95%"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.34"
+    },
+    {
+      "question": "<p>Une fois en Am&eacute;rique, les esclaves :</p>",
+      "explain": "",
+      "choices": [
+        "Sont libérés et cherchent du travail",
+        "Sont donnés à des maîtres",
+        "Sont libres",
+        "*Sont vendus comme du bétail"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.9"
+    },
+    {
+      "question": "<p>Un esclave qui <u>cherche &agrave; fuir</u> peut &ecirc;tre <u>condamn&eacute; &agrave; mort</u></p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.12"
+    },
+    {
+      "question": "<p>Les enfants d'esclaves deviennent automatiquement des esclaves.</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.22"
+    },
+    {
+      "question": "<p>Certains esclaves <u>s'enfuient</u> et vivent cach&eacute;s dans les bois, on parle alors de&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*marronnage",
+        "maraudage",
+        "rebellion",
+        "braconnage"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.26"
+    },
+    {
+      "question": "<p>Les esclaves occupent diff&eacute;rentes fonctions. Ceux qui travaillent dans <u>les plantations </u>sont appel&eacute;s:</p>",
+      "explain": "",
+      "choices": [
+        "*nègres de jardin",
+        "nègres de coton",
+        "nègres de case",
+        "nègres des champs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.27"
+    },
+    {
+      "question": "<p>Les esclaves qui travaillent comme <u>domestiques </u>sont appel&eacute;s</p>",
+      "explain": "",
+      "choices": [
+        "nègres de jardin",
+        "nègres de coton",
+        "*nègres de case",
+        "nègres des champs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.28"
+    },
+    {
+      "question": "<p>Un esclave peut etre <u>vendu et transmis par h&eacute;ritage.</u></p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.29"
+    },
+    {
+      "question": "<p>Les esclaves ont le droit de <u>demander justice</u></p>",
+      "explain": "",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.30"
+    },
+    {
+      "question": "<p>Les esclaves ont le droit de <u>poss&eacute;der une maison</u></p>",
+      "explain": "",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.31"
+    },
+    {
+      "question": "<p>Qui conteste <u>l'esclavage </u>en France au 18eme siecle?</p>",
+      "explain": "",
+      "choices": [
+        "les révolutionnaires",
+        "*les philosophes des Lumières",
+        "les armateurs",
+        "le clergé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.32"
+    },
+    {
+      "question": "<p>Les personnes qui <u>d&eacute;noncent l'esclavage</u> sont appell&eacute;es</p>",
+      "explain": "",
+      "choices": [
+        "*abolitionnistes",
+        "esclavagistes",
+        "négationnistes",
+        "royalistes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.33"
+    },
+    {
+      "question": "<p>A quelle date l'esclavage est-il <u>aboli </u>en France?</p>",
+      "explain": "",
+      "choices": [
+        "1789",
+        "1800",
+        "*1848",
+        "1900"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/37.14"
+    }
+  ],
+  "pageCounter": 10,
+  "questionCounter": 34,
+  "theme": "4",
+  "level": [
+    "4"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

@@ -1,0 +1,245 @@
+{
+  "id": "sci/28",
+  "title": "La matière dans l'Univers",
+  "pages": [
+    "sci/28/1.htm",
+    "sci/28/2.htm",
+    "sci/28/3.htm",
+    "sci/28/4.htm",
+    "sci/28/5.htm",
+    "sci/28/7.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quand a eu lieu le <u>big bang</u>?</p>",
+      "explain": "<p>Le big bang a eu lieu il y a <u>13,8 milliards d'ann&eacute;es</u>. A cet instant, l'univers &eacute;tait tr&egrave;s <u>dense et chaud</u>.</p>",
+      "choices": [
+        "13,8 mille années",
+        "13,8 millions d'années",
+        "*13,8 milliards d'années",
+        "1 milliard d'années"
+      ],
+      "id": "sci/28.1"
+    },
+    {
+      "question": "<p>Au moment de la <u>dilatation de l'univers</u>, quels &eacute;l&eacute;ments ont &eacute;t&eacute; cr&eacute;&eacute;s?</p>",
+      "explain": "<p>La dilatation de l'univers a permis la formation d'<u>&eacute;l&eacute;ments l&eacute;gers</u>&nbsp;(hydrog&egrave;ne, h&eacute;lium).</p>",
+      "choices": [
+        "De l'air",
+        "*Les éléments légers (hydrogène, hélium)",
+        "Les éléments lourds (carbone, oxygène, fer)",
+        "De l'eau"
+      ],
+      "id": "sci/28.2"
+    },
+    {
+      "question": "<p>Comment se sont form&eacute;s les <u>nuages</u> donnant naissance aux <u>premi&egrave;res &eacute;toiles</u>?</p>",
+      "explain": "<p>Les &eacute;l&eacute;ments sont attir&eacute;s les uns aux autres par <u>gravit&eacute;</u>. Cela a permis de <u>former des nuages</u> donnant naissance aux premi&egrave;res &eacute;toiles.</p>",
+      "choices": [
+        "Par force",
+        "*Par gravitation",
+        "Par température",
+        "Par vitesse"
+      ],
+      "id": "sci/28.3"
+    },
+    {
+      "question": "<p>Au c&oelig;ur des &eacute;toiles, quels type d'&eacute;l&eacute;ments sont form&eacute;s?</p>",
+      "explain": "<p>Les r&eacute;actions de fusion au c&oelig;ur des &eacute;toiles permettent de former des <u>&eacute;l&eacute;ments lourds</u> comme le carbone, l'oxyg&egrave;ne et le fer.</p>",
+      "choices": [
+        "*Des éléments lourds (carbone, oxygène, fer)",
+        "Des éléments légers (hydrogène, hélium)",
+        "De la lumière",
+        "De la chaleur"
+      ],
+      "id": "sci/28.4"
+    },
+    {
+      "question": "<p>Combien y a-t-il de plan&egrave;tes dans le syst&egrave;me solaire?&nbsp;</p>",
+      "explain": "<p>Il y a <u>8 plan&egrave;tes</u> dans le syst&egrave;me solaire : Mercure, V&eacute;nus, la Terre, Mars, Jupiter, Saturne, Uranus, Neptune.</p>",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "*8",
+        "9"
+      ],
+      "id": "sci/28.5"
+    },
+    {
+      "question": "<p>Quelle plan&egrave;te n'est pas <u>tellurique &agrave; surface rocheuse</u> ?</p>",
+      "explain": "<p>Les plan&egrave;tes telluriques &agrave; surface rocheuse sont : <u>Mercure, V&eacute;nus, la Terre et Mars.</u></p>",
+      "choices": [
+        "*Saturne",
+        "La Terre",
+        "Mercure",
+        "Mars"
+      ],
+      "id": "sci/28.6"
+    },
+    {
+      "question": "<p>Quelle plan&egrave;te n'est pas une <u>g&eacute;ante gazeuse</u>?</p>",
+      "explain": "<p>La terre est une plan&egrave;te tellurique &agrave; surface rocheuse. <u>Jupiter, Saturne, Uranus et Neptune</u> sont des plan&egrave;tes g&eacute;antes gazeuses.</p>",
+      "choices": [
+        "Jupiter",
+        "Neptune",
+        "*La Terre",
+        "Saturne",
+        "Uranus"
+      ],
+      "id": "sci/28.7"
+    },
+    {
+      "question": "<p>Quelle plan&egrave;te est la <u>plus proche</u> du soleil?&nbsp;</p>",
+      "explain": "<p><u>Mercure</u> est la plan&egrave;te la plus proche du soleil.&nbsp;</p>",
+      "choices": [
+        "La Terre",
+        "Saturne",
+        "Neptune",
+        "*Mercure"
+      ],
+      "id": "sci/28.8"
+    },
+    {
+      "question": "<p>Comment s'appelle l'unique <u>satellite de la Terre</u>?&nbsp;</p>",
+      "explain": "<p>La <u>lune</u> est l'unique satellite de la Terre.</p>",
+      "choices": [
+        "*La lune",
+        "Jupiter",
+        "Mars",
+        "Astéroïde"
+      ],
+      "id": "sci/28.9"
+    },
+    {
+      "question": "<p>Comment sont appel&eacute;s les <u>d&eacute;bris</u> tombant sur la Terre?</p>",
+      "explain": "<p>Une <u>m&eacute;t&eacute;orite</u> est un petit d&eacute;bris tombant sur la Terre. A sa travers&eacute;e de l'atmosph&egrave;re la m&eacute;t&eacute;orite cr&eacute;&eacute;e une <u>&eacute;toile filante</u>.</p>",
+      "choices": [
+        "Une comète",
+        "*Une météorite",
+        "Une planète",
+        "Un satellite"
+      ],
+      "id": "sci/28.10"
+    },
+    {
+      "question": "<p>Comment s'appelle la <u>plan&egrave;te naine</u>, plus loin de soleil que les huit autres plan&egrave;tes?&nbsp;</p>",
+      "explain": "<p><u>Pluton</u> est une plan&egrave;te naine tr&egrave;s &eacute;loign&eacute;e du soleil.&nbsp;</p>",
+      "choices": [
+        "*Pluton",
+        "La Terre",
+        "La lune",
+        "Jupiter"
+      ],
+      "id": "sci/28.11"
+    },
+    {
+      "question": "<p>De quoi est principalement constitu&eacute; l'univers?&nbsp;</p>",
+      "explain": "<p>L'univers est principalement (&agrave; plus de 99 %) constitu&eacute; <u>de vide</u>.</p>",
+      "choices": [
+        "De soleils",
+        "De planètes",
+        "*De vide",
+        "De comètes "
+      ],
+      "id": "sci/28.12"
+    },
+    {
+      "question": "<p>Comment s'appelle la <u>galaxie</u> dans laquelle est le syst&egrave;me solaire?&nbsp;</p>",
+      "explain": "<p>Notre galaxie s'appelle la <u>Voie lact&eacute;e</u>.</p>\n<p>La galaxie d'Androm&egrave;de est la <u>galaxie la plus proche</u> de la n&ocirc;tre.&nbsp;</p>\n<p>La grande ourse est une <u>constellation</u> (groupe d'&eacute;toiles)</p>\n<p>Le soleil est notre <u>&eacute;toile</u>.&nbsp;&nbsp;</p>",
+      "choices": [
+        "*La Voie lactée",
+        "Galaxie d'Andromède",
+        "La grande ourse",
+        "Le soleil"
+      ],
+      "id": "sci/28.13"
+    },
+    {
+      "question": "<p>De quelle <u>forme</u> est notre galaxie?</p>",
+      "explain": "<p>Notre galaxie a une forme de <u>spirale</u>.</p>",
+      "choices": [
+        "Cercle",
+        "Carré",
+        "Droite",
+        "*Spirale"
+      ],
+      "id": "sci/28.14"
+    },
+    {
+      "question": "<p>Combien de galaxies comprend un <u>amas de galaxie</u>?&nbsp;</p>",
+      "explain": "<p>Un amas de galaxie comprend un <u>millier de galaxies</u>.</p>",
+      "choices": [
+        "dix",
+        "*mille",
+        "cent mille",
+        "un milliard"
+      ],
+      "id": "sci/28.15"
+    },
+    {
+      "question": "<p>Quelle est la <u>distance</u> entre la Terre et le soleil?</p>",
+      "explain": "<p>La Terre est en orbite &agrave; <u>150 millions de kilom&egrave;tres du soleil</u>. Cette distance vaut une unit&eacute; astronomique.&nbsp;</p>",
+      "choices": [
+        "150 kilomètres",
+        "150 000 kilomètres",
+        "*150 millions de kilomètres",
+        "1 500 milliards de kilomètres"
+      ],
+      "id": "sci/28.16"
+    },
+    {
+      "question": "<p>A quoi correspond une <u>ann&eacute;e-lumi&egrave;re</u>?</p>",
+      "explain": "<p>Une ann&eacute;e-lumi&egrave;re correspond &agrave; <u>la distance parcourue par la lumi&egrave;re en un an.&nbsp;</u></p>\n<p>Cette distance vaut environ 10 000 milliards de kilom&egrave;tres.</p>",
+      "choices": [
+        "Une durée",
+        "Une vitesse",
+        "*Une distance",
+        "Une accélération"
+      ],
+      "id": "sci/28.17"
+    },
+    {
+      "question": "<p>Environ <u>combien d'&eacute;toiles</u>&nbsp;y a-t-il dans la Voie Lact&eacute;e?&nbsp;</p>",
+      "explain": "<p>La Voie lact&eacute;e est compos&eacute;e de <u>centaines de milliards d'&eacute;toiles</u> et s'&eacute;tend sur 100 000 ann&eacute;es-lumi&egrave;res.</p>",
+      "choices": [
+        "Des centaines",
+        "Des centaines de milliers",
+        "Des centaines de millions",
+        "*Des centaines de milliards"
+      ],
+      "id": "sci/28.18"
+    },
+    {
+      "question": "<p>A quoi correspond une <u>unit&eacute; astronomique</u>?</p>",
+      "explain": "<p>Une unit&eacute; astronomique (ua) correspond &agrave; la <u>distance Terre - soleil</u>, soit environ 150 millions de kilom&egrave;tres.</p>",
+      "choices": [
+        "La distance Terre - lune",
+        "*La distance Terre - soleil",
+        "La vitesse de la lumière",
+        "La taille de la Voie lactée"
+      ],
+      "id": "sci/28.19"
+    },
+    {
+      "question": "<p>Quelle est la plus <u>grosse plan&egrave;te</u> du syst&egrave;me solaire?</p>",
+      "explain": "<p><u>Jupiter</u> est la plus grosse plan&egrave;te du syst&egrave;me solaire. Elle fait environ <u>1400 fois</u> le volume de la Terre.</p>",
+      "choices": [
+        "La Terre",
+        "*Jupiter",
+        "Mars",
+        "Uranus"
+      ],
+      "id": "sci/28.20"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 20,
+  "theme": "1",
+  "editor": "alexandre.inukai@gmail.com",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

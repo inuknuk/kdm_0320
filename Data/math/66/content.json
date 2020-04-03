@@ -1,0 +1,270 @@
+{
+  "id": "math/66",
+  "title": "Droite tangente à un cercle",
+  "pages": [
+    "math/66/1.htm",
+    "math/66/2.htm",
+    "math/66/4.htm",
+    "math/66/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Sur quelle droite mesure-t-on la distance du point P &agrave; la droite D?</p>\n<p><img src=\"img/qudistancedroite.png\" /></p>",
+      "explain": "<p>La distance d'un point P &agrave; la droite D <u>se mesure sur la droite perpendiculaire &agrave; D passant par P</u>.</p>\n<p>Dans ce cas, la droite <u>(PI)</u> est perpendiculaire &agrave; D.</p>",
+      "choices": [
+        "(PH)",
+        "*(PI)",
+        "(PJ)",
+        "(HJ)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.1"
+    },
+    {
+      "question": "<p>Que peut-on dire des droites &Delta; et D ? Elles sont ______.</p>\n<p><img src=\"img/distancedroite.png\" /></p>",
+      "explain": "<p>Les droites <u>&Delta; et D sont perpendiculaires</u>.</p>\n<p>La droite &Delta; permet de mesurer la distance du point P &agrave; la droite D.</p>",
+      "choices": [
+        "*perpendiculaires",
+        "parallèles",
+        "égales",
+        "symétriques"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.2"
+    },
+    {
+      "question": "<p>Quelle est la distance du point P &agrave; la droite D ?</p>\n<p><img src=\"img/qudistancedroite.png\" /></p>",
+      "explain": "<p>La distance d'un point P &agrave; la droite D se mesure sur la droite perpendiculaire &agrave; D passant par P.</p>\n<p>Dans ce cas, cette distance est &eacute;gale &agrave; la <u>longueur du segment [PI]</u>.</p>",
+      "choices": [
+        "[PH]",
+        "*[PI]",
+        "[PJ]",
+        "[HJ]"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.4"
+    },
+    {
+      "question": "<p>La distance de la droite au centre du cercle est <u>inf&eacute;rieur au rayon R</u> du cercle. Dans ce cas on dit que la droite est _______ au cercle.</p>\n<p><img src=\"img/secante.png\" /></p>",
+      "explain": "<p>On dit que la droite est <u>s&eacute;cante</u> au cercle.</p>",
+      "choices": [
+        "*sécante"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.5"
+    },
+    {
+      "question": "<p>La distance de la droite au centre du cercle est <u>&eacute;gale au rayon R</u> du cercle. Dans ce cas on dit que la droite est ________ au cercle.</p>\n<p><img src=\"img/tangente.png\" /></p>",
+      "explain": "<p>On dit que la droite est <u>tangente</u> au cercle.</p>",
+      "choices": [
+        "*tangente"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.6"
+    },
+    {
+      "question": "<p>La distance de la droite au centre du cercle est <u>sup&eacute;rieure au rayon R</u> du cercle. Dans ce cas on dit que la droite est __________ au cercle.</p>\n<p><img src=\"img/exterieur.png\" /></p>",
+      "explain": "<p>On dit que la droite est <u>ext&eacute;rieure</u> au cercle.</p>",
+      "choices": [
+        "*extérieure"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.7"
+    },
+    {
+      "question": "<p>D<sub>1</sub> est <u>s&eacute;cante</u> au cercle. Combien de <u>points communs</u> ont D<sub>1</sub>&nbsp;et le cercle ?</p>\n<p><img src=\"img/secante.png\" /></p>",
+      "explain": "<p>&nbsp;D<sub>1</sub>&nbsp;et le cercle ont <u>deux points communs</u>.</p>\n<p>Il s'agit des deux intersections de la droite avec le cercle.</p>",
+      "choices": [
+        "0",
+        "1",
+        "*2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.8"
+    },
+    {
+      "question": "<p>D<sub>2</sub> est <u>tangente</u> au cercle. Combien de <u>points communs</u> ont D<sub>2</sub>&nbsp;et le cercle ?</p>\n<p><img src=\"img/tangente.png\" /></p>",
+      "explain": "<p>&nbsp;D<sub>2</sub>&nbsp;et le cercle ont <u>un point commun</u>. Il s'agit du point H.</p>",
+      "choices": [
+        "0",
+        "*1",
+        "2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.9"
+    },
+    {
+      "question": "<p>D<sub>3</sub> est <u>ext&eacute;rieure</u> au cercle. Combien de <u>points communs</u> ont D<sub>3</sub>&nbsp;et le cercle ?</p>\n<p><img src=\"img/exterieur.png\" /></p>",
+      "explain": "<p>&nbsp;D<sub>3</sub> et le cercle n'ont <u>pas de&nbsp;point commun</u>.</p>",
+      "choices": [
+        "*0",
+        "1",
+        "2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.10"
+    },
+    {
+      "question": "<p>A quelle distance du centre du cercle O se trouve la droite <u>tangente</u> au cercle ?</p>\n<p><img src=\"img/positiondroitecercle.png\" /></p>",
+      "explain": "<p>La droite <u>tangente</u> au cercle est la <u>droite D<sub>2</sub></u>.</p>\n<p>La distance du point O &agrave; cette droite est la <u>longueur du segment [OH]</u>.</p>",
+      "choices": [
+        "[AB]",
+        "[OJ]",
+        "*[OH]",
+        "[OK]"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.11"
+    },
+    {
+      "question": "<p>A quelle distance du centre du cercle O se trouve la droite <u>ext&eacute;rieure</u> au cercle ?</p>\n<p><img src=\"img/positiondroitecercle.png\" /></p>",
+      "explain": "<p>La droite <u>ext&eacute;rieure</u> au cercle est la <u>droite D<sub>3</sub></u>.</p>\n<p>La distance du point O &agrave; cette droite est la <u>longueur du segment [OK]</u>.</p>",
+      "choices": [
+        "[AB]",
+        "[OJ]",
+        "[OH]",
+        "*[OK]"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.12"
+    },
+    {
+      "question": "<p>A quelle distance du centre du cercle O se trouve la droite <u>s&eacute;cante</u> au cercle ?</p>\n<p><img src=\"img/positiondroitecercle.png\" /></p>",
+      "explain": "<p>La droite <u>s&eacute;cante</u> au cercle est la <u>droite D<sub>1</sub></u>.</p>\n<p>La distance du point O &agrave; cette droite est la <u>longueur du segment [OJ]</u>.</p>",
+      "choices": [
+        "[AB]",
+        "*[OJ]",
+        "[OH]",
+        "[OK]"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.13"
+    },
+    {
+      "question": "<p><u>&Delta; est tangente</u> en P au cercle. Que peut-on dire de <u>&Delta; et (OP)</u> ? Elles sont _______.</p>\n<p><img src=\"img/constructiondroitecercle.png\" /></p>",
+      "explain": "<p><u>&Delta; et (OP)</u> sont perpendiculaires.</p>",
+      "choices": [
+        "*perpendiculaires",
+        "parallèles",
+        "symétriques",
+        "semblables"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.14"
+    },
+    {
+      "question": "<p><u>&Delta; est tangente</u> en P au cercle. Quelle distance est la distance du point O &agrave; la droite &Delta; ?<img src=\"img/constructiondroitecercle.png\" /></p>",
+      "explain": "<p>Comme &Delta; est tangente au cercle, la distance entre le point O et &Delta; est &eacute;gale au <u>rayon du cercle</u>, c'est &agrave; dire <u>R</u>.</p>",
+      "choices": [
+        "*R",
+        "P",
+        "Δ",
+        "[OR]"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.15"
+    },
+    {
+      "question": "<p><u>&Delta; est tangente</u> en P au cercle. P appartient-il &agrave; &Delta; ?<img src=\"img/constructiondroitecercle.png\" /></p>",
+      "explain": "<p>Comme&nbsp;<u>&Delta; est tangente&nbsp;en P</u> au cercle, <u>P appartient bien &agrave;&nbsp;&Delta;</u>.&nbsp;&nbsp;</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.16"
+    },
+    {
+      "question": "<p>Combien de droites sont <u>s&eacute;cantes</u> au cercle ?</p>\n<p><img src=\"img/questiontangente.png\" /></p>",
+      "explain": "<p>Les droites D<sub>1</sub> et D<sub>2</sub> ont 2 points communs avec le cercle. D<sub>3</sub> n'en a qu'un seul.</p>\n<p>Ainsi, il y a <u>deux droites s&eacute;cantes</u> au cercle, il s'agit de <u>D<sub>1</sub> et D<sub>2</sub></u>.</p>",
+      "choices": [
+        "0",
+        "1",
+        "*2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.17"
+    },
+    {
+      "question": "<p>Combien de droites sont <u>ext&eacute;rieures</u>&nbsp;au cercle ?</p>\n<p><img src=\"img/questiontangente.png\" /></p>",
+      "explain": "<p>Les droites D<sub>1</sub> et D<sub>2</sub> ont 2 points communs avec le cercle. D<sub>3</sub> n'en a qu'un seul.</p>\n<p>Il n'y a aucune droite n'ayant aucun point commun avec le cercle, donc <u>il n'y a aucune droite ext&eacute;rieure au cercle.</u></p>",
+      "choices": [
+        "*0",
+        "1",
+        "2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.19"
+    },
+    {
+      "question": "<p>Combien de droites sont <u>tangentes</u> au cercle ?</p>\n<p><img src=\"img/questiontangente.png\" /></p>",
+      "explain": "<p>Les droites D<sub>1</sub> et D<sub>2</sub> ont 2 points communs avec le cercle. D<sub>3</sub> n'a qu'un seul point commun.</p>\n<p>Ainsi, il y a <u>une droite tangente</u> au cercle, il s'agit de <u>D<sub>3</sub></u>.</p>",
+      "choices": [
+        "0",
+        "*1",
+        "2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.21"
+    },
+    {
+      "question": "<p>ABCD est un carr&eacute; de c&ocirc;t&eacute; &eacute;gal au diam&egrave;tre du cercle. Les diagonales du carr&eacute; sont &eacute;galement trac&eacute;es. Combien y a-t-il de <u>segments s&eacute;cants</u> au cercle ?</p>\n<p><img src=\"img/questioncarre.png\" /></p>",
+      "explain": "<p>Chacun des c&ocirc;t&eacute;s du carr&eacute; &agrave; un point commun avec le cercle.</p>\n<p>Chacune des diagonales a deux points communs avec le cercle.</p>\n<p>Ainsi, <u>les deux diagonales sont s&eacute;cantes au cercle</u>.&nbsp;</p>",
+      "choices": [
+        "1",
+        "*2",
+        "3",
+        "4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.22"
+    },
+    {
+      "question": "<p>ABCD est un carr&eacute; de cot&eacute; &eacute;gale au diam&egrave;tre du cercle dont les diagonales ont &eacute;galement &eacute;t&eacute; trac&eacute;. Combien y a t-il de <u>segments tangents</u> au cercle ?</p>\n<p><img src=\"img/questioncarre.png\" /></p>",
+      "explain": "<p>Chacun des cot&eacute;s du carr&eacute; &agrave; un point commun avec le cercle.</p>\n<p>Chacune des diagonales a deux points communs avec le cercle.</p>\n<p>Ainsi <u>les quatres cot&eacute;s du carr&eacute; sont tangents au cercle</u>.&nbsp;</p>",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "*4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/66.23"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 23,
+  "theme": "geometrie",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

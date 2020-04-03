@@ -1,0 +1,85 @@
+{
+  "id": "latin/30",
+  "title": "La Coordination",
+  "pages": [
+    "latin/30/1.htm",
+    "latin/30/2.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p><u>Le pere et le fils</u><br />Choisit la phrase equivalente en latin</p>",
+      "choices": [
+        "*Pater ac filius",
+        "Pater nec filius",
+        "Pater atque filius",
+        "Pater est filius"
+      ],
+      "id": "latin/30.5",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>j'entends et je vois</u><br />Choisit la phrase equivalente en latin</p>",
+      "choices": [
+        "*audio videoque",
+        "audio nec video",
+        "non audio neque video"
+      ],
+      "id": "latin/30.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis:<br /><u>dominus ac servus</u></p>",
+      "choices": [
+        "*le maitre et l'esclave",
+        "l'esclave du maitre",
+        "ni le maitre, ni l'esclave",
+        "le maitre ou l'esclave"
+      ],
+      "id": "latin/30.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduis:<br /><u>dominus servusque</u></p>",
+      "choices": [
+        "*le maitre et l'esclave",
+        "l'esclave du maitre",
+        "ni le maitre, ni l'esclave",
+        "le maitre ou l'esclave"
+      ],
+      "id": "latin/30.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>la particule -que a la fin d'un second mot signifie</p>",
+      "choices": [
+        "*et",
+        "ou",
+        "ni",
+        "non plus"
+      ],
+      "id": "latin/30.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle traduction de :<br /><u>l'esclave et le maitre</u><br />n'est pas correcte</p>",
+      "choices": [
+        "*servus atque dominus",
+        "servus et dominus",
+        "servus ac dominus",
+        "servus dominusque"
+      ],
+      "id": "latin/30.10",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 10,
+  "warning": "1",
+  "theme": "grammaire",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

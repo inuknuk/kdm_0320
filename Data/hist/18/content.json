@@ -1,0 +1,177 @@
+{
+  "id": "hist/18",
+  "title": "Les Guerres Saintes",
+  "pages": [
+    "hist/18/1.htm",
+    "hist/18/2.htm",
+    "hist/18/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qui a envahit la terre Sainte du debut du moyen-age?</p>",
+      "choices": [
+        "*Les Musulmans",
+        "les Juifs",
+        "les Chretiens",
+        "les Turcs"
+      ],
+      "id": "hist/18.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Par qui &eacute;taient pr&ecirc;ch&eacute;es les Croisades?</p>",
+      "choices": [
+        "*le Pape",
+        "Le roi de France",
+        "Le Patriarche",
+        "Charlemagne"
+      ],
+      "id": "hist/18.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la raison principale de la Premi&egrave;re croisade?</p>",
+      "choices": [
+        "*La libération de Jérusalem",
+        "Le rétablissement de la Route de la Soie",
+        "La recherche du Graal",
+        "La conquête de nouveaux territoires"
+      ],
+      "id": "hist/18.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel pape ordonna la Premi&egrave;re Croisade ?</p>",
+      "choices": [
+        "*Urbain II",
+        "Innocent III",
+        "Pie V",
+        "Saint Louis"
+      ],
+      "id": "hist/18.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment a-t-on appel&eacute; l'ensemble des soldats chr&eacute;tiens partant en croisade ?</p>",
+      "choices": [
+        "*Les Croisés",
+        "Les Templiers",
+        "Les chevaliers teutoniques",
+        "Les jésuites"
+      ],
+      "id": "hist/18.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>La croisade &eacute;tait soutenue par quel empire chr&eacute;tien ?</p>",
+      "choices": [
+        "L'Empire romain d'Occident",
+        "*L'Empire byzantin",
+        "Le Saint-Empire germanique"
+      ],
+      "id": "hist/18.6",
+      "explain": "<p>L'empereur byzantin Alexis 1er profite du succ&egrave;s des crois&eacute;s contre les Seldjoukides mais il ne pourra emp&ecirc;cher les Crois&eacute;s de constituer une force ind&eacute;pendante au Proche-Orient</p>"
+    },
+    {
+      "question": "<p>Comment la chr&eacute;tient&eacute; appelait-elle l'arm&eacute;e musulmane ?</p>",
+      "choices": [
+        "*Les Sarrasins",
+        "Les Maures",
+        "Les Perses"
+      ],
+      "id": "hist/18.7",
+      "explain": "<p>\"<u>Sarrasins</u>\" est le terme qui d&eacute;signe les musulmans du Moyen Orient (Turquie, Arabie) que les crois&eacute;s ont affront&eacute;s lors des croisades.</p>"
+    },
+    {
+      "question": "<p>Quelle ville, dont le si&egrave;ge fut l&eacute;gendaire, a &eacute;t&eacute; prise par les chr&eacute;tiens en <u>1097</u> ?</p>",
+      "choices": [
+        "Damas",
+        "*Antioche",
+        "Jericho",
+        "Jerusalem"
+      ],
+      "id": "hist/18.8",
+      "explain": "<p>&nbsp;La prise <u>d'Antioche</u> par les trois chefs crois&eacute;s, Godefroy de Bouillon, Boh&eacute;mond de Tarente et Raymond IV de Toulouse, est rest&eacute;e l&eacute;gendaire dans l'histoire des croisades.</p>"
+    },
+    {
+      "question": "<p>Quel ordre de moines-soldats fut cr&eacute;&eacute; en <u>1129</u> pour d&eacute;fendre les lieux saints ?</p>",
+      "choices": [
+        "*Les Templiers",
+        "Les chevaliers de Malte",
+        "Les soldats de Dieu"
+      ],
+      "id": "hist/18.9",
+      "explain": "<p>L'ordre du Temple &eacute;tait un ordre religieux et militaire issu de la chevalerie chr&eacute;tienne du Moyen &Acirc;ge, dont les membres &eacute;taient appel&eacute;s <u>les Templiers</u>.</p>"
+    },
+    {
+      "question": "<p>La d&eacute;fense desEtats chr&eacute;tiens en Orient a justifi&eacute; de nombreuses autres croisades.</p>\n<p>Combien y a-t-il eu de croisades au total, de 1095 &agrave; 1291, date de la perte d&eacute;finitive de J&eacute;rusalem ?</p>",
+      "choices": [
+        "*8",
+        "2",
+        "5",
+        "10"
+      ],
+      "id": "hist/18.10",
+      "explain": "<p>8 en tout.</p>\n<p>C'est au cours de la <u>8&egrave;me croisade</u> qu'est mort <u>Saint-Louis</u> &agrave; Tunis en 1270.</p>"
+    },
+    {
+      "question": "<p>Quelle est la date de la <u>premiere croisade</u>?</p>",
+      "choices": [
+        "*1096",
+        "1299",
+        "1291"
+      ],
+      "id": "hist/18.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la date de la <u>prise de J&eacute;rusalem</u> par les crois&eacute;s durant la <u>premi&egrave;re croisade</u>?</p>",
+      "choices": [
+        "1096",
+        "*1099",
+        "1291"
+      ],
+      "id": "hist/18.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le nom donnes par les crois&eacute;s aux territoire reconquis a l'issue de la premiere croisade?</p>",
+      "choices": [
+        "*Etats latins d'Orient",
+        "Etats latins d'Occident",
+        "Etats Chrétiens d'Orient",
+        "Etats byzantins"
+      ],
+      "id": "hist/18.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quelle est la date de la fin definitive des Etats Latins d'Orient?</p>",
+      "choices": [
+        "*1291",
+        "1096",
+        "1099"
+      ],
+      "id": "hist/18.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>en 1291, qui gagne la bataille lors de la derniere croisade?</p>",
+      "choices": [
+        "*Les musulmans",
+        "les croises",
+        "les Juifs"
+      ],
+      "id": "hist/18.15",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 15,
+  "theme": "1",
+  "level": [
+    "5"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

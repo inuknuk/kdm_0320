@@ -1,0 +1,114 @@
+{
+  "id": "latin/35",
+  "title": "2eme Conjugaison Present",
+  "pages": [
+    "latin/35/1.htm",
+    "latin/35/2.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Traduit en Latin, <u>je detruis</u></p>",
+      "choices": [
+        "*deleo",
+        "deles",
+        "delet",
+        "delemus",
+        "deletis"
+      ],
+      "id": "latin/35.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit en Latin, il<u> detruit</u></p>",
+      "choices": [
+        "deleo",
+        "deles",
+        "*delet",
+        "delemus",
+        "deletis"
+      ],
+      "id": "latin/35.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit en Latin, tu<u> detruis</u></p>",
+      "choices": [
+        "deleo",
+        "*deles",
+        "delet",
+        "delemus",
+        "deletis"
+      ],
+      "id": "latin/35.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit en Latin, nous<u> detruisons</u></p>",
+      "choices": [
+        "deleo",
+        "deles",
+        "delet",
+        "*delemus",
+        "deletis"
+      ],
+      "id": "latin/35.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit en Latin, vous<u> detruisez</u></p>",
+      "choices": [
+        "deleo",
+        "deles",
+        "delet",
+        "delemus",
+        "*deletis"
+      ],
+      "id": "latin/35.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit en Latin, ils<u> detruisent</u></p>",
+      "choices": [
+        "*delent",
+        "deles",
+        "delet",
+        "delemus",
+        "delant"
+      ],
+      "id": "latin/35.6",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>delemus</u> signifie</p>",
+      "choices": [
+        "*Nous detruisons",
+        "Tu detruis",
+        "Vous detruisez",
+        "Je detruis"
+      ],
+      "id": "latin/35.7",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>deletis</u>&nbsp;signifie</p>",
+      "choices": [
+        "Nous detruisons",
+        "Tu detruis",
+        "*Vous detruisez",
+        "Je detruis"
+      ],
+      "id": "latin/35.8",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 8,
+  "warning": "1",
+  "theme": "conjugaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "math/72",
+  "title": "Cylindre droit",
+  "pages": [
+    "math/72/1.htm",
+    "math/72/2.htm",
+    "math/72/4.htm",
+    "math/72/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>De combien de <u>bases</u> est compos&eacute; un cylindre de r&eacute;volution ?</p>",
+      "explain": "<p>Un cylindre de r&eacute;volution est compos&eacute; de <u>deux bases</u>.</p>",
+      "choices": [
+        "0",
+        "1",
+        "*2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.1"
+    },
+    {
+      "question": "<p>Quelle est la <u>forme</u> des bases d'un cylindre de r&eacute;volution ?</p>",
+      "explain": "<p>Un cylindre de r&eacute;volution est compos&eacute; de deux bases qui sont<u> des disques</u>.</p>",
+      "choices": [
+        "Triangle",
+        "Rectangle",
+        "*Disque",
+        "Hexagone"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.2"
+    },
+    {
+      "question": "<p>De combien de <u>surfaces lat&eacute;rales </u>est compos&eacute; un cylindre de r&eacute;volution ?</p>",
+      "explain": "<p>Un cylindre de r&eacute;volution est compos&eacute; de deux bases et d'<u>une surface lat&eacute;rale</u>.</p>",
+      "choices": [
+        "0",
+        "*1",
+        "2",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.4"
+    },
+    {
+      "question": "<p>Comment appelle t-on la figure ci-dessous ?&nbsp;</p>\n<p><img src=\"img/patron.png\" /></p>",
+      "explain": "<p>Cette figure est le <u>patron</u> d'un cylindre de r&eacute;volution.</p>",
+      "choices": [
+        "*Un patron",
+        "Une allure",
+        "Une structure",
+        "Une forme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.21"
+    },
+    {
+      "question": "<p>Soit le patron suivant. Quel est le <u>p&eacute;rim&egrave;tre de la base</u> ?</p>\n<p><img src=\"img/patron.png\" /></p>",
+      "explain": "<p>Le p&eacute;rim&egrave;tre d'un cercle de rayon R est : <u>2&times;&pi;&times;R</u>.</p>",
+      "choices": [
+        "*2×π×R",
+        "π×R²",
+        "2×π",
+        "π"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.5"
+    },
+    {
+      "question": "<p>Soit le patron suivant. Quel est la <u>longueur de la surface lat&eacute;rale</u> ?</p>\n<p><img src=\"img/qupatronlongueur.png\" /></p>",
+      "explain": "<p>La surface lat&eacute;rale est de la m&ecirc;me longueur que le p&eacute;rim&egrave;tre de la base. Le p&eacute;rim&egrave;tre de la base est : <u>2&times;&pi;&times;R</u>. Il en est donc de m&ecirc;me pour la surface lat&eacute;rale.</p>",
+      "choices": [
+        "*2×π×R",
+        "π×R²",
+        "2×π",
+        "π"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.7"
+    },
+    {
+      "question": "<p>Soit le patron suivant. A quoi correspond la <u>longueur h</u> ?</p>\n<p><img src=\"img/patron.png\" /></p>",
+      "explain": "<p>La longueur h est la <u>hauteur du cylindre</u>.</p>",
+      "choices": [
+        "*La hauteur du cylindre",
+        "La largeur du cylindre",
+        "La longueur du cylindre ",
+        "Le rayon du cylindre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.8"
+    },
+    {
+      "question": "<p>Quelle droite est l'<u>axe du cylindre</u> ?</p>\n<p><img src=\"img/quaxe.png\" /></p>",
+      "explain": "<p>La droite (OO') est l'axe du cylindre.</p>",
+      "choices": [
+        "(OA)",
+        "(O'A')",
+        "(AA')",
+        "*(OO')"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.9"
+    },
+    {
+      "question": "<p>Quelle est la <u>hauteur</u> du cylindre ?&nbsp;</p>\n<p><img src=\"img/quhauteur.png\" /></p>",
+      "explain": "<p>La hauteur du cylindre est la distance entre les deux bases. Dans ce cas, cette distance vaut <u>Y</u>.</p>",
+      "choices": [
+        "X",
+        "*Y",
+        "A",
+        "O"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.10"
+    },
+    {
+      "question": "<p>Quel segment <u>engendre</u> la surface cylindrique du cylindre ?</p>\n<p><img src=\"img/engendre.png\" /></p>",
+      "explain": "<p>Le segment [AA'] engendre la surface du cylindre.</p>",
+      "choices": [
+        "[OA]",
+        "*[AA']",
+        "[OO']",
+        "[A'O']"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.11"
+    },
+    {
+      "question": "<p>Comment est appel&eacute; le segment [AA'] ?</p>\n<p><img src=\"img/engendre.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Le segment [AA'] engendre la surface du cylindre et est appel&eacute; <u>\"g&eacute;n&eacute;ratrice du cylindre\"</u>.</p>",
+      "choices": [
+        "Génératrice du segment",
+        "*Génératrice du cylindre",
+        "Segment du cylindre",
+        "Rayon du cylindre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.12"
+    },
+    {
+      "question": "<p>Quelle est la longueur du <u>rayon de la base</u> de ce cylindre de r&eacute;volution ?</p>\n<p><img src=\"img/quaire.png\" /></p>",
+      "explain": "<p>Le rayon de la base est de <u>2 cm</u>.</p>",
+      "choices": [
+        "*2 cm",
+        "5 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.14"
+    },
+    {
+      "question": "<p>Quelle est la longueur du <u>diam&egrave;tre</u> de la base de ce cylindre de r&eacute;volution ?</p>\n<p><img src=\"img/quaire.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Le rayon de la base est de 2 cm. Le diam&egrave;tre est deux fois plus long que le rayon. Donc le diam&egrave;tre de la base vaut <u>4 cm</u>.</p>",
+      "choices": [
+        "2 cm",
+        "5 cm",
+        "*4 cm",
+        "3 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.15"
+    },
+    {
+      "question": "<p>Quelle est la <u>hauteur</u> de ce cylindre de r&eacute;volution ?</p>\n<p><img src=\"img/quaire.png\" /></p>",
+      "explain": "<p>La hauteur est la distance entre les deux bases. Dans ce cas, la hauteur du cylindre vaut <u>5 cm</u>.</p>",
+      "choices": [
+        "2 cm",
+        "*5 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.16"
+    },
+    {
+      "question": "<p>Quel est le <u>p&eacute;rim&egrave;tre</u> de la base de ce cylindre de r&eacute;volution ?</p>\n<p><img src=\"img/quaire.png\" /></p>",
+      "explain": "<p>Le p&eacute;rim&egrave;tre d'un cercle de rayon R est <u>2 &times; &pi; &times; R</u>. Dans ce cas, le rayon vaut 2 cm. Donc le p&eacute;rim&egrave;tre vaut 2 &times; 2 &times; &pi; = <u>4&pi; cm</u> (environ 12,56 cm).</p>",
+      "choices": [
+        "*4 × π cm",
+        "π cm",
+        "2 × π cm",
+        "8 × π cm"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.17"
+    },
+    {
+      "question": "<p>Quelle est l'<u>aire</u> de la base de ce cylindre de r&eacute;volution ?</p>\n<p><img src=\"img/quaire.png\" /></p>",
+      "explain": "<p>Le p&eacute;rim&egrave;tre d'un cercle de rayon R est <u>&pi; &times; R&sup2;</u>. Dans ce cas, le rayon vaut 2 cm. Donc le p&eacute;rim&egrave;tre vaut 2&sup2; &times; &pi; = <u>4&pi; cm&sup2;</u>&nbsp;(environ 12,56 cm&sup2;).</p>",
+      "choices": [
+        "*4 × π cm²",
+        "π cm²",
+        "2 × π cm²",
+        "8 × π cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.18"
+    },
+    {
+      "question": "<p>Quelle est l'<u>aire de la surface lat&eacute;rale</u> de ce cylindre de r&eacute;volution ?</p>\n<p><img src=\"img/quaire.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Le p&eacute;rim&egrave;tre d'un cercle de rayon R est 2 &times; &pi; &times; R. Le p&eacute;rim&egrave;tre vaut 2 &times; 2 &times; &pi; = 4&pi; cm (environ 12,56 cm).&nbsp;</p>\n<p>L'aire de la surface lat&eacute;rale vaut le <u>p&eacute;rim&egrave;tre de la base multipli&eacute; par la hauteur</u>.</p>\n<p>Alat = p &times; h = 4 &times; &pi; &times; 5 = <u>20&pi; cm&sup2;</u>.</p>",
+      "choices": [
+        "4 × π cm²",
+        "*20 × π cm²",
+        "5 × π cm²",
+        "10 × π cm²"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.19"
+    },
+    {
+      "question": "<p>Quel est le <u>volume</u> de ce cylindre de r&eacute;volution ?&nbsp;</p>\n<p><img src=\"img/quaire.png\" /></p>",
+      "explain": "<p>L'aire d'un cercle de rayon R est &pi; &times; R&sup2;. Le p&eacute;rim&egrave;tre vaut 2&sup2; &times; &pi; = 4&pi; cm&sup2; (environ 12,56 cm&sup2;).&nbsp;</p>\n<p>Le volume vaut l'<u>aire de la base multipli&eacute; par la hauteur</u>.</p>\n<p>V = Abase &times; h = 4 &times; &pi; &times; 5 = <u>20&pi; cm&sup3;</u>.</p>",
+      "choices": [
+        "4 × π cm³",
+        "*20 × π cm³",
+        "5 × π cm³",
+        "10 × π cm³"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.20"
+    },
+    {
+      "question": "<p>La figure suivante est-elle le patron d'un cylindre de r&eacute;volution ?&nbsp;</p>\n<p><img src=\"img/patronprisme.png\" /></p>",
+      "explain": "<p>Il s'agit du patron d'un <u>prisme &agrave; base triangulaire</u> et non d'un cylindre de r&eacute;volution.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.22"
+    },
+    {
+      "question": "<p>La figure suivante correspond-t-elle &agrave; un cylindre de r&eacute;volution ?</p>\n<p><img src=\"img/pave.png\" /></p>",
+      "explain": "<p>La figure correspond &agrave; un <u>pav&eacute;</u> droit et non un cylindre de r&eacute;volution.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/72.23"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 23,
+  "theme": "geometrie",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

@@ -1,0 +1,410 @@
+{
+  "id": "math/30",
+  "title": "Equations du 1er degré",
+  "pages": [
+    "math/30/1.htm",
+    "math/30/2.htm",
+    "math/30/3.htm",
+    "math/30/4.htm",
+    "math/30/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>3 est-il une solution de l&rsquo;&eacute;quation:</p>\n<p><u>𝑥 + 3 = 0</u></p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "id": "math/30.1",
+      "explain": "<p>On teste si l&rsquo;&eacute;galit&eacute; est vraie pour 𝑥 = 3</p>\n<p>3 + 3 = 0 ?</p>\n<p>6 = 0 ?</p>\n<p>C'est faux</p>",
+      "type": "choices",
+      "steps": []
+    },
+    {
+      "question": "<p>Quel est le <u>premier membre</u> de cette &eacute;quation?</p>\n<p>5 + 3𝑥 = 9 - 𝑥</p>",
+      "explain": "<p>Le premier membre est l'expression &agrave; gauche du signe =</p>",
+      "choices": [
+        "5",
+        "3𝑥",
+        "*5 + 3𝑥",
+        "9"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/30.14"
+    },
+    {
+      "question": "<p>3𝑥&sup2; + 2 + 𝑥 = 3𝑥</p>\n<p>3𝑥 est ______ de cette &eacute;quation.</p>",
+      "explain": "<p>Le deuxi&egrave;me membre est l'expression &agrave; droite du signe =</p>",
+      "choices": [
+        "*le 2ème membre",
+        "la 2ème solution",
+        "le 2ème degré",
+        "la 2ème inconnue"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/30.15"
+    },
+    {
+      "question": "<p>3𝑥&sup2; + 3 = 6𝑥</p>\n<p>est une &eacute;quation du</p>",
+      "explain": "<p>Le degr&eacute; correspond &agrave; l'exposant de la plus grande puissance.</p>\n<p>Ici c'est 𝑥&sup2;, &agrave; la puissance 2.</p>",
+      "choices": [
+        "1er degré",
+        "*2ème degré ",
+        "3ème degré"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/30.16"
+    },
+    {
+      "question": "<p>𝑥&sup2; + 3𝑥 + 1 = 2</p>\n<p>est une equation &agrave;</p>",
+      "explain": "<p>Il y a une inconnue, repr&eacute;sent&eacute;e par la lettre 𝑥</p>",
+      "choices": [
+        "*1 inconnue",
+        "2 inconnues",
+        "3 inconnues"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/30.17"
+    },
+    {
+      "question": "<p>𝑥 + 2y + 3𝑥 + 1 = 0</p>\n<p>est une equation &agrave;</p>",
+      "explain": "<p>Il y a deux inconnues, repr&eacute;sent&eacute;es par les lettres 𝑥 et y</p>",
+      "choices": [
+        "1 inconnue",
+        "*2 inconnues",
+        "3 inconnues"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/30.18"
+    },
+    {
+      "question": "<p>Pour r&eacute;soudre l&rsquo;&eacute;quation:</p>\n<p><u>𝑥 + 7 = 12</u></p>\n<p>on</p>",
+      "choices": [
+        "*soustrait 7 de chaque coté",
+        "ajoute 7 de chaque coté",
+        "soustrait 12 de chaque coté",
+        "ajoute 12 de chaque coté"
+      ],
+      "id": "math/30.3",
+      "explain": "<p>𝑥 + 7 = 12</p>\n<p>&hArr; 𝑥 + 7 - 7 = 12 - 7</p>\n<p>&hArr; 𝑥 = 5</p>"
+    },
+    {
+      "question": "<p>Pour r&eacute;soudre l'&eacute;quation:</p>\n<p><u>𝑥 - 8 = -1</u></p>\n<p>on</p>",
+      "choices": [
+        "*ajoute 8 de chaque coté",
+        "soustrait 8 de chaque coté",
+        "ajoute 1 de chaque coté",
+        "ajoute 8 à gauche"
+      ],
+      "id": "math/30.4",
+      "explain": "<p>Il faut bien ajouter 8 de chaque cot&eacute; et pas seulement &agrave; gauche!</p>\n<p>Sinon l'&eacute;quation n'est plus la m&ecirc;me.</p>\n<p>𝑥 - 8 = -1<br />&hArr; 𝑥 - 8 + 8 = -1 + 8<br />&hArr; 𝑥 = 7</p>"
+    },
+    {
+      "question": "<p>R&eacute;soudre l'&eacute;quation:</p>\n<p><u>𝑥 + 7 = 12</u></p>",
+      "choices": [
+        "*𝑥 = 12 - 7 = 5",
+        "𝑥 = 12 + 7 = 19",
+        "$$x = \\frac{12}{7}$$",
+        "𝑥 = 12 - 5 = 7"
+      ],
+      "id": "math/30.5",
+      "explain": "<p>On soustrait 7 de chaque c&ocirc;t&eacute; pour ne garder que 𝑥 &agrave; gauche de l&rsquo;&eacute;quation.</p>\n<p>𝑥 + 7 - 7 = 12 - 7</p>\n<p>&hArr; 𝑥 = 12 - 7 = 5</p>"
+    },
+    {
+      "question": "<p>R&eacute;soudre l&rsquo;&eacute;quation:</p>\n<p><u>𝑥 - 8 = -1</u></p>",
+      "choices": [
+        "*𝑥 = -1 + 8 = 7",
+        "𝑥 = -1 - 8 = -9",
+        "𝑥 = -1 -1 = -2",
+        "𝑥 = (-1) × (-8) = 8"
+      ],
+      "id": "math/30.6",
+      "explain": "<p>On ajoute 8 de chaque c&ocirc;t&eacute; pour isoler 𝑥 tout seul &agrave; gauche de l&rsquo;&eacute;quation.</p>\n<p>𝑥 - 8 + 8 = -1 + 8</p>\n<p>&hArr; 𝑥 = 7</p>"
+    },
+    {
+      "question": "<p>Pour r&eacute;soudre l&rsquo;&eacute;quation:</p>\n<p><u>7𝑥 = 3</u></p>\n<p>on</p>",
+      "choices": [
+        "*divise par 7 de chaque côté",
+        "multiplie par 7 de chaque côté",
+        "soustrait 7 de chaque côté",
+        "divise par 7𝑥 de chaque côté"
+      ],
+      "id": "math/30.7",
+      "explain": "<p>On ne change pas l&rsquo;&eacute;quation en divisant par 7 chaque membre.</p>\n<p>Rappel: diviser par 7 revient &agrave; multiplier par son inverse: 1/7</p>\n<p>(7𝑥) &times; (1/7) = 3 &times; (1/7)</p>\n<p>&hArr; (7𝑥 &times; 1) / 7 = (3 &times; 1) / 7</p>\n<p>On simplifie les 7 dans la fraction &agrave; gauche:</p>\n<p>𝑥 = 3/7</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<p>Pour r&eacute;soudre:</p>\n<p>$$\\frac{x}{5} = 7$$</p>\n<p>on&nbsp;</p>",
+      "choices": [
+        "*multiplie par 5 de chaque côté",
+        "divise par 5 de chaque côté",
+        "soustrait 5 de chaque côté",
+        "multiplie par 7 de chaque côté"
+      ],
+      "id": "math/30.8",
+      "explain": "<p>On ne change pas l&rsquo;&eacute;quation en multipliant par 5 chaque membre.</p>\n<p>(𝑥/5) &times; 5 = 7 &times; 5</p>\n<p>&hArr; 𝑥 &times; 5/5 = 35</p>\n<p>&hArr; 𝑥 = 35</p>"
+    },
+    {
+      "question": "<p>R&eacute;sous:</p>\n<p>$$\\frac{x}{5} = 7$$</p>",
+      "choices": [
+        "*𝑥 = 7 × 5 = 35",
+        "𝑥 = 7 + 5 = 12 ",
+        "𝑥 = 7 - 5 = 2",
+        "$$x = \\frac{7}{5}$$"
+      ],
+      "id": "math/30.9",
+      "explain": "<p>Multiplie par 5 de chaque c&ocirc;t&eacute;</p>\n<p>5 &times; 𝑥 /5 = 5 &times; 7<br /><br />𝑥&nbsp; = 5 &times; 7 = 35</p>"
+    },
+    {
+      "question": "",
+      "choices": [],
+      "id": "math/30.10",
+      "explain": "",
+      "type": "steps",
+      "steps": [
+        {
+          "response": "4𝑥 + 7 = 11",
+          "explain": "Résous"
+        },
+        {
+          "response": "4𝑥+7-7=11-7",
+          "explain": "Soustrais 7 de chaque côté pour faire passer 7 de gauche à droite"
+        },
+        {
+          "response": "4𝑥=4",
+          "explain": "Additionne les constantes de chaque côté"
+        },
+        {
+          "response": "4𝑥/4=4/4",
+          "explain": "Divise par 4 chaque membre pour obtenir 𝑥"
+        },
+        {
+          "response": "𝑥=1",
+          "explain": ""
+        }
+      ]
+    },
+    {
+      "question": "",
+      "choices": [],
+      "id": "math/30.13",
+      "explain": "",
+      "type": "steps",
+      "steps": [
+        {
+          "response": "5𝑥 + 3 = 10 - 2𝑥",
+          "explain": "Résous"
+        },
+        {
+          "response": "5𝑥+3+2𝑥=10-2𝑥+2𝑥",
+          "explain": "Ajoute +2𝑥 de chaque côté pour faire disparaître les 𝑥 à droite"
+        },
+        {
+          "response": "7𝑥+3=10",
+          "explain": "Additionne les 𝑥 de chaque côté"
+        },
+        {
+          "response": "7𝑥+3-3=10-3",
+          "explain": "Soustrais -3 de chaque côté pour faire passer le 3 à droite"
+        },
+        {
+          "response": "7𝑥=7",
+          "explain": "Additionne les constantes de chaque côté"
+        },
+        {
+          "response": "7𝑥/7=7/7",
+          "explain": "Divise par 7 chaque membre pour obtenir 𝑥"
+        },
+        {
+          "response": "𝑥=1",
+          "explain": ""
+        }
+      ]
+    },
+    {
+      "question": "<p>$$\\frac{x}{10} = 5$$</p>\n<p>Pour quelle valeur de 𝑥 cette &eacute;galit&eacute; est-elle vraie?</p>",
+      "explain": "<p>On teste si l&rsquo;&eacute;galit&eacute; est vraie pour chacune des r&eacute;ponses:</p>\n<p>Pour 𝑥 = 5, 5/10 &ne; 50&nbsp;</p>\n<p>Pour 𝑥 = 10, 10/10 &ne; 5</p>\n<p>Pour 𝑥 = 50, 50/10 = 5 est vraie</p>\n<p>50 est la solution de l'&eacute;quation</p>",
+      "choices": [
+        "𝑥 = 5",
+        "*𝑥 = 50",
+        "𝑥 = 10"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/30.19"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "2(𝑥-1) = 0",
+          "explain": "Résous"
+        },
+        {
+          "response": "2𝑥-2=0",
+          "explain": "Développe le premier membre"
+        },
+        {
+          "response": "2𝑥-2+2=2",
+          "explain": "Ajoute 2 de chaque côté pour faire passer le 2 à droite."
+        },
+        {
+          "response": "2𝑥=2",
+          "explain": "Réduis l'e𝑥pression en additionnant les constantes."
+        },
+        {
+          "response": "2𝑥/2 = 2/2",
+          "explain": "Divise chaque membre par 2 pour obtenir 𝑥"
+        },
+        {
+          "response": "𝑥=1",
+          "explain": ""
+        }
+      ],
+      "id": "math/30.20"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "4(𝑥+1) = 2𝑥",
+          "explain": "Résous"
+        },
+        {
+          "response": "4𝑥+4=2𝑥",
+          "explain": "Développe le premier membre"
+        },
+        {
+          "response": "4𝑥+4-2𝑥=2𝑥-2𝑥",
+          "explain": "Ajoute -2𝑥 de chaque côté pour faire passer les 𝑥 à gauche."
+        },
+        {
+          "response": "2𝑥+4=0",
+          "explain": "Réduis l'e𝑥pression en additionnant les 𝑥"
+        },
+        {
+          "response": "2𝑥+4-4=-4",
+          "explain": "Ajoute -4 de chaque côté pour faire passer le 4 à droite."
+        },
+        {
+          "response": "2𝑥=-4",
+          "explain": "Réduis l'e𝑥pression en additionnant les constantes"
+        },
+        {
+          "response": "2𝑥/2=-4/2",
+          "explain": "Divise chaque membre par 2 pour obtenir 𝑥"
+        },
+        {
+          "response": "𝑥=-2",
+          "explain": ""
+        }
+      ],
+      "id": "math/30.21"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "3(𝑥-2) = 4(𝑥-1)",
+          "explain": "Résous"
+        },
+        {
+          "response": "3𝑥-6=4𝑥-4",
+          "explain": "Développe chacun des membres"
+        },
+        {
+          "response": "3𝑥-6-4𝑥=4𝑥-4-4𝑥",
+          "explain": "Ajoute -4𝑥 de chaque côté pour faire passer les 𝑥 à gauche."
+        },
+        {
+          "response": "-𝑥-6=-4",
+          "explain": "Réduis l'e𝑥pression en additionnant les 𝑥"
+        },
+        {
+          "response": "-𝑥-6+6=-4+6",
+          "explain": "Ajoute +6 de chaque côté pour faire passer le 6 à droite."
+        },
+        {
+          "response": "-𝑥=2",
+          "explain": "Réduis l'e𝑥pression en additionnant les constantes"
+        },
+        {
+          "response": "-𝑥×(-1) =2×(-1)",
+          "explain": "Multiplie chaque membre par -1 pour obtenir 𝑥"
+        },
+        {
+          "response": "𝑥=-2",
+          "explain": ""
+        }
+      ],
+      "id": "math/30.22"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "2(𝑥-2) - 6 = 4(𝑥-1) - 5𝑥",
+          "explain": "Résous"
+        },
+        {
+          "response": "2𝑥-4-6=4𝑥-4-5𝑥",
+          "explain": "Développe chacun des membres"
+        },
+        {
+          "response": "2𝑥-10=-𝑥-4",
+          "explain": "Réduis l'e𝑥pression en additionnant les 𝑥 et les constantes"
+        },
+        {
+          "response": "2𝑥-10+𝑥=-𝑥-4+𝑥",
+          "explain": "Ajoute +𝑥 de chaque côté pour faire passer les 𝑥 à gauche."
+        },
+        {
+          "response": "3𝑥-10=-4",
+          "explain": "Réduis l'e𝑥pression en additionnant les 𝑥"
+        },
+        {
+          "response": "3𝑥-10+10=-4+10",
+          "explain": "Ajoute +10 de chaque côté pour faire passer le 10 à droite."
+        },
+        {
+          "response": "3𝑥=6",
+          "explain": "Réduis l'e𝑥pression en additionnant les constantes"
+        },
+        {
+          "response": "3𝑥×(1/3)=6×(1/3)",
+          "explain": "Divise chaque membre par 3 pour obtenir 𝑥"
+        },
+        {
+          "response": "𝑥=2",
+          "explain": ""
+        }
+      ],
+      "id": "math/30.23"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 23,
+  "theme": "calcul",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tingnat@gmail.com"
+}

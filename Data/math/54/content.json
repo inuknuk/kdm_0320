@@ -1,0 +1,263 @@
+{
+  "id": "math/54",
+  "title": "Pyramide et Cône",
+  "pages": [
+    "math/54/1.htm",
+    "math/54/3.htm",
+    "math/54/2.htm",
+    "math/54/4.htm",
+    "math/54/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quelle est la forme de la <u>base</u> d'un c&ocirc;ne de r&eacute;volution ?</p>",
+      "explain": "<p>La base d'un c&ocirc;ne de r&eacute;volution est un disque.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*Disque",
+        "Carré",
+        "Rectangle",
+        "Hexagone régulier"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.1"
+    },
+    {
+      "question": "<p>Quel point est le <u>sommet</u> du c&ocirc;ne ?&nbsp;</p>\n<p><img src=\"img/conedef.png\" /></p>",
+      "explain": "<p>S est le sommet du c&ocirc;ne.</p>",
+      "choices": [
+        "*S",
+        "O",
+        "A",
+        "B"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.2"
+    },
+    {
+      "question": "<p>Quelle longueur est la <u>hauteur </u>du c&ocirc;ne ?</p>\n<p><img src=\"img/questioncone.png\" /></p>",
+      "explain": "<p>La longueur <u>SO</u> est la hauteur du c&ocirc;ne.</p>",
+      "choices": [
+        "*SO",
+        "AS",
+        "AO",
+        "AB"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.3"
+    },
+    {
+      "question": "<p>Quel segment est appel&eacute; <u>g&eacute;n&eacute;ratrice</u> du c&ocirc;ne ?</p>\n<p><img src=\"img/questioncone.png\" /></p>",
+      "explain": "<p>Le segment [SA] est appel&eacute; g&eacute;n&eacute;ratrice du c&ocirc;ne.</p>",
+      "choices": [
+        "[SO]",
+        "*[AS]",
+        "[AO]",
+        "[AB]"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.4"
+    },
+    {
+      "question": "<p>Soit le c&ocirc;ne de hauteur h dont la base est de rayon R. Gr&acirc;ce &agrave; quel <u>th&eacute;or&egrave;me</u> calcule-t-on la longueur de la g&eacute;n&eacute;ratrice [SA] ?</p>\n<p><img src=\"img/generation.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Le th&eacute;or&egrave;me de <u>Pythagore</u> nous permet de calculer la longueur de la g&eacute;n&eacute;ratrice.</p>",
+      "choices": [
+        "Théorème de Thalès",
+        "*Théorème de Pythagore",
+        "Théoèreme de l'angle moitié",
+        "Théorème de la génératrice"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.6"
+    },
+    {
+      "question": "<p>Si un triangle est ABC est rectangle en B, alors que vaut la longueur de son hypot&eacute;nuse AC ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>D'apr&egrave;s le <u>th&eacute;or&egrave;me de Pythagore</u> :&nbsp;</p>\n<p>Si un triangle est rectangle, alors:</p>\n<p>Le carr&eacute; de la longueur de son hypot&eacute;nuse est &eacute;gal &agrave; la somme des carr&eacute;s des longueurs des 2 autres c&ocirc;t&eacute;s.</p>\n<p>Donc, <u>AC = &radic;(AB&sup2; + BC&sup2;)</u></p>",
+      "choices": [
+        "AC = AB² + BC²",
+        "AC = AB + BC",
+        "*AC = √(AB² + BC²)",
+        "AC = √(AB + BC)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.7"
+    },
+    {
+      "question": "<p>Quelle est la longueur de g ?</p>\n<p><img src=\"img/qugeneration.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>Par le th&eacute;or&egrave;me de Pythagore, on a :&nbsp;</p>\n<p><u>g =&nbsp; &radic;(R&sup2; + h&sup2;)</u></p>",
+      "choices": [
+        "g =  √(R + h)",
+        "*g =  √(R² + h²)",
+        "g =  √(R + g)",
+        "g =  √(g² + h²)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.8"
+    },
+    {
+      "question": "<p>Le patron suivant est-il le patron d'un c&ocirc;ne ?&nbsp;</p>\n<p><img src=\"img/patron.png\" /></p>",
+      "explain": "<p>Non, il s'agit du patron d'un <u>cylindre</u>.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.9"
+    },
+    {
+      "question": "<p>La patron suivant est-il le patron d'un c&ocirc;ne ?</p>\n<p><img src=\"img/questionpatron2.png\" /></p>",
+      "explain": "<p><u>Non</u>, le patron d'un c&ocirc;ne est compos&eacute; d'un <u>disque</u> (base) et d'une <u>surface de disque</u> (surface conique). Or, dans ce cas, le patron est compos&eacute; de deux disques entiers.&nbsp;</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.10"
+    },
+    {
+      "question": "<p>La patron suivant est-il le patron d'un c&ocirc;ne ?</p>\n<p><img src=\"img/patron2.png\" /></p>",
+      "explain": "<p><u>Oui</u>, le patron d'un c&ocirc;ne est compos&eacute; d'un <u>disque</u> (base) <u>et d'une surface de disque</u> (surface conique).</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.11"
+    },
+    {
+      "question": "<p>De quel forme est la base d'une pyramide ?</p>",
+      "explain": "<p>Une pyramide est un solide limit&eacute; par un <u>base polygonale</u> et des faces lat&eacute;rales.</p>",
+      "choices": [
+        "Carré",
+        "*Polygone",
+        "Cercle",
+        "Losange"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.14"
+    },
+    {
+      "question": "<p>Quelle est la forme des <u>faces lat&eacute;rales</u> d'une pyramide ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>Une pyramide est un solide limit&eacute; par un base polygonale et des <u>faces lat&eacute;rales triangulaires</u>.</p>",
+      "choices": [
+        "Carré",
+        "Polygone",
+        "*Triangle",
+        "Losange"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.16"
+    },
+    {
+      "question": "<p>De combien de faces est compos&eacute; une pyramide &agrave; <u>base carr&eacute;</u> ?</p>",
+      "explain": "<p>Une pyramide &agrave; base carr&eacute; est compos&eacute; de 5 faces. Une base carr&eacute;e et 4 faces lat&eacute;rales.</p>",
+      "choices": [
+        "3",
+        "4",
+        "*5",
+        "6"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.13"
+    },
+    {
+      "question": "<p>La figure suivante est-elle une pyramide ?&nbsp;</p>\n<p><img src=\"img/generation.png\" /></p>",
+      "explain": "<p>Non, la base est circulaire. La figure est un <u>c&ocirc;ne</u> et non une pyramide.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.17"
+    },
+    {
+      "question": "<p>La figure suivante est-elle une pyramide ?&nbsp;</p>\n<p><img src=\"img/pyramide.png\" /></p>",
+      "explain": "<p><u>Oui</u>, la base est polygonale (carr&eacute;) et les surfaces lat&eacute;rales sont des triangles.&nbsp;</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.18"
+    },
+    {
+      "question": "<p>La figure suivante est-elle une pyramide ?&nbsp;</p>\n<p><img src=\"img/pyramidehexagone.png\" /></p>",
+      "explain": "<p><u>Oui</u>, la base est un polygone (hexagone r&eacute;gulier) et les surfaces lat&eacute;rales sont des triangles.&nbsp;</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.19"
+    },
+    {
+      "question": "<p>Quel type de triangle forme les <u>surfaces lat&eacute;rales</u> d'une pyramide ?</p>",
+      "explain": "<p>Les surfaces lat&eacute;rales sont toutes compos&eacute;es de <u>triangles isoc&egrave;les</u>.</p>\n<p>Dans certains cas particuliers, ces triangles isoc&egrave;les peuvent &eacute;galement &ecirc;tre des triangles &eacute;quilat&eacute;raux ou rectangles.&nbsp;</p>",
+      "choices": [
+        "Triangle rectangle",
+        "*Triangle isocèle",
+        "Triangle équilatéral"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.20"
+    },
+    {
+      "question": "<p>Est-ce le patron d'une pyramide ?</p>\n<p><img src=\"img/patron2.png\" /></p>",
+      "explain": "<p><u>Non</u>, il s'agit du patron d'un c&ocirc;ne de r&eacute;volution.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.21"
+    },
+    {
+      "question": "<p>Est-ce le patron d'une pyramide ?</p>\n<p><img src=\"img/patron.png\" /></p>",
+      "explain": "<p><u>Non</u>, il s'agit du patron d'un prisme droit.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.22"
+    },
+    {
+      "question": "<p>Est-ce le patron d'une pyramide ?</p>\n<p><img src=\"img/patronpyramide.png\" /></p>",
+      "explain": "<p><u>Oui</u>, le patron est compos&eacute; d'une base carr&eacute;e (ABCD) et de quatre faces lat&eacute;rales qui sont des triangles isoc&egrave;les. Il s'agit du patron d'une pyramide.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/54.23"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 24,
+  "theme": "geometrie",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

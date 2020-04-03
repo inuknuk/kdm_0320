@@ -1,0 +1,168 @@
+{
+  "id": "math/19",
+  "title": "Parallélogrammes",
+  "pages": [
+    "math/19/1.htm",
+    "math/19/2.htm",
+    "math/19/5.htm",
+    "math/19/4.htm",
+    "math/19/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> a combien de <u>c&ocirc;t&eacute;s</u>?</p>",
+      "choices": [
+        "*4",
+        "3",
+        "6",
+        "5"
+      ],
+      "id": "math/19.1",
+      "explain": "<p>4 car c'est un <u>quadrilat&egrave;re</u></p>"
+    },
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> a ses c&ocirc;t&eacute;s <u>oppos&eacute;s</u> parall&egrave;les 2 &agrave; 2.</p>",
+      "choices": [
+        "*Toujours",
+        "Jamais",
+        "Parfois"
+      ],
+      "id": "math/19.2",
+      "explain": "<p>C'est la d&eacute;finition d'un parall&eacute;logramme.</p>"
+    },
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> a ses cot&eacute;s <u>cons&eacute;cutifs</u> parall&egrave;les 2 &agrave; 2.</p>",
+      "choices": [
+        "*Jamais",
+        "Toujours",
+        "Parfois"
+      ],
+      "id": "math/19.3",
+      "explain": "<p>Dans un quadrilat&egrave;re, les c&ocirc;t&eacute;s cons&eacute;cutifs sont des c&ocirc;t&eacute;s&nbsp;qui ont un sommet commun.</p>\n<p>Ils ne peuvent pas &ecirc;tre parall&egrave;les, car deux segments parall&egrave;les qui passent par le m&ecirc;me point sont confondus.</p>"
+    },
+    {
+      "question": "<p>Est-ce un parall&eacute;logramme?</p>\n<p><img src=\"img/trapeze.png\" /></p>",
+      "explain": "<p>Un parall&eacute;logramme a ses c&ocirc;t&eacute;s oppos&eacute;s parall&egrave;les 2 &agrave; 2.</p>\n<p>Ceci est un trap&egrave;ze.</p>",
+      "choices": [
+        "Oui",
+        "*Non",
+        "Ça dépend de la longueur des côtés en rouge."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/19.28"
+    },
+    {
+      "question": "<p>Est-ce un parall&eacute;logramme?</p>\n<p><img src=\"img/rectangle.png\" /></p>",
+      "explain": "<p>C'est un rectangle, donc aussi un parall&eacute;logramme.</p>",
+      "choices": [
+        "*Oui",
+        "Non",
+        "Ça dépend de la mesure des longueurs."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/19.29"
+    },
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> a ses <u>c&ocirc;t&eacute;s oppos&eacute;s</u> de m&ecirc;me longueur.</p>",
+      "choices": [
+        "*Toujours",
+        "Jamais",
+        "Parfois"
+      ],
+      "id": "math/19.4",
+      "explain": "<p>C'est une propri&eacute;t&eacute; caract&eacute;ristique du parall&eacute;logramme.</p>"
+    },
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> a ses <u>diagonales</u> qui se coupent en leur milieu.</p>",
+      "choices": [
+        "*Toujours",
+        "Jamais",
+        "parfois"
+      ],
+      "id": "math/19.5",
+      "explain": "<p>C'est une propri&eacute;t&eacute; caract&eacute;ristique du parall&eacute;logramme.</p>"
+    },
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> a ses c&ocirc;t&eacute;s cons&eacute;cutifs qui forment un <u>angle droit</u></p>",
+      "choices": [
+        "*Parfois",
+        "Toujours",
+        "Jamais"
+      ],
+      "id": "math/19.6",
+      "explain": "<p>C'est le cas d'un parall&eacute;logramme particulier: le rectangle.</p>\n<p>Mais ce n'est pas le cas de tous les parall&eacute;logrammes.</p>"
+    },
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> a ses <u>c&ocirc;t&eacute;s cons&eacute;cutifs</u> de m&ecirc;me longueur.</p>",
+      "choices": [
+        "Toujours",
+        "Jamais",
+        "*Parfois"
+      ],
+      "id": "math/19.7",
+      "explain": "<p>C'est le cas d'un parall&eacute;logramme particulier: le losange (ou le carr&eacute;).</p>\n<p>Mais ce n'est pas le cas de tous les parall&eacute;logrammes.</p>"
+    },
+    {
+      "question": "<p>Connaissant trois sommets A, B et C, pour <u>construire</u> un parall&eacute;logramme, il suffit de:</p>",
+      "choices": [
+        "une règle non graduée",
+        "un compas",
+        "*une règle et un compas"
+      ],
+      "id": "math/19.8",
+      "explain": "<p>J'utilise la <u>propri&eacute;t&eacute;</u> du parall&eacute;logramme: ses <u>c&ocirc;t&eacute;s oppos&eacute;s</u> sont de <u>m&ecirc;me longueur</u>.</p>\n<p>Avec une r&egrave;gle je trace les segments [AB] et [BC].</p>\n<p>Avec le compas je trace un arc de cercle de centre A et de longueur BC.</p>\n<p>Puis je trace un arc de cercle de centre C et de longueur AB.</p>\n<p>Le point d'intersection D des arcs est tel que AC = BD et AB = DC</p>"
+    },
+    {
+      "question": "<p>Si un <u>quadrilat&egrave;re</u> a ses 2 diagonales qui se coupent en leur milieu, c'est un <u>parall&eacute;logramme</u></p>",
+      "choices": [
+        "*Toujours",
+        "Jamais",
+        "Parfois"
+      ],
+      "id": "math/19.9",
+      "explain": "<p>C'est une propri&eacute;t&eacute; caract&eacute;ristique du parall&eacute;logramme.</p>"
+    },
+    {
+      "question": "<p>Connaissant trois sommets A, B et C, je peux <u>construire</u> un parall&eacute;logramme avec seulement:</p>",
+      "choices": [
+        "*une règle graduée",
+        "une règle non graduée",
+        "un compas"
+      ],
+      "id": "math/19.25",
+      "explain": "<p>J'utilise la <u>propri&eacute;t&eacute;</u> du parall&eacute;logramme: ses <u>diagonales</u> se <u>coupent en leur milieu</u>.</p>\n<p>Avec une r&egrave;gle je trace les segments [AB] et [BC].</p>\n<p>Avec la r&egrave;gle gradu&eacute;e je mesure le segment [AB] et je place le point O milieu de [AC].</p>\n<p>Je trace la droite (BO) et je place sur cette droite le sommet D tel que BO = OD.</p>\n<p>Remarque: un compas seul ne suffit pas puisqu'il faut quand m&ecirc;me tracer les segments avec une r&egrave;gle.</p>"
+    },
+    {
+      "question": "<p>Un <u>parall&eacute;logramme</u> est un&nbsp;</p>",
+      "choices": [
+        "*quadrilatère",
+        "carré",
+        "losange",
+        "rectangle"
+      ],
+      "id": "math/19.17",
+      "explain": "<p>Le carr&eacute;, le losange et le rectangle sont des parall&eacute;logrammes particuliers.</p>\n<p>Un parall&eacute;logramme n'est pas toujours un carr&eacute;, ni un losange, ni un rectangle.</p>"
+    },
+    {
+      "question": "<p>Connaissant trois sommets A, B et C, pour <u>construire</u> un parall&eacute;logramme, il suffit de:</p>",
+      "choices": [
+        "une règle non graduée",
+        "un compas",
+        "*une règle et une équerre"
+      ],
+      "id": "math/19.26",
+      "explain": "<p>J'utilise la <u>propri&eacute;t&eacute;</u> du parall&eacute;logramme: ses <u>c&ocirc;t&eacute;s oppos&eacute;s</u> sont de <u>parall&egrave;les 2 &agrave; 2</u></p>\n<p>Avec une r&egrave;gle je trace les segments [AB] et [BC].</p>\n<p>Avec l&rsquo;&eacute;querre et la r&egrave;gle je trace d'abord une droite (d) perpendiculaire &agrave; la droite (AB).</p>\n<p>Puis une deuxi&egrave;me droite perpendiculaire &agrave; (d) et passant par C.</p>\n<p>J'obtiens une droite passant par C et parall&egrave;le &agrave; (AB).</p>\n<p>Avec la m&ecirc;me m&eacute;thode, je trace une droite passant par A et parall&egrave;le &agrave; (BC).</p>\n<p>Le point d'intersection D des deux droites est tel que (AB) // (DC) et (AD) // (BC)</p>"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 14,
+  "theme": "geometrie",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

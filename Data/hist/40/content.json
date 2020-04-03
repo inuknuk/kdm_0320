@@ -1,0 +1,200 @@
+{
+  "id": "hist/40",
+  "title": "L'Empire",
+  "pages": [
+    "hist/40/1.htm",
+    "hist/40/2.htm",
+    "hist/40/3.htm",
+    "hist/40/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Apr&egrave;s son coup d'&eacute;tat, <u>Bonaparte</u> met en place un nouveau syst&egrave;me politique :&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*le Consulat",
+        "le Concordat",
+        "la Convention",
+        "l'Empire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.1"
+    },
+    {
+      "question": "<p>Qui met en place <u>le consultat</u> apres un coup d'&eacute;tat?</p>",
+      "explain": "",
+      "choices": [
+        "*Bonaparte",
+        "Danton",
+        "Robespierre",
+        "Louis 16"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.2"
+    },
+    {
+      "question": "<p>A qui est confi&eacute; le pouvoir ex&eacute;cutif pendant le <u>Consultat</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*3 consuls",
+        "2 consuls",
+        "3 prêteurs",
+        "une assemblée de consuls"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.3"
+    },
+    {
+      "question": "<p>Le <u>Consulat</u> est un r&eacute;gime</p>",
+      "explain": "",
+      "choices": [
+        "*autoritaire",
+        "parlementaire",
+        "dictatorial",
+        "démocratique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.4"
+    },
+    {
+      "question": "<p>En 1804, Nationale publie un nouveau code qui unifie <u>les lois francaises,</u> c'est&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*le code civil",
+        "le code penal",
+        "le code de la route",
+        "le code"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.5"
+    },
+    {
+      "question": "<p>L'autre nom du <u>code civil </u>est le&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*Code Napoleon",
+        "Code Bonaparte",
+        "Code Géneral",
+        "Code impérial"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.6"
+    },
+    {
+      "question": "<p>La nouvelle <u>monaie</u> decid&eacute;e par Napol&eacute;on est</p>",
+      "explain": "",
+      "choices": [
+        "*le Franc germinal",
+        "l'Euro",
+        "l'Ecu",
+        "le Franc Napoléon"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.7"
+    },
+    {
+      "question": "<p>Napol&eacute;on etait&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*de petite taille",
+        "de grande taille",
+        "de taille moyenne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.8"
+    },
+    {
+      "question": "<p>Napoleon est <u>n&eacute;</u></p>",
+      "explain": "",
+      "choices": [
+        "en Corse",
+        "à Paris",
+        "à Marseille",
+        "à Waterloo"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.9"
+    },
+    {
+      "question": "<p>Le <u>2 Decembre 1804</u>, Bonaparte devient</p>",
+      "explain": "",
+      "choices": [
+        "*Empereur",
+        "Roi",
+        "Président "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.10"
+    },
+    {
+      "question": "<p>Dans quelle &eacute;glise Napol&eacute;on est il sacr&eacute; <u>empereur des Fran&ccedil;ais</u> le <u>2 Decembre 1804</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*Notre Dame de Paris",
+        "Cathédrale de Chartres",
+        "Cathédrale de Clunis",
+        "Cathedrale de Reims"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.11"
+    },
+    {
+      "question": "<p>Quelle est la <u>victoire la plus connue </u>de Napoleon?</p>",
+      "explain": "",
+      "choices": [
+        "Austerlitz",
+        "Waterloo",
+        "Iéna",
+        "Wagram"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.12"
+    },
+    {
+      "question": "<p>Quelle est la <u>grande d&eacute;faite</u> de&nbsp;Napoleon, qui le force a <u>abdiquer</u>?</p>",
+      "explain": "",
+      "choices": [
+        "Austerlitz",
+        "*Waterloo",
+        "Iéna",
+        "Wagram"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.13"
+    },
+    {
+      "question": "<p>Quel est le <u>grand pays ennemi </u>de Napol&eacute;on?</p>",
+      "explain": "",
+      "choices": [
+        "*l'Angleterre",
+        "la Russie",
+        "La Prusse",
+        "l'Italie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/40.14"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 14,
+  "theme": "4",
+  "level": [
+    "4"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

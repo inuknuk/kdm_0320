@@ -1,0 +1,170 @@
+{
+  "id": "latin/33",
+  "title": "Vocabulaire (2)",
+  "pages": [
+    "latin/33/1.htm",
+    "latin/33/2.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p><u>pugnat</u> se traduit par</p>",
+      "choices": [
+        "*il combat",
+        "je combats",
+        "ils combattent"
+      ],
+      "id": "latin/33.1",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>vides</u>&nbsp;se traduit par</p>",
+      "choices": [
+        "*tu vois",
+        "il voit",
+        "je vois",
+        "tu vas vite"
+      ],
+      "id": "latin/33.2",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>tenetis</u>&nbsp;se traduit par</p>",
+      "choices": [
+        "*vous tenez",
+        "il tient",
+        "nous tenons",
+        "vous tentez"
+      ],
+      "id": "latin/33.3",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>faciunt</u>&nbsp;se traduit par</p>",
+      "choices": [
+        "*ils font",
+        "il fait",
+        "tu fais",
+        "vous faites"
+      ],
+      "id": "latin/33.4",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>puto</u>&nbsp;se traduit par</p>",
+      "choices": [
+        "*je pense",
+        "il pense",
+        "il peut",
+        "je peux"
+      ],
+      "id": "latin/33.5",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>estis</u>&nbsp;se traduit par</p>",
+      "choices": [
+        "*vous etes",
+        "nous sommes",
+        "j'etais",
+        "je suis"
+      ],
+      "id": "latin/33.6",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>venit</u>&nbsp;se traduit par</p>",
+      "choices": [
+        "*il vient",
+        "il devient",
+        "il voit",
+        "il veut"
+      ],
+      "id": "latin/33.7",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>venimus</u>&nbsp;se traduit par</p>",
+      "choices": [
+        "*nous venons",
+        "nous devenons",
+        "nous parvenons",
+        "nous voyons"
+      ],
+      "id": "latin/33.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>potes se traduit par</p>",
+      "choices": [
+        "*tu peux",
+        "tu penses",
+        "il peut",
+        "il pense"
+      ],
+      "id": "latin/33.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Conjuger le verbe entre crochet au present.</p>\n<p><strong>Flora et Marcus musicam <u>[audio]</u></strong></p>",
+      "choices": [
+        "*audiunt",
+        "audit",
+        "audiant",
+        "audient"
+      ],
+      "id": "latin/33.10",
+      "explain": "<p>Le sujet est <u>Flora et Marcus</u>, 3eme pers. du pluriel<br />donc audi<u>unt</u></p>"
+    },
+    {
+      "question": "<p>Conjuger le verbe entre crochet au present.</p>\n<p><strong>Dei multi et magni [sum]</strong></p>",
+      "choices": [
+        "*sunt",
+        "est",
+        "estis",
+        "sant"
+      ],
+      "id": "latin/33.11",
+      "explain": "<p>Le sujet est <u>Dei</u>, Nomitatif pluriel, 3eme pers. du pluriel<br />donc <u>sunt</u></p>"
+    },
+    {
+      "question": "<p>Conjuger le verbe entre crochet au present.</p>\n<p><strong>Flora Marcum [video]</strong></p>",
+      "choices": [
+        "*videt",
+        "vident",
+        "vides",
+        "vidat"
+      ],
+      "id": "latin/33.12",
+      "explain": "<p>Le verbe est <u>video, es, ere</u></p>\n<p>Le sujet est <u>Flora</u>, Nomitatif singulier, 3eme pers. du sing.<br />donc <u>videt</u></p>"
+    },
+    {
+      "question": "<p>Conjuger le verbe entre crochet au present.</p>\n<p><strong>Puella aquam domino [do]</strong></p>",
+      "choices": [
+        "*dat",
+        "dant",
+        "det",
+        "dit"
+      ],
+      "id": "latin/33.13",
+      "explain": "<p>Le verbe est do<u>, as, are</u></p>\n<p>Le sujet est <u>Puella</u>, Nomitatif singulier, 3eme pers. du sing.<br />donc <u>dat</u></p>"
+    },
+    {
+      "question": "<p>Conjuger le verbe entre crochet au present.</p>\n<p><strong>Pueri rosas puellarum [deleo]</strong></p>",
+      "choices": [
+        "*delent",
+        "delant",
+        "deles",
+        "delestis"
+      ],
+      "id": "latin/33.14",
+      "explain": "<p>Le verbe est deleo<u>, es, ere</u> <em>(detruire)</em></p>\n<p>Le sujet est&nbsp;<u>Pueri</u>, Nomitatif pluriel, 3eme pers. du pluriel (les enfants)<br />donc&nbsp;<u>delent</u></p>"
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 14,
+  "theme": "conjugaison",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

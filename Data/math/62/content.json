@@ -1,0 +1,324 @@
+{
+  "id": "math/62",
+  "title": "Résolution d'Equations",
+  "pages": [
+    "math/62/1.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p><br /><br /></p>",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(3𝑥-2)²-9",
+          "explain": "Développer et réduire"
+        },
+        {
+          "response": "(3𝑥)²-2×3𝑥×2+2²-9",
+          "explain": "Développe (3𝑥-2)² en utilisant (a-b)²=a²-2ab+b²"
+        },
+        {
+          "response": "9𝑥²-12𝑥+4-9",
+          "explain": "Développe (3𝑥)² en utilisant (ab)²=a²×b²"
+        },
+        {
+          "response": "9𝑥²-12𝑥-5",
+          "explain": "Calcule les constantes 4-9=5"
+        }
+      ],
+      "id": "math/62.1"
+    },
+    {
+      "question": "<p><br /><br /></p>",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(𝑥+3)(𝑥-3)-(5𝑥+1)(-2𝑥-3)",
+          "explain": "Développer et réduire"
+        },
+        {
+          "response": "𝑥²-3𝑥+3𝑥-9-(-10𝑥²-15𝑥-2𝑥-3)",
+          "explain": "Développe les parenthèses en utilisant (a+b)(c+d) = ac+ad+bc+db"
+        },
+        {
+          "response": "𝑥²-3𝑥+3𝑥-9+10𝑥²+15𝑥+2𝑥+3",
+          "explain": "Enlève les parenthèses. Attention au signe - devant"
+        },
+        {
+          "response": "11𝑥²+17𝑥-6",
+          "explain": "on additionne les 𝑥², puis les 𝑥, puis les constantes"
+        }
+      ],
+      "id": "math/62.2"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "id": "math/62.3",
+      "type": "steps",
+      "steps": [
+        {
+          "response": "4𝑥 + 3 = 6𝑥 - 7",
+          "explain": "Résous"
+        },
+        {
+          "response": "4𝑥+3-6𝑥=6𝑥-7-6𝑥",
+          "explain": "Ajoute -6𝑥 de chaque cote pour faire disparaitre les 𝑥 à droite"
+        },
+        {
+          "response": "-2𝑥+3=-7",
+          "explain": "Additionne les 𝑥 ensemble a gauche et a droite"
+        },
+        {
+          "response": "-2𝑥+3-3=-7-3",
+          "explain": "Ajoute -3 de chaque coté pour faire disparaitre la constante a gauche"
+        },
+        {
+          "response": "-2𝑥=-10",
+          "explain": "Additionne les constantes a droite et a gauche"
+        },
+        {
+          "response": "(-2𝑥)/(-2)=(-10)/(-2)",
+          "explain": "Divise par (-2) de chaque coté pour isoler 𝑥"
+        },
+        {
+          "response": "𝑥=5",
+          "explain": ""
+        }
+      ]
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(3𝑥-2)(-4𝑥+1)=0",
+          "explain": "Résous"
+        },
+        {
+          "response": "3𝑥-2=0 ou -4𝑥+1=0",
+          "explain": "Si produit A×B=0, alors A=0 ou B=0 "
+        },
+        {
+          "response": "3𝑥=2 ou 4𝑥=1",
+          "explain": "Regroupe les 𝑥 à gauche et les constantes à droite"
+        },
+        {
+          "response": "𝑥=2/3 ou 𝑥=1/4",
+          "explain": "Divise par 3 et par 4 pour isoler 𝑥"
+        }
+      ],
+      "id": "math/62.4"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "5𝑥²-8𝑥=0",
+          "explain": "Factoriser puis résoudre"
+        },
+        {
+          "response": "𝑥(5𝑥-8)=0",
+          "explain": "Factorise par 𝑥"
+        },
+        {
+          "response": "𝑥=0 ou 5𝑥-8=0",
+          "explain": "Si un produit de facteurs est nul, le premier facteur ou le second est nul"
+        },
+        {
+          "response": "𝑥=0 ou 𝑥=8/5",
+          "explain": ""
+        }
+      ],
+      "id": "math/62.5"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(𝑥+5)(2𝑥-7)-(-3𝑥-1)(𝑥+5)=0",
+          "explain": "Factoriser puis résoudre"
+        },
+        {
+          "response": "(𝑥+5)(2𝑥-7-(-3𝑥-1))=0",
+          "explain": "Factorise par (𝑥+5)"
+        },
+        {
+          "response": "(𝑥+5)(2𝑥-7+3𝑥+1)=0",
+          "explain": "Développe -(-3𝑥-1) en +3𝑥+1"
+        },
+        {
+          "response": "(𝑥+5)(5𝑥-6)=0",
+          "explain": "Additionne les 𝑥 et les constantes"
+        },
+        {
+          "response": "𝑥+5=0 ou 5𝑥-6=0",
+          "explain": "Si un produit de facteurs et nul, alors l'un des facteurs est nul"
+        },
+        {
+          "response": "𝑥=-5 ou 𝑥=6/5",
+          "explain": ""
+        }
+      ],
+      "id": "math/62.6"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "16𝑥²+8𝑥+1=0",
+          "explain": "Factoriser puis réduire"
+        },
+        {
+          "response": "(4𝑥)²+2×4𝑥×1+1²=0",
+          "explain": "Fait apparaitre l'identité remarquable a²+2ab+b²"
+        },
+        {
+          "response": "(4𝑥+1)²=0",
+          "explain": "Factorise a²+2ab+b²=(a+b)²"
+        },
+        {
+          "response": "4𝑥+1=0",
+          "explain": "A²=0  donc A=0"
+        },
+        {
+          "response": "𝑥=-1/4",
+          "explain": "Isole 𝑥 en additionnant -1 et en divisant par 4"
+        }
+      ],
+      "id": "math/62.7"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(2𝑥-7)(-𝑥-3)+6𝑥-21=0",
+          "explain": "Factoriser puis réduire"
+        },
+        {
+          "response": "(2𝑥-7)(-𝑥-3)+3(2𝑥-7)=0",
+          "explain": "Factorise par 3 dans 6𝑥-21"
+        },
+        {
+          "response": "(2𝑥-7)(-𝑥-3+3)=0",
+          "explain": "Factorise par (2𝑥-7)"
+        },
+        {
+          "response": "(2𝑥-7)(-𝑥)=0",
+          "explain": "Additionne les constantes ensemble"
+        },
+        {
+          "response": "2𝑥-7=0 ou -𝑥=0",
+          "explain": "Si A×B=0 alors A=0 ou B=0"
+        },
+        {
+          "response": "𝑥=7/2 ou 𝑥=0",
+          "explain": "Isole 𝑥"
+        }
+      ],
+      "id": "math/62.8"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(-5𝑥+3)²=36",
+          "explain": "Résous"
+        },
+        {
+          "response": "(-5𝑥+3)²-36=0",
+          "explain": "Fais passer 36 a gauche de l’équation"
+        },
+        {
+          "response": "(-5𝑥+3)²-6²=0",
+          "explain": "36 s’écrit 6². Cela fait apparaître l’identité remarquable a²-b²"
+        },
+        {
+          "response": "(-5𝑥+3-6)(-5𝑥+3+6)=0",
+          "explain": "Utilise l’identité remarquable a²-b²=(a-b)(a+b)"
+        },
+        {
+          "response": "(-5𝑥-3)(-5𝑥+9)=0",
+          "explain": "Simplifie: additionne les 𝑥 ensemble et les constantes ensemble"
+        },
+        {
+          "response": "-5𝑥-3=0 ou -5𝑥+9=0",
+          "explain": "Si A×B=0 alors A=0 ou B=0"
+        },
+        {
+          "response": "𝑥=-3/5 ou 𝑥=9/5",
+          "explain": "Isole 𝑥 dans les 2 équations"
+        }
+      ],
+      "id": "math/62.9"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(2𝑥-3)²=49",
+          "explain": "Résous"
+        },
+        {
+          "response": "(2𝑥-3)²-49=0",
+          "explain": "Fait passer 49 à gauche de l'equation"
+        },
+        {
+          "response": "(2𝑥-3)²-7²=0",
+          "explain": "Réécrit 49 sous la forme d'un carré 49=7²"
+        },
+        {
+          "response": "(2𝑥-3-7)(2𝑥-3+7)=0",
+          "explain": "Utilise l’identité remarquable a²-b²=(a+b)(a-b)"
+        },
+        {
+          "response": "(2𝑥-10)(2𝑥+4)=0",
+          "explain": "Calcule -3-7=-10 et -3+7=4"
+        },
+        {
+          "response": "2𝑥-10=0 ou 2𝑥+4=0",
+          "explain": "si A×B=0 alors A=0 ou B=0"
+        },
+        {
+          "response": "𝑥=5 ou 𝑥=-2",
+          "explain": ""
+        }
+      ],
+      "id": "math/62.13"
+    }
+  ],
+  "pageCounter": 1,
+  "questionCounter": 13,
+  "warning": "1",
+  "theme": "calcul",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

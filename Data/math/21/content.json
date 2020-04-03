@@ -1,0 +1,274 @@
+{
+  "id": "math/21",
+  "title": "Symétrie centrale",
+  "pages": [
+    "math/21/2.htm",
+    "math/21/3.htm",
+    "math/21/4.htm",
+    "math/21/5.htm",
+    "math/21/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Soit M et O des points du plan, si M' est le sym&eacute;trique de M par rapport &agrave; O. Que peut on dire de O?</p>",
+      "explain": "<p>Comme M' est le sym&eacute;trique de M par rapport &agrave; O, <u>O se situe au milieu</u> de M et M'.</p>",
+      "choices": [
+        "O = M",
+        "*O est au milieu de M et M'",
+        "O = M'",
+        "Rien de tout cela"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.1"
+    },
+    {
+      "question": "<p>Soit M et O des points du plan, si M' est le sym&eacute;trique de M par rapport &agrave; O. Que peut-on dire de M, O et M'?</p>",
+      "explain": "<p>Comme M' est le sym&eacute;trique de M par rapport &agrave; O, les trois points sont <u>align&eacute;s</u> et forment une <u>droite</u>.</p>",
+      "choices": [
+        "M, O et M' forment un triangle",
+        "M, O et M' forment un cercle",
+        "*M, O et M' forment une droite",
+        "Rien de tout cela"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.2"
+    },
+    {
+      "question": "<p>Soit M et O des points du plan, si M' est le sym&eacute;trique de M par rapport &agrave; O. Comment s'appelle le point M' ?</p>",
+      "explain": "<p>Le point M' s'appelle <u>l'image de M</u>.</p>",
+      "choices": [
+        "La figurine de M",
+        "Le portrait de M ",
+        "*L'image de M",
+        "Le centre de M"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.3"
+    },
+    {
+      "question": "<p>Quel est l'autre nom d'une sym&eacute;trie par rapport &agrave; un point?</p>",
+      "explain": "<p>Une sym&eacute;trie par rapport &agrave; un point s'appelle &eacute;galement une <u>sym&eacute;trie centrale</u>.</p>",
+      "choices": [
+        "*Une symétrie centrale",
+        "Une symétrie pointale",
+        "Une symétrie axiale",
+        "Une symétrie de base"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.4"
+    },
+    {
+      "question": "<p>Qu'elle est le <u>sym&eacute;trique d'une droite</u> par rapport &agrave; un point?</p>",
+      "explain": "<p>Le sym&eacute;trique d'une droite par rapport &agrave; un point est une <u>droite parall&egrave;le</u>.</p>",
+      "choices": [
+        "Un point",
+        "*Une droite parallèle",
+        "Une droite perpendiculaire",
+        "Un segment parallèle",
+        "Un segment perpendiculaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.5"
+    },
+    {
+      "question": "<p>Que peut-on dire des angles</p>\n<p>$$\\widehat{BAC}$$ et $$\\widehat{B'A'C'}$$?</p>\n<p><img src=\"img/prop3angles.png\" /></p>",
+      "explain": "<p>La sym&eacute;trie centrale <u>conserve les angles</u>.</p>\n<p>Ainsi l'angle BAC = B'A'C'</p>",
+      "choices": [
+        "*$$\\widehat{BAC} = \\widehat{B'A'C'}$$",
+        "$$\\widehat{BAC} = 2\\times \\widehat{B'A'C'}$$",
+        "$$2\\times \\widehat{BAC} = \\widehat{B'A'C'}$$",
+        "$$\\widehat{BAC} = 3\\times \\widehat{B'A'C'}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.6"
+    },
+    {
+      "question": "<p>Que peut-on dire de <u>deux figures sym&eacute;triques</u> par rapport &agrave; un point?</p>",
+      "explain": "<p>Deux figures sym&eacute;triques par rapport &agrave; un point auront la <u>m&ecirc;me aire</u>, la <u>m&ecirc;me dimension</u> et la <u>m&ecirc;me forme</u>.</p>",
+      "choices": [
+        "Aire différente, même dimension, même forme",
+        "Même aire, dimension différente, même forme",
+        "Même aire, même dimension, forme différente",
+        "*Même aire, même dimension, même forme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.7"
+    },
+    {
+      "question": "<p>Quel est le sym&eacute;trique de B par rapport au point O?</p>\n<p><img src=\"img/question1.png\" /></p>",
+      "explain": "<p>En suivant la ligne pointill&eacute;e partant de B et passant par O, on trouve que <u>le sym&eacute;trique de B par rapport au point O est E</u>.</p>",
+      "choices": [
+        "A",
+        "C",
+        "D",
+        "*E",
+        "F"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.8"
+    },
+    {
+      "question": "<p>A, B et C sont align&eacute;s. On observe la sym&eacute;trie de centre O suivante. D, E et F sont-ils align&eacute;s?&nbsp;</p>\n<p><img src=\"img/question1.png\" /></p>",
+      "explain": "<p>Oui. La sym&eacute;trie centrale <u>conserve l'alignement</u>.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.9"
+    },
+    {
+      "question": "<p>Les figures F et F' sont-elles sym&eacute;triques par rapport au point O?</p>\n<p><img src=\"img/question2.png\" /></p>",
+      "explain": "<p>Non. Les figures ne font <u>pas la m&ecirc;me aire</u>, <u>ni la m&ecirc;me dimension</u>. Elles ne sont <u>pas sym&eacute;triques</u> par rapport au point O.&nbsp;</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.10"
+    },
+    {
+      "question": "<p>Les figures F et F' sont-elles sym&eacute;triques par rapport au point O?</p>\n<p><img src=\"img/question3.png\" /></p>",
+      "explain": "<p>Non. Le segment joignant <u>B et B' ne passe pas par O</u>. Le demi-cercle B' aurait d&ucirc; &ecirc;tre orient&eacute; vers le bas.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.11"
+    },
+    {
+      "question": "<p>Quel <u>instrument</u> utilise-t-on pour tracer le sym&eacute;trique de M par rapport &agrave; O?</p>",
+      "explain": "<p>On utilise une <u>r&egrave;gle</u> pour tracer le sym&eacute;trique de M par rapport &agrave; O.</p>\n<p>On <u>trace la demi-droite</u> issue de M et passant par O puis on <u>reporte la longueur</u> MO.</p>",
+      "choices": [
+        "Un rapporteur",
+        "*Une règle ",
+        "Une équerre",
+        "Rien de tout cela"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.12"
+    },
+    {
+      "question": "<p>Soit la droite passant par M et O. Peut-on trouver le sym&eacute;trique de M par rapport &agrave; O avec un <u>compas</u>?</p>",
+      "explain": "<p>Oui. Le compas nous permet de <u>reporter la longueur MO</u> de l'autre c&ocirc;t&eacute; de O sur la droite.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.13"
+    },
+    {
+      "question": "<p>Le segment [A'B'] est sym&eacute;trique du segment [AB] par une sym&eacute;trie de centre M.</p>\n<p>Que peut-on dire des <u>longueurs</u> AB et A'B'?</p>",
+      "explain": "<p><u>AB = A'B'</u>.</p>\n<p>Deux segments sym&eacute;triques ont la <u>m&ecirc;me longueur</u>.&nbsp;</p>",
+      "choices": [
+        "AB = 2 x A'B'",
+        "2 x AB = A'B'",
+        "*AB = A'B'",
+        "Rien de tout cela"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.14"
+    },
+    {
+      "question": "<p>Si O est le milieu du segment [AB], alors</p>",
+      "explain": "<p>Dans l'ordre on a A, O et B.</p>\n<p>Comme O est au milieu de [AB], <u>B est le sym&eacute;trique de A</u> par rapport &agrave; O.</p>",
+      "choices": [
+        "O est le symétrique de A par rapport à B",
+        "O est le symétrique de B par rapport à A",
+        "A est le symétrique de O par rapport à B",
+        "B est le symétrique de O par rapport à A",
+        "*B est le symétrique de A par rapport à O"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.15"
+    },
+    {
+      "question": "<p>Par sym&eacute;trie centrale, quel est le <u>sym&eacute;trique d'un cercle</u>?&nbsp;</p>",
+      "explain": "<p>Le sym&eacute;trique d'un cercle est un <u>cercle de m&ecirc;me rayon</u>.</p>\n<p>Les centres des deux cercles sont sym&eacute;triques.</p>",
+      "choices": [
+        "*Un cercle de même rayon",
+        "Un rayon",
+        "Un diamètre",
+        "Une cercle de rayon égal au diamètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.16"
+    },
+    {
+      "question": "<p>Pour dire que deux figures sont sym&eacute;triques par rapport &agrave; un point, quelle <u>quantit&eacute; de \"tour\"</u> dois-je effectuer autour de ce point?</p>",
+      "explain": "<p>Deux figures sont dites <u>sym&eacute;triques par rapport &agrave; un point</u> lorsqu'elles sont superposables par <u>un demi-tour autour de ce point</u>.</p>",
+      "choices": [
+        "Un tour complet",
+        "*Un demi-tour",
+        "Un quart de tour",
+        "Aucun tour"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.17"
+    },
+    {
+      "question": "<p>La sym&eacute;trie centrale <u>ne conserve pas</u> les aires.</p>",
+      "explain": "<p>La sym&eacute;trie centrale <u>conserve les aires</u>.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.18"
+    },
+    {
+      "question": "<p>Soit un segment [MM'].</p>\n<p>Si M' est l'image de M par rapport &agrave; O, que peut-on dire des distances suivantes?</p>",
+      "explain": "<p>M' est le sym&eacute;trique de M par rapport &agrave; O.</p>\n<p>Donc <u>OM = OM'</u></p>\n<p>OM' = M'O donc <u>OM = M'O</u></p>",
+      "choices": [
+        "OM = MM'",
+        "MM' = OM'",
+        "*OM = M'O",
+        "Rien de tout cela"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.19"
+    },
+    {
+      "question": "<p>Soit A,B et C trois points du plan. Si <u>A est le sym&eacute;trique de B par rapport &agrave; C</u> alors <u>B est le milieu de [AC]</u>.</p>",
+      "explain": "<p>A est le sym&eacute;trique de B par rapport &agrave; C alors <u>C est le milieu de [AB]</u> et non pas B le milieu de [AC]</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/21.20"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 20,
+  "theme": "geometrie",
+  "editor": "alexandre.inukai@gmail.com",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

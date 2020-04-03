@@ -1,0 +1,319 @@
+{
+  "id": "hist/42",
+  "title": "La colonisation",
+  "pages": [
+    "hist/42/1.htm",
+    "hist/42/3.htm",
+    "hist/42/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Comment appelle-t-on un territoire conquis et exploit&eacute; par un autre pays ?</p>",
+      "explain": "",
+      "choices": [
+        "Une métropole",
+        "*Une colonie",
+        "Un nationalisme",
+        "Une pacification"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.19"
+    },
+    {
+      "question": "<p>Comment appelle-t-on un pays qui contr&ocirc;le une colonie ?</p>",
+      "explain": "",
+      "choices": [
+        "Une mégapole",
+        "Une mégalopole",
+        "*Une métropole",
+        "Une capitale"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.20"
+    },
+    {
+      "question": "<p>Une colonie est un territoire occup&eacute; et administr&eacute; par une nation en dehors de ses fronti&egrave;res et demeurant attach&eacute; &agrave; la m&eacute;tropole par des liens politiques et &eacute;conomiques forts.</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.2"
+    },
+    {
+      "question": "<p>Quel continent a majoritairement colonis&eacute; ?</p>",
+      "explain": "",
+      "choices": [
+        "L'Asie",
+        "L'Afrique",
+        "*L'Europe",
+        "Les Amériques"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.25"
+    },
+    {
+      "question": "<p>De quelle p&eacute;riode date cette grande vague de colonisation ?</p>",
+      "explain": "",
+      "choices": [
+        "Début  20e siècle",
+        "Début  19e siècle",
+        "*Fin 19e siècle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.3"
+    },
+    {
+      "question": "<p>Quel continent est le plus colonis&eacute; ?</p>",
+      "explain": "",
+      "choices": [
+        "L'Europe",
+        "L'Asie",
+        "*L'Afrique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.4"
+    },
+    {
+      "question": "<p>Une colonie dans laquelle la <u>m&eacute;tropole</u> envoie de nombreux colons (hommes et familles) pour s'y <u>installer durablement</u> s'appelle:</p>",
+      "explain": "",
+      "choices": [
+        "*une colonie de peuplement",
+        "une colonie d'exploitation",
+        "une colonie d'émigration",
+        "un département D'outre mer"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.38"
+    },
+    {
+      "question": "<p>Une colonie cr&eacute;&eacute;e par la m&eacute;tropole pour en <u>exploiter les richesses naturelles</u> s'appelle</p>",
+      "explain": "",
+      "choices": [
+        "une colonie de peuplement",
+        "*une colonie d'exploitation",
+        "une colonie d'émigration",
+        "un département D'outre mer"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.40"
+    },
+    {
+      "question": "<p>Quels sont les deux plus grands empires coloniaux du XIXe si&egrave;cle ?</p>",
+      "explain": "",
+      "choices": [
+        "Angleterre et Espagne",
+        "France et Pays-Bas",
+        "*Angleterre et France"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.5"
+    },
+    {
+      "question": "<p>Quelle reine d'Angleterre a le r&egrave;gne le plus long au XIX&egrave;me si&egrave;cle ?</p>",
+      "explain": "",
+      "choices": [
+        "*La reine Elisabeth",
+        "La reine Victoria",
+        "La reine Kate",
+        "La reine Mary"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.33"
+    },
+    {
+      "question": "<p>Politique d&rsquo;expansion et de domination militaire, politique, &eacute;conomique ou culturelle exerc&eacute;e par un pays sur un autre.</p>",
+      "explain": "",
+      "choices": [
+        "*Impéralisme",
+        "Nationalisme",
+        "Capitalisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.39"
+    },
+    {
+      "question": "<p>Le sentiment que sa nation est sup&eacute;rieure aux autres et doit les dominer.</p>",
+      "explain": "",
+      "choices": [
+        "Impéralisme",
+        "*Nationalisme",
+        "Capitalisme",
+        "Dirigisme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.42"
+    },
+    {
+      "question": "<p>Quel nom donne-t-on &agrave; la conf&eacute;rence sur l'organisation et la collaboration pour le partage de l'Afrique en 1884-1885 ?</p>",
+      "explain": "",
+      "choices": [
+        "*Conférence de Paris",
+        "Conférence de Berlin",
+        "Conférence de Londres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.7"
+    },
+    {
+      "question": "<p>Quelles sont les motivations de ce colonialisme europ&eacute;en en Afrique ?</p>",
+      "explain": "",
+      "choices": [
+        "*Les ressources naturelles",
+        "La ressource en esclaves",
+        "La flore et la culture"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.9"
+    },
+    {
+      "question": "<p>&Agrave; l'apog&eacute;e de l'empire colonial en 1930, quel pays avait le plus de colonies ?</p>",
+      "explain": "",
+      "choices": [
+        "La France",
+        "*Le Royaume-Uni",
+        "L' Espagne"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.10"
+    },
+    {
+      "question": "<p>L'objectif fran&ccedil;ais est de transformer les colonis&eacute;s en citoyens fran&ccedil;ais qui auraient un statut d'&eacute;galit&eacute; avec les citoyens m&eacute;tropolitains.</p>\n<p>Pourtant, ils voient leurs droits diminu&eacute;s par un code depuis 1881. Comment s'appelle-t-il ?</p>",
+      "explain": "",
+      "choices": [
+        "*Le code de l'indigénat",
+        "Le code noir",
+        "Le livre blanc"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.11"
+    },
+    {
+      "question": "<p>En quelle ann&eacute;e l'Alg&eacute;rie est-elle colonis&eacute;e par la France ?</p>",
+      "explain": "",
+      "choices": [
+        "*1830",
+        "1881",
+        "1932"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.14"
+    },
+    {
+      "question": "<p>Quelle est la principale colonie britannique ?</p>",
+      "explain": "",
+      "choices": [
+        "*L'Inde",
+        "L'Indochine",
+        "La Turquie",
+        "l'Australie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.15"
+    },
+    {
+      "question": "<p>Quel homme politique du XIXe si&egrave;cle &eacute;tait pour l'ind&eacute;pendance des colonies ?</p>",
+      "explain": "",
+      "choices": [
+        "Victor Hugo",
+        "*Jean Jaurès",
+        "Emile Zola"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.16"
+    },
+    {
+      "question": "<p>Une des ces colonies n'est pas anglaise, il s'agit de:</p>",
+      "explain": "",
+      "choices": [
+        "Australie",
+        "Egypte",
+        "*Madagascar",
+        "Indes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.22"
+    },
+    {
+      "question": "<p>Quelle colonie n'est pas fran&ccedil;aise ?</p>",
+      "explain": "",
+      "choices": [
+        "L'Algérie",
+        "Madagascar",
+        "*Australie",
+        "Indochine"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.23"
+    },
+    {
+      "question": "<p>Quel chef alg&eacute;rien lutte contre la colonisation ?</p>",
+      "explain": "",
+      "choices": [
+        "Abderrahmane",
+        "Abdujalil",
+        "*Abd el-Kader",
+        "Abd al Malik"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.28"
+    },
+    {
+      "question": "<p>Qui r&eacute;tablit l'esclavage au d&eacute;but du XIX&egrave;me en France ?</p>",
+      "explain": "",
+      "choices": [
+        "Robespierre",
+        "Louis XVIII",
+        "Charles X",
+        "*Napoléon Bonaparte"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.34"
+    },
+    {
+      "question": "<p>En quelle ann&eacute;e est aboli l'esclavage en France ?</p>",
+      "explain": "",
+      "choices": [
+        "1802",
+        "1830",
+        "*1848",
+        "1870"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/42.36"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 42,
+  "theme": "6",
+  "level": [
+    "4"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

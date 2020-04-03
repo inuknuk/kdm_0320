@@ -1,0 +1,101 @@
+{
+  "id": "math/77",
+  "title": "Réduire une expression",
+  "editor": "tingnat@gmail.com",
+  "pages": [
+    "math/77/1.htm",
+    "math/77/2.htm",
+    "math/77/3.htm",
+    "math/77/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>5𝑥 + 5 + 5y = ?</p>",
+      "choices": [
+        "*On ne peut pas simplifier plus",
+        "5𝑥 + 10y",
+        "15𝑥",
+        "15y",
+        "10𝑥 + 5y"
+      ],
+      "id": "math/77.1",
+      "explain": "<p>On additionne les 𝑥 ensemble, les y ensemble et les nombres ensemble.</p>\n<p>On a d&eacute;j&agrave; 5𝑥, 5 et 5y.</p>\n<p>Donc on ne peut <u>pas simplifier</u>.</p>"
+    },
+    {
+      "question": "<p>5𝑥 + 5y = ?</p>",
+      "choices": [
+        "*On ne peut pas simplifier plus",
+        "10𝑥",
+        "10",
+        "10y"
+      ],
+      "id": "math/77.2",
+      "explain": "<p>On ne peut pas additionner les 𝑥 avec les y!</p>"
+    },
+    {
+      "question": "<p>Simplifie:</p>\n<p>2𝑥 + 3y + 3𝑥 - 2y + 2</p>",
+      "choices": [
+        "*= 5𝑥 + y + 2",
+        "= 6𝑥 + 2",
+        "= 5𝑥 + 5y + 2",
+        "= 5y + 𝑥"
+      ],
+      "id": "math/77.3",
+      "explain": "<p>Il faut regrouper et additionner ou soustraire les 𝑥 ensemble et les y ensemble:</p>\n<p>2𝑥 + 3y + 3𝑥 - 2y + 2</p>\n<p>= 2𝑥 + 3𝑥 + 3y - 2y + 2</p>\n<p>= 5𝑥 + y + 2</p>"
+    },
+    {
+      "question": "<p>Simplifie:</p>\n<p>4𝑥&sup2; - 3y&sup2; + 6𝑥&sup2; - 2y&sup2;</p>",
+      "choices": [
+        "*10𝑥² -5y²"
+      ],
+      "id": "math/77.4",
+      "explain": "<p>On regroupe les termes semblables:</p>\n<p>4𝑥&sup2; + 6𝑥&sup2; - 2y&sup2; - 3y&sup2; =</p>\n<p>10𝑥&sup2; - 5y&sup2;</p>"
+    },
+    {
+      "question": "<p>Simplifie:</p>\n<p>15a+12a&sup2;-5a-2a&sup2;</p>",
+      "choices": [
+        "*10a²+10a"
+      ],
+      "id": "math/77.5",
+      "explain": "<p>On regroupe les termes semblables:</p>\n<p>15a - 5a + 12a&sup2; - 2a&sup2; =</p>\n<p>10a + 10a&sup2;</p>\n<p>Et on range les puissances dans l'ordre d&eacute;croissant des exposants:</p>\n<p>10a&sup2;+10a</p>"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "-2a(5a+3)-(a²-4a)",
+          "explain": "Développe et réduis"
+        },
+        {
+          "response": "-10a²-6a-(a²-4a)",
+          "explain": "Je développe en utilisant k(a+b) = ka + kb"
+        },
+        {
+          "response": "-10a²-6a-a²+4a",
+          "explain": "Je calcule la parenthèse en respectant les signes ( - et - donne +)"
+        },
+        {
+          "response": "-10a²-a²-6a+4a",
+          "explain": "Je regroupe les termes similaires"
+        },
+        {
+          "response": "-11a²-2a",
+          "explain": "Je réduis en additionnant les termes similaires"
+        }
+      ],
+      "id": "math/77.6"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 6,
+  "warning": "1",
+  "theme": "calcul",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "draft"
+}

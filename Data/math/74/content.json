@@ -1,0 +1,274 @@
+{
+  "id": "math/74",
+  "title": "Probabilité d'un événement",
+  "pages": [
+    "math/74/1.htm",
+    "math/74/2.htm",
+    "math/74/3.htm",
+    "math/74/4.htm",
+    "math/74/5.htm",
+    "math/74/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Une probabilit&eacute; <strong>ne peut pas</strong> s'exprimer sous la forme :&nbsp;</p>",
+      "explain": "<p>Le <strong>pourcentage</strong> (entre <u>0 et 100</u>), la <strong>fraction</strong> et le <strong>nombre d&eacute;cimal</strong> (compris entre <u>0 et 1</u>) sont les 3 formes sous lesquelles une probabilit&eacute; peut s'exprimer !</p>",
+      "choices": [
+        "d'un pourcentage compris entre 0 et 100.",
+        "d'une fraction comprise entre 0 et 1.",
+        "d'un nombre décimal compris entre 0 et 1.",
+        "*d'un nombre décimal compris entre 0 et 100."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.1"
+    },
+    {
+      "question": "<p>Quelle formule permet de calculer la probabilit&eacute; d'un &eacute;v&eacute;nement E?</p>",
+      "explain": "<p>C'est la d&eacute;finition!</p>",
+      "choices": [
+        "*nombre d'issues réalisant E / nombre d'issues possibles",
+        "nombre d'issues possibles / nombre d'issues réalisant E",
+        "nombre d'issues ne réalisant pas E / nombre d'issues possibles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.2"
+    },
+    {
+      "question": "<p>La somme des probabilit&eacute;s de toutes les issues vaut :&nbsp;</p>",
+      "explain": "<p>La somme de la probabilit&eacute; de toutes les issues possibles est &eacute;gale &agrave; 1.</p>",
+      "choices": [
+        "*1",
+        "0",
+        "0.5",
+        "0.8"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.3"
+    },
+    {
+      "question": "<p>Une exp&eacute;rience al&eacute;atoire est <strong>&eacute;quiprobable</strong> si :</p>",
+      "explain": "<p>\"<strong>&eacute;qui</strong>\" veut dire \"<strong>m&ecirc;me</strong>\" donc&nbsp;<strong>&eacute;quiprobable</strong>&nbsp;veut dire que toutes les issues ont une&nbsp;<strong>m&ecirc;me probabilit&eacute;</strong>.&nbsp;</p>",
+      "choices": [
+        "toutes les issues de cette expérience ont une probabilité différente. ",
+        "tous les événements ont une même probabilité de se produire.",
+        "*toutes les issues de cette expérience ont la même probabilité. "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.4"
+    },
+    {
+      "question": "<p>Un &eacute;v&egrave;nement de probabilit&eacute; P est <strong>impossible</strong> si :&nbsp;</p>",
+      "explain": "<p>C'est par d&eacute;finition !</p>",
+      "choices": [
+        "*P = 0",
+        "P = 1",
+        "P = 0.1"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.5"
+    },
+    {
+      "question": "<p>Un &eacute;v&egrave;nement de probabilit&eacute; P est <strong>certain</strong> si:&nbsp;</p>",
+      "explain": "<p>C'est par d&eacute;finition !</p>",
+      "choices": [
+        "*P = 1",
+        "P = 0",
+        "P = 0.9"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.6"
+    },
+    {
+      "question": "<p>Deux &eacute;v&egrave;nement sont <strong>incompatibles</strong> si:</p>",
+      "explain": "<p>C'est par d&eacute;finition!</p>\n<p>Attention, deux &eacute;v&egrave;nements diff&eacute;rents <strong>peuvent &ecirc;tre compatibles</strong>!</p>",
+      "choices": [
+        "*ils ne peuvent pas se réaliser en même temps.",
+        "ils peuvent se réaliser en même temps.",
+        "ils sont différents."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.7"
+    },
+    {
+      "question": "<p>$$\\bar{A}$$ est :&nbsp;</p>",
+      "explain": "<p>C'est la notation de <strong>l'&eacute;v&egrave;nement contraire de A</strong> !</p>",
+      "choices": [
+        "un évènement incompatible de A.",
+        "*l'évènement contraire de A.",
+        "un évènement compatible de A."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.8"
+    },
+    {
+      "question": "<p>$$p(\\bar{A}) = $$&nbsp;</p>",
+      "explain": "<p>La somme des probabilit&eacute;s&nbsp;<strong>d'un &eacute;v&egrave;nement et de son contraire</strong> vaut <u>toujours 1</u> !</p>",
+      "choices": [
+        "p(A)",
+        "*1 - p(A)",
+        "1 + p(A)",
+        "p(A) - 1"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.9"
+    },
+    {
+      "question": "<p>On lance un d&eacute;. Quelle est la probabilit&eacute; de l'&eacute;v&egrave;nement $$\\bar{B}$$: \"On ne tombe pas sur 5\" ?</p>",
+      "explain": "<p>C'est le <strong>contraire de B</strong> : \"On tombe sur 5\"</p>\n<p>Donc la probabilit&eacute; vaut : <u>1 - p(B)</u> = 1 - 1/6 = <u>5/6.</u></p>",
+      "choices": [
+        "$$p(\\bar{B}) = \\frac{1}{6}$$",
+        "$$p(\\bar{B}) = \\frac{2}{6}$$",
+        "*$$p(\\bar{B}) = \\frac{5}{6}$$",
+        "$$p(\\bar{B}) = \\frac{1}{2}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.10"
+    },
+    {
+      "question": "<p>Qu'est-ce qui est repr&eacute;sent&eacute; sur chaque branche d'un arbre pond&eacute;r&eacute;?</p>",
+      "explain": "<p>Chaque branche d'un <strong>arbre pond&eacute;r&eacute;</strong> correspond &agrave; <u>un &eacute;v&egrave;nement</u> d'une exp&eacute;rience al&eacute;atoire!</p>",
+      "choices": [
+        "Une issue",
+        "*Un évènement"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.11"
+    },
+    {
+      "question": "<p>Sur un arbre pond&eacute;r&eacute;, la <strong>somme des probabilit&eacute;s</strong> de toutes les branches issues d'un <strong>m&ecirc;me point</strong> vaut:</p>",
+      "explain": "<p>C'est une propri&eacute;t&eacute; &agrave; conna&icirc;tre!</p>",
+      "choices": [
+        "2",
+        "0",
+        "0.5",
+        "*1"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.12"
+    },
+    {
+      "question": "<p>On consid&egrave;re une exp&eacute;rience al&eacute;atoire constitu&eacute;e de 2 &eacute;v&egrave;nements,&nbsp;<strong>B et N</strong>, d'arbre pond&eacute;r&eacute; ci-dessous.</p>\n<p>Que vaut <strong>p(B)</strong>?</p>\n<p><img src=\"img/capturedecran20191220a172220.png\" /></p>",
+      "explain": "<p>Sur un <strong>arbre pond&eacute;r&eacute;</strong>, on lit la probabilit&eacute; d'un &eacute;v&egrave;nement sur la branche qui m&egrave;ne &agrave; cet &eacute;v&egrave;nement : on a donc <u>p(B) = 3/5</u> !</p>",
+      "choices": [
+        "$$\\frac{2}{5}$$",
+        "*$$\\frac{3}{5}$$",
+        "1",
+        "$$\\frac{2}{3}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.15"
+    },
+    {
+      "question": "<p>On consid&egrave;re une exp&eacute;rience al&eacute;atoire constitu&eacute;e de 2 &eacute;v&egrave;nements,&nbsp;<strong>B et N</strong>, d'arbre pond&eacute;r&eacute; ci-dessous. Que vaut&nbsp;<strong>p(N)</strong>?</p>\n<p><img src=\"img/capturedecran20191220a172220.png\" width=\"290\" height=\"239\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>La<strong>&nbsp;somme des probabilit&eacute;s</strong>&nbsp;des branches issues d'un&nbsp;<strong>m&ecirc;me point</strong>&nbsp;est &eacute;gale &agrave;&nbsp;<strong>1</strong></p>\n<p>Donc p(N) + p(B) = 1 d'o&ugrave; <u>p(N) = 1 - p(B) = 2/5</u>.</p>",
+      "choices": [
+        "*$$\\frac{2}{5}$$",
+        "$$\\frac{3}{5}$$",
+        "$$\\frac{1}{3}$$",
+        "1"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.16"
+    },
+    {
+      "question": "<p>Comment obtient-on la<strong> probabilit&eacute; d'un &eacute;v&egrave;nement</strong> &agrave; l'aide d'un arbre pond&eacute;r&eacute;?</p>",
+      "explain": "<p>C'est une d&eacute;finition : il faut&nbsp;<strong>multiplier les probabilit&eacute;s</strong> des branches&nbsp;qui m&egrave;nent &agrave; cet &eacute;v&egrave;nement.</p>",
+      "choices": [
+        "On additionne les probabilités des branches qui mènent à cet évènement.",
+        "On divise les probabilités des branches qui mènent à cet évènement.",
+        "*On multiplie les probabilités des branches qui mènent à cet évènement."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.17"
+    },
+    {
+      "question": "<p>Soit une exp&eacute;rience al&eacute;atoire ayant un arbre de probabilit&eacute; suivant. Que vaut la probabilit&eacute; que <strong>l'&eacute;v&egrave;nement B</strong> se r&eacute;alise <strong>2 fois</strong>?</p>\n<p><img src=\"img/capturedecran20191220a153733.png\" /></p>",
+      "explain": "<p>Il faut <strong>multiplier les probabilit&eacute;s</strong> des branches qui passent <strong>2 fois par B</strong></p>\n<p>Soit <u>3/5 &times; 3/5 = 9/25.</u></p>",
+      "choices": [
+        "$$\\frac{3}{5}$$",
+        "*$$\\frac{9}{25}$$",
+        "$$\\frac{6}{25}$$",
+        "$$\\frac{4}{25}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.18"
+    },
+    {
+      "question": "<p>Soit une exp&eacute;rience al&eacute;atoire ayant un arbre de probabilit&eacute; suivant. Que vaut la probabilit&eacute; que <strong>l'&eacute;v&egrave;nement N</strong> se r&eacute;alise <strong>2 fois</strong>?</p>\n<p>&nbsp;</p>\n<p><img src=\"img/capturedecran20191220a153733.png\" /></p>",
+      "explain": "<p>Il faut&nbsp;<strong>multiplier les probabilit&eacute;s</strong>&nbsp;des branches qui passent&nbsp;<strong>2 fois par N</strong></p>\n<p>Soit <u>2/5 &times; 2/5 = 4/25</u>.</p>",
+      "choices": [
+        "*$$\\frac{4}{25}$$",
+        "$$\\frac{2}{5}$$",
+        "$$\\frac{9}{25}$$",
+        "$$\\frac{4}{5}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.19"
+    },
+    {
+      "question": "<p>Soit une exp&eacute;rience al&eacute;atoire ayant un arbre de probabilit&eacute; suivant. Sachant que l'ordre des &eacute;v&egrave;nements n'a pas d'importance, que vaut la probabilit&eacute; que <strong>les &eacute;v&egrave;nements N et B</strong> se r&eacute;alisent <strong>une fois</strong> chacun?</p>\n<p><img src=\"img/capturedecran20191220a153733.png\" /></p>",
+      "explain": "<p>Il faut regarder les chemins qui passent <strong>une fois par B et une fois par N</strong></p>\n<p>Il y en a <strong>2</strong> (N et B puis B et N).</p>\n<p>Donc on <strong>additionne</strong> ces chemins</p>\n<p>Soit : <u>3/5 &times; 2/5 + 3/5 &times; 2/5 = 12/25</u>.</p>",
+      "choices": [
+        "*$$\\frac{12}{25}$$",
+        "$$\\frac{6}{25}$$",
+        "$$\\frac{5}{25}$$",
+        "$$\\frac{6}{5}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.20"
+    },
+    {
+      "question": "<p>Soit une exp&eacute;rience al&eacute;atoire ayant l'arbre de probabilit&eacute; suivant. Que vaut la probabilit&eacute; que <strong>l'&eacute;v&egrave;nement R</strong>&nbsp;se r&eacute;alise&nbsp;<strong>2 fois</strong>?</p>\n<p><img src=\"img/capturedecran20191223a180723.png\" /></p>",
+      "explain": "<p>Comme <strong>p(V) + p(R) = 1</strong>, alors<strong> p(R) = 8/10</strong>.</p>\n<p>Alors, on regarde le chemin qui passe <strong>2 fois par R</strong> et on a:</p>\n<p><u>8/10 &times; 8/10 = 64/100</u>.</p>",
+      "choices": [
+        "$$\\frac{4}{100}$$",
+        "*$$\\frac{64}{100}$$",
+        "$$\\frac{16}{10}$$",
+        "$$\\frac{4}{10}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.21"
+    },
+    {
+      "question": "<p>Soit une exp&eacute;rience al&eacute;atoire ayant un arbre de probabilit&eacute; suivant. Sachant que l'ordre des &eacute;v&egrave;nements n'a pas d'importance, que vaut la probabilit&eacute; que&nbsp;<strong>les &eacute;v&egrave;nements R et V</strong>&nbsp;se r&eacute;alisent&nbsp;<strong>une fois</strong>&nbsp;chacun?</p>\n<p><img src=\"img/capturedecran20191223a180723.png\" /></p>",
+      "explain": "<p>Comme <strong>p(V) + p(R) = 1</strong>, <strong>p(V) = 8/10</strong>.</p>\n<p>Or, il existe<strong> 2 chemins</strong> qui passent <strong>1 fois par V</strong> et <strong>1 fois par R</strong>.</p>\n<p>En additionnant ces 2 chemins, on trouve:</p>\n<p><u>8/10 &times; 2/10 + 2/10 &times; 8/10 = 32/100</u>.</p>",
+      "choices": [
+        "$$\\frac{20}{100}$$",
+        "$$\\frac{10}{100}$$",
+        "$$\\frac{16}{100}$$",
+        "*$$\\frac{32}{100}$$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/74.22"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 22,
+  "theme": "fonction",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "chloe.lhoustau@centrale-marseille.fr"
+}

@@ -1,0 +1,319 @@
+{
+  "id": "hist/38",
+  "title": "L'Europe des Lumieres",
+  "pages": [
+    "hist/38/1.htm",
+    "hist/38/2.htm",
+    "hist/38/3.htm",
+    "hist/38/4.htm",
+    "hist/38/5.htm",
+    "hist/38/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quel nom se donnent ceux qui appartiennent au <u>courant des Lumi&egrave;res</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "*Philosophes",
+        "Précheurs",
+        "Penseurs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.1"
+    },
+    {
+      "question": "<p>Le <u>si&egrave;cle des Lumi&egrave;res</u> correspond au</p>",
+      "explain": "",
+      "choices": [
+        "16eme siècle",
+        "17eme siècle",
+        "*18eme siècle",
+        "19eme siècle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.24"
+    },
+    {
+      "question": "<p><u>Le courant des Lumi&egrave;res</u>, qui apparait au 18eme si&egrave;cle n&eacute;:</p>",
+      "explain": "",
+      "choices": [
+        "*en Europe",
+        "en Amérique",
+        "en Asie",
+        "au Moyen Orient"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.10"
+    },
+    {
+      "question": "<p>Les Lumi&egrave;res sont des<u> savants et hommes de lettres</u> partisans de la monarchie absolue</p>",
+      "explain": "",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.8"
+    },
+    {
+      "question": "<p>De quoi d&eacute;coule <u>la r&eacute;ussite scientifique</u> selon Lavoisier ?</p>",
+      "explain": "",
+      "choices": [
+        "*De l'expérience et de l'observation",
+        "De la chance",
+        "De l'intervention divine"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.2"
+    },
+    {
+      "question": "<p>Comment s'appellent <u>les lieux de r&eacute;unions</u> des &eacute;lites parisiennes cultiv&eacute;es?</p>",
+      "explain": "",
+      "choices": [
+        "*les salons",
+        "la cour",
+        "Les cafés",
+        "L'académie Française"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.17"
+    },
+    {
+      "question": "<p>Les philosophes rencontrent-ils des r&eacute;sistances et un rejet de leurs id&eacute;es nouvelles ?</p>",
+      "explain": "",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.19"
+    },
+    {
+      "question": "<p>De quelles fa&ccedil;ons les id&eacute;es des philosophes circulent-elles en Europe ?</p>",
+      "explain": "",
+      "choices": [
+        "par mail et SMS",
+        "par la creation de nouvelles ecoles",
+        "*par des lettres et des voyages",
+        "par l'invention de la radio"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.20"
+    },
+    {
+      "question": "<p>Les philosophes se reposent sur la Bible et la religion pour expliquer le monde.</p>",
+      "explain": "",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.22"
+    },
+    {
+      "question": "<p>Quel est <u>l'intrus </u>parmi les philosophes suivants ?</p>",
+      "explain": "",
+      "choices": [
+        "*Frédéric II de Prusse",
+        "Voltaire",
+        "Rousseau",
+        "D'Alembert",
+        "Montesquieu"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.23"
+    },
+    {
+      "question": "<p>Qu'est ce que <u>l'affaire Calas</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "* Un protestant accusé du meurtre de son fils",
+        "Un catholique accusé du meurtre de son fils",
+        "Une chanteuse lyrique assassinée"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.3"
+    },
+    {
+      "question": "<p>&nbsp;Quel livre &eacute;crit par <u>Voltaire </u>est tir&eacute; de <u>l'affaire Calas</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "*Traité sur la tolérance",
+        "Traité sur l'égalité des races",
+        "Traité sur la délinquance"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.4"
+    },
+    {
+      "question": "<p>Pour quelle <u>s&eacute;paration </u>se prononce <u>Montesquieu </u>?</p>",
+      "explain": "",
+      "choices": [
+        "*Des pouvoirs exécutifs, législatifs et judiciaires",
+        " Des pouvoirs de juger et d'exécuter",
+        "De ses parents",
+        "De sa femme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.5"
+    },
+    {
+      "question": "<p>Aupr&egrave;s de quelle grande cour europ&eacute;enne se rendit <u>Diderot </u>?</p>",
+      "explain": "",
+      "choices": [
+        "*La cour de Catherine II de Russie",
+        " La cour d'Henriette de Luxembourg",
+        "La cour de Suzanne de Serbie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.6"
+    },
+    {
+      "question": "<p>Quelle oeuvre faisant la <u>synth&egrave;se de toutes les connaissances </u>du temps fut &eacute;dit&eacute;e au 16eme siecle ?</p>",
+      "explain": "",
+      "choices": [
+        "*L'Encyclopédie",
+        "Wikipedia",
+        "Le Traité sur la tolérance",
+        "La Bible"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.7"
+    },
+    {
+      "question": "<p>Qui est <u>Diderot</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*un philosophe",
+        "un mathématicien",
+        "un chimiste",
+        "un noble"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.9"
+    },
+    {
+      "question": "<p>Qui a dit :</p>\n<p><u>Rien ne se perd, rien ne se cr&eacute;e, tout se transforme.</u></p>",
+      "explain": "",
+      "choices": [
+        "*Lavoisier",
+        "Diderot",
+        "Voltaire",
+        "Montesquieu"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.11"
+    },
+    {
+      "question": "<p>&nbsp;Qui a prouv&eacute;, gr&acirc;ce &agrave; des exp&eacute;riences, que la <u>foudre </u>est un <u>ph&eacute;nom&egrave;ne &eacute;lectrique</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*Benjamin Franklin",
+        "Lavoisier",
+        "Newton",
+        "Pascal"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.12"
+    },
+    {
+      "question": "<p>Qui critique les abus du <u>syst&egrave;me esclavagiste</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*Voltaire",
+        "Lavoisier",
+        "Franklin"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.13"
+    },
+    {
+      "question": "<p>Le roi encourage la diffusion de <u>l'Encyclop&eacute;die </u>de Diderot.</p>",
+      "explain": "",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.14"
+    },
+    {
+      "question": "<p>Quel scientifique d&eacute;couvre <u>la composition de l'air</u> (20% d'oxyg&egrave;ne et 80% azote)?</p>",
+      "explain": "",
+      "choices": [
+        "*Lavoisier",
+        "Frankin",
+        "Voltaire",
+        "Rousseau"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.15"
+    },
+    {
+      "question": "<p>Quelle <u>th&eacute;orie politique</u> <u>Montesquieu</u>&nbsp;d&eacute;fend il?</p>",
+      "explain": "",
+      "choices": [
+        "*la séparation des pouvoirs",
+        "l'anarchie",
+        "Le despotisme eclairé",
+        "Le monarchie absolue"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.16"
+    },
+    {
+      "question": "<p>Les philosophes <u>critiquent </u>vigoureusement <u>l'Ancien R&eacute;gime.</u></p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.21"
+    },
+    {
+      "question": "<p>Sous quel terme d&eacute;signe-t-on les <u>monarques</u> qui s'inspirent<u> des id&eacute;es</u> des philosophes des Lumi&egrave;res?</p>",
+      "explain": "",
+      "choices": [
+        "*les despotes éclairés",
+        "les rois soleils",
+        "les guides suprêmes",
+        "les tyrans éclairés"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/38.18"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 24,
+  "theme": "4",
+  "level": [
+    "4"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

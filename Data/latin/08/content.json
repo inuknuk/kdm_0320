@@ -1,0 +1,124 @@
+{
+  "title": "Le verbe être (sum) au présent",
+  "pages": [
+    "latin/08/1.htm",
+    "latin/08/2.htm",
+    "latin/08/3.htm",
+    "latin/08/4.htm"
+  ],
+  "id": "latin/08",
+  "questions": [
+    {
+      "question": "es en latin signifie",
+      "choices": [
+        "il est",
+        "je suis",
+        "et",
+        "*tu es"
+      ],
+      "id": "latin/08:1"
+    },
+    {
+      "question": "absunt se traduit par",
+      "choices": [
+        "elle est",
+        "je suis present",
+        "a tes souhaits",
+        "*ils sont absents"
+      ],
+      "id": "latin/08:2"
+    },
+    {
+      "question": "sumus signifie",
+      "choices": [
+        "*nous sommes",
+        "la somme",
+        "je suis",
+        "elles sont"
+      ],
+      "id": "latin/08:3"
+    },
+    {
+      "question": "estis signifie",
+      "choices": [
+        "l'ete",
+        "*vous etes",
+        "il est",
+        "elles sont"
+      ],
+      "id": "latin/08:4"
+    },
+    {
+      "question": "potes signifie",
+      "choices": [
+        "il peut",
+        "*tu peux",
+        "mon pote",
+        "tu es"
+      ],
+      "id": "latin/08:5"
+    },
+    {
+      "question": "adsumus signifie",
+      "choices": [
+        "nous sommes ",
+        "*nous sommes presents",
+        "nous sommes absents",
+        "passe moi la semoule"
+      ],
+      "id": "latin/08:6"
+    },
+    {
+      "question": "Nous sommes la",
+      "choices": [
+        "estis",
+        "*adsumus",
+        "absunt",
+        "potes",
+        "sumus"
+      ],
+      "id": "latin/08:7"
+    },
+    {
+      "question": "Tu peux",
+      "choices": [
+        "estis",
+        "adsumus",
+        "absunt",
+        "*potes",
+        "sumus"
+      ],
+      "id": "latin/08:8"
+    },
+    {
+      "question": "Vous etes",
+      "choices": [
+        "*estis",
+        "adsumus",
+        "absunt",
+        "potes",
+        "sumus"
+      ],
+      "id": "latin/08:9"
+    },
+    {
+      "question": "Elles sont absentes",
+      "choices": [
+        "abestis",
+        "adsunt",
+        "*absunt",
+        "sumus"
+      ],
+      "id": "latin/08:10"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 10,
+  "theme": "conjugaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

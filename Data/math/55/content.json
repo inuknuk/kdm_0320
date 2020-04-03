@@ -1,0 +1,280 @@
+{
+  "id": "math/55",
+  "title": "Vitesse",
+  "pages": [
+    "math/55/1.htm",
+    "math/55/5.htm",
+    "math/55/2.htm",
+    "math/55/3.htm",
+    "math/55/6.htm",
+    "math/55/4.htm",
+    "math/55/7.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quelle est la bonne formule exprimant la <u>vitesse moyenne v</u> en fonction de la distance d et de la dur&eacute;e t ?</p>",
+      "explain": "<p>Retiens la formule :</p>\n<p><u>vitesse = distance &divide; temps</u>.</p>",
+      "choices": [
+        "*v = d ÷ t",
+        "v = d × t",
+        "v= d + t"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.1"
+    },
+    {
+      "question": "<p>Si un cycliste roule pendant une heure &agrave; <u>25 km/h</u> de moyenne, c'est qu'il a parcouru :</p>",
+      "explain": "<p>25 km/h de vitesse moyenne signifie que le cycliste a parcouru exactement <u>25 km</u> en <u>une heure</u>.</p>",
+      "choices": [
+        "*25 km en une heure",
+        "25 m en une seconde",
+        "1 kilomètre en 25 min"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.2"
+    },
+    {
+      "question": "<p>La vitesse de la lumi&egrave;re vaut en moyenne <u>300 000 000 m/s</u>. Cela signifie que la lumi&egrave;re :</p>",
+      "explain": "<p>L'unit&eacute; de la vitesse donn&eacute;e est le <u>m/s</u>, donc la vitesse donne le nombre de <u>m&egrave;tres</u> parcourus en <u>une seconde</u>.</p>",
+      "choices": [
+        "parcourt 300 000 000 m en une heure",
+        "*parcourt 300 000 000 m en une seconde",
+        "parcourt un km en 300 000 000 secondes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.3"
+    },
+    {
+      "question": "<p>Je fais une randonn&eacute;e de <u>5 h</u> dans la montagne et je parcours en tout <u>23 km</u>. Quelle a &eacute;t&eacute; ma vitesse moyenne ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>vitesse = distance &divide; temps</u></p>\n<p>en utilisant l'unit&eacute; km/h car on nous parle de km et d'heures.</p>",
+      "choices": [
+        "*v = 23 ÷ 5 = 4,6 km/h",
+        "v = 5 ÷ 23 = 0,2 km/h",
+        "v = 5 × 23 = 115 km/h",
+        "v = 23 ÷ 5 = 4,6 m/s"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.4"
+    },
+    {
+      "question": "<p>Je parcours en voiture <u>45 km</u> pour aller chez mes grands-parents. J'arrive chez eux au bout de <u>30 min</u>, quelle a &eacute;t&eacute; ma vitesse moyenne ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>vitesse = distance &divide; temps</u></p>\n<p>Attention, il faut convertir la dur&eacute;e en heures:<br /><u>temps = 30min = 0.5 heure</u></p>\n<p><u>v = 45 &divide; 0,5 (km/h)<br /></u></p>",
+      "choices": [
+        "v = 45 ÷ 30 (km/h)",
+        "*v = 45 ÷ 0,5 (km/h)",
+        "v = 30 ÷ 45 (km/h)",
+        "v = 45 × 0,5 (km/h)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.5"
+    },
+    {
+      "question": "<p>Une navette spatiale futuriste parcourt les <u>500 000 km</u> s&eacute;parant deux plan&egrave;tes en <u>6 h</u>. Quelle est sa vitesse moyenne ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>vitesse = distance &divide; temps</u></p>\n<p>en conservant l'unit&eacute; km/h.</p>",
+      "choices": [
+        "v = 500 000 ÷ 6 = 83 000 m/s",
+        "*v = 500 000 ÷ 6 = 83 000 km/h",
+        "v = 6 × 500 000 = 3 000 000 km/h",
+        "v = 6 ÷ 500 000 = 0, 000 012 km/h"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.6"
+    },
+    {
+      "question": "<p>Usain Bolt a battu le record du <u>100 m</u> en 2009 en un temps exceptionnel de <u>9,58 s</u>. Quelle a &eacute;t&eacute; sa vitesse moyenne en km/h ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>vitesse = distance &divide; temps</u></p>\n<p>en faisant attention de convertir la distance en km et la dur&eacute;e en h !</p>",
+      "choices": [
+        "v = 100 ÷ 9,58 = 10,4 km/h",
+        "*v = (100 ÷ 1000) ÷ (9,58 ÷ 3 600) = 37,6 km/h",
+        "v = 100 ÷ (9,58 ÷ 3 600) = 37 600 km/h",
+        "v = (100 ÷ 1000) ÷ (9,58 ÷ 3 600) = 37,6 m/s"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.7"
+    },
+    {
+      "question": "<p>Je parcours <u>150 km</u> sur l'autoroute d'une traite en <u>1 h 30 min</u>.</p>\n<p>Je fais une pause de <u>15 min</u> sur une aire d'autoroute.</p>\n<p>Puis je repars pendant <u>30 min</u> pour parcourir les <u>60 km</u> restants.</p>\n<p>Quelle a &eacute;t&eacute; la vitesse moyenne pendant mon trajet total?</p>",
+      "explain": "<p>Pour calculer la vitesse moyenne, calcule d'abord la distance totale puis le temps total.</p>\n<p>La distance totale est (150 + 60) km</p>\n<p>La dur&eacute;e totale est 1h30 + 15mn + 30mn</p>\n<p>Convertis les minutes en heures: 1h30=1,5h et 5mn=0,25h et 30mn=0,5h</p>\n<p>La dur&eacute;e totale est 1,5 + 0,25 + 0,5 heures</p>\n<p>Enfin, utilise la formule</p>\n<p>vitesse = distance &divide; temps<u><br /></u></p>\n<p><strong>v = (150 + 60) &divide; (1,5 + 0,25 + 0,5) km/h</strong></p>",
+      "choices": [
+        "*v = (150 + 60) ÷ (1,5 + 0,25 + 0,5) km/h",
+        "v = 150 ÷ 1,5 + 0 ÷ 0,25 + 60 ÷ 0,5 km/h",
+        "v = (150 + 60) ÷ (1,5 + 0,5) km/h",
+        "v = (1,5 + 0,5) ÷ (150 + 60) km/h"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.8"
+    },
+    {
+      "question": "<p>Lors d'une course cycliste, le peloton met <u>3 h</u> &agrave; parcourir <em>120 km</em> puis acc&eacute;l&egrave;re sur la fin du trajet pour parcourir <em>90 km</em> en<u> 2 h</u>. Quelle a &eacute;t&eacute; la vitesse moyenne ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>vitesse = distance &divide; temps</u></p>\n<p>D'apr&egrave;s les unit&eacute;s utilis&eacute;es (km et h), la vitesse est exprim&eacute;e en km/h.</p>",
+      "choices": [
+        "*v = (120 + 90) ÷ (3 + 2) km/h",
+        "v = 120 ÷ 3 + 90 ÷ 2 km/h",
+        "v = (3 + 2) × (120 + 90)",
+        "v = (120 + 90) ÷ (3 + 2) m/s"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.9"
+    },
+    {
+      "question": "<p>Je conduis &agrave; une vitesse de <u>130 km/h</u> sur l'autoroute pendant <u>2 h</u>. Quelle distance ai-je parcourue ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>d = v &times; t</u></p>\n<p>L'unit&eacute; est le km car la vitesse est exprim&eacute;e en km/h et la dur&eacute;e en h.</p>",
+      "choices": [
+        "*d = 130 × 2 = 260 km",
+        "d = 130 × 2 = 260 m",
+        "d = 130 ÷ 2 = 75 km",
+        "d = 130 + 2 = 132 km"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.10"
+    },
+    {
+      "question": "<p>Quelle est la distance parcourue en se d&eacute;pla&ccedil;ant pendant <u>2 h</u> &agrave; une vitesse moyenne de <u>60 km/h</u> ?</p>",
+      "explain": "<p>On utilise la formule <u>d = v &times; t</u>. L'unit&eacute; est le km car la vitesse est exprim&eacute;e en km/h et la dur&eacute;e en h.</p>",
+      "choices": [
+        "d = 2 × 60 = 120 m",
+        "d = 60 ÷ 2 = 30 km",
+        "*d = 60 × 2 = 120 km",
+        "d = 60 + 2 = 62 km"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.11"
+    },
+    {
+      "question": "<p>Quelle est la distance parcourue en se d&eacute;pla&ccedil;ant pendant <u>1 h</u> &agrave; une vitesse moyenne de <u>6 m/s</u> ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>d = v &times; t</u></p>\n<p>L'unit&eacute; est le m car la vitesse est exprim&eacute;e en m/s et on a converti la dur&eacute;e en s !</p>",
+      "choices": [
+        "*d = 6 × 3 600 = 21 600 m",
+        "d = 6 × 60 = 360 m",
+        "d = 6 × 60 = 360 km",
+        "d = 3 600 ÷ 6 = 600 m"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.12"
+    },
+    {
+      "question": "<p>Je marche pendant 10 min &agrave; 6 km/h. Quelle est la distance parcourue ?</p>",
+      "explain": "<p>On utilise la formule</p>\n<p><u>d = v &times; t</u></p>\n<p>L'unit&eacute; est le km car la vitesse est exprim&eacute;e en m/s et on a converti la dur&eacute;e en h !</p>",
+      "choices": [
+        "*d = (10/60) × 6 = 1 km",
+        "d = 10 × 6 = 60 km",
+        "d = 10 × 6 = 60 m",
+        "d = 10/3 600 × 6 = 600 m"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.13"
+    },
+    {
+      "question": "<p>Une cigogne migre vers le Sud depuis l'Alsace. Elle vole pendant <em>26 h</em> &agrave; <u>18 km/h</u> de moyenne puis fait une pause dans son voyage. Elle finit son trajet en <em>14 h</em> &agrave; <u>20 km/h</u> de moyenne. Quelle distance a-t-elle parcouru ?</p>",
+      "explain": "<p>On utilise la formule <u>d = v &times; t</u>. Attention, pour additionner des distances, on est oblig&eacute; de calculer :</p>\n<p><u>d = v1 &times; t1 + v2 &times; t2 + ...</u></p>",
+      "choices": [
+        "*d = (18 × 26) + (20 × 14) = 748 km",
+        "d = (18 + 14) × (26 + 14) = 1280 km",
+        "d = 18 × 20 + 26 × 14 = 724 km"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.14"
+    },
+    {
+      "question": "<p>Combien de temps met-on pour parcourir <u>10 km</u> &agrave; une vitesse moyenne de <u>10 km/h</u> ?</p>",
+      "explain": "<p>Une vitesse moyenne de 10 km/h signifie que <u>10 km</u> sont parcourus en exactement <u>une heure</u>.</p>",
+      "choices": [
+        "*1 h",
+        "1 min",
+        "10 min",
+        "On ne peut pas savoir"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.15"
+    },
+    {
+      "question": "<p>Quelle est la dur&eacute;e n&eacute;cessaire pour parcourir <u>200 km</u> &agrave; la vitesse moyenne de <u>50 km/h</u> ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>t = d &divide; v</u></p>",
+      "choices": [
+        "*t = 200 ÷ 50 (en h)",
+        "t = 200 × 50 (en h)",
+        "t = 50 × 200 (en h)",
+        "t = 200 - 50 (en h)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.16"
+    },
+    {
+      "question": "<p>Simon effectue une randonn&eacute;e de 18,5 km. Son objectif est de r&eacute;aliser sa performance &agrave; une vitesse moyenne de <u>6 km/h</u>. En combien de temps Simon doit-il effectuer sa randonn&eacute;e afin d'atteindre son objectif ?</p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>t = d &divide; v</u></p>",
+      "choices": [
+        "*t = 18,5 ÷ 6 (en h)",
+        "t = 18,5 × 6 (en h)",
+        "t = 18,5 - 6 (en h)",
+        "t = 6 ÷ 18,5 (en h)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.17"
+    },
+    {
+      "question": "<p>Pour aller &agrave; son travail en voiture le matin et pour arriver &agrave; 8h, Marion parcourt <em>15 km</em> &agrave; <u>50 km/h</u> de moyenne. Elle souhaite savoir combien de temps &agrave; l'avance elle doit partir en voiture afin d'arriver &agrave; l'heure! Combien de temps doit-elle compter pour faire ce trajet ?</p>",
+      "explain": "<p>On utilise la formule</p>\n<p><u>t = d &divide; v</u></p>\n<p>et, sans conversion, l'unit&eacute; est forc&eacute;ment l'heure (h) car on utilise uniquement comme unit&eacute;s le km et le km/h.</p>",
+      "choices": [
+        "*Marion mettra 15 ÷ 50 = 0,3 h.",
+        "Marion mettra 15 × 50 = 750 s.",
+        "Marion mettra 50 ÷ 15 = 3 min.",
+        "Marion mettra 50 - 15 = 45 min."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.18"
+    },
+    {
+      "question": "<p>Un nageur professionnel parcourt <u>200 m</u> en brasse &agrave; <u>6 km/h</u> de moyenne. Quel temps met-il alors pour parcourir ces 200 m ?</p>",
+      "explain": "<p>On utilise la formule</p>\n<p><u>t = d &divide; v</u></p>\n<p>Attention : il faut convertir la distance en km:</p>\n<p><u>d = 200m = (200/1000) km</u></p>",
+      "choices": [
+        "*t = (200/1000) ÷ 6 = 0,033 h = 2 min",
+        "t = 200 ÷ 6 = 33 s",
+        "t = 6 ÷ (200/1000) = 30 s",
+        "t = 6 - (200/1000) = 5,8 s"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.19"
+    },
+    {
+      "question": "<p>Un &eacute;l&eacute;phant se r&eacute;veille le matin &agrave; <u>8h</u> et se d&eacute;place dans la savane africaine :</p>\n<p>- il parcourt <em>6 km</em> &agrave; la vitesse de <em>5 km/h</em>,</p>\n<p>- il fait ensuite une pause de <u>2 h</u>,</p>\n<p>- il repart enfin &agrave; la vitesse moyenne de <em>7 km/h</em> pendant <em>10 km</em>.</p>\n<p>Quelle heure est-il &agrave; la fin de son trajet ?</p>\n<p><img src=\"img/elephant.png\" width=\"246\" height=\"198\" /></p>",
+      "explain": "<p>On utilise la formule :</p>\n<p><u>t = d &divide; v</u></p>\n<p>Attention, pour additionner des distances, on est oblig&eacute; de calculer :</p>\n<p><u>t = d1 </u><u><u>&divide;</u> v1 + d2 </u><u><u>&divide;</u> v2 + ...</u></p>",
+      "choices": [
+        "*8 + (6 ÷ 5) + 2 + (10 ÷ 7) = environ 13h.",
+        "8 + 5 ÷ 6 + 2 + 7 ÷ 10 =  environ 12h.",
+        "8 + (6 + 10) ÷ (5 + 7) + 2 =  environ 11h.",
+        "Il est exactement 8 + 5 + 7 + 2 = 22h."
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/55.20"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 20,
+  "theme": "mesure",
+  "editor": "alexis.cunin@centrale-marseille.fr",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

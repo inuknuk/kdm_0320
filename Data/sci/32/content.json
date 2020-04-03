@@ -1,0 +1,260 @@
+{
+  "id": "sci/32",
+  "title": "Energie Cinétique et Potentielle",
+  "pages": [
+    "sci/32/1.htm",
+    "sci/32/2.htm",
+    "sci/32/3.htm",
+    "sci/32/4.htm",
+    "sci/32/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>L'unit&eacute; de l'&eacute;nergie est:</p>",
+      "explain": "",
+      "choices": [
+        "Le Watt",
+        "*Le Joule",
+        "La seconde",
+        "Le Volt"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.1"
+    },
+    {
+      "question": "<p>Un syst&egrave;me poss&egrave;de une &eacute;nergie potentielle du simple fait de sa pr&eacute;sence dans un champ de forces.&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.2"
+    },
+    {
+      "question": "<p>Une &eacute;nergie potentielle est toujours li&eacute;e &agrave; la masse d'un syst&egrave;me.</p>",
+      "explain": "<p>L'&eacute;nergie potentielle de pesanteur est li&eacute;e &agrave; la masse d'un syst&egrave;me, mais il existe d'autres &eacute;nergies potentielles.</p>\n<p>Par exemple, l'&eacute;nergie potentielle &eacute;lectrostatique est li&eacute;e &agrave; la charge d'un syst&egrave;me (&eacute;lectron, ion,...), et ne tient pas compte du fait que le syst&egrave;me soit massif ou non.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.3"
+    },
+    {
+      "question": "<p>Un syst&egrave;me ayant une vitesse nulle a une &eacute;nergie cin&eacute;tique nulle.</p>",
+      "explain": "<p>C'est vrai, d'apr&egrave;s la formule de l'&eacute;nergie cin&eacute;tique.&nbsp;</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.5"
+    },
+    {
+      "question": "<p>La formule donnant l'&eacute;nergie cin&eacute;tique est:&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "Ec = m² × v / 2",
+        "*Ec = m × v² / 2 ",
+        "Ec = m × v / 2"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.6"
+    },
+    {
+      "question": "<p>La formule donnant l'&eacute;nergie potentielle de pesanteur d'un syst&egrave;me de masse m &agrave; l'altitude z est:</p>",
+      "explain": "",
+      "choices": [
+        "*Epp = mgz",
+        "Epp = mz",
+        "Epp = mgz / 2"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.7"
+    },
+    {
+      "question": "<p>Pour calculer l'&eacute;nergie cin&eacute;tique d'un syst&egrave;me en Joules, la masse doit &ecirc;tre en:&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "Grammes",
+        "*Kilogrammes",
+        "Tonnes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.8"
+    },
+    {
+      "question": "<p>Pour calculer l'&eacute;nergie cin&eacute;tique d'un syst&egrave;me en Joules, la vitesse doit &ecirc;tre en:&nbsp;</p>\n<p>&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*m/s",
+        "km/h",
+        "m/h"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.9"
+    },
+    {
+      "question": "<p>L'&eacute;nergie potentielle et l'&eacute;nergie cin&eacute;tique s'expriment dans le m&ecirc;me unit&eacute;.</p>",
+      "explain": "<p>Toutes les &eacute;nergies s'expriment dans le m&ecirc;me unit&eacute;: le Joule.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.10"
+    },
+    {
+      "question": "<p>L'&eacute;nergie m&eacute;canique Em est d&eacute;finie en fonction de l'&eacute;nergie cin&eacute;tique et de l'&eacute;nergie potentielle selon:</p>",
+      "explain": "",
+      "choices": [
+        "*Em = Ec + Ep",
+        "Em = Ec - Ep",
+        "Em = Ep - Ec",
+        "Em = (Ec + Ep)/2"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.11"
+    },
+    {
+      "question": "<p>Il y a conservation de l'&eacute;nergie lorsque l&rsquo;&eacute;nergie m&eacute;canique Em:</p>",
+      "explain": "",
+      "choices": [
+        "Em = 0",
+        "*Em = constante"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.12"
+    },
+    {
+      "question": "<p>Lorsqu'un syst&egrave;me perd de l'&eacute;nergie cin&eacute;tique, elle se transforme obligatoirement en &eacute;nergie potentielle et r&eacute;ciproquement.</p>",
+      "explain": "<p>C'est vrai s'il n'y a pas de perte d'&eacute;nergie.</p>\n<p>Les pertes d'&eacute;nergie sont des pertes thermiques, qui sont souvent caus&eacute;es par la pr&eacute;sence de frottements.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.13"
+    },
+    {
+      "question": "<p>Si un syst&egrave;me est soumis &agrave; des frottements alors:&nbsp;</p>",
+      "explain": "<p>Lorsqu'un syst&egrave;me est soumis &agrave; des frottements, il perd de l'&eacute;nergie qui se diffuse sous forme d'&eacute;nergie thermique.</p>\n<p>Dans ce cas, Em diminue.&nbsp;</p>",
+      "choices": [
+        "Em = 0",
+        "Em = constante ",
+        "*Em diminue",
+        "Em augmente"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.14"
+    },
+    {
+      "question": "<p>Si un syst&egrave;me peut se mouvoir sans frottements alors:</p>",
+      "explain": "<p>Lorsqu'il n'y a pas de frottements, le syst&egrave;me conserve toute son &eacute;nergie, c'est-&agrave;-dire que son &eacute;nergie m&eacute;canique est constante.</p>\n<p>On ne peut en revanche rien conclure sur les &eacute;nergies potentielle et cin&eacute;tique.&nbsp;</p>",
+      "choices": [
+        "Ep = constante",
+        "*Em= constante",
+        "Ec = constante",
+        "Ep = constante"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.15"
+    },
+    {
+      "question": "<p>Que vaut l'&eacute;nergie cin&eacute;tique d'un syst&egrave;me de masse m=3g et de vitesse v=3.6 km/h ?</p>",
+      "explain": "<p>Ec =&frac12; mv&sup2;</p>\n<p>Il faut mettre m en kg et v en m/s:</p>\n<p>m = 0,003 kg et v = 1 m/s</p>\n<p>L'application de la formule donne Ec = 0,0015 J</p>",
+      "choices": [
+        "Ec = 1,5 J",
+        "*Ec = 1,5 mJ",
+        "Ec = 0,15 J",
+        "Ec = 0,15 mJ"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.16"
+    },
+    {
+      "question": "<p>Que vaut l'&eacute;nergie potentielle de pesenteur d'un syst&egrave;me de masse m=10kg &agrave; une altitude de 60m par rapport &agrave; la r&eacute;f&eacute;rence de l'&eacute;nergie potentielle ?</p>\n<p>On approxime g=10 m/s&sup2;</p>",
+      "explain": "<p>Epp = mgz&nbsp;</p>\n<p>On applique donc la formule avec m en kg, et z en m&egrave;tres.&nbsp;</p>",
+      "choices": [
+        "*6000 J",
+        "6 000 000 J",
+        "6 J",
+        "60 J"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.17"
+    },
+    {
+      "question": "<p>Le graphique suivant traduit:</p>\n<p><img src=\"img/kkjk.png\" width=\"377\" height=\"230\" /></p>",
+      "explain": "<p>L'&eacute;nergie m&eacute;canique est constante au cours du temps: elle se conserve.&nbsp;</p>",
+      "choices": [
+        "*La conservation de l'énergie mécanique",
+        "La non conservation de l'énergie mécanique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.18"
+    },
+    {
+      "question": "<p>Le graphique suivant traduit:</p>\n<p><img src=\"img/ennc.png\" width=\"390\" height=\"248\" /></p>",
+      "explain": "<p>L'&eacute;nergie m&eacute;canique diminue au cours du temps: elle ne se conserve pas.</p>",
+      "choices": [
+        "La conservation de l'énergie mécanique",
+        "*La non conservation de l'énergie mécanique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.19"
+    },
+    {
+      "question": "<p>Que vaut l'&eacute;nergie m&eacute;canique d'un syst&egrave;me de masse m=3kg, se d&eacute;pla&ccedil;ant &agrave; 2m/s &agrave; 3m du sol ?</p>\n<p>On approxime g&asymp;10 m/s&sup2;.</p>",
+      "explain": "<p>Energie m&eacute;canique (Em) = Energie cin&eacute;tique (Ec) + Energie potentielle (Ep)</p>\n<p>Ec = &frac12; m&times;v&sup2; = 6J</p>\n<p>Ep = mgz = 90 J</p>\n<p>Em = Ec + Ep = 96 J</p>",
+      "choices": [
+        "84 J",
+        "6 J",
+        "*96 J",
+        "90 J"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.20"
+    },
+    {
+      "question": "<p>Que vaut l'&eacute;nergie m&eacute;canique d'un syst&egrave;me de masse m=30g, se d&eacute;pla&ccedil;ant &agrave; v=3.6 km/h &agrave; une altitude z=10 cm du sol ?</p>\n<p>On approxime g&asymp;10 m/s&sup2;.</p>",
+      "explain": "<p>Attention aux unit&eacute;s:</p>\n<p>m = 30g = 0,03kg</p>\n<p>v =3.6 km/h = 1m/s</p>\n<p>z = 10cm = 0,1m</p>\n<p>Ec = &frac12; mv&sup2; = 0,015 J = 15 mJ</p>\n<p>Ep = mgz =&nbsp; 0,03 J = 30 mJ</p>\n<p>Em = Ec + Ep =&nbsp; 45 mJ</p>",
+      "choices": [
+        "4500 mJ",
+        "*45 mJ",
+        "45 J"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/32.21"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 21,
+  "theme": "4",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "julie.mariettaaleina@gmail.com"
+}

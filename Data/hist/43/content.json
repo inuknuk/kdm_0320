@@ -1,0 +1,176 @@
+{
+  "id": "hist/43",
+  "title": "Le droit de vote",
+  "pages": [
+    "hist/43/1.htm",
+    "hist/43/3.htm",
+    "hist/43/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>En 1815, c'est la Restauration, il s'agit de la restauration de</p>",
+      "explain": "",
+      "choices": [
+        "*la monarchie",
+        "la republique",
+        "l'empire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.5"
+    },
+    {
+      "question": "<p>A partir de 1815, durant la restauration monarchique (Louis XVIII) l</p>",
+      "explain": "",
+      "choices": [
+        "il n'y a pas de droite de vote",
+        "*Le droit existe mais reste limite.",
+        "Tout le monde peut voter"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.6"
+    },
+    {
+      "question": "<p>Dans le <u>suffrage censitaire</u>, qui a le droit de voter?</p>",
+      "explain": "",
+      "choices": [
+        "tout le monde",
+        "*ceux  qui paient un minimum d'impot",
+        "seulement les hommes",
+        "seulement les femmes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.1"
+    },
+    {
+      "question": "<p>A quelle date est instaur&eacute; par d&eacute;cret le <u>suffrage universel </u>?</p>",
+      "explain": "",
+      "choices": [
+        "1789",
+        "*1848",
+        "1815",
+        "1945"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.2"
+    },
+    {
+      "question": "<p>En 1848, lors de l'intauration du suffrage universel, les femmes ont elles le droit de voter?</p>",
+      "explain": "",
+      "choices": [
+        "*Non",
+        "Oui"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.3"
+    },
+    {
+      "question": "<p>Lors de la r&eacute;volution de f&eacute;vrier 1848, se met en place la&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*Deuxième République",
+        "Premiere Republique",
+        "Le second Empire",
+        "La Restauration"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.4"
+    },
+    {
+      "question": "<p>Durant la restauration en 1815, quelle mode de suffrage est mis en place?</p>",
+      "explain": "",
+      "choices": [
+        "*suffrage censitaire",
+        "sufffrage universel masculin",
+        "sufffrage universel",
+        "pas de droit de vote du tout"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.7"
+    },
+    {
+      "question": "<p>Durant la restaurant monarchique entre 1815 et 1845, quel est l'age minimum pour voter?</p>",
+      "explain": "",
+      "choices": [
+        "*30 ans",
+        "21 ans",
+        "18 ans"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.8"
+    },
+    {
+      "question": "<p>Durant la seconde Republique, est ce que les femmes ont de droit de voter?</p>",
+      "explain": "",
+      "choices": [
+        "*Non",
+        "Oui"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.9"
+    },
+    {
+      "question": "<p>Durant la Seconde Republique, les hommes de plus de 21 ans &eacute;lisent</p>",
+      "explain": "",
+      "choices": [
+        "*les députés et le Président de la République",
+        "Le Président de la République",
+        "les députés",
+        "Les sénateurs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.10"
+    },
+    {
+      "question": "<p>En 1851, il y a un coup d'etat, qui met en place:</p>",
+      "explain": "",
+      "choices": [
+        "*Le Second Empire",
+        "La  Restauration",
+        "la Troisieme Republique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.11"
+    },
+    {
+      "question": "<p>A partir de 1851, durant le Second Empire, les conditions de vote</p>",
+      "explain": "",
+      "choices": [
+        "*se détériorent",
+        "s'ameliorent"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.12"
+    },
+    {
+      "question": "<p>Durant la seconde Republique, l'age minimum pour les hommes pour pouvoir voter est de&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "30 ans",
+        "*21 ans",
+        "18 ans"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/43.13"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 13,
+  "theme": "7",
+  "level": [
+    "4"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,217 @@
+{
+  "id": "latin/32",
+  "title": "La 5eme déclinaison",
+  "pages": [
+    "latin/32/1.htm",
+    "latin/32/2.htm",
+    "latin/32/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quel mot appartient a la 5eme d&eacute;clinaison?</p>",
+      "choices": [
+        "dominus, -i",
+        "rosa, ae",
+        "*res, -ei",
+        "manus, us",
+        "templum, i"
+      ],
+      "id": "latin/32.1",
+      "explain": "<p>Le mots de la 5eme declinaison ont leur <span style=\"color: #e74c3c;\">Genitif Singulier</span> en <span style=\"color: #e74c3c;\">-ei</span></p>\n<p><span style=\"color: #e74c3c;\"><span style=\"color: #e74c3c;\">La bonne reponse est donc res, -ei</span></span></p>"
+    },
+    {
+      "question": "<p><u><em>De rerum natura <br /></em></u>est le titre d'un poeme tres connu en latin du poete latin <u>Lucrece</u>.</p>\n<p>Que signifie t- il?</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "Dieu est une chose naturelle",
+        "*De la nature des choses",
+        "Des choses de la nature",
+        "Donner une chose de la nature."
+      ],
+      "id": "latin/32.2",
+      "explain": "<p><span style=\"color: #e74c3c;\">rerum</span> est le <span style=\"color: #e74c3c;\">Genitif Pluriel</span> de la 5eme declinaison. C'est le Complement d'objet du nom <u>De Natura </u>(la nature)</p>\n<p>Donc&nbsp; <span style=\"color: #e74c3c;\">De la nature des choses&nbsp;<br /></span>ou <span style=\"color: #e74c3c;\">au sujet de la nature des choses<br /></span>ou<span style=\"color: #e74c3c;\"> a propos de la nature des choses</span></p>"
+    },
+    {
+      "question": "<p><u>dies, diei, m/f:</u> le jour.<br />A quel cas est <u>diebus</u>?</p>",
+      "choices": [
+        "*Datif / Ablatif plur.",
+        "Gen. / Dat. sing.",
+        "Genitif. plur.",
+        "Accusatif plur."
+      ],
+      "id": "latin/32.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit <u>la r&eacute;publique</u> au <u>Datif singulier</u></p>",
+      "choices": [
+        "*rei publicae",
+        "res publicae",
+        "re publicae",
+        "rei publica"
+      ],
+      "id": "latin/32.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quel cas est le mot <u><em>rerum</em></u>?</p>",
+      "choices": [
+        "Nominatif Singulier",
+        "*Genitif puriel",
+        "Genitif Singulier",
+        "Accusatif Singulier"
+      ],
+      "id": "latin/32.6",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>fides, fidei,</u> f signifie</p>",
+      "choices": [
+        "*la confiance",
+        "l'espoir",
+        "le jour",
+        "la figure"
+      ],
+      "id": "latin/32.7",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>spes, spei,</u> f signifie</p>",
+      "choices": [
+        "la confiance",
+        "*l'espoir",
+        "le jour",
+        "l'espece"
+      ],
+      "id": "latin/32.8",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>res, rei,</u> f signifie</p>",
+      "choices": [
+        "*la chose",
+        "la republique",
+        "le roi",
+        "l'espece"
+      ],
+      "id": "latin/32.9",
+      "explain": ""
+    },
+    {
+      "question": "<p><u>dies, diei,</u> f signifie</p>",
+      "choices": [
+        "*le jour",
+        "la nuit",
+        "deux",
+        "le dieu"
+      ],
+      "id": "latin/32.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Decline <u>res</u> au <u>Nominatif Singulier</u>&nbsp;</p>",
+      "choices": [
+        "*res",
+        "rem",
+        "rei",
+        "re"
+      ],
+      "id": "latin/32.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Decline <u>res</u> a <u>l'Accusatif&nbsp;Singulier</u>&nbsp;</p>",
+      "choices": [
+        "res",
+        "*rem",
+        "rei",
+        "re"
+      ],
+      "id": "latin/32.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Decline <u>fides</u> a <u>l'Accusatif Pluriel</u></p>",
+      "choices": [
+        "*fides",
+        "fidem",
+        "fidei",
+        "fide"
+      ],
+      "id": "latin/32.13",
+      "explain": "<p>Attention :</p>\n<p>Accusatif singulier : fidem<br />Accusatif pluriel :&nbsp;<span style=\"color: #e74c3c;\">fides</span></p>"
+    },
+    {
+      "question": "<p>Decline <u>fides</u> au <u>Genitif&nbsp;Pluriel</u></p>",
+      "choices": [
+        "*fiderum",
+        "fidei",
+        "fidebus",
+        "fidem"
+      ],
+      "id": "latin/32.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Decline <u>res</u> au Datif<u>&nbsp;Pluriel</u></p>",
+      "choices": [
+        "*rebus",
+        "rei",
+        "rerum",
+        "re"
+      ],
+      "id": "latin/32.15",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel mot appartient a la 5eme d&eacute;clinaison?</p>",
+      "choices": [
+        "filius, -i",
+        "via, ae",
+        "*fides, -ei",
+        "domus, us",
+        "bellum, i"
+      ],
+      "id": "latin/32.16",
+      "explain": "<p>Le mots de la 5eme declinaison ont leur <span style=\"color: #e74c3c;\">Genitif Singulier</span> en <span style=\"color: #e74c3c;\">-ei</span></p>\n<p><span style=\"color: #e74c3c;\"><span style=\"color: #e74c3c;\">La bonne reponse est donc fides, -ei</span></span></p>"
+    },
+    {
+      "question": "<p>Traduit <u>l'art militaire</u> a l<u>'Accusatif</u> Singulier</p>",
+      "choices": [
+        "*rem militarem",
+        "res militarem",
+        "rei militari"
+      ],
+      "id": "latin/32.17",
+      "explain": "<p>Accusatif Singulier de res = <span style=\"color: #e74c3c;\">rem</span></p>"
+    },
+    {
+      "question": "<p>Traduit <u>la republique</u> au Genitif Singulier</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*rei publicae",
+        "rerum publicarum",
+        "re publica",
+        "rem publicam"
+      ],
+      "id": "latin/32.18",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit <u>la republique</u> a l' Accusatif Singulier</p>",
+      "choices": [
+        "rei publicae",
+        "rerum publicarum",
+        "re publica",
+        "*rem publicam"
+      ],
+      "id": "latin/32.19",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 19,
+  "theme": "declinaison",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

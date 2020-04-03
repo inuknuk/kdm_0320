@@ -1,0 +1,230 @@
+{
+  "id": "math/52",
+  "title": "Durées",
+  "pages": [
+    "math/52/1.htm",
+    "math/52/2.htm",
+    "math/52/3.htm",
+    "math/52/4.htm",
+    "math/52/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Combien y a-t-il d'heures dans une <u>journ&eacute;e</u> ?</p>",
+      "choices": [
+        "*24",
+        "60",
+        "100",
+        "3600"
+      ],
+      "id": "math/52.1",
+      "explain": "<p>La journ&eacute;e est divis&eacute;e en <u>24</u> heures.</p>"
+    },
+    {
+      "question": "<p>Combien y a-t-il de <u>secondes</u> dans une heure ?</p>",
+      "choices": [
+        "60 s",
+        "*60 × 60 = 3 600 s",
+        "60 ÷ 60 = 1 s"
+      ],
+      "id": "math/52.2",
+      "explain": "<p>Il y a 60 secondes par minute et 60 minutes par heure donc il y a <u>60 &times; 60 = 3 600</u> secondes par heure.</p>"
+    },
+    {
+      "question": "<p>Trouve la seule affirmation <u>fausse</u> parmi les phrases suivantes.</p>",
+      "choices": [
+        "Il y a 24 h dans une journée.",
+        "Il y a 60 secondes par minute.",
+        "*Une heure et demie vaut 60 min.",
+        "Un quart d'heure vaut 1/4 h = 0,25 h = 15 min."
+      ],
+      "id": "math/52.3",
+      "explain": "<p>Une heure et demie vaut 1,5 h = 1,5 &times; 60 = <u>90 min</u>.</p>"
+    },
+    {
+      "question": "<p>Trouve la seule affirmation <u>vraie</u> parmi les phrases suivantes.</p>",
+      "choices": [
+        "Une minute = 1/24ème de journée.",
+        "Une seconde = 1/60ème d'heure.",
+        "*Une seconde = 1/3600ème d'heure.",
+        "Une minute = 1/3600ème d'heure."
+      ],
+      "id": "math/52.4",
+      "explain": "<p>Les trois autres affirmations sont <u>fausses</u>.</p>\n<p>1/24 jour = 1/24 &times; 24 h = 1 h &ne; 1 min.<br />1 s = 1/60 min = 1/60 &times; 60 h = 1/3600 h.<br />1 min = 1/60 h.</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant d'exprimer <u>3 h 30 min</u> uniquement en <u>minutes</u> ?</p>",
+      "choices": [
+        "= 3 + 30 min",
+        "*= 3 × 60 + 30 min",
+        "= 3 + 30 × 30 min",
+        "= 3 × 30 + 30 × 30 min"
+      ],
+      "id": "math/52.5",
+      "explain": "<p>Une heure correspond &agrave; 60 minutes donc 3 h 30 min = <u>3 &times; 60 + 30 min</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant de convertir <u>5 h 59 min</u> en <u>minutes</u> ?</p>",
+      "choices": [
+        "= 5 + 59 min",
+        "*= 5 × 60 + 59 min",
+        "= 5 × 59 min",
+        "= 5 × 60 + 59 × 60 min"
+      ],
+      "id": "math/52.6",
+      "explain": "<p>Une heure correspond &agrave; 60 minutes donc 5 h 59 min = <u>5 &times; 60 + 59 min</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant de convertir <u>54 min 03 secondes</u> en <u>secondes</u> ?</p>",
+      "choices": [
+        "= 54 + 3 s",
+        "= 54 × 60 s",
+        "= 54 × 60 + 3 × 60 s",
+        "*= 54 × 60 + 3 s"
+      ],
+      "id": "math/52.7",
+      "explain": "<p>1 min = 60 s<br />54 min = 54 &times; 60 s.<br />Ainsi 54 min 03 s = <u>54 &times; 60 + 3 s</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant de convertir <u>2 h 18 min 42 secondes</u> en <u>secondes</u> ?</p>",
+      "choices": [
+        "= 2 + 18 + 42 s",
+        "= 2 × 60 × 60 + 18 + 42 s",
+        "= 2 × 60 + 18 × 3600 + 42 s",
+        "*= 2 × 3600 + 18 × 60 + 42 s"
+      ],
+      "id": "math/52.8",
+      "explain": "<p>1 min = 60 s donc 18 min = 18 &times; 60 s.<br />1 h = 3 600 s donc 2 h = 2 &times; 3600 s.<br />Ainsi 2 h 18 min 42 s = <u>2 &times; 3600 + 18 &times; 60 + 42 s</u>.</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant de convertir 180 secondes en minutes ?</p>",
+      "choices": [
+        "*180 s = 3 × 60 s = 3 min",
+        "180 s = 180 × 60 min",
+        "180 s = 180 ÷ 3600 min"
+      ],
+      "id": "math/52.9",
+      "explain": "<p>On effectue la <u>division euclidienne</u> de 180 par 60 pour passer des secondes aux minutes !</p>\n<p>Le quotient correspond aux minutes et le reste correspond aux secondes restantes.</p>\n<p>180 s = 3 &times; 60 s = 3 min</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant de convertir <u>127 secondes</u> en <u>minutes</u> ?</p>",
+      "choices": [
+        "*127 s = 2 × 60 + 7 s = 2 min 07 s",
+        "127 s = 1 × 60 + 67 s = 1 min 67 s",
+        "127 s = 180 ÷ 3600 min",
+        "127 s = 127 × 60 min"
+      ],
+      "id": "math/52.10",
+      "explain": "<p>On effectue la <u>division euclidienne</u> de 180 par 60 pour passer des secondes aux minutes !</p>\n<p>Le <u>quotient</u> correspond aux minutes et le <u>reste</u> correspond aux secondes restantes.</p>\n<p>Le reste doit &ecirc;tre compris entre <u>0</u> et <u>59</u>.</p>\n<p>127 s = 2 &times; 60 + 7 s = 2 min 07 s</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant de convertir <u>100 h</u> en <u>jours</u> ?</p>",
+      "choices": [
+        "*100 h = 4 × 24 + 4 h = 4 jr 4 h",
+        "100 h = 1 × 24 + 76 h = 1 jr 76 h",
+        "100 h = 1 × 60 + 40 h = 1 jr 40 h",
+        "100 h = 100 × 60 jr = 6 000 jr"
+      ],
+      "id": "math/52.11",
+      "explain": "<p>On effectue la <u>division euclidienne</u> de 100 par 24 pour passer des heures aux jours !</p>\n<p>Le <u>quotient</u> correspond aux jours et le <u>reste</u> correspond aux heures restantes.</p>\n<p>Le reste doit &ecirc;tre compris entre <u>0</u> et <u>23</u>.</p>\n<p>100 h = 4 &times; 24 + 4 h = 4 jr 4 h</p>"
+    },
+    {
+      "question": "<p>Quel est le calcul permettant de convertir <u>118 min</u> en <u>heures</u> ?</p>",
+      "choices": [
+        "*118 min = 1 × 60 + 58 min = 1 h 58 min",
+        "118 min = 118 × 60 h",
+        "118 min = 118 ÷ 24 h"
+      ],
+      "id": "math/52.12",
+      "explain": "<p>On effectue la <u>division euclidienne</u> de 118 par 60 pour passer des minutes aux heures !</p>\n<p>Le <u>quotient</u> correspond aux heures et le <u>reste</u> correspond aux minutes restantes.</p>\n<p>Le reste doit &ecirc;tre compris entre <u>0</u> et <u>59</u>.</p>\n<p>118 min = 1 &times; 60 + 58 min = 1 h 58 min</p>"
+    },
+    {
+      "question": "<p>Quelle expression correspond &agrave; l'<u>addition</u> de <u>4 h 06 min</u> et <u>20 min</u> ?</p>",
+      "choices": [
+        "* 4 h (6 + 20) min",
+        "(4 + 20) h (6 + 20) min",
+        "(4 + 20) h 06 min"
+      ],
+      "id": "math/52.13",
+      "explain": "<p>On <u>additionne</u> les heures ensemble puis les minutes ensemble ! Ici, il n'y a <u>pas</u> besoin de conversion car 6 + 20 = 26 <u>&lt;</u> 60.</p>"
+    },
+    {
+      "question": "<p>Quelle expression correspond &agrave; l'<u>addition</u> de <u>2 h 20 min</u> et <u>3 h 18 min</u> ?</p>",
+      "choices": [
+        "*(2 + 3) h (20 + 18) min",
+        "(2 + 20) h (3 + 18) min",
+        "(2 × 3) h (20 × 18) min"
+      ],
+      "id": "math/52.14",
+      "explain": "<p>On <u>additionne</u> les heures ensemble puis les minutes ensemble ! Ici, il n'y a <u>pas</u> besoin de conversion car 20 + 18 = 38 <u>&lt;</u> 60.</p>"
+    },
+    {
+      "question": "<p>Y a-t-il besoin de faire une conversion lorsqu'on calcule l'<u>addition</u> de <u>1 h 40 min</u> et <u>1 h 30 min</u> ?</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "id": "math/52.15",
+      "explain": "<p>On effectue une conversion des minutes lorsque le total des minutes d&eacute;passe 60. Ici c'est le cas car 40 + 30 = 70 <u>&gt;</u> 60 ! On doit faire une <u>conversion</u> !</p>"
+    },
+    {
+      "question": "<p>Quelle expression correspond &agrave; la <u>conversion</u> n&eacute;cessaire pour calculer 1 h 40 min <u>+</u> 1 h 30 min = (1 <u>+</u> 1) h (40 <u>+</u> 30) min ?</p>",
+      "choices": [
+        "*= 2 h (60 + 10) min = 3 h 10 min",
+        "= 2 h 70 min",
+        "= 1 h (60 + 70) min = 1 h 130 min"
+      ],
+      "id": "math/52.16",
+      "explain": "<p>On effectue une <u>conversion</u> afin de se ramener &agrave; un nombre de minutes compris entre 0 et 59. C'est pourquoi on convertit en calculant (<u>40 + 30</u>) min = 1 h 10 min.</p>"
+    },
+    {
+      "question": "<p>Y a-t-il besoin de faire une <u>conversion</u> lorsqu'on calcule l'<u>addition</u> de <u>2 h 05 min</u> et <u>1 h 53 min</u> ?</p>",
+      "choices": [
+        " Oui",
+        "*Non"
+      ],
+      "id": "math/52.17",
+      "explain": "<p>On effectue une conversion des minutes lorsque le total des minutes d&eacute;passe 60. Ici ce n'est pas le cas car 5 + 53 = 58 <u>&lt;</u> 60 ! On n'aura donc <u>pas</u> besoin de faire de conversion.<br />2 h 05 min + 1 h 53 min = (2 + 1) h (5 + 53) min = 3 h 58 min.</p>"
+    },
+    {
+      "question": "<p>Que vaut l'<u>addition</u> de <u>2 h 05 min</u> et <u>1 h 53 min</u> ?</p>",
+      "choices": [
+        "*= (2 + 1) h (5 + 53) min = 3 h 58 min",
+        "= (2 + 5) h (1 + 53) min = 7 h 54 min",
+        "= (2 - 1) h (5 + 53) min = 1 h 58 min"
+      ],
+      "id": "math/52.18",
+      "explain": "<p>On <u>additionne</u> les heures ensemble puis les minutes ensemble ! Ici, il n'y a <u>pas</u> besoin de conversion car 5 + 53 = 58 <u>&lt;</u> 60.</p>"
+    },
+    {
+      "question": "<p>Quel calcul correspond &agrave; la <u>soustraction</u> 7 h 31 min <u>-</u> 4 h 23 min ?</p>",
+      "choices": [
+        "*= (7 - 4) h (31 - 23) min = 3 h 8 min",
+        "= (7 - 4) h (23 - 31) min = 3 h -8 min",
+        "= (7 + 4) h (31 - 23) min = 11 h 8 min",
+        "= (7 + 4) h (31 + 23) min = 11 h 54 min"
+      ],
+      "id": "math/52.19",
+      "explain": "<p>On effectue la <u>soustraction </u>des minutes puis des heures <u>sans conversion</u> car toutes les soustractions donnent des nombres positifs.</p>"
+    },
+    {
+      "question": "<p>Y a-t-il besoin d'une <u>conversion</u> pour calculer 3 h 25 min <u>-</u> 1 h 50 min ?</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "id": "math/52.20",
+      "explain": "<p>3 h 25 min <u>-</u> 1 h 50 min = (3 <u>-</u> 1) h (25 <u>-</u> 50) min = 2 h -25 min.</p>\n<p>Il est <u>impossible</u> de laisser -25 min ! On a besoin d'une <u>conversion</u> pour &eacute;crire 2 h = 1 h 60 min.</p>\n<p>3 h 25 min <u>-</u> 1 h 50 min = 1 h (60 -25) min = 1 h 35 min.</p>"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 20,
+  "theme": "mesure",
+  "editor": "alexis.cunin@centrale-marseille.fr",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

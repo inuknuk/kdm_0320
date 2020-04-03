@@ -1,0 +1,372 @@
+{
+  "id": "hist/46",
+  "title": "Les difficultés de la monarchie sous Louis XVI",
+  "editor": "tbrethes@gmail.com",
+  "pages": [
+    "hist/46/1.htm",
+    "hist/46/2.htm",
+    "hist/46/3.htm",
+    "hist/46/4.htm",
+    "hist/46/5.htm",
+    "hist/46/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Depuis <u>Louis XIV</u>, la France est une <u>monarchie</u></p>",
+      "explain": "",
+      "choices": [
+        "*absolue de droit divin",
+        "parlementaire",
+        "relative",
+        "eclairée"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.28"
+    },
+    {
+      "question": "<p>Quelle est la situation de la France &agrave; la fin des ann&eacute;es 1780 ?</p>",
+      "explain": "",
+      "choices": [
+        "C'est une république",
+        "*Elle est en crise",
+        "Tout va bien",
+        "Elle est dirigée par le tiers état"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.2"
+    },
+    {
+      "question": "<p>Le roi peut <u>emprisonner</u> n'importe qui avec avec une</p>",
+      "explain": "",
+      "choices": [
+        "*lettre de cachet",
+        "lettre recommandée",
+        "lettre de dénonciation",
+        "lettre de motivation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.27"
+    },
+    {
+      "question": "<p>Quel roi est au pouvoir entre <u>1774 et 1792</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "Napoléon",
+        "Jules César",
+        "François Ier",
+        "Louis XIV",
+        "*Louis XVI"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.3"
+    },
+    {
+      "question": "<p>La France est touch&eacute;e par des difficult&eacute;s :</p>",
+      "explain": "",
+      "choices": [
+        "*Financières et sociales",
+        "Religieuses",
+        "Politiques",
+        "Mineures"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.4"
+    },
+    {
+      "question": "<p>Quelle est la situation financi&egrave;re de l'Etat ?</p>",
+      "explain": "",
+      "choices": [
+        "*Budget déficitaire",
+        "Budget excédentaire",
+        "Recettes supérieures aux dépenses",
+        "Dépenses égales aux recettes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.5"
+    },
+    {
+      "question": "<p>La France est une <u>soci&eacute;t&eacute; d'ordres</u>. C'est une societ&eacute;:</p>",
+      "explain": "",
+      "choices": [
+        "dans laquelle l'ordre règne",
+        "autoritaire",
+        "dirigée par un roi",
+        "*divisée en plusieurs categories de citoyens"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.32"
+    },
+    {
+      "question": "<p>Laquelle de ces propositions <u>n'est pas</u> un des <u>3 ordres</u> de la soci&eacute;t&eacute; d'Ancien R&eacute;gime</p>",
+      "explain": "",
+      "choices": [
+        "*la bourgeoisie",
+        "le clergé",
+        "la noblesse",
+        "Le tiers état"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.22"
+    },
+    {
+      "question": "<p><u>Les paysans</u> repr&eacute;sentent quel <u>pourcentage</u> de la population?</p>",
+      "explain": "",
+      "choices": [
+        "20%",
+        "50%",
+        "*80%",
+        "2%"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.23"
+    },
+    {
+      "question": "<p>Qui paie des <u>impots </u>en France?</p>",
+      "explain": "",
+      "choices": [
+        "*uniquement le tiers état",
+        "tout le monde selon ses revenus",
+        "les nobles et le clergé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.25"
+    },
+    {
+      "question": "<p>Les <u>impots </u>sont pay&eacute;s de maniere &eacute;quitable par la<u> noblesse, le clerg&eacute; et le tiers &eacute;tat</u></p>",
+      "explain": "",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.24"
+    },
+    {
+      "question": "<p>Les<u> paysans et les bourgeois</u> forment le<u> tiers &eacute;tat.</u></p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.21"
+    },
+    {
+      "question": "<p><u>La noblesse</u>&nbsp;repr&eacute;sentent quel <u>pourcentage</u> de la population?</p>",
+      "explain": "",
+      "choices": [
+        "20%",
+        "50%",
+        "80%",
+        "*1%"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.26"
+    },
+    {
+      "question": "<p>Le <u>bourgeois </u>sont ______ que les paysans.</p>",
+      "explain": "",
+      "choices": [
+        "*plus riches",
+        "moins riches"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.29"
+    },
+    {
+      "question": "<p>Qu'est-ce qui aggrave les <u>difficult&eacute;s financi&egrave;res</u> de la France ?</p>",
+      "explain": "",
+      "choices": [
+        "Les impôts payés par la noblesse et le clergé",
+        "*La participation à la guerre d'amérique",
+        "La guerre contre les protestants"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.6"
+    },
+    {
+      "question": "<p>Depuis le ann&eacute;es 1780, le <u>prix du pain</u> augmente beaucoup et les <u>r&eacute;coltes sont mauvaises </u>pour les paysans</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.30"
+    },
+    {
+      "question": "<p>La <u>nouvelle Constitution des Etats-Unis</u> contribue &agrave; la crise politique de l'Etat Fran&ccedil;ais.</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.7"
+    },
+    {
+      "question": "<p>Qui s'oppose en Am&eacute;rique ?</p>",
+      "explain": "",
+      "choices": [
+        "Les Français contre les Américains",
+        "Les catholiques contres les protestants",
+        "*Les colons anglais contre l'Angleterre",
+        "Les Indiens contres les colons"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.9"
+    },
+    {
+      "question": "<p>Quand a lieu la guerre d'ind&eacute;pendance en Am&eacute;rique ?</p>",
+      "explain": "",
+      "choices": [
+        "1515 - 1523",
+        "1675 - 1689",
+        "*1776 - 1783",
+        "1789 - 1804",
+        "1889 - 1914"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.10"
+    },
+    {
+      "question": "<p>Aux c&ocirc;t&eacute;s de qui la France intervient-elle en Am&eacute;rique ?</p>",
+      "explain": "",
+      "choices": [
+        "L'Angleterre",
+        "L'Espagne",
+        "*Les colons anglais d'Amérique",
+        "Les Indiens"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.11"
+    },
+    {
+      "question": "<p>Quel est le noble fran&ccedil;ais qui a qui a combattu aux c&ocirc;t&eacute;s des Am&eacute;ricains pendant la guerre d'ind&eacute;pendance?</p>",
+      "explain": "",
+      "choices": [
+        "*La Fayette",
+        "Necker",
+        "Comte de Broglie",
+        "Duc de Berry"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.31"
+    },
+    {
+      "question": "<p>Comment se termine la guerre d'independance de l'Am&eacute;rique ?</p>",
+      "explain": "",
+      "choices": [
+        "*L'Angleterre perd",
+        "L'Angleterre gagne",
+        "Les Indiens gagnent",
+        "Les colons d'Amérique perdent"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.12"
+    },
+    {
+      "question": "<p>Quel <u>r&eacute;gime politique</u> se met en place en Am&eacute;rique ?</p>",
+      "explain": "",
+      "choices": [
+        "Une monarchie absolue",
+        "*Une république",
+        "Une monarchie modérée"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.13"
+    },
+    {
+      "question": "<p>Dans le nouveau r&eacute;gime politique en Am&eacute;rique, les pouvoirs :</p>",
+      "explain": "",
+      "choices": [
+        "*Sont séparés",
+        "Sont aux mains d'un même groupe",
+        "Sont détenus par un roi"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.14"
+    },
+    {
+      "question": "<p>Le <u>pouvoir l&eacute;gislatif</u> consiste &agrave; :</p>",
+      "explain": "",
+      "choices": [
+        "*Faire les lois",
+        "Faire appliquer les lois",
+        "Juger si les lois sont correctement appliquées"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.15"
+    },
+    {
+      "question": "<p>Faire appliquer les lois correspond au pouvoir :</p>",
+      "explain": "",
+      "choices": [
+        "Législatif",
+        "Judiciaire",
+        "*Exécutif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.16"
+    },
+    {
+      "question": "<p>Qui souhaite <u>la fin des privil&egrave;ges</u> ?</p>",
+      "explain": "",
+      "choices": [
+        "Le clergé",
+        "La noblesse",
+        "*Le tiers état"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.18"
+    },
+    {
+      "question": "<p>Quels sont les aspirations du tiers &eacute;tat ?</p>",
+      "explain": "",
+      "choices": [
+        "La fin des ordres",
+        "Le maintien des privilèges",
+        "Davantage de libertés",
+        "L'égalité",
+        "Un impôt payé par tous"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "hist/46.19"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 32,
+  "theme": "4",
+  "level": [
+    "4"
+  ],
+  "status": "published"
+}

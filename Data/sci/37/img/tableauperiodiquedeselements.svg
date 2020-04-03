@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--	Created with Inkscape (http://www.inkscape.org/)
+	Reorganised with TEXT EDITOR (gedit or Bluefish under Ubuntu) ( Use tab's lenght : 6 ).
+
+┌──── W3C validation ────────────────────────────────────────────────────────────────────────────────────
+│
+│	Validation Output: 2 Warnings
+│
+│	Below is a list of the warning message(s) produced when checking your document.
+│
+│	Info : The Content-Type was image/svg+xml. Using the XML parser (not resolving external entities).
+│
+│	- ⚠ Line 37, Column 28: This validator does not validate Inkscape extensions properly.
+│	  Inkscape-specific errors may go unnoticed.
+│			width="1750" height="1090">
+│	- ⚠ Consider adding a lang attribute to the html start tag to declare the language of this document.
+│
+│	Congratulations
+│
+│	The uploaded document "Tableau périodique des éléments.svg" was successfully checked as SVG 1.1 + XHTML + MathML 3.0.
+│	This means that the resource in question identified itself as "SVG 1.1 + XHTML + MathML 3.0" and that we successfully performed
+│	a formal validation of it. The parser implementations we used for this check are based on Compound XML and libxml2 (XML).
+└───────────────────────────────────────────────────────────────────────────────────────────────────────── -->
+
+<svg id="svg2"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	sodipodi:version="0.32"
+	inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+	inkscape:output_extension="org.inkscape.output.svg.inkscape"
+	sodipodi:docname="Tableau_périodique_des_éléments.svg"
+	width="1750" height="1120">
+
+<!-- Version 4 css Noto Sans avec liens Wikipédia du 30/04/2018
+	DejaVu Sans : très mauvais rendu sur Commons (déjà en 1750 × 1090)
+	Nimbus Sans L
+  -->
+
+<title>Tableau périodique des éléments</title>
+
+  <defs id="defs5">
+    <marker id="Arrow2Mstart" inkscape:stockid="Arrow2Mstart" orient="auto" refY="0" refX="0" style="overflow:visible">
+		<path id="path4207" style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"   d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"   transform="scale(0.6,0.6)" />
+    </marker>
+    <marker id="Arrow2Send" inkscape:stockid="Arrow2Send" orient="auto" refY="0" refX="0" style="overflow:visible">
+		<path id="path4216" style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"   d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"   transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+
+    <style id="style10" type="text/css">
+<!--     Styles de TEXTE   :   T_ : text ; C_ : color | _S : small ; _s : smaller ; _M : medium   -->
+<!--     Styles de DESSIN  :   F_ : fill ; S_ : stroke -->
+
+	<![CDATA[
+		.T_title		{ font-size:36px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;line-height:100%;writing-mode:lr-tb;fill:black;fill-opacity:1;stroke:none;font-family:Noto Sans, Nimbus Sans L, sans-serif }
+
+		.T_start		{ font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;line-height:100%;writing-mode:lr-tb;fill:black;fill-opacity:1;stroke:none;font-family:Noto Sans, Nimbus Sans L, sans-serif }
+		.T_center		{ font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;line-height:100%;writing-mode:lr-tb;fill:black;fill-opacity:1;stroke:none;font-family:Noto Sans, Nimbus Sans L, sans-serif }
+		.T_end		{ font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;line-height:100%;writing-mode:lr-tb;fill:black;fill-opacity:1;stroke:none;font-family:Noto Sans, Nimbus Sans L, sans-serif }
+
+		.T_size_vs		{ font-size:11px }
+		.T_size_s		{ font-size:12px }
+		.T_size_S		{ font-size:13px }
+		.T_size_M		{ font-size:18px }
+		.T_size_L		{ font-size:28px }
+		.T_bold		{ font-weight:bold }
+
+		.C_gas		{ fill:Red  ;stroke:Red  ;stroke-width:0.3}
+		.C_liquid		{ fill:Blue }
+		.C_solid		{ fill:Black}
+		.C_undef		{ fill:#404040}
+		.C_historic		{ fill:#909090}
+
+		.F_OtherNM		{ fill:PaleGreen }
+		.F_AlkaliM		{ fill:#ff6666 }
+		.F_AlkEarth		{ fill:NavajoWhite }
+		.F_TransitM		{ fill:LightPink }
+		.F_Lanthan		{ fill:#ffbfff }
+		.F_Actinide		{ fill:#ff99cc }
+		.F_Metalloid	{ fill:#cccc99 }
+		.F_Halogen		{ fill:#ffff99 }
+		.F_PoorMetal	{ fill:LightGrey }
+		.F_NobleGas		{ fill:PaleTurquoise }
+		.F_NotClass		{ fill:WhiteSmoke }
+		.F_Legend		{ fill:#ebebeb }
+		.F_line		{ stroke:DimGrey;stroke-width:4px }
+
+		.S_Primord		{ stroke:Black;stroke-width:2  ;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none  }
+		.S_Radioact		{ stroke:Black;stroke-width:2  ;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 4 }
+		.S_Synthetic	{ stroke:Black;stroke-width:2  ;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray: 2, 2 }
+		.S_thin		{ stroke:Black;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none  }
+	]]>
+	</style>
+
+  </defs>
+
+  <rect id="R_Bkgd" style="fill:white;fill-opacity:1;stroke:none;display:inline" x="0" y="0" width="1750" height="1120" />
+  <g inkscape:groupmode="layer" id="indications" inkscape:label="indications" style="display:inline">
+<!-- Index des groupes ( chiffres arabes : recommandations UICPA ) -->
+	<g id="gIdxH" class="T_center T_size_M" xml:space="preserve">
+		<text id="T_IdxH1"  y="65"  x="100" >1</text>
+		<text id="T_IdxH2"  y="65"  x="190" >2</text>
+		<text id="T_IdxH3"  y="365" x="320" >3</text>
+		<text id="T_IdxH4"  y="365" x="410" >4</text>
+		<text id="T_IdxH5"  y="365" x="500" >5</text>
+		<text id="T_IdxH6"  y="365" x="590" >6</text>
+		<text id="T_IdxH7"  y="365" x="680" >7</text>
+		<text id="T_IdxH8"  y="365" x="770" >8</text>
+		<text id="T_IdxH9"  y="365" x="860" >9</text>
+		<text id="T_IdxH10" y="365" x="950" >10</text>
+		<text id="T_IdxH11" y="365" x="1040">11</text>
+		<text id="T_IdxH12" y="365" x="1130">12</text>
+		<text id="T_IdxH13" y="165" x="1220">13</text>
+		<text id="T_IdxH14" y="165" x="1310">14</text>
+		<text id="T_IdxH15" y="165" x="1400">15</text>
+		<text id="T_IdxH16" y="165" x="1490">16</text>
+		<text id="T_IdxH17" y="165" x="1580">17</text>
+		<text id="T_IdxH18" y="65"  x="1670">18</text>
+	</g>
+<!-- Index des groupes ( chiffres romains + lettre : historique ) -->
+	<g id="gIdxHl" class="T_center T_size_M C_historic" xml:space="preserve">
+		<text id="T_IdxHl1"  y="40"  x="100" >Ⅰ A</text>
+		<text id="T_IdxHl2"  y="40"  x="190" >Ⅱ A</text>
+		<text id="T_IdxHl3"  y="340" x="320" >Ⅲ A</text>
+		<text id="T_IdxHl4"  y="340" x="410" >Ⅳ A</text>
+		<text id="T_IdxHl5"  y="340" x="500" >Ⅴ A</text>
+		<text id="T_IdxHl6"  y="340" x="590" >Ⅵ A</text>
+		<text id="T_IdxHl7"  y="340" x="680" >Ⅶ A</text>
+		<text id="T_IdxHl9"  y="332" x="860" >Ⅷ</text>
+		<text id="T_IdxHl11" y="340" x="1040">Ⅰ B</text>
+		<text id="T_IdxHl12" y="340" x="1130">Ⅱ B</text>
+		<text id="T_IdxHl13" y="140" x="1220">Ⅲ B</text>
+		<text id="T_IdxHl14" y="140" x="1310">Ⅳ B</text>
+		<text id="T_IdxHl15" y="140" x="1400">Ⅴ B</text>
+		<text id="T_IdxHl16" y="140" x="1490">Ⅵ B</text>
+		<text id="T_IdxHl17" y="140" x="1580">Ⅶ B </text>
+		<text id="T_IdxHl18" y="40"  x="1670">O</text>
+	</g>
+	<!-- Index des périodes -->
+	<g id="gIdxP" class="T_center T_size_M" xml:space="preserve">
+		<text id="T_IdxP1" y="130" x="30">1</text>
+		<text id="T_IdxP2" y="230" x="30">2</text>
+		<text id="T_IdxP3" y="330" x="30">3</text>
+		<text id="T_IdxP4" y="430" x="30">4</text>
+		<text id="T_IdxP5" y="530" x="30">5</text>
+		<text id="T_IdxP6" y="630" x="30">6</text>
+		<text id="T_IdxP7" y="730" x="30">7</text>
+	</g>
+	<!-- Légende : cases -->
+	<g id="gd_legend">
+		<rect id="R_Metal" class="F_Legend"		x="60"   y="1020" width="630" height="20" />
+		<path id="L_Metal" class="F_line"		d="m 60,1040 h 630" />
+		<rect id="R_AlkM"  class="F_AlkaliM"	x="60"   y="1050" width="80" height="50" />
+		<rect id="R_AlkE"  class="F_AlkEarth"	x="170"  y="1050" width="80" height="50" />
+		<rect id="R_Lant"  class="F_Lanthan"	x="280"  y="1050" width="80" height="50" />
+		<rect id="R_Acti"  class="F_Actinide"	x="390"  y="1050" width="80" height="50" />
+		<rect id="R_Tran"  class="F_TransitM"	x="500"  y="1050" width="80" height="50" />
+		<rect id="R_Poor"  class="F_PoorMetal"	x="610"  y="1050" width="80" height="50" />
+		<rect id="R_Moid"  class="F_Metalloid"	x="720"  y="1050" width="80" height="50" />
+		<rect id="R_NonM"  class="F_Legend"		x="830"  y="1020" width="300" height="20" />
+		<path id="L_NonM"  class="F_line"		d="m 830,1040 h 300" />
+		<rect id="R_O_NM"  class="F_OtherNM"	x="830"  y="1050" width="80" height="50" />
+		<rect id="R_Halo"  class="F_Halogen"	x="940"  y="1050" width="80" height="50" />
+		<rect id="R_NblG"  class="F_NobleGas"	x="1050" y="1050" width="80" height="50" />
+		<rect id="R_Nocl"  class="F_NotClass"	x="1160" y="1050" width="80" height="50" />
+
+		<rect id="R_Prim" class="F_Legend S_Primord"	x="1400" y="1050" width="90" height="50" />
+		<rect id="R_RadA" class="F_Legend S_Radioact"	x="1510" y="1050" width="90" height="50" />
+		<rect id="R_Synt" class="F_Legend S_Synthetic"	x="1620" y="1050" width="90" height="50" />
+	</g>
+<!-- Flèches utilisées pour le tableau et la légende  -->
+	<g id="gArrow_Tbl"
+       style="fill:none;stroke:black;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow2Send)">
+		<path id="Arrow_Tbl1"   d="m 64,42 h 11" />
+		<path id="Arrow_Tbl2"   d="m 30,80 v 11" />
+	</g>
+	<path id="p_gr-8" d="m 730,352 7,-11 h 247 l 5,11"
+		style="fill:none;stroke:Black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4"/>
+	<g id="gArrow_Leg"
+		style="fill:none;stroke:Black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow2Mstart)">
+		<path id="Arrow_Leg1" d="m 240,190 h 20" />
+		<path id="Arrow_Leg2" d="m 240,206 h 20" />
+		<path id="Arrow_Leg3" d="m 240,228 h 20" />
+		<path id="Arrow_Leg4" d="m 240,260 h 20" />
+	</g>
+  </g>
+<!-- Dessin du tableau  -->
+  <g inkscape:groupmode="layer" id="cases" inkscape:label="cases" style="display:inline">
+	<g id="Dram" class="S_Legend S_Primord">
+		<rect id="R_e1"   class="F_OtherNM"				x="60"   y="80"  width="80"  height="90" />
+		<rect id="R_e2"   class="F_NobleGas"			x="1630" y="80"  width="80"  height="90" />
+		<rect id="R_e3"   class="F_AlkaliM"				x="60"   y="180" width="80"  height="90" />
+		<rect id="R_e4"   class="F_AlkEarth"			x="150"  y="180" width="80"  height="90" />
+		<rect id="R_e5"   class="F_Metalloid"			x="1180" y="180" width="80"  height="90" />
+		<rect id="R_e6"   class="F_OtherNM"				x="1270" y="180" width="80"  height="90" />
+		<rect id="R_e7"   class="F_OtherNM"				x="1360" y="180" width="80"  height="90" />
+		<rect id="R_e8"   class="F_OtherNM"				x="1450" y="180" width="80"  height="90" />
+		<rect id="R_e9"   class="F_Halogen"				x="1540" y="180" width="80"  height="90" />
+		<rect id="R_e10"  class="F_NobleGas"			x="1630" y="180" width="80"  height="90" />
+		<rect id="R_e11"  class="F_AlkaliM"				x="60"   y="280" width="80"  height="90" />
+		<rect id="R_e12"  class="F_AlkEarth"			x="150"  y="280" width="80"  height="90" />
+		<rect id="R_e13"  class="F_PoorMetal"			x="1180" y="280" width="80"  height="90" />
+		<rect id="R_e14"  class="F_Metalloid"			x="1270" y="280" width="80"  height="90" />
+		<rect id="R_e15"  class="F_OtherNM"				x="1360" y="280" width="80"  height="90" />
+		<rect id="R_e16"  class="F_OtherNM"				x="1450" y="280" width="80"  height="90" />
+		<rect id="R_e17"  class="F_Halogen"				x="1540" y="280" width="80"  height="90" />
+		<rect id="R_e18"  class="F_NobleGas"			x="1630" y="280" width="80"  height="90" />
+		<rect id="R_e19"  class="F_AlkaliM"				x="60"   y="380" width="80"  height="90" />
+		<rect id="R_e20"  class="F_AlkEarth"			x="150"  y="380" width="80"  height="90" />
+		<rect id="R_e21"  class="F_TransitM"			x="280"  y="380" width="80"  height="90" />
+		<rect id="R_e22"  class="F_TransitM"			x="370"  y="380" width="80"  height="90" />
+		<rect id="R_e23"  class="F_TransitM"			x="460"  y="380" width="80"  height="90" />
+		<rect id="R_e24"  class="F_TransitM"			x="550"  y="380" width="80"  height="90" />
+		<rect id="R_e25"  class="F_TransitM"			x="640"  y="380" width="80"  height="90" />
+		<rect id="R_e26"  class="F_TransitM"			x="730"  y="380" width="80"  height="90" />
+		<rect id="R_e27"  class="F_TransitM"			x="820"  y="380" width="80"  height="90" />
+		<rect id="R_e28"  class="F_TransitM"			x="910"  y="380" width="80"  height="90" />
+		<rect id="R_e29"  class="F_TransitM"			x="1000" y="380" width="80"  height="90" />
+		<rect id="R_e30"  class="F_PoorMetal"			x="1090" y="380" width="80"  height="90" />
+		<rect id="R_e31"  class="F_PoorMetal"			x="1180" y="380" width="80"  height="90" />
+		<rect id="R_e32"  class="F_Metalloid"			x="1270" y="380" width="80"  height="90" />
+		<rect id="R_e33"  class="F_Metalloid"			x="1360" y="380" width="80"  height="90" />
+		<rect id="R_e34"  class="F_OtherNM"				x="1450" y="380" width="80"  height="90" />
+		<rect id="R_e35"  class="F_Halogen"				x="1540" y="380" width="80"  height="90" />
+		<rect id="R_e36"  class="F_NobleGas"			x="1630" y="380" width="80"  height="90" />
+		<rect id="R_e37"  class="F_AlkaliM"				x="60"   y="480" width="80"  height="90" />
+		<rect id="R_e38"  class="F_AlkEarth"			x="150"  y="480" width="80"  height="90" />
+		<rect id="R_e39"  class="F_TransitM"			x="280"  y="480" width="80"  height="90" />
+		<rect id="R_e40"  class="F_TransitM"			x="370"  y="480" width="80"  height="90" />
+		<rect id="R_e41"  class="F_TransitM"			x="460"  y="480" width="80"  height="90" />
+		<rect id="R_e42"  class="F_TransitM"			x="550"  y="480" width="80"  height="90" />
+		<rect id="R_e43"  class="F_TransitM  S_Radioact"	x="640"  y="480" width="80"  height="90" />
+		<rect id="R_e44"  class="F_TransitM"			x="730"  y="480" width="80"  height="90" />
+		<rect id="R_e45"  class="F_TransitM"			x="820"  y="480" width="80"  height="90" />
+		<rect id="R_e46"  class="F_TransitM"			x="910"  y="480" width="80"  height="90" />
+		<rect id="R_e47"  class="F_TransitM"			x="1000" y="480" width="80"  height="90" />
+		<rect id="R_e48"  class="F_PoorMetal"			x="1090" y="480" width="80"  height="90" />
+		<rect id="R_e49"  class="F_PoorMetal"			x="1180" y="480" width="80"  height="90" />
+		<rect id="R_e50"  class="F_PoorMetal"			x="1270" y="480" width="80"  height="90" />
+		<rect id="R_e51"  class="F_Metalloid"			x="1360" y="480" width="80"  height="90" />
+		<rect id="R_e52"  class="F_Metalloid"			x="1450" y="480" width="80"  height="90" />
+		<rect id="R_e53"  class="F_Halogen"				x="1540" y="480" width="80"  height="90" />
+		<rect id="R_e54"  class="F_NobleGas"			x="1630" y="480" width="80"  height="90" />
+		<rect id="R_e55"  class="F_AlkaliM"				x="60"   y="580" width="80"  height="90" />
+		<rect id="R_e56"  class="F_AlkEarth"			x="150"  y="580" width="80"  height="90" />
+		<rect id="R_e57x" class="F_Lanthan   S_thin"		x="240"  y="580" width="120" height="90" />
+		<rect id="R_e57"  class="F_Lanthan"				x="370"  y="800" width="80"  height="90" />
+		<rect id="R_e58"  class="F_Lanthan"				x="460"  y="800" width="80"  height="90" />
+		<rect id="R_e59"  class="F_Lanthan"				x="550"  y="800" width="80"  height="90" />
+		<rect id="R_e60"  class="F_Lanthan"				x="640"  y="800" width="80"  height="90" />
+		<rect id="R_e61"  class="F_Lanthan   S_Radioact"	x="730"  y="800" width="80"  height="90" />
+		<rect id="R_e62"  class="F_Lanthan"				x="820"  y="800" width="80"  height="90" />
+		<rect id="R_e63"  class="F_Lanthan"				x="910"  y="800" width="80"  height="90" />
+		<rect id="R_e64"  class="F_Lanthan"				x="1000" y="800" width="80"  height="90" />
+		<rect id="R_e65"  class="F_Lanthan"				x="1090" y="800" width="80"  height="90" />
+		<rect id="R_e66"  class="F_Lanthan"				x="1180" y="800" width="80"  height="90" />
+		<rect id="R_e67"  class="F_Lanthan"				x="1270" y="800" width="80"  height="90" />
+		<rect id="R_e68"  class="F_Lanthan"				x="1360" y="800" width="80"  height="90" />
+		<rect id="R_e69"  class="F_Lanthan"				x="1450" y="800" width="80"  height="90" />
+		<rect id="R_e70"  class="F_Lanthan"				x="1540" y="800" width="80"  height="90" />
+		<rect id="R_e71"  class="F_Lanthan"				x="1630" y="800" width="80"  height="90" />
+		<rect id="R_e72"  class="F_TransitM"			x="370"  y="580" width="80"  height="90" />
+		<rect id="R_e73"  class="F_TransitM"			x="460"  y="580" width="80"  height="90" />
+		<rect id="R_e74"  class="F_TransitM"			x="550"  y="580" width="80"  height="90" />
+		<rect id="R_e75"  class="F_TransitM"			x="640"  y="580" width="80"  height="90" />
+		<rect id="R_e76"  class="F_TransitM"			x="730"  y="580" width="80"  height="90" />
+		<rect id="R_e77"  class="F_TransitM"			x="820"  y="580" width="80"  height="90" />
+		<rect id="R_e78"  class="F_TransitM"			x="910"  y="580" width="80"  height="90" />
+		<rect id="R_e79"  class="F_TransitM"			x="1000" y="580" width="80"  height="90" />
+		<rect id="R_e80"  class="F_PoorMetal"			x="1090" y="580" width="80"  height="90" />
+		<rect id="R_e81"  class="F_PoorMetal"			x="1180" y="580" width="80"  height="90" />
+		<rect id="R_e82"  class="F_PoorMetal"			x="1270" y="580" width="80"  height="90" />
+		<rect id="R_e83"  class="F_PoorMetal"			x="1360" y="580" width="80"  height="90" />
+		<rect id="R_e84"  class="F_PoorMetal S_Radioact"	x="1450" y="580" width="80"  height="90" />
+		<rect id="R_e85"  class="F_Metalloid S_Radioact"	x="1540" y="580" width="80"  height="90" />
+		<rect id="R_e86"  class="F_NobleGas  S_Radioact"	x="1630" y="580" width="80"  height="90" />
+		<rect id="R_e87"  class="F_AlkaliM   S_Radioact"	x="60"   y="680" width="80"  height="90" />
+		<rect id="R_e88"  class="F_AlkEarth  S_Radioact"	x="150"  y="680" width="80"  height="90" />
+		<rect id="R_e89x" class="F_Actinide  S_thin"		x="240"  y="680" width="120" height="90" />
+		<rect id="R_e89"  class="F_Actinide  S_Radioact"	x="370"  y="900" width="80"  height="90" />
+		<rect id="R_e90"  class="F_Actinide"			x="460"  y="900" width="80"  height="90" />
+		<rect id="R_e91"  class="F_Actinide  S_Radioact"	x="550"  y="900" width="80"  height="90" />
+		<rect id="R_e92"  class="F_Actinide"			x="640"  y="900" width="80"  height="90" />
+		<rect id="R_e93"  class="F_Actinide  S_Radioact"	x="730"  y="900" width="80"  height="90" />
+		<rect id="R_e94"  class="F_Actinide  S_Radioact"	x="820"  y="900" width="80"  height="90" />
+		<rect id="R_e95"  class="F_Actinide  S_Synthetic"	x="910"  y="900" width="80"  height="90" />
+		<rect id="R_e96"  class="F_Actinide  S_Synthetic"	x="1000" y="900" width="80"  height="90" />
+		<rect id="R_e97"  class="F_Actinide  S_Synthetic"	x="1090" y="900" width="80"  height="90" />
+		<rect id="R_e98"  class="F_Actinide  S_Synthetic"	x="1180" y="900" width="80"  height="90" />
+		<rect id="R_e99"  class="F_Actinide  S_Synthetic"	x="1270" y="900" width="80"  height="90" />
+		<rect id="R_e100" class="F_Actinide  S_Synthetic"	x="1360" y="900" width="80"  height="90" />
+		<rect id="R_e101" class="F_Actinide  S_Synthetic"	x="1450" y="900" width="80"  height="90" />
+		<rect id="R_e102" class="F_Actinide  S_Synthetic"	x="1540" y="900" width="80"  height="90" />
+		<rect id="R_e103" class="F_Actinide  S_Synthetic"	x="1630" y="900" width="80"  height="90" />
+		<rect id="R_e104" class="F_TransitM  S_Synthetic"	x="370"  y="680" width="80"  height="90" />
+		<rect id="R_e105" class="F_TransitM  S_Synthetic"	x="460"  y="680" width="80"  height="90" />
+		<rect id="R_e106" class="F_TransitM  S_Synthetic"	x="550"  y="680" width="80"  height="90" />
+		<rect id="R_e107" class="F_TransitM  S_Synthetic"	x="640"  y="680" width="80"  height="90" />
+		<rect id="R_e108" class="F_TransitM  S_Synthetic"	x="730"  y="680" width="80"  height="90" />
+		<rect id="R_e109" class="F_NotClass  S_Synthetic"	x="820"  y="680" width="80"  height="90" />
+		<rect id="R_e110" class="F_NotClass  S_Synthetic"	x="910"  y="680" width="80"  height="90" />
+		<rect id="R_e111" class="F_NotClass  S_Synthetic"	x="1000" y="680" width="80"  height="90" />
+		<rect id="R_e112" class="F_TransitM  S_Synthetic"	x="1090" y="680" width="80"  height="90" />
+		<rect id="R_e113" class="F_NotClass  S_Synthetic"	x="1180" y="680" width="80"  height="90" />
+		<rect id="R_e114" class="F_NotClass  S_Synthetic"	x="1270" y="680" width="80"  height="90" />
+		<rect id="R_e115" class="F_NotClass  S_Synthetic"	x="1360" y="680" width="80"  height="90" />
+		<rect id="R_e116" class="F_NotClass  S_Synthetic"	x="1450" y="680" width="80"  height="90" />
+		<rect id="R_e117" class="F_NotClass  S_Synthetic"	x="1540" y="680" width="80"  height="90" />
+		<rect id="R_e118" class="F_NotClass  S_Synthetic"	x="1630" y="680" width="80"  height="90" />
+<!-- Flèche de redirection des lanthanides -->
+		<path id="A_e57x" class="F_Lanthan S_thin"
+			d="M 369,845 361,837 361,842 350,842 350,670 340,670 340,848 361,848 361,853 z" />
+<!-- Flèche de redirection des actinides -->
+		<path id="A_e89x" class="F_Actinide S_thin"
+			d="M 369,945 361,937 361,942 310,942 310,770 300,770 300,948 361,948 361,953 z" />
+	</g>
+  </g>
+  <g inkscape:groupmode="layer" id="elements_x" inkscape:label="elements_x" xml:space="preserve" style="display:inline">
+<!-- Données des éléments ( non liées à une langue particulière ) ⑴⑵⑶⑷⑸⑹⑺⑻⑼ ①②③④⑤⑥⑦⑧⑨-->
+	<g id="Te_numb" class="T_center T_size_M T_bold">
+		<text id="T_e1n"	x="100"  y="112" class="C_gas"	>1</text>
+		<text id="T_e2n"	x="1670" y="112" class="C_gas"	>2</text>
+		<text id="T_e3n"	x="100"  y="212" >3</text>
+		<text id="T_e4n"	x="190"  y="212" >4</text>
+		<text id="T_e5n"	x="1220" y="212" >5</text>
+		<text id="T_e6n"	x="1310" y="212" >6</text>
+		<text id="T_e7n"	x="1400" y="212" class="C_gas"	>7</text>
+		<text id="T_e8n"	x="1490" y="212" class="C_gas"	>8</text>
+		<text id="T_e9n"	x="1580" y="212" class="C_gas"	>9</text>
+		<text id="T_e10n"	x="1670" y="212" class="C_gas"	>10</text>
+		<text id="T_e11n"	x="100"  y="312" >11</text>
+		<text id="T_e12n"	x="190"  y="312" >12</text>
+		<text id="T_e13n"	x="1220" y="312" >13</text>
+		<text id="T_e14n"	x="1310" y="312" >14</text>
+		<text id="T_e15n"	x="1400" y="312" >15</text>
+		<text id="T_e16n"	x="1490" y="312" >16</text>
+		<text id="T_e17n"	x="1580" y="312" class="C_gas"	>17</text>
+		<text id="T_e18n"	x="1670" y="312" class="C_gas"	>18</text>
+		<text id="T_e19n"	x="100"  y="412" >19</text>
+		<text id="T_e20n"	x="190"  y="412" >20</text>
+		<text id="T_e21n"	x="320"  y="412" >21</text>
+		<text id="T_e22n"	x="410"  y="412" >22</text>
+		<text id="T_e23n"	x="500"  y="412" >23</text>
+		<text id="T_e24n"	x="590"  y="412" >24</text>
+		<text id="T_e25n"	x="680"  y="412" >25</text>
+		<text id="T_e26n"	x="770"  y="412" >26</text>
+		<text id="T_e27n"	x="860"  y="412" >27</text>
+		<text id="T_e28n"	x="950"  y="412" >28</text>
+		<text id="T_e29n"	x="1040" y="412" >29</text>
+		<text id="T_e30n"	x="1130" y="412" >30</text>
+		<text id="T_e31n"	x="1220" y="412" >31</text>
+		<text id="T_e32n"	x="1310" y="412" >32</text>
+		<text id="T_e33n"	x="1400" y="412" >33</text>
+		<text id="T_e34n"	x="1490" y="412" >34</text>
+		<text id="T_e35n"	x="1580" y="412" class="C_liquid"	>35</text>
+		<text id="T_e36n"	x="1670" y="412" class="C_gas"	>36</text>
+		<text id="T_e37n"	x="100"  y="512" >37</text>
+		<text id="T_e38n"	x="190"  y="512" >38</text>
+		<text id="T_e39n"	x="320"  y="512" >39</text>
+		<text id="T_e40n"	x="410"  y="512" >40</text>
+		<text id="T_e41n"	x="500"  y="512" >41</text>
+		<text id="T_e42n"	x="590"  y="512" >42</text>
+		<text id="T_e43n"	x="680"  y="512" >43</text>
+		<text id="T_e44n"	x="770"  y="512" >44</text>
+		<text id="T_e45n"	x="860"  y="512" >45</text>
+		<text id="T_e46n"	x="950"  y="512" >46</text>
+		<text id="T_e47n"	x="1040" y="512" >47</text>
+		<text id="T_e48n"	x="1130" y="512" >48</text>
+		<text id="T_e49n"	x="1220" y="512" >49</text>
+		<text id="T_e50n"	x="1310" y="512" >50</text>
+		<text id="T_e51n"	x="1400" y="512" >51</text>
+		<text id="T_e52n"	x="1490" y="512" >52</text>
+		<text id="T_e53n"	x="1580" y="512" >53</text>
+		<text id="T_e54n"	x="1670" y="512" class="C_gas"	>54</text>
+		<text id="T_e55n"	x="100"  y="612" >55</text>
+		<text id="T_e56n"	x="190"  y="612" >56</text>
+		<text id="T_e57x" x="300"  y="630" class="T_center"	>57‒71</text>
+		<text id="T_e57n"	x="410"  y="832" >57</text>
+		<text id="T_e58n"	x="500"  y="832" >58</text>
+		<text id="T_e59n"	x="590"  y="832" >59</text>
+		<text id="T_e60n"	x="680"  y="832" >60</text>
+		<text id="T_e61n"	x="770"  y="832" >61</text>
+		<text id="T_e62n"	x="860"  y="832" >62</text>
+		<text id="T_e63n"	x="950"  y="832" >63</text>
+		<text id="T_e64n"	x="1040" y="832" >64</text>
+		<text id="T_e65n"	x="1130" y="832" >65</text>
+		<text id="T_e66n"	x="1220" y="832" >66</text>
+		<text id="T_e67n"	x="1310" y="832" >67</text>
+		<text id="T_e68n"	x="1400" y="832" >68</text>
+		<text id="T_e69n"	x="1490" y="832" >69</text>
+		<text id="T_e70n"	x="1580" y="832" >70</text>
+		<text id="T_e71n"	x="1670" y="832" >71</text>
+		<text id="T_e72n"	x="410"  y="612" >72</text>
+		<text id="T_e73n"	x="500"  y="612" >73</text>
+		<text id="T_e74n"	x="590"  y="612" >74</text>
+		<text id="T_e75n"	x="680"  y="612" >75</text>
+		<text id="T_e76n"	x="770"  y="612" >76</text>
+		<text id="T_e77n"	x="860"  y="612" >77</text>
+		<text id="T_e78n"	x="950"  y="612" >78</text>
+		<text id="T_e79n"	x="1040" y="612" >79</text>
+		<text id="T_e81n"	x="1220" y="612" >81</text>
+		<text id="T_e82n"	x="1310" y="612" >82</text>
+		<text id="T_e83n"	x="1400" y="612" >83</text>
+		<text id="T_e84n"	x="1490" y="612" >84</text>
+		<text id="T_e85n"	x="1580" y="612" >85</text>
+		<text id="T_e80n"	x="1130" y="612" class="C_liquid"	>80</text>
+		<text id="T_e86n"	x="1670" y="612" class="C_gas"	>86</text>
+		<text id="T_e87n"	x="100"  y="712" >87</text>
+		<text id="T_e88n"	x="190"  y="712" >88</text>
+		<text id="T_e89x"	x="300"  y="730" class="T_center"	>89‒103</text>
+		<text id="T_e89n"	x="410"  y="932" >89</text>
+		<text id="T_e90n"	x="500"  y="932" >90</text>
+		<text id="T_e91n"	x="590"  y="932" >91</text>
+		<text id="T_e92n"	x="680"  y="932" >92</text>
+		<text id="T_e93n"	x="770"  y="932" >93</text>
+		<text id="T_e94n"	x="860"  y="932" >94</text>
+		<text id="T_e95n"	x="950"  y="932" >95</text>
+		<text id="T_e96n"	x="1040" y="932" >96</text>
+		<text id="T_e97n"	x="1130" y="932" >97</text>
+		<text id="T_e98n"	x="1220" y="932" >98</text>
+		<text id="T_e99n"	x="1310" y="932" >99</text>
+		<text id="T_e100n" x="1400" y="932" >100</text>
+		<text id="T_e101n" x="1490" y="932" >101</text>
+		<text id="T_e102n" x="1580" y="932" >102</text>
+		<text id="T_e103n" x="1670" y="932" >103</text>
+		<g id="T_en_undef" class="C_undef">
+			<text id="T_e104n" x="410"  y="712" >104</text>
+			<text id="T_e105n" x="500"  y="712" >105</text>
+			<text id="T_e106n" x="590"  y="712" >106</text>
+			<text id="T_e107n" x="680"  y="712" >107</text>
+			<text id="T_e108n" x="770"  y="712" >108</text>
+			<text id="T_e109n" x="860"  y="712" >109</text>
+			<text id="T_e110n" x="950"  y="712" >110</text>
+			<text id="T_e111n" x="1040" y="712" >111</text>
+			<text id="T_e112n" x="1130" y="712" >112</text>
+			<text id="T_e113n" x="1220" y="712" >113</text>
+			<text id="T_e114n" x="1310" y="712" >114</text>
+			<text id="T_e115n" x="1400" y="712" >115</text>
+			<text id="T_e116n" x="1490" y="712" >116</text>
+			<text id="T_e117n" x="1580" y="712" >117</text>
+			<text id="T_e118n" x="1670" y="712" >118</text>
+		</g>
+	</g>
+
+	<g id="Te_symb" class="T_center T_size_L  T_bold">
+		<text id="T_e1s"	x="100"  y="138" class="C_gas">H</text>
+		<text id="T_e2s"	x="1670" y="138" class="C_gas">He</text>
+		<text id="T_e3s"	x="100"  y="238" >Li</text>
+		<text id="T_e4s"	x="190"  y="238" >Be</text>
+		<text id="T_e5s"	x="1220" y="238" >B</text>
+		<text id="T_e6s"	x="1310" y="238" >C</text>
+		<text id="T_e7s"	x="1400" y="238" class="C_gas">N</text>
+		<text id="T_e8s"	x="1490" y="238" class="C_gas">O</text>
+		<text id="T_e9s"	x="1580" y="238" class="C_gas">F</text>
+		<text id="T_e10s"	x="1670" y="238" class="C_gas">Ne</text>
+		<text id="T_e11s"	x="100"  y="338" >Na</text>
+		<text id="T_e12s"	x="190"  y="338" >Mg</text>
+		<text id="T_e13s"	x="1220" y="338" >Al</text>
+		<text id="T_e14s"	x="1310" y="338" >Si</text>
+		<text id="T_e15s"	x="1400" y="338" >P</text>
+		<text id="T_e16s"	x="1490" y="338" >S</text>
+		<text id="T_e17s"	x="1580" y="338" class="C_gas">Cl</text>
+		<text id="T_e18s"	x="1670" y="338" class="C_gas">Ar</text>
+		<text id="T_e19s"	x="100"  y="438" >K</text>
+		<text id="T_e20s"	x="190"  y="438" >Ca</text>
+		<text id="T_e21s"	x="320"  y="438" >Sc</text>
+		<text id="T_e22s"	x="410"  y="438" >Ti</text>
+		<text id="T_e23s"	x="500"  y="438" >V</text>
+		<text id="T_e24s"	x="590"  y="438" >Cr</text>
+		<text id="T_e25s"	x="680"  y="438" >Mn</text>
+		<text id="T_e26s"	x="770"  y="438" >Fe</text>
+		<text id="T_e27s"	x="860"  y="438" >Co</text>
+		<text id="T_e28s"	x="950"  y="438" >Ni</text>
+		<text id="T_e29s"	x="1040" y="438" >Cu</text>
+		<text id="T_e30s"	x="1130" y="438" >Zn</text>
+		<text id="T_e31s"	x="1220" y="438" >Ga</text>
+		<text id="T_e32s"	x="1310" y="438" >Ge</text>
+		<text id="T_e33s"	x="1400" y="438" >As</text>
+		<text id="T_e34s"	x="1490" y="438" >Se</text>
+		<text id="T_e35s"	x="1580" y="438" class="C_liquid">Br</text>
+		<text id="T_e36s"	x="1670" y="438" class="C_gas">Kr</text>
+		<text id="T_e37s"	x="100"  y="538" >Rb</text>
+		<text id="T_e38s"	x="190"  y="538" >Sr</text>
+		<text id="T_e39s"	x="320"  y="538" >Y</text>
+		<text id="T_e40s"	x="410"  y="538" >Zr</text>
+		<text id="T_e41s"	x="500"  y="538" >Nb</text>
+		<text id="T_e42s"	x="590"  y="538" >Mo</text>
+		<text id="T_e43s"	x="680"  y="538" >Tc</text>
+		<text id="T_e44s"	x="770"  y="538" >Ru</text>
+		<text id="T_e45s"	x="860"  y="538" >Rh</text>
+		<text id="T_e46s"	x="950"  y="538" >Pd</text>
+		<text id="T_e47s"	x="1040" y="538" >Ag</text>
+		<text id="T_e48s"	x="1130" y="538" >Cd</text>
+		<text id="T_e49s"	x="1220" y="538" >In</text>
+		<text id="T_e50s"	x="1310" y="538" >Sn</text>
+		<text id="T_e51s"	x="1400" y="538" >Sb</text>
+		<text id="T_e52s"	x="1490" y="538" >Te</text>
+		<text id="T_e53s"	x="1580" y="538" >I</text>
+		<text id="T_e54s"	x="1670" y="538" class="C_gas">Xe</text>
+		<text id="T_e55s"	x="100"  y="638" >Cs</text>
+		<text id="T_e56s"	x="190"  y="638" >Ba</text>
+		<text id="T_e57s"	x="410"  y="858" >La</text>
+		<text id="T_e58s"	x="500"  y="858" >Ce</text>
+		<text id="T_e59s"	x="590"  y="858" >Pr</text>
+		<text id="T_e60s"	x="680"  y="858" >Nd</text>
+		<text id="T_e61s"	x="770"  y="858" >Pm</text>
+		<text id="T_e62s"	x="860"  y="858" >Sm</text>
+		<text id="T_e63s"	x="950"  y="858" >Eu</text>
+		<text id="T_e64s"	x="1040" y="858" >Gd</text>
+		<text id="T_e65s"	x="1130" y="858" >Tb</text>
+		<text id="T_e66s"	x="1220" y="858" >Dy</text>
+		<text id="T_e67s"	x="1310" y="858" >Ho</text>
+		<text id="T_e68s"	x="1400" y="858" >Er</text>
+		<text id="T_e69s"	x="1490" y="858" >Tm</text>
+		<text id="T_e70s"	x="1580" y="858" >Yb</text>
+		<text id="T_e71s"	x="1670" y="858" >Lu</text>
+		<text id="T_e85s"	x="1580" y="638" >At</text>
+		<text id="T_e72s"	x="410"  y="638" >Hf</text>
+		<text id="T_e73s"	x="500"  y="638" >Ta</text>
+		<text id="T_e74s"	x="590"  y="638" >W</text>
+		<text id="T_e75s"	x="680"  y="638" >Re</text>
+		<text id="T_e76s"	x="770"  y="638" >Os</text>
+		<text id="T_e77s"	x="860"  y="638" >Ir</text>
+		<text id="T_e78s"	x="950"  y="638" >Pt</text>
+		<text id="T_e79s"	x="1040" y="638" >Au</text>
+		<text id="T_e80s"	x="1130" y="638" class="C_liquid">Hg</text>
+		<text id="T_e81s"	x="1220" y="638" >Tl</text>
+		<text id="T_e82s"	x="1310" y="638" >Pb</text>
+		<text id="T_e83s"	x="1400" y="638" >Bi</text>
+		<text id="T_e84s"	x="1490" y="638" >Po</text>
+		<text id="T_e86s"	x="1670" y="638" class="C_gas">Rn</text>
+		<text id="T_e87s"	x="100"  y="738" >Fr</text>
+		<text id="T_e88s"	x="190"  y="738" >Ra</text>
+		<text id="T_e89s"	x="410"  y="958" >Ac</text>
+		<text id="T_e90s"	x="500"  y="958" >Th</text>
+		<text id="T_e91s"	x="590"  y="958" >Pa</text>
+		<text id="T_e92s"	x="680"  y="958" >U</text>
+		<text id="T_e93s"	x="770"  y="958" >Np</text>
+		<text id="T_e94s"	x="860"  y="958" >Pu</text>
+		<text id="T_e95s"	x="950"  y="958" >Am</text>
+		<text id="T_e96s"	x="1040" y="958" >Cm</text>
+		<text id="T_e97s"	x="1130" y="958" >Bk</text>
+		<text id="T_e98s"	x="1220" y="958" >Cf</text>
+		<text id="T_e99s"	x="1310" y="958" >Es</text>
+		<text id="T_e100s" x="1400" y="958" >Fm</text>
+		<text id="T_e101s" x="1490" y="958" >Md</text>
+		<text id="T_e102s" x="1580" y="958" >No</text>
+		<text id="T_e103s" x="1670" y="958" >Lr</text>
+		<g id="Te_s_undef" class="C_undef">
+			<text id="T_e104s" x="410"  y="738" >Rf</text>
+			<text id="T_e105s" x="500"  y="738" >Db</text>
+			<text id="T_e106s" x="590"  y="738" >Sg</text>
+			<text id="T_e107s" x="680"  y="738" >Bh</text>
+			<text id="T_e108s" x="770"  y="738" >Hs</text>
+			<text id="T_e109s" x="860"  y="738" >Mt</text>
+			<text id="T_e110s" x="950"  y="738" >Ds</text>
+			<text id="T_e111s" x="1040" y="738" >Rg</text>
+			<text id="T_e112s" x="1130" y="738" >Cn</text>
+			<text id="T_e113s" x="1220" y="738" >Nh</text>
+			<text id="T_e114s" x="1310" y="738" >Fl</text>
+			<text id="T_e115s" x="1400" y="738" >Mc</text>
+			<text id="T_e116s" x="1490" y="738" >Lv</text>
+			<text id="T_e117s" x="1580" y="738" >Ts</text>
+			<text id="T_e118s" x="1670" y="738" >Og</text>
+		</g>
+	</g>
+
+	<g id="Te_mass" class="T_center T_size_S ">
+
+		<text id="T_e1m"	x="100"  y="164">1,007975</text>
+		<text id="T_e2m"	x="1670" y="164">4,002602</text>
+		<text id="T_e3m"	x="100"  y="264">6,9395</text>
+		<text id="T_e4m"	x="190"  y="264">9,0121831</text>
+		<text id="T_e5m"	x="1220" y="264">10,8135</text>
+		<text id="T_e6m"	x="1310" y="264">12,0106</text>
+		<text id="T_e7m"	x="1400" y="264">14,006855</text>
+		<text id="T_e8m"	x="1490" y="264">15,99940</text>
+		<text id="T_e9m"	x="1580" y="264">18,99840316</text>
+		<text id="T_e10m"	x="1670" y="264">20,1797 ⑹</text>
+		<text id="T_e11m"	x="100"  y="364">22,98976928</text>
+		<text id="T_e12m"	x="190"  y="364">24,3055</text>
+		<text id="T_e13m"	x="1220" y="364">26,9815385</text>
+		<text id="T_e14m"	x="1310" y="364">28,085 ⑴</text>
+		<text id="T_e15m"	x="1400" y="364">30,97376200</text>
+		<text id="T_e16m"	x="1490" y="364">32,0675</text>
+		<text id="T_e17m"	x="1580" y="364">35,4515</text>
+		<text id="T_e18m"	x="1670" y="364">39,948 ⑴</text>
+		<text id="T_e19m"	x="100"  y="464">39,0983 ⑴</text>
+		<text id="T_e20m"	x="190"  y="464">40,078 ⑷</text>
+		<text id="T_e21m"	x="320"  y="464">44,955908 ⑸</text>
+		<text id="T_e22m"	x="410"  y="464">47,867 ⑴</text>
+		<text id="T_e23m"	x="500"  y="464">50,9415 ⑴</text>
+		<text id="T_e24m"	x="590"  y="464">51,9961 ⑹</text>
+		<text id="T_e25m"	x="680"  y="464">54,938044</text>
+		<text id="T_e26m"	x="770"  y="464">55,845 ⑵</text>
+		<text id="T_e27m"	x="860"  y="464">58,933194</text>
+		<text id="T_e28m"	x="950"  y="464">58,6934 ⑷</text>
+		<text id="T_e29m"	x="1040" y="464">63,546 ⑶</text>
+		<text id="T_e30m"	x="1130" y="464">65,38 ⑵</text>
+		<text id="T_e31m"	x="1220" y="464">69,723 ⑴</text>
+		<text id="T_e32m"	x="1310" y="464">72,630 ⑻</text>
+		<text id="T_e33m"	x="1400" y="464">74,921595</text>
+		<text id="T_e34m"	x="1490" y="464">78,971 ⑻</text>
+		<text id="T_e35m"	x="1580" y="464">79,904</text>
+		<text id="T_e36m"	x="1670" y="464">83,798 ⑵</text>
+		<text id="T_e37m"	x="100"  y="564">85,4678 ⑶</text>
+		<text id="T_e38m"	x="190"  y="564">87,62 ⑴</text>
+		<text id="T_e39m"	x="320"  y="564">88,90584</text>
+		<text id="T_e40m"	x="410"  y="564">91,224 ⑵</text>
+		<text id="T_e41m"	x="500"  y="564">92,90637</text>
+		<text id="T_e42m"	x="590"  y="564">95,95 ⑴</text>
+		<text id="T_e43m"	x="680"  y="564">[98]</text>
+		<text id="T_e44m"	x="770"  y="564">101,07 ⑵</text>
+		<text id="T_e45m"	x="860"  y="564">102,90550</text>
+		<text id="T_e46m"	x="950"  y="564">106,42 ⑴</text>
+		<text id="T_e47m"	x="1040" y="564">107,8682 ⑵</text>
+		<text id="T_e48m"	x="1130" y="564">112,414 ⑷</text>
+		<text id="T_e49m"	x="1220" y="564">114,818 ⑴</text>
+		<text id="T_e50m"	x="1310" y="564">118,710 ⑺</text>
+		<text id="T_e51m"	x="1400" y="564">121,760 ⑴</text>
+		<text id="T_e52m"	x="1490" y="564">127,60 ⑶</text>
+		<text id="T_e53m"	x="1580" y="564">126,90447</text>
+		<text id="T_e54m"	x="1670" y="564">131,293 ⑹</text>
+		<text id="T_e55m"	x="100"  y="664">132,905452</text>
+		<text id="T_e56m"	x="190"  y="664">137,327 ⑺</text>
+		<text id="T_e57m"	x="410"  y="884">138,90547</text>
+		<text id="T_e58m"	x="500"  y="884">140,116 ⑴</text>
+		<text id="T_e59m"	x="590"  y="884">140,90766</text>
+		<text id="T_e60m"	x="680"  y="884">144,242 ⑶</text>
+		<text id="T_e61m"	x="770"  y="884">[145]</text>
+		<text id="T_e62m"	x="860"  y="884">150,36 ⑵</text>
+		<text id="T_e63m"	x="950"  y="884">151,964 ⑴</text>
+		<text id="T_e64m"	x="1040" y="884">157,25 ⑶</text>
+		<text id="T_e65m"	x="1130" y="884">158,92535</text>
+		<text id="T_e66m"	x="1220" y="884">162,500 ⑴</text>
+		<text id="T_e67m"	x="1310" y="884">164,93033</text>
+		<text id="T_e68m"	x="1400" y="884">167,259 ⑶</text>
+		<text id="T_e69m"	x="1490" y="884">168,93422</text>
+		<text id="T_e70m"	x="1580" y="884">173,045</text>
+		<text id="T_e71m"	x="1670" y="884">174,9668</text>
+		<text id="T_e72m"	x="410"  y="664">178,49 ⑵</text>
+		<text id="T_e73m"	x="500"  y="664">180,94788</text>
+		<text id="T_e74m"	x="590"  y="664">183,84 ⑴</text>
+		<text id="T_e75m"	x="680"  y="664">186,207 ⑴</text>
+		<text id="T_e76m"	x="770"  y="664">190,23 ⑶</text>
+		<text id="T_e77m"	x="860"  y="664">192,217 ⑶</text>
+		<text id="T_e78m"	x="950"  y="664">195,084 ⑼</text>
+		<text id="T_e79m"	x="1040" y="664">196,966569</text>
+		<text id="T_e80m"	x="1130" y="664">200,592 ⑶</text>
+		<text id="T_e81m"	x="1220" y="664">204,3835</text>
+		<text id="T_e82m"	x="1310" y="664">207,2 ⑴</text>
+		<text id="T_e83m"	x="1400" y="664">208,98040</text>
+		<text id="T_e84m"	x="1490" y="664">[209]</text>
+		<text id="T_e85m"	x="1580" y="664">[210]</text>
+		<text id="T_e86m"	x="1670" y="664">[222]</text>
+		<text id="T_e87m"	x="100"  y="764">[223]</text>
+		<text id="T_e88m"	x="190"  y="764">[226]</text>
+		<text id="T_e89m"	x="410"  y="984">[227]</text>
+		<text id="T_e90m"	x="500"  y="984">232,0377</text>
+		<text id="T_e91m"	x="590"  y="984">231,03588</text>
+		<text id="T_e92m"	x="680"  y="984">238,02891</text>
+		<text id="T_e93m"	x="770"  y="984">[237]</text>
+		<text id="T_e94m"	x="860"  y="984">[244]</text>
+		<text id="T_e95m"	x="950"  y="984">[243]</text>
+		<text id="T_e96m"	x="1040" y="984">[247]</text>
+		<text id="T_e97m"	x="1130" y="984">[247]</text>
+		<text id="T_e98m"	x="1220" y="984">[251]</text>
+		<text id="T_e99m"	x="1310" y="984">[252]</text>
+		<text id="T_e100m" x="1400" y="984">[257]</text>
+		<text id="T_e101m" x="1490" y="984">[258]</text>
+		<text id="T_e102m" x="1580" y="984">[259]</text>
+		<text id="T_e103m" x="1670" y="984">[266]</text>
+		<g id="Te_m_undef" class="C_undef">
+			<text id="T_e104m" x="410"  y="764">[267]</text>
+			<text id="T_e105m" x="500"  y="764">[268]</text>
+			<text id="T_e106m" x="590"  y="764">[269]</text>
+			<text id="T_e107m" x="680"  y="764">[270]</text>
+			<text id="T_e108m" x="770"  y="764">[277]</text>
+			<text id="T_e109m" x="860"  y="764">[278]</text>
+			<text id="T_e110m" x="950"  y="764">[281]</text>
+			<text id="T_e111m" x="1040" y="764">[282]</text>
+			<text id="T_e112m" x="1130" y="764">[285]</text>
+			<text id="T_e113m" x="1220" y="764">[286]</text>
+			<text id="T_e114m" x="1310" y="764">[289]</text>
+			<text id="T_e115m" x="1400" y="764">[289]</text>
+			<text id="T_e116m" x="1490" y="764">[293]</text>
+			<text id="T_e117m" x="1580" y="764">[294]</text>
+			<text id="T_e118m" x="1670" y="764">[294]</text>
+		</g>
+	</g>
+	<a href="http://www.ciaaw.org/atomic-weights.htm" xlink:show="new">
+		<text id="T_leg_4b" x="370" y="280" class="T_start T_size_S">[ CIAAW "Atomic Weights 2013" + rev. 2015 ]</text>
+	</a>
+	<g id="HLink" style="fill:LightSlateGrey;stroke:none" transform="translate(352,270)">
+		<path id="HLink_a"
+			d="M 8.42,7.68 11.1,4.99 C 11.4,4.69 13,2.77 11.1,0.9 9.22,-1 7.36,0.6 7.06,0.9 L 5.12,2.79 c 0.7,-0.16 1.41,-0.1 1.86,0.2 L 8.06,1.9 c 0.26,-0.3 1.11,-0.8 1.94,0 0.9,0.87 0.2,1.89 0,2.05 L 7.4,6.68 C 6.55,7.58 5.53,6.88 5.33,6.68 5.13,6.52 4.93,6.11 4.93,5.99 l -1.1,0.99 c 0,0 0.1,0.3 0.5,0.7 1.4,1.3 2.87,1.2 4.1,0 z" />
+		<path id="HLink_b"
+			d="m 3.6,4.31 -2.696,2.7 c -0.3,0.3 -1.897,2.22 0,4.09 1.896,1.9 3.756,0.3 4.056,0 L 6.86,9.21 C 6.21,9.37 5.49,9.29 5.04,9.01 L 3.96,10.1 C 3.7,10.4 2.85,10.9 1.95,10.1 1.05,9.23 1.8,8.21 1.96,8.05 L 4.63,5.31 c 0.85,-0.87 1.84,-0.17 2.04,0 0.2,0.17 0.44,0.58 0.46,0.7 l 1.03,-1 c 0,0 -0.1,-0.32 -0.49,-0.7 C 6.33,3.07 4.83,3.08 3.6,4.31 Z" />
+	</g>
+  </g>
+<!-- Textes spécifiques aux langues -->
+<g inkscape:groupmode="layer" id="languages" inkscape:label="languages" style="display:inline">
+  <!-- Français -->
+  <g inkscape:groupmode="layer" id="fr" inkscape:label="fr" style="display:inline" xml:space="preserve">
+
+	<a href="https://fr.wikipedia.org/wiki/Tableau_périodique_des_éléments" xlink:show="new">
+		<text id="fr.Title" x="875" y="52" class="T_title" >Tableau périodique des éléments chimiques</text>
+	</a>
+
+<!-- Intitulés des colonnes et des lignes -->
+	<g id="fr.g_tbl" class="T_size_S T_center">
+		<a href="https://fr.wikipedia.org/wiki/Groupe_du_tableau_périodique" xlink:show="new">
+			<text id="fr.T_tbl_1" x="30" y="45">Groupe</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Période_du_tableau_périodique" xlink:show="new">
+			<text id="fr.T_tbl_2" x="30" y="70">Période</text>
+		</a>
+	</g>
+
+<!-- Légende signification des données des cases et des couleurs de texte utilisées -->
+	<g id="fr.legend" class="T_start">
+		<!--La forme de ce bloc texte doit resté ainsi pour bénéficier de l'écriture en séquence.-->
+		<text id="fr.T_leg_1" x="270" y="194" class="T_size_S"><tspan
+			id="fr.t_leg_1a">nom de l'élément (</tspan><tspan
+			id="fr.t_leg_1b" class="T_bold C_gas"   >gaz</tspan><tspan
+			id="fr.t_leg_1c">, </tspan><tspan
+			id="fr.t_leg_1d" class="T_bold C_liquid">liquide</tspan><tspan
+			id="fr.t_leg_1e"> ou </tspan><tspan
+			id="fr.t_leg_1f" class="T_bold">solide</tspan><tspan
+			id="fr.t_leg_1g"> à 0°C et 101,3 kPa)</tspan></text>
+		<a href="https://fr.wikipedia.org/wiki/Numéro_atomique" xlink:show="new">
+			<text id="fr.T_leg_2" x="270" y="212" class="T_size_M">numéro atomique</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Liste_des_éléments_chimiques" xlink:show="new">
+			<text id="fr.T_leg_3" x="270" y="234" class="T_size_M">symbole chimique</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Masse_atomique" xlink:show="new">
+			<text id="fr.T_leg_4" x="270" y="264" class="T_size_S">masse atomique relative [ou celle de l'isotope le plus stable]</text>
+		</a>
+	</g>
+
+	<!-- Légende : signification de la coloration et du type de contour des cases -->
+	<g id="fr.legcol" class="T_size_S T_center">
+		<!-- Décomposition des blocs texte pour de problèmes d'affichage avec Firefox -->
+		<a href="https://fr.wikipedia.org/wiki/Métal" xlink:show="new">
+			<text id="fr.T_metal"	x="376"  y="1034">Métaux</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Métal_alcalin" xlink:show="new">
+			<text id="fr.T_col_1"	x="100"  y="1080">Alcalins</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Métal_alcalino-terreux" xlink:show="new">
+			<text id="fr.T_col_2a"	x="210"  y="1070">Alcalino-</text>
+			<text id="fr.T_col_2b"	x="210"  y="1088">terreux</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Lanthanide" xlink:show="new">
+			<text id="fr.T_col_3"	x="320"  y="1080">Lanthanides</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Actinide" xlink:show="new">
+			<text id="fr.T_col_4"	x="432"  y="1080">Actinides</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Métal_de_transition" xlink:show="new">
+			<text id="fr.T_col_5a"	x="540"  y="1070">Métaux de</text>
+			<text id="fr.T_col_5b"	x="540"  y="1088">transition</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Métal_pauvre" xlink:show="new">
+			<text id="fr.T_col_6a"	x="650"  y="1070">Métaux</text>
+			<text id="fr.T_col_6b"	x="650"  y="1088">pauvres</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Métalloïde" xlink:show="new">
+			<text id="fr.T_col_7"	x="760"  y="1080">Métalloïdes</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Non-métal" xlink:show="new">
+			<text id="fr.T_non-metal"	x="980"  y="1034">Non métaux</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/CHNOPS" xlink:show="new">
+			<text id="fr.T_col_8a"	x="870"  y="1070">Autres</text>
+			<text id="fr.T_col_8b"	x="870"  y="1088">non-métaux</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Halogène" xlink:show="new">
+			<text id="fr.T_col_9"	x="980"  y="1080">Halogènes</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Gaz_noble" xlink:show="new">
+			<text id="fr.T_col_10"	x="1090" y="1080">Gaz nobles</text>
+		</a>
+			<text id="fr.T_col_11"	x="1200" y="1080">Non classés</text>
+
+		<a href="https://fr.wikipedia.org/wiki/Nucléide primordial" xlink:show="new">
+			<text id="fr.T_str_1"	x="1445" y="1080">primordial</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Physique_de_la_radioactivité" xlink:show="new">
+			<text id="fr.T_str_2a"	x="1555" y="1064">désintégration</text>
+			<text id="fr.T_str_2b"	x="1555" y="1079">d'autres</text>
+			<text id="fr.T_str_2c"	x="1555" y="1094">éléments</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Élément_synthétique" xlink:show="new">
+			<text id="fr.T_str_3"	x="1665" y="1080">synthétique</text>
+		</a>
+	</g>
+	<!-- Noms des éléments -->
+	<g id="fr.names" class="T_size_S T_center" xml:space="preserve">
+		<a href="https://fr.wikipedia.org/wiki/Hydrogène" xlink:show="new">
+			<text id="fr.T_e1"	x="100"  y="94" class="C_gas">Hydrogène</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Hélium" xlink:show="new">
+			<text id="fr.T_e2"	x="1670" y="94" class="C_gas">Hélium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Lithium" xlink:show="new">
+			<text id="fr.T_e3"	x="100"  y="194">Lithium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Béryllium" xlink:show="new">
+			<text id="fr.T_e4"	x="190"  y="194">Béryllium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Bore" xlink:show="new">
+			<text id="fr.T_e5"	x="1220" y="194">Bore</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Carbone" xlink:show="new">
+			<text id="fr.T_e6"	x="1310" y="194">Carbone</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Azote" xlink:show="new">
+			<text id="fr.T_e7"	x="1400" y="194" class="C_gas">Azote</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Oxygène" xlink:show="new">
+			<text id="fr.T_e8"	x="1490" y="194" class="C_gas">Oxygène</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Fluor" xlink:show="new">
+			<text id="fr.T_e9"	x="1580" y="194" class="C_gas">Fluor</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Néon" xlink:show="new">
+			<text id="fr.T_e10"	x="1670" y="194" class="C_gas">Néon</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Sodium" xlink:show="new">
+			<text id="fr.T_e11"	x="100"  y="294">Sodium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Magnésium" xlink:show="new">
+			<text id="fr.T_e12"	x="190"  y="294">Magnésium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Aluminium" xlink:show="new">
+			<text id="fr.T_e13"	x="1220" y="294">Aluminium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Silicium" xlink:show="new">
+			<text id="fr.T_e14"	x="1310" y="294">Silicium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Phosphore" xlink:show="new">
+			<text id="fr.T_e15"	x="1400" y="294">Phosphore</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Soufre" xlink:show="new">
+			<text id="fr.T_e16"	x="1490" y="294">Soufre</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Chlore" xlink:show="new">
+			<text id="fr.T_e17"	x="1580" y="294" class="C_gas">Chlore</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Argon" xlink:show="new">
+			<text id="fr.T_e18"	x="1670" y="294" class="C_gas">Argon</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Potassium" xlink:show="new">
+			<text id="fr.T_e19"	x="100"  y="394">Potassium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Calcium" xlink:show="new">
+			<text id="fr.T_e20"	x="190"  y="394">Calcium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Scandium" xlink:show="new">
+			<text id="fr.T_e21"	x="320"  y="394">Scandium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Titane" xlink:show="new">
+			<text id="fr.T_e22"	x="410"  y="394">Titane</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Vanadium" xlink:show="new">
+			<text id="fr.T_e23"	x="500"  y="394">Vanadium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Chrome" xlink:show="new">
+			<text id="fr.T_e24"	x="590"  y="394">Chrome</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Manganèse" xlink:show="new">
+			<text id="fr.T_e25"	x="680"  y="394">Manganèse</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Fer" xlink:show="new">
+			<text id="fr.T_e26"	x="770"  y="394">Fer</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Cobalt" xlink:show="new">
+			<text id="fr.T_e27"	x="860"  y="394">Cobalt</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Nickel" xlink:show="new">
+			<text id="fr.T_e28"	x="950"  y="394">Nickel</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Cuivre" xlink:show="new">
+			<text id="fr.T_e29"	x="1040" y="394">Cuivre</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Zinc" xlink:show="new">
+			<text id="fr.T_e30"	x="1130" y="394">Zinc</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Gallium" xlink:show="new">
+			<text id="fr.T_e31"	x="1220" y="394">Gallium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Germanium" xlink:show="new">
+			<text id="fr.T_e32"	x="1310" y="394">Germanium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Arsenic" xlink:show="new">
+			<text id="fr.T_e33"	x="1400" y="394">Arsenic</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Sélénium" xlink:show="new">
+			<text id="fr.T_e34"	x="1490" y="394">Sélénium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/" xlink:show="new">
+			<text id="fr.T_e35"	x="1580" y="394" class="C_liquid">Brome</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Krypton" xlink:show="new">
+			<text id="fr.T_e36"	x="1670" y="394" class="C_gas">Krypton</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Rubidium" xlink:show="new">
+			<text id="fr.T_e37"	x="100"  y="494">Rubidium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Strontium" xlink:show="new">
+			<text id="fr.T_e38"	x="190"  y="494">Strontium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Yttrium" xlink:show="new">
+			<text id="fr.T_e39"	x="320"  y="494">Yttrium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Zirconium" xlink:show="new">
+			<text id="fr.T_e40"	x="410"  y="494">Zirconium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Niobium" xlink:show="new">
+			<text id="fr.T_e41"	x="500"  y="494">Niobium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Molybdène" xlink:show="new">
+			<text id="fr.T_e42"	x="590"  y="494">Molybdène</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Technétium" xlink:show="new">
+			<text id="fr.T_e43"	x="680"  y="494">Technétium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Ruthénium" xlink:show="new">
+			<text id="fr.T_e44"	x="770"  y="494">Ruthénium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Rhodium" xlink:show="new">
+			<text id="fr.T_e45"	x="860"  y="494">Rhodium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Palladium" xlink:show="new">
+			<text id="fr.T_e46"	x="950"  y="494">Palladium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Argent" xlink:show="new">
+			<text id="fr.T_e47"	x="1040" y="494">Argent</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Cadmium" xlink:show="new">
+			<text id="fr.T_e48"	x="1130" y="494">Cadmium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Indium" xlink:show="new">
+			<text id="fr.T_e49"	x="1220" y="494">Indium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Étain" xlink:show="new">
+			<text id="fr.T_e50"	x="1310" y="494">Étain</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Antimoine" xlink:show="new">
+			<text id="fr.T_e51"	x="1400" y="494">Antimoine</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Tellure" xlink:show="new">
+			<text id="fr.T_e52"	x="1490" y="494">Tellure</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Iode" xlink:show="new">
+			<text id="fr.T_e53"	x="1580" y="494">Iode</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Xénon" xlink:show="new">
+			<text id="fr.T_e54"	x="1670" y="494" class="C_gas">Xénon</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Césium" xlink:show="new">
+			<text id="fr.T_e55"	x="100"  y="594">Césium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Baryum" xlink:show="new">
+			<text id="fr.T_e56"	x="190"  y="594">Baryum</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Lanthanide" xlink:show="new">
+			<text id="fr.T_e57x"	x="300"  y="594">Lanthanides</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Lanthane" xlink:show="new">
+			<text id="fr.T_e57"	x="410"  y="814">Lanthane</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Cérium" xlink:show="new">
+			<text id="fr.T_e58"	x="500"  y="814">Cérium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Praséodyme" xlink:show="new">
+			<text id="fr.T_e59"	x="590"  y="814">Praséodyme</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Néodyme" xlink:show="new">
+			<text id="fr.T_e60"	x="680"  y="814">Néodyme</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Prométhium" xlink:show="new">
+			<text id="fr.T_e61"	x="770"  y="814">Prométhium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Samarium" xlink:show="new">
+			<text id="fr.T_e62"	x="860"  y="814">Samarium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Europium" xlink:show="new">
+			<text id="fr.T_e63"	x="950"  y="814">Europium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Gadolinium" xlink:show="new">
+			<text id="fr.T_e64"	x="1040" y="814">Gadolinium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Terbium" xlink:show="new">
+			<text id="fr.T_e65"	x="1130" y="814">Terbium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Dysprosium" xlink:show="new">
+			<text id="fr.T_e66"	x="1220" y="814">Dysprosium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Holmium" xlink:show="new">
+			<text id="fr.T_e67"	x="1310" y="814">Holmium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Erbium" xlink:show="new">
+			<text id="fr.T_e68"	x="1400" y="814">Erbium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Thulium" xlink:show="new">
+			<text id="fr.T_e69"	x="1490" y="814">Thulium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Ytterbium" xlink:show="new">
+			<text id="fr.T_e70"	x="1580" y="814">Ytterbium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Lutécium" xlink:show="new">
+			<text id="fr.T_e71"	x="1670" y="814">Lutécium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Hafnium" xlink:show="new">
+			<text id="fr.T_e72"	x="410"  y="594">Hafnium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Tantale" xlink:show="new">
+			<text id="fr.T_e73"	x="500"  y="594">Tantale</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Tungstène" xlink:show="new">
+			<text id="fr.T_e74"	x="590"  y="594">Tungstène</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Rhénium" xlink:show="new">
+			<text id="fr.T_e75"	x="680"  y="594">Rhénium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Osmium" xlink:show="new">
+			<text id="fr.T_e76"	x="770"  y="594">Osmium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Iridium" xlink:show="new">
+			<text id="fr.T_e77"	x="860"  y="594">Iridium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Platine" xlink:show="new">
+			<text id="fr.T_e78"	x="950"  y="594">Platine</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Or" xlink:show="new">
+			<text id="fr.T_e79"	x="1040" y="594">Or</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Mercure" xlink:show="new">
+			<text id="fr.T_e80"	x="1130" y="594" class="C_liquid">Mercure</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Thallium" xlink:show="new">
+			<text id="fr.T_e81"	x="1220" y="594">Thallium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Plomb" xlink:show="new">
+			<text id="fr.T_e82"	x="1310" y="594">Plomb</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Bismuth" xlink:show="new">
+			<text id="fr.T_e83"	x="1400" y="594">Bismuth</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Polonium" xlink:show="new">
+			<text id="fr.T_e84"	x="1490" y="594">Polonium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Astate" xlink:show="new">
+			<text id="fr.T_e85"	x="1580" y="594">Astate</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Radon" xlink:show="new">
+			<text id="fr.T_e86"	x="1670" y="594" class="C_gas">Radon</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Francium" xlink:show="new">
+			<text id="fr.T_e87"	x="100"  y="694">Francium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Radium" xlink:show="new">
+			<text id="fr.T_e88"	x="190"  y="694">Radium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Actinide" xlink:show="new">
+			<text id="fr.T_e89x"	x="300"  y="694">Actinides</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Actinium" xlink:show="new">
+			<text id="fr.T_e89"	x="410"  y="914">Actinium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Thorium" xlink:show="new">
+			<text id="fr.T_e90"	x="500"  y="914">Thorium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Protactinium" xlink:show="new">
+			<text id="fr.T_e91"	x="590"  y="914">Protactinium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Uranium" xlink:show="new">
+			<text id="fr.T_e92"	x="680"  y="914">Uranium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Neptunium" xlink:show="new">
+			<text id="fr.T_e93"	x="770"  y="914">Neptunium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Plutonium" xlink:show="new">
+			<text id="fr.T_e94"	x="860"  y="914">Plutonium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Américium" xlink:show="new">
+			<text id="fr.T_e95"	x="950"  y="914">Américium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Curium" xlink:show="new">
+			<text id="fr.T_e96"	x="1040" y="914">Curium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Berkélium" xlink:show="new">
+			<text id="fr.T_e97"	x="1130" y="914">Berkélium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Californium" xlink:show="new">
+			<text id="fr.T_e98"	x="1220" y="914">Californium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Einsteinium" xlink:show="new">
+			<text id="fr.T_e99"	x="1310" y="914">Einsteinium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Fermium" xlink:show="new">
+			<text id="fr.T_e100"	x="1400" y="914">Fermium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Mendélévium" xlink:show="new">
+			<text id="fr.T_e101"	x="1490" y="914">Mendélévium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Nobélium" xlink:show="new">
+			<text id="fr.T_e102"	x="1580" y="914">Nobélium</text>
+		</a>
+		<a href="https://fr.wikipedia.org/wiki/Lawrencium" xlink:show="new">
+			<text id="fr.T_e103"	x="1670" y="914">Lawrencium</text>
+		</a>
+		<g id="T_n_undef" class="C_undef">
+			<a href="https://fr.wikipedia.org/wiki/Rutherfordium" xlink:show="new">
+				<text id="fr.T_e104"	x="410"  y="694" class="T_size_vs">Rutherfordium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Dubnium" xlink:show="new">
+				<text id="fr.T_e105"	x="500"  y="694">Dubnium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Seaborgium" xlink:show="new">
+				<text id="fr.T_e106"	x="590"  y="694">Seaborgium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Bohrium" xlink:show="new">
+				<text id="fr.T_e107"	x="680"  y="694">Bohrium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Hassium" xlink:show="new">
+				<text id="fr.T_e108"	x="770"  y="694">Hassium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Meitnérium" xlink:show="new">
+				<text id="fr.T_e109"	x="860"  y="694">Meitnérium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Darmstadtium" xlink:show="new">
+				<text id="fr.T_e110"	x="950"  y="694" class="T_size_vs">Darmstadtium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Roentgenium" xlink:show="new">
+				<text id="fr.T_e111"	x="1040" y="694" class="T_size_s">Roentgenium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Copernicium" xlink:show="new">
+				<text id="fr.T_e112"	x="1130" y="694">Copernicium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Nihonium" xlink:show="new">
+				<text id="fr.T_e113"	x="1220" y="694">Nihonium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Flérovium" xlink:show="new">
+				<text id="fr.T_e114"	x="1310" y="694">Flérovium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Moscovium" xlink:show="new">
+				<text id="fr.T_e115"	x="1400" y="694">Moscovium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Livermorium" xlink:show="new">
+				<text id="fr.T_e116"	x="1490" y="694" class="T_size_s">Livermorium</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Tennesse" xlink:show="new">
+				<text id="fr.T_e117"	x="1580" y="694">Tennesse</text>
+			</a>
+			<a href="https://fr.wikipedia.org/wiki/Oganesson" xlink:show="new">
+				<text id="fr.T_e118"	x="1670" y="694">Oganesson</text>
+			</a>
+		</g>
+	</g>
+  </g>
+</g>
+</svg>

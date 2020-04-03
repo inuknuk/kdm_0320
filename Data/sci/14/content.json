@@ -1,0 +1,304 @@
+{
+  "id": "sci/14",
+  "title": "Schéma de circuit électrique",
+  "pages": [
+    "sci/14/2.htm",
+    "sci/14/3.htm",
+    "sci/14/4.htm",
+    "sci/14/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Dans un circuit &eacute;lectrique, le <u>courant </u>circule:</p>",
+      "explain": "<p>Par <u>convention,</u> le courant circule du + vers le - .&nbsp;</p>",
+      "choices": [
+        "*Du + vers le -",
+        "Du - vers le +",
+        "Peu importe"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.1"
+    },
+    {
+      "question": "<p>Un circuit doit contenir au minimum:</p>",
+      "explain": "<p>L'&eacute;nergie &eacute;mise par le g&eacute;n&eacute;rateur doit &ecirc;tre transform&eacute;e par un r&eacute;c&eacute;pteur.</p>\n<p>si on relie directement les deux bornes d'un g&eacute;n&eacute;rateur on fait un court-circuit.</p>\n<p>Si on relie les deux bornes d'un r&eacute;cepteur, il ne se produit rien.</p>",
+      "choices": [
+        "Un générateur",
+        "Un récepteur",
+        "*Un générateur et un récepteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.2"
+    },
+    {
+      "question": "<p>Un <u>dip&ocirc;le g&eacute;n&eacute;rateur</u></p>",
+      "explain": "<p>Il met les charges en mouvement.</p>",
+      "choices": [
+        "*Fournit de l'énergie électrique",
+        "Reçoit de l'énergie électrique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.3"
+    },
+    {
+      "question": "<p>Un <u>dip&ocirc;le r&eacute;cepteur</u></p>",
+      "explain": "<p>Il re&ccedil;oit de l'&eacute;nergie &eacute;lectriqu et la convertit en une autre &eacute;nergie (chimique, potentielle, thermique...).</p>",
+      "choices": [
+        "*Transforme l'énergie électrique",
+        "Fournit de l'énergie électrique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.4"
+    },
+    {
+      "question": "<p>Une <u>r&eacute;sistance </u>est un dip&ocirc;le:</p>",
+      "explain": "<p>Une r&eacute;sistance convertit l'&eacute;nergie &eacute;lectrique en &eacute;nergie thermique.</p>",
+      "choices": [
+        "Générateur",
+        "*Récepteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.5"
+    },
+    {
+      "question": "<p>Une <u>lampe </u>est un dip&ocirc;le:</p>",
+      "explain": "<p>La lampe transforme l'&eacute;nergie &eacute;lectrique en &eacute;nergie lumineuse: c'est un r&eacute;cepteur.&nbsp;</p>",
+      "choices": [
+        "*Récepteur",
+        "Générateur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.6"
+    },
+    {
+      "question": "<p>Les <u>fils </u>des circuits &eacute;lectriques sont des:</p>",
+      "explain": "<p>Les conducteurs sont des mat&eacute;riaux dont le mod&egrave;le cristallin (gaz d'&eacute;lectrons libres) permet le mouvement des &eacute;lectrons.</p>\n<p>Or le courant est une circulation d'&eacute;lectrons.</p>\n<p>Les fils sont donc des conducteurs.&nbsp;</p>",
+      "choices": [
+        "Isolants",
+        "*Conducteurs"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.7"
+    },
+    {
+      "question": "<p>Une pile rechargeable est:</p>",
+      "explain": "<p>Lorsqu'une pile est en d&eacute;charge c'est un g&eacute;n&eacute;rateur.</p>\n<p>Lorsqu'elle est en charge c'est un r&eacute;cepteur (conversion d'&eacute;nergie &eacute;lectrique en &eacute;nergie chimique et r&eacute;ciproquement).</p>",
+      "choices": [
+        "Un dipôle générateur",
+        "Un dipôle récepteur",
+        "*Les deux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.8"
+    },
+    {
+      "question": "<p>Un <u>interrupteur </u>est</p>",
+      "explain": "<p>Un interrupteur ferm&eacute; est &eacute;quivalent &agrave; un fil: il ne transforme pas l'&eacute;nergie &eacute;lectrique, il la fait circuler.&nbsp;</p>",
+      "choices": [
+        "Un dipôle récepteur",
+        "Un dipôle générateur",
+        "*Un conducteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.9"
+    },
+    {
+      "question": "<p>Une <u>diode </u>est</p>",
+      "explain": "<p>Une diode convertit l'&eacute;nergie &eacute;lectrique en &eacute;nergie lumineuse: c'est un r&eacute;cepteur.</p>",
+      "choices": [
+        "Un générateur",
+        "*Un récepteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.10"
+    },
+    {
+      "question": "<p>Pour fonctionner, un circuit &eacute;lectrique&nbsp;</p>",
+      "explain": "<p>Le courant ne circule pas dans l'air car l'air est un isolant (heureusement!).&nbsp;</p>",
+      "choices": [
+        "Peut être ouvert",
+        "Peut être fermé",
+        "Doit être ouvert",
+        "*Doit être fermé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.11"
+    },
+    {
+      "question": "<p>Les dip&ocirc;les:</p>",
+      "explain": "<p>La r&eacute;sistance peut &ecirc;tre branch&eacute;e dans un sens ou dans l'autre (elle n'a pas &agrave; proprement parler de p&ocirc;le).</p>\n<p>En revanche, la diode poss&egrave;de un sens de branchement.&nbsp;</p>",
+      "choices": [
+        "Ont tous un sens de branchement",
+        "*Ont parfois un sens de branchement",
+        "N'ont pas de sens de branchement"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.12"
+    },
+    {
+      "question": "<p>Le symbole d'une r&eacute;sistance est:</p>",
+      "explain": "<p>On peut rajouter la lettre R dans ce rectangle.</p>\n<p><img src=\"img/ohi.png\" width=\"247\" height=\"106\" /></p>",
+      "choices": [
+        "Une croix",
+        "*Un rectangle",
+        "Un rond"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.13"
+    },
+    {
+      "question": "<p>Que repr&eacute;sente ce symbole?</p>\n<p><img src=\"img/iugj.png\" /></p>",
+      "explain": "",
+      "choices": [
+        "*Une diode",
+        "Un générateur",
+        "Une lampe",
+        "Une pile"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.15"
+    },
+    {
+      "question": "<p>Le symbole de la pile est une grande barre portant le signe + parall&egrave;le &agrave; une petite barre portant le signe -</p>",
+      "explain": "",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.16"
+    },
+    {
+      "question": "<p>Un circuit &eacute;lectrique est constitu&eacute; d'une unique boucle ferm&eacute;e.</p>",
+      "explain": "<p>C'est faux: il existe diff&eacute;rents types de circuits &eacute;lectriques</p>\n<p>Certains comportent <u>plusieurs boucles</u> (que l'on appelle circuits en d&eacute;rivation).&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.17"
+    },
+    {
+      "question": "<p>Le circuit suivant est:</p>\n<p><img src=\"img/itguyg.png\" width=\"310\" height=\"202\" /></p>",
+      "explain": "<p>L'interrupteur repr&eacute;sent&eacute; &agrave; droite est en position <u>ouverte</u>, ceci emp&ecirc;che le passage du courant, on dit que le circuit est ouvert.</p>",
+      "choices": [
+        "*Ouvert",
+        "Fermé"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.18"
+    },
+    {
+      "question": "<p>Un <u>moteur </u>est un dip&ocirc;le</p>",
+      "explain": "<p>Un moteur convertit de l'&eacute;nergie electrique en &eacute;nergie m&eacute;canique.</p>\n<p>Il s'agit donc d'un r&eacute;cepteur.&nbsp;</p>",
+      "choices": [
+        "Générateur",
+        "*Récepteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.19"
+    },
+    {
+      "question": "<p>Quel est l'ordre de grandeur des plus petits circuits &eacute;lectriques existants de nous jours?</p>",
+      "explain": "<p>Les cartes m&egrave;res de nos smartphones font, de nos jours, quelques millim&egrave;tres.</p>\n<p>Sur ces cartes m&egrave;res sont <u>imprim&eacute;s</u> des circuits &eacute;lectriques, dont les dimensions sont de l'ordre du milim&egrave;tre!&nbsp;</p>",
+      "choices": [
+        "Quelques dizaines de centimètres",
+        "Quelques dizaines de millimètres",
+        "*Environ un millimètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.20"
+    },
+    {
+      "question": "<p>Quel est l'ordre de grandeur des <u>plus grands</u> circuits &eacute;lectriques existants de nous jours?</p>",
+      "explain": "<p>Le r&eacute;seau &eacute;lectrique &agrave; l'&eacute;chelle nationale contient des circuits de plusieurs milliers de kilom&egrave;tres de long.</p>",
+      "choices": [
+        "Quelques dizaines de mètres",
+        "Quelques kilomètres",
+        "*Plusieurs milliers de kilomètres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.21"
+    },
+    {
+      "question": "<p>Une <u>pile</u> est un dipole _____</p>",
+      "explain": "",
+      "choices": [
+        "*générateur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.22"
+    },
+    {
+      "question": "<p>Un composant &eacute;lectrique qui poss&egrave;de <u>2 bornes</u> s'appelle un&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "*dipole"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.23"
+    },
+    {
+      "question": "<p>un <u>dipole </u>qui ne laisse passer le courant que <u>dans un seul sens</u> s'appelle une</p>",
+      "explain": "",
+      "choices": [
+        "*diode"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.24"
+    },
+    {
+      "question": "<p>un dipole qui permet <u>d'ouvrir ou de fermer</u> un circuit s'appelle un&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "interrupteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.25"
+    },
+    {
+      "question": "<p>une <u>lampe </u>est un&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "récepteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/14.26"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 26,
+  "theme": "5",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "julie.mariettaaleina@gmail.com"
+}

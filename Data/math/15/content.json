@@ -1,0 +1,255 @@
+{
+  "id": "math/15",
+  "title": "Statistiques: Intro",
+  "pages": [
+    "math/15/1.htm",
+    "math/15/2.htm",
+    "math/15/9.htm",
+    "math/15/3.htm",
+    "math/15/4.htm",
+    "math/15/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qu'&eacute;tudie la <u>statistique</u> ?</p>",
+      "explain": "<p>Les&nbsp;statistiques sont l'&eacute;tude de <u>donn&eacute;es ou mesures</u>.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*Les données ou mesures",
+        "Les mathématiques",
+        "La fréquence",
+        "Les chiffres"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.5"
+    },
+    {
+      "question": "<p>Une <u>s&eacute;rie statistique</u> est une _____ de mesures ou donn&eacute;es collect&eacute;e g&eacute;n&eacute;ralement lors d'une &eacute;tude.</p>",
+      "explain": "<p>Une s&eacute;rie statistique est une <u>liste</u> de mesures ou donn&eacute;es collect&eacute;e g&eacute;n&eacute;ralement lors d'une &eacute;tude.</p>",
+      "choices": [
+        "*liste"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.6"
+    },
+    {
+      "question": "<p>Comment appelle-t-on l&rsquo;ensemble des <u>individus ou choses</u> qui sont <u>&eacute;tudi&eacute;es</u> ?</p>",
+      "explain": "<p>On appelle <u>population</u>, l&rsquo;ensemble des individus ou choses qui sont &eacute;tudi&eacute;es.&nbsp;</p>",
+      "choices": [
+        "Les personnes",
+        "*La population",
+        "L'ensemble",
+        "La famille"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.9"
+    },
+    {
+      "question": "<p>Si on &eacute;tudie la taille des &eacute;l&egrave;ves de la classe, quelle est la <u>population</u> &eacute;tudi&eacute;e ?</p>",
+      "explain": "<p>Dans cet exemple, les individus &eacute;tudi&eacute;s sont les <u>&eacute;l&egrave;ves de la classe</u>. On r&eacute;pond &agrave; la question : Qui ?</p>",
+      "choices": [
+        "La taille",
+        "Le mètre",
+        "*Les élèves de la classe",
+        "Le nombre d'élèves de la classe"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.10"
+    },
+    {
+      "question": "<p>Comment appelle t'on <u>ce qui est &eacute;tudi&eacute;</u> pour la population ?</p>",
+      "explain": "<p>On appelle <u>caract&egrave;re</u>, ce qui est &eacute;tudi&eacute; pour la population dans une s&eacute;rie statistique.&nbsp;</p>",
+      "choices": [
+        "*Le caractère",
+        "La valeur",
+        "La population",
+        "La statistique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.11"
+    },
+    {
+      "question": "<p>Si on &eacute;tudie la taille des &eacute;l&egrave;ves de la classe, quelle est le <u>caract&egrave;re</u> de l'&eacute;tude ?</p>",
+      "explain": "<p>Dans cet exemple, la chose &eacute;tudi&eacute;, le caract&egrave;re, est la <u>taille</u>. On r&eacute;pond &agrave; la question : Quoi ?</p>",
+      "choices": [
+        "*La taille",
+        "Le mètre",
+        "Les élèves de la classe",
+        "Le nombre d'élèves de la classe"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.12"
+    },
+    {
+      "question": "<p>Soit la s&eacute;rie temporelle suivante :&nbsp;<span style=\"font-size: 15.0pt; line-height: 107%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: FR; mso-fareast-language: FR; mso-bidi-language: AR-SA;\">&laquo; 4, 12, 7, 8, 8, 6 &raquo;. En statistique, on dit que la s&eacute;rie est compos&eacute;e de 6 _______.</span></p>",
+      "explain": "<p>On dit que cette s&eacute;rie est compos&eacute;e de <u>6 valeurs</u>.</p>",
+      "choices": [
+        "*Valeurs",
+        "Composants",
+        "Constituants",
+        "Termes"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.3"
+    },
+    {
+      "question": "<p>Une <u>valeur</u> d'une s&eacute;rie statistique est un <u>nombre </u>ou une ______.</p>",
+      "explain": "<p>Une <u>valeur</u> d'une s&eacute;rie statistique est un nombre ou une <u>mesure</u>.<u></u></p>",
+      "choices": [
+        "*mesure"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.2"
+    },
+    {
+      "question": "<p>Une valeur d'une s&eacute;rie statistique est toujours un <u>nombre</u>.</p>",
+      "explain": "<p><u>Faux</u>. Une s&eacute;rie peut &eacute;galement &ecirc;tre de la forme :&nbsp;<span style=\"font-size: 15.0pt; line-height: 107%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: FR; mso-fareast-language: FR; mso-bidi-language: AR-SA;\">&laquo; rouge, rouge, vert, noire, rouge &raquo; o&ugrave; les valeurs ne sont pas des nombres.</span></p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.4"
+    },
+    {
+      "question": "<p>Soit la s&eacute;rie suivante : &laquo; rouge, rouge, vert, noire, rouge &raquo;. Quel proposition est une valeur de la s&eacute;rie ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>Une valeur est une <u>mesure de la s&eacute;rie</u>. Dans ce cas les mesures sont des couleurs. Les valeurs de cette s&eacute;rie sont <u>rouge</u>, vert et noire.</p>",
+      "choices": [
+        "bleu",
+        "*rouge",
+        "5",
+        "3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.14"
+    },
+    {
+      "question": "<p>On appelle ________ d'une valeur, le <u>nombre de fois</u> que la valeur appara&icirc;t dans une s&eacute;rie.</p>\n<p>&nbsp;</p>",
+      "explain": "<p>On appelle <u>effectif</u> d'une valeur, le <u>nombre de fois</u> que la valeur appara&icirc;t dans une s&eacute;rie.</p>",
+      "choices": [
+        "*effectif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.15"
+    },
+    {
+      "question": "<p>Comment s'appelle la <u>somme de tous les effectifs</u> d'une s&eacute;rie ?</p>",
+      "explain": "<p>La <u>somme de tous les effectifs</u> d'une s&eacute;rie s'appelle <u>l'effectif total</u>. Cette valeur est &eacute;gale&nbsp;au <u>nombre d&rsquo;individus</u> qui composent la population.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*L'effectif total",
+        "La population",
+        "L'ensemble des effectifs",
+        "La famille"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.16"
+    },
+    {
+      "question": "<p>On &eacute;tudie les <u>&acirc;ges des 10 &eacute;l&egrave;ves d'une classe</u> de 5&egrave;me. On obtient la s&eacute;rie: &laquo; 11, 12, 12, 11, 13, 12, 12 , 13, 12, 13 &raquo;.</p>\n<p>Quel est l'<u>effectif des &eacute;l&egrave;ves de 13 ans</u> ?&nbsp;</p>\n<p>&nbsp;</p>",
+      "explain": "<p>L'effectif des &eacute;l&egrave;ves de 13 ans est <u>3</u>. On compte 3 fois la valeur 13 dans la s&eacute;rie.</p>",
+      "choices": [
+        "0",
+        "1",
+        "*3",
+        "10"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.17"
+    },
+    {
+      "question": "<p><span style=\"font-size: 15.0pt; font-family: 'Arial',sans-serif; color: black;\">On &eacute;tudie les &acirc;ges des &eacute;l&egrave;ves d'une classe de 4&egrave;me. On obtient la s&eacute;rie: &laquo; 12, 13, 14, 13, 13, 12, 15 &raquo;.&nbsp;</span></p>\n<p><span style=\"font-size: 15.0pt; font-family: 'Arial',sans-serif; color: black;\">Quel est <u>l'effectif total</u>?</span></p>\n<p>&nbsp;</p>",
+      "explain": "<p>L'effectif total est &eacute;gale au <u>nombre d'individus</u> qui composent la population.</p>\n<p>Dans ce cas il y a 7 individus, donc <u>l'effectif total vaut 7</u>.&nbsp;</p>",
+      "choices": [
+        "3",
+        "*7",
+        "12",
+        "15"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.18"
+    },
+    {
+      "question": "<p>On &eacute;tudie l'&acirc;ge des &eacute;l&egrave;ves d'une classe de 5 &egrave;me et on regroupe les valeurs dans le tableau suivant.</p>\n<table style=\"width: 100%; border-collapse: collapse;\">\n<tbody>\n<tr>\n<td style=\"width: 25%;\">Valeur : Age</td>\n<td style=\"width: 25%;\">11</td>\n<td style=\"width: 25%;\">12</td>\n<td style=\"width: 25%;\">13</td>\n</tr>\n<tr>\n<td style=\"width: 25%;\">Effectif</td>\n<td style=\"width: 25%;\">4</td>\n<td style=\"width: 25%;\">2</td>\n<td style=\"width: 25%;\">5</td>\n</tr>\n</tbody>\n</table>\n<p>Quel est <u>l'effectif total</u> ?</p>",
+      "explain": "<p>L'effectif total est la <u>somme de tous les effectifs</u> d'une s&eacute;rie.</p>\n<p>Dans ce cas, l'effectif total vaut <u>4 + 2 + 5 = 11</u>.</p>",
+      "choices": [
+        "4",
+        "*11",
+        "13",
+        "47"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.19"
+    },
+    {
+      "question": "<p>Quand il y a <u>beaucoup de donn&eacute;es</u> et de valeurs diff&eacute;rentes, il peut &ecirc;tre pratique de regrouper les valeurs par ______.</p>",
+      "explain": "<p>Quand il y a beaucoup de donn&eacute;es et de valeurs diff&eacute;rentes, il peut &ecirc;tre pratique de regrouper les valeurs par&nbsp;<u>classe</u>.</p>",
+      "choices": [
+        "*classe"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.20"
+    },
+    {
+      "question": "<p>Soit l'&eacute;tude de la vitesse des voitures. Que sont <u>les voitures</u> dans cette &eacute;tude ?</p>",
+      "explain": "<p>Les voitures sont la <u>population</u> de l'&eacute;tude. En effet, il s'agit de l'ensemble des choses qui sont &eacute;tudi&eacute;es.</p>",
+      "choices": [
+        "La statistique",
+        "*La population",
+        "La valeur",
+        "Le caractère"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.13"
+    },
+    {
+      "question": "<p>Soit l'&eacute;tude de la vitesse des voitures. Qu'est&nbsp;<u>la vitesse</u> dans cette &eacute;tude ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>La vitesse est&nbsp;<u>le caract&egrave;re</u> de l'&eacute;tude. En effet, il s'agit de <u>ce qui est &eacute;tudi&eacute;e</u> pour les voitures.</p>",
+      "choices": [
+        "La statistique",
+        "La population",
+        "La valeur",
+        "*La caractère"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.21"
+    },
+    {
+      "question": "<p>Soit l'&eacute;tude de la vitesse des voitures sur l'autoroute. Est-il int&eacute;ressant de <u>regrouper les valeurs par classe</u> ?</p>",
+      "explain": "<p><u>Oui</u>, il est int&eacute;ressant de regrouper la vitesse des voitures par classe.</p>\n<p>Cette vitesse varie beaucoup, il sera plus simple d'&eacute;tudier les effectifs de quelques classes que les effectifs des nombreuses valeurs de vitesses.&nbsp;</p>\n<p>On peut par exemple regrouper les vitesses comme cela : 90 &agrave; 100km/h, 100 &agrave; 110 km/h, 110 &agrave; 120 km/h ...</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/15.22"
+    }
+  ],
+  "pageCounter": 9,
+  "questionCounter": 22,
+  "theme": "fonction",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

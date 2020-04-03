@@ -1,0 +1,251 @@
+{
+  "id": "latin/52",
+  "title": "Vocabulaire (4) : Adjectif / Verbes",
+  "editor": "tbrethes@gmail.com",
+  "pages": [],
+  "questions": [
+    {
+      "question": "Ultimus, ultima, ultimum",
+      "explain": "",
+      "choices": [
+        "orgueilleux, arrogant",
+        "laisser, abandonner",
+        "perdre",
+        "*dernier"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.1"
+    },
+    {
+      "question": "Superbus, superba, superbum",
+      "explain": "",
+      "choices": [
+        "devant, au lieu de",
+        "beau",
+        "perdre",
+        "*orgueilleux, arrogant"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.2"
+    },
+    {
+      "question": "Pulcher, pulchra, pulchrum",
+      "explain": "",
+      "choices": [
+        "orgueilleux, arrogant",
+        "craindre",
+        "dernier",
+        "*beau"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.3"
+    },
+    {
+      "question": "Relinquo, relinquis, relinquere, reliqui, relictum",
+      "explain": "",
+      "choices": [
+        "au sujet de",
+        "orgueilleux, arrogant",
+        "devant, au lieu de",
+        "*laisser, abandonner"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.4"
+    },
+    {
+      "question": "Perdo, perdis, perdere, perdidi, perditum",
+      "explain": "",
+      "choices": [
+        "au sujet de",
+        "et",
+        "beau",
+        "*perdre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.5"
+    },
+    {
+      "question": "Timeo, times, timere, timui",
+      "explain": "",
+      "choices": [
+        "beau",
+        "perdre",
+        "au sujet de",
+        "*craindre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.6"
+    },
+    {
+      "question": "Pro + ablatif",
+      "explain": "",
+      "choices": [
+        "et",
+        "laisser, abandonner",
+        "dernier",
+        "*devant, au lieu de"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.7"
+    },
+    {
+      "question": "Atque",
+      "explain": "",
+      "choices": [
+        "perdre",
+        "devant, au lieu de",
+        "au sujet de",
+        "*et"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.8"
+    },
+    {
+      "question": "De + ablatif",
+      "explain": "",
+      "choices": [
+        "beau",
+        "devant, au lieu de",
+        "craindre",
+        "*au sujet de"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.9"
+    },
+    {
+      "question": "dernier",
+      "explain": "",
+      "choices": [
+        "Timeo, times, timere, timui",
+        "Perdo, perdis, perdere, perdidi, perditum",
+        "Atque",
+        "*Ultimus, ultima, ultimum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.10"
+    },
+    {
+      "question": "orgueilleux, arrogant",
+      "explain": "",
+      "choices": [
+        "Perdo, perdis, perdere, perdidi, perditum",
+        "Timeo, times, timere, timui",
+        "Relinquo, relinquis, relinquere, reliqui, relictum",
+        "*Superbus, superba, superbum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.11"
+    },
+    {
+      "question": "beau",
+      "explain": "",
+      "choices": [
+        "Timeo, times, timere, timui",
+        "Ultimus, ultima, ultimum",
+        "Atque",
+        "*Pulcher, pulchra, pulchrum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.12"
+    },
+    {
+      "question": "laisser, abandonner",
+      "explain": "",
+      "choices": [
+        "Superbus, superba, superbum",
+        "Timeo, times, timere, timui",
+        "Perdo, perdis, perdere, perdidi, perditum",
+        "*Relinquo, relinquis, relinquere, reliqui, relictum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.13"
+    },
+    {
+      "question": "perdre",
+      "explain": "",
+      "choices": [
+        "Pulcher, pulchra, pulchrum",
+        "Relinquo, relinquis, relinquere, reliqui, relictum",
+        "Pro + ablatif",
+        "*Perdo, perdis, perdere, perdidi, perditum"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.14"
+    },
+    {
+      "question": "craindre",
+      "explain": "",
+      "choices": [
+        "Pulcher, pulchra, pulchrum",
+        "Ultimus, ultima, ultimum",
+        "Superbus, superba, superbum",
+        "*Timeo, times, timere, timui"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.15"
+    },
+    {
+      "question": "devant, au lieu de",
+      "explain": "",
+      "choices": [
+        "Superbus, superba, superbum",
+        "Atque",
+        "Timeo, times, timere, timui",
+        "*Pro + ablatif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.16"
+    },
+    {
+      "question": "et",
+      "explain": "",
+      "choices": [
+        "Pro + ablatif",
+        "Superbus, superba, superbum",
+        "Timeo, times, timere, timui",
+        "*Atque"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.17"
+    },
+    {
+      "question": "au sujet de",
+      "explain": "",
+      "choices": [
+        "Timeo, times, timere, timui",
+        "Superbus, superba, superbum",
+        "Ultimus, ultima, ultimum",
+        "*De + ablatif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "latin/52.18"
+    }
+  ],
+  "pageCounter": 0,
+  "questionCounter": 18,
+  "warning": "1",
+  "theme": "declinaison",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

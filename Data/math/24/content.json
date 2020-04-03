@@ -1,0 +1,261 @@
+{
+  "id": "math/24",
+  "title": "Médiatrice d'un segment",
+  "pages": [
+    "math/24/2.htm",
+    "math/24/3.htm",
+    "math/24/4.htm",
+    "math/24/5.htm",
+    "math/24/6.htm",
+    "math/24/7.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Une m&eacute;diatrice est relative &agrave;&nbsp;</p>",
+      "explain": "<p>La m&eacute;diatrice est toujours <u>relative &agrave; un segment</u>.&nbsp;</p>\n<p>Les droites, demi-droites et courbes ne sont pas finies donc il n'existe pas de m&eacute;diatrice pour ces &eacute;l&eacute;ments.</p>",
+      "choices": [
+        "Une droite",
+        "*Un segment",
+        "Une courbe",
+        "Une demi-droite"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.1"
+    },
+    {
+      "question": "<p>En quel <u>point</u> la m&eacute;diatrice coupe-t-elle le segment [AB]?</p>",
+      "explain": "<p>La m&eacute;diatrice coupe toujours le segment en son <u>milieu</u>. <img src=\"img/schemamediatrice.png\" /></p>",
+      "choices": [
+        "Au point A",
+        "Au point B",
+        "*En son milieu I"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.2"
+    },
+    {
+      "question": "<p>La m&eacute;diatrice est-elle <u>parall&egrave;le</u> au segment [AB]?</p>",
+      "explain": "<p>La m&eacute;diatrice est <u>perpendiculaire</u> au segment [AB].</p>\n<p><img src=\"img/schemamediatrice.png\" /></p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.3"
+    },
+    {
+      "question": "<p>La droite (d) est-elle m&eacute;diatrice du segment [AB]?</p>\n<p><img src=\"img/question1.png\" /></p>",
+      "explain": "<p>Non. La droite (d) ne coupe pas [AB] en son <u>milieu</u>.</p>\n<p>La droite (d) est juste une droite perpendiculaire &agrave; [AB]</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.4"
+    },
+    {
+      "question": "<p>M est sur la m&eacute;diatrice du segment [AB].</p>\n<p>Que peut-on dire du point M?</p>\n<p><img src=\"img/question2.png\" /></p>",
+      "explain": "<p>Il s'agit de la <u>propri&eacute;t&eacute; directe</u>.</p>\n<p>Comme M appartient &agrave; la m&eacute;diatrice, il est &agrave; &eacute;gale distance de A et de B.</p>\n<p>Donc <u>MA = MB</u>.</p>",
+      "choices": [
+        "MA = MI",
+        "MI = MB",
+        "*MA = MB"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.5"
+    },
+    {
+      "question": "<p>Le point M appartient-il &agrave; la m&eacute;diatrice de [AB]?<img src=\"img/question3.png\" /></p>",
+      "explain": "<p>Le point M appartient &agrave; la droite <u>perpendiculaire</u> &agrave; [AB] et qui la <u>coupe en son milieu</u>.</p>\n<p>Donc M appartient bien &agrave; la m&eacute;diatrice de [AB].</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.6"
+    },
+    {
+      "question": "<p>Que peut-on dire des distances MA et MB?</p>\n<p><img src=\"img/proprietereciproquemediatrice.png\" /></p>",
+      "explain": "<p>Sur le sch&eacute;ma ci-dessus on peut voir que les segments [MA] et [MB] sont &eacute;gaux.&nbsp;</p>",
+      "choices": [
+        "MA > MB",
+        "MA < MB",
+        "*MA = MB"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.7"
+    },
+    {
+      "question": "<p>Le point M appartient-il &agrave; la m&eacute;diatrice de [AB]?</p>\n<p><img src=\"img/proprietereciproquemediatrice.png\" /></p>",
+      "explain": "<p>Oui, il s'agit de la <u>propri&eacute;t&eacute; r&eacute;ciproque</u>.</p>\n<p>En effet, M est &agrave; <u>&eacute;gale distance de A et de B</u>.</p>\n<p>Il appartient donc &agrave; la m&eacute;diatrice de [AB].</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.8"
+    },
+    {
+      "question": "<p>Le point N appartient-il &agrave; la m&eacute;diatrice de [AB]?</p>\n<p><img src=\"img/question4.png\" /></p>",
+      "explain": "<p>De m&ecirc;me que pour M, il s'agit de la <u>propri&eacute;t&eacute; r&eacute;ciproque</u>.</p>\n<p>En effet, N est &agrave; <u>&eacute;gale distance de A et de B</u>.</p>\n<p>Il appartient donc &agrave; la m&eacute;diatrice de [AB].</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.9"
+    },
+    {
+      "question": "<p>Le point O appartient-il &agrave; la m&eacute;diatrice de [AB]?<img src=\"img/question5.png\" /></p>",
+      "explain": "<p>De m&ecirc;me que pour M et N, il s'agit de la <u>propri&eacute;t&eacute; r&eacute;ciproque</u>.</p>\n<p>En effet, O est &agrave; <u>&eacute;gale distance de A et de B</u>.</p>\n<p>Il appartient donc &agrave; la m&eacute;diatrice de [AB].</p>\n<p>O est &agrave; l'intersection de la m&eacute;diatrice et de [AB].</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.10"
+    },
+    {
+      "question": "<p>Est-il possible de tracer la m&eacute;diatrice d'un segment avec un <u>compas</u> et une <u>r&egrave;gle</u>?</p>",
+      "explain": "<p>Oui, il est <u>possible</u> de tracer la m&eacute;diatrice d'un segment avec un compas et une r&egrave;gle.</p>\n<p>Il faut tout d'abord construire <u>deux points &eacute;quidistants</u> de A et B avec le compas.</p>\n<p>Puis, il faut tracer la <u>droite passant par ces deux points</u>.<img src=\"img/constructioncompas.png\" /></p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.11"
+    },
+    {
+      "question": "<p>Peut-on tracer la m&eacute;diatrice d'un segment avec <u>uniquement une r&egrave;gle</u>?&nbsp;</p>",
+      "explain": "<p>La r&egrave;gle nous permet de trouver le <u>milieu du segment</u>.</p>\n<p>Mais elle ne nous permet <u>pas</u> de <u>trouver la droite perpendiculaire</u> au segment passant par ce milieu.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.12"
+    },
+    {
+      "question": "<p>Est-il possible de construire la m&eacute;diatrice d'un segment &agrave; l'aide d'une <u>r&egrave;gle</u> et d'une <u>&eacute;querre</u>?&nbsp;</p>",
+      "explain": "<p>La r&egrave;gle nous permet de trouver le <u>milieu</u> du segment.</p>\n<p>L'&eacute;querre nous permet de tracer la <u>droite perpendiculaire</u> au segment passant par ce milieu.&nbsp;</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.13"
+    },
+    {
+      "question": "<p>Pour tracer la m&eacute;diatrice avec une <u>r&egrave;gle gradu&eacute;e</u> et une <u>&eacute;querre</u>, quel instrument faut-il utiliser en <u>premier</u>?</p>",
+      "explain": "<p>Il faut commencer par utiliser la <u>r&egrave;gle gradu&eacute;e</u> pour trouver le <u>milieu</u> du segment.</p>\n<p>Ensuite, on peut tracer avec l'&eacute;querre la <u>droite perpendiculaire</u> au segment passant par le milieu.</p>",
+      "choices": [
+        "*Une règle graduée",
+        "Une équerre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.14"
+    },
+    {
+      "question": "<p>Pour tracer la m&eacute;diatrice d'un segment avec un <u>compas</u> et une <u>r&egrave;gle</u>, quel instrument faut-il utiliser en <u>premier</u>?&nbsp;</p>",
+      "explain": "<p>Il faut commencer par utiliser le <u>compas</u> pour tracer <u>deux points &eacute;quidistants</u> des bornes du segment.</p>\n<p>Ensuite, le r&egrave;gle nous permet de tracer la m&eacute;diatrice &eacute;tant la droite passant par ces deux points.</p>\n<p><img src=\"img/constructioncompas.png\" />&nbsp;</p>",
+      "choices": [
+        "*Un compas",
+        "Une règle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.15"
+    },
+    {
+      "question": "<p>Une m&eacute;diatrice est&nbsp;</p>",
+      "explain": "<p>Une m&eacute;diatrice est un <u>droite</u>.</p>",
+      "choices": [
+        "Un segment",
+        "*Une droite",
+        "Une demi-droite",
+        "Un cercle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.16"
+    },
+    {
+      "question": "<p>Pour un segment [AB] donn&eacute;, <u>combien</u> de m&eacute;diatrice existe-t-il?</p>",
+      "explain": "<p>Il existe <u>une et unique m&eacute;diatrice</u> pour un segment [AB] donn&eacute;.</p>",
+      "choices": [
+        "O",
+        "*1",
+        "2",
+        "10",
+        "Une infinité"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.17"
+    },
+    {
+      "question": "<p>Combien y a-t-il de m&eacute;diatrice sur le sch&eacute;ma suivant?&nbsp;</p>\n<p><img src=\"img/question6.png\" /></p>",
+      "explain": "<p>Il y a deux m&eacute;diatrices. Seules les m&eacute;diatrices de [MB] et de [AB] sont trac&eacute;es.</p>",
+      "choices": [
+        "0",
+        "1",
+        "*2",
+        "3",
+        "4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.18"
+    },
+    {
+      "question": "<p>La m&eacute;diatrice de quel segment n'est <u>pas trac&eacute;e</u>?</p>\n<p><img src=\"img/question6.png\" /></p>",
+      "explain": "<p>La droite rouge passant par le milieu de [AM] n'est <u>pas perpendiculaire</u> ainsi il ne s'agit pas d'une m&eacute;diatrice.&nbsp;</p>",
+      "choices": [
+        "*[AM]",
+        "[MB]",
+        "[AB]",
+        "Elles sont toutes tracées"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.19"
+    },
+    {
+      "question": "<p>Pour quelle raison la droite rouge n'est pas une m&eacute;diatrice?</p>\n<p><img src=\"img/question7.png\" /></p>",
+      "explain": "<p>La droite rouge n'est <u>pas perpendiculaire</u> &agrave; [AB] et ne peut donc pas &ecirc;tre la m&eacute;diatrice.</p>",
+      "choices": [
+        "Elle ne passe pas par le milieu de [AB]",
+        "*Elle n'est pas perpendiculaire à [AB]",
+        "Ce n'est pas une droite",
+        "Il s'agit bien de la médiatrice"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/24.20"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 20,
+  "theme": "geometrie",
+  "editor": "alexandre.inukai@gmail.com",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

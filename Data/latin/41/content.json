@@ -1,0 +1,99 @@
+{
+  "id": "latin/41",
+  "title": "L'empire",
+  "pages": [
+    "latin/41/1.htm",
+    "latin/41/2.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qui succede a la republique Romaine?</p>",
+      "choices": [
+        "*l'empire",
+        "La royaute",
+        "L'anarchie"
+      ],
+      "id": "latin/41.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>La periode de <u>stabilite</u> pendant les <u>2 premiers siecles</u> de l'Empire Romain est appelee:</p>",
+      "choices": [
+        "*Pax Romana",
+        "Deus Ex Machina",
+        "Pax Republica",
+        "Senatus Populusque Romanus"
+      ],
+      "id": "latin/41.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Traduit<u> Pax Romana</u></p>",
+      "choices": [
+        "*La paix romaine",
+        "le pacte romain",
+        "L'empire romain"
+      ],
+      "id": "latin/41.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le <u>premier empereur</u> romain?</p>",
+      "choices": [
+        "*Auguste",
+        "Jules Cesar",
+        "Trajan",
+        "Hadrien"
+      ],
+      "id": "latin/41.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'empire romain atteind son apoge sous quel empereur?</p>",
+      "choices": [
+        "*Trajan",
+        "Hadrien",
+        "Auguste",
+        "Neron"
+      ],
+      "id": "latin/41.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Durant le regne de <u>Trajan</u>, il y a beaucoup de guerres et de conquetes</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "id": "latin/41.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel empereur succede a Trajan?</p>",
+      "choices": [
+        "*Hadrien",
+        "Auguste",
+        "Neron"
+      ],
+      "id": "latin/41.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>L'empereur Hadrien continue les guerres de conquetes commencees par Trajan</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "latin/41.8",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 2,
+  "questionCounter": 8,
+  "warning": "1",
+  "theme": "civilisation",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

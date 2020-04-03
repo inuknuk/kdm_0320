@@ -1,0 +1,267 @@
+{
+  "id": "sci/31",
+  "title": "Bilan énergétique",
+  "pages": [
+    "sci/31/1.htm",
+    "sci/31/2.htm",
+    "sci/31/3.htm",
+    "sci/31/4.htm",
+    "sci/31/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Un enjeu de la production d'&eacute;lectricit&eacute; est de ______ li&eacute;es &agrave; cette production.</p>",
+      "explain": "<p>Un enjeu de la production d'&eacute;lectricit&eacute; est de&nbsp;<u>r&eacute;duire les pertes d'&eacute;nergies</u> li&eacute;es &agrave; cette production.</p>",
+      "choices": [
+        "réduire les échanges",
+        "limiter les accumulations",
+        "permettre la déperdition de chaleur",
+        "*réduire les pertes d'énergies"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.1"
+    },
+    {
+      "question": "<p>De quoi parle-t-on lorsque de l'&eacute;nergie est <u>transmise </u>d'un corps &agrave; un autre ?</p>",
+      "explain": "<p>On parle de <u>transfert d'&eacute;nergie </u>(transfert de chaleur) lorsque de l'&eacute;nergie est transmise d'un corps &agrave; un autre.</p>",
+      "choices": [
+        "De pertes énergétiques",
+        "*De transfert d'énergie",
+        "De conversion d'énergie",
+        "D'échange énergétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.2"
+    },
+    {
+      "question": "<p>De quoi parle-t-on lorsque de l'&eacute;nergie d'un corps <u>change de forme</u>&nbsp;?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>On parle de <u>conversion d'&eacute;nergie </u>lorsque l'&eacute;nergie d'un corps change de forme.</p>",
+      "choices": [
+        "De pertes énergétiques",
+        "De transfert d'énergie",
+        "*De conversion d'énergie",
+        "D'échange énergétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.4"
+    },
+    {
+      "question": "<p>Un transfert d'&eacute;nergie et une conversion d'&eacute;nergie sont la m&ecirc;me chose ?</p>",
+      "explain": "<p><u>Faux</u>. Un transfert d'&eacute;nergie et une conversion d'&eacute;nergie sont diff&eacute;rents.</p>\n<p>Un transfert d'&eacute;nergie correspond &agrave; de l'&eacute;nergie transmise d'un corps &agrave; un autre alors qu'une conversion d'&eacute;nergie correspond au changement de forme d'un corps.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.5"
+    },
+    {
+      "question": "<p>Comment s'appelle le principe qui &eacute;nonce que <u>l'&eacute;nergie totale d'un syst&egrave;me isol&eacute; reste constante</u> ?</p>",
+      "explain": "<p>Il s'agit du <u>principe de conservation de l'&eacute;nergie</u>. Il &eacute;nonce que l'&eacute;nergie totale d'un syst&egrave;me isol&eacute; reste constante.&nbsp;</p>",
+      "choices": [
+        "Principe de conservation du système",
+        "*Principe de conservation de l'énergie",
+        "Principe de conservation de la forme",
+        "Principe de constance"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.6"
+    },
+    {
+      "question": "<p>Le principe de conservation de l'&eacute;nergie &eacute;nonce que l'&eacute;nergie totale d'un syst&egrave;me isol&eacute; reste constante.</p>\n<p>Cette &eacute;nergie peut-elle <u>changer de forme</u> ?</p>",
+      "explain": "<p><u>Oui</u>, avec le principe de conservation de l'&eacute;nergie, une &eacute;nergie peut changer de forme mais reste constante.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.7"
+    },
+    {
+      "question": "<p>Lors de la transformation d'une forme d'&eacute;nergie en une seule autre forme, il y a des ________&nbsp;</p>",
+      "explain": "<p>Lors de la transformation d'une forme d'&eacute;nergie en une seule autre forme, il y a des <u>d&eacute;perditions</u>.&nbsp;</p>",
+      "choices": [
+        "*déperditions",
+        "conservations",
+        "productions",
+        "réductions"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.8"
+    },
+    {
+      "question": "<p>Des <u>d&eacute;gagements de chaleur</u> sont un exemple de d&eacute;perditions.&nbsp;</p>",
+      "explain": "<p>En effet, lors d'une conversion d'&eacute;nergie il y a des d&eacute;perditions, par exemple des d&eacute;gagements de chaleur.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.9"
+    },
+    {
+      "question": "<p>Quelle est l'&eacute;nergie en <u>entr&eacute;e </u>d'un moteur &eacute;lectrique ?</p>",
+      "explain": "<p>En entr&eacute;e d'un moteur &eacute;lectrique, on a de l'<u>&eacute;nergie &eacute;lectrique</u>.&nbsp;</p>",
+      "choices": [
+        "*Energie électrique",
+        "Energie thermique",
+        "Energie mécanique ",
+        "Energie fossile"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.10"
+    },
+    {
+      "question": "<p>Quelle est l'<u>&eacute;nergie utile</u> en <u>sortie</u> d'un moteur &eacute;lectrique ?</p>",
+      "explain": "<p>En sortie d'un moteur &eacute;lectrique, ce qui nous int&eacute;resse est le <u>mouvement</u>. L'&eacute;nergie utile est donc l'<u>&eacute;nergie m&eacute;canique</u>.</p>",
+      "choices": [
+        "Energie électrique",
+        "Energie thermique",
+        "*Energie mécanique ",
+        "Energie fossile"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.12"
+    },
+    {
+      "question": "<p>Quelle est l'<u>&eacute;nergie perdue</u> en <u>sortie</u> d'un moteur &eacute;lectrique ?</p>",
+      "explain": "<p>En sortie d'un moteur &eacute;lectrique, on a de l'&eacute;nergie m&eacute;canique ainsi que des <u>pertes &eacute;nerg&eacute;tiques</u>, principalement de la <u>chaleur</u>. L'&eacute;nergie perdue est donc de l'<u>&eacute;nergie thermique</u>.</p>",
+      "choices": [
+        "Energie électrique",
+        "*Energie thermique ",
+        "Energie mécanique ",
+        "Energie fossile"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.13"
+    },
+    {
+      "question": "<p>Dans un syst&egrave;me, que vaut E<sub>re&ccedil;ue</sub> par rapport &agrave; E<sub>utile</sub> + E <sub>perdue</sub> ?</p>",
+      "explain": "<p>On a : E<sub>re&ccedil;ue</sub>= E<sub>utile</sub> + E<sub>perdue</sub>.</p>",
+      "choices": [
+        "est inférieur à",
+        "*est égale à",
+        "est supérieur à "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.14"
+    },
+    {
+      "question": "<p>Quel est la <u>formule </u>du <u>rendement </u>?</p>",
+      "explain": "<p>La formule du rendement est :</p>\n<p>&eta; = E<sub>utile</sub> / E<sub>consommee</sub></p>",
+      "choices": [
+        "Energie utile / Perte",
+        "Perte / Energie consommée",
+        "*Energie utile / Energie consommée",
+        "Perte / Energie utile"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.15"
+    },
+    {
+      "question": "<p>Quelle est l'<u>unit&eacute;</u> du rendement ?</p>",
+      "explain": "<p>Le rendement est un nombre <u>sans unit&eacute;</u>. On divise une &eacute;nergie par une autre, donc ce nombre est sans unit&eacute;.</p>",
+      "choices": [
+        "W",
+        "kWh",
+        "*Sans unité",
+        "J"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.16"
+    },
+    {
+      "question": "<p>Est-il possible d'avoir un <u>rendement de 2</u> ?</p>",
+      "explain": "<p>Le rendement est un nombre sans unit&eacute; compris <u>entre 0 et 1</u>. En effet, lors d'une conversion d'&eacute;nergie, l'&eacute;nergie consomm&eacute;e est toujours sup&eacute;rieur &agrave; l'&eacute;nergie utile.&nbsp;</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.17"
+    },
+    {
+      "question": "<p>Le diagramme suivant repr&eacute;sente-t-il une <u>cha&icirc;ne &eacute;nerg&eacute;tique</u> ?<img src=\"img/moteurelec.png\" /></p>",
+      "explain": "<p>En effet, il s'agit d'un <u>diagramme de cha&icirc;ne &eacute;nerg&eacute;tique</u>.</p>",
+      "choices": [
+        "*Vrai ",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.18"
+    },
+    {
+      "question": "<p>Les <u>syst&egrave;mes</u> dans un diagramme d'une cha&icirc;ne &eacute;nerg&eacute;tique sont repr&eacute;sent&eacute;s par des ____?</p>\n<p><img src=\"img/moteurelec.png\" /></p>",
+      "explain": "<p>Les syst&egrave;mes sont repr&eacute;sent&eacute;s par des <u>ellipses</u>.</p>",
+      "choices": [
+        "rectangles",
+        "*ellipses",
+        "flèches"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.19"
+    },
+    {
+      "question": "<p>Les <u>r&eacute;servoirs d'&eacute;nergie</u> dans un diagramme d'une cha&icirc;ne &eacute;nerg&eacute;tique sont sous forme de ____?</p>\n<p><img src=\"img/moteurelec.png\" /></p>",
+      "explain": "<p>Les <u>r&eacute;servoirs d'&eacute;nergie</u> sont repr&eacute;sent&eacute;s par des <u>rectangles</u>.</p>",
+      "choices": [
+        "*rectangle",
+        "ellipse",
+        "flèche"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.20"
+    },
+    {
+      "question": "<p>Les <u>transferts d'&eacute;nergie</u> dans un diagramme d'une cha&icirc;ne &eacute;nerg&eacute;tique sont repr&eacute;sent&eacute;s par des ___?</p>\n<p><img src=\"img/moteurelec.png\" /></p>",
+      "explain": "<p>Les <u>transferts d'&eacute;nergie</u> sont repr&eacute;sent&eacute;s par des <u>fl&egrave;ches</u>.</p>",
+      "choices": [
+        "rectangles",
+        "ellipses",
+        "*flèches"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.21"
+    },
+    {
+      "question": "<p>Dans un radiateur, quelle est l'<u>&eacute;nergie utile</u> ?</p>",
+      "explain": "<p>Pour un radiateur, ce qui nous int&eacute;resse est la chaleur qu'il produit. Dans ce cas, l'&eacute;nergie utile est <u>thermique</u>.&nbsp;</p>",
+      "choices": [
+        "*L'énergie thermique",
+        "L'énergie mécanique",
+        "L'énergie électrique",
+        "L'énergie cinétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/31.22"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 22,
+  "theme": "4",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

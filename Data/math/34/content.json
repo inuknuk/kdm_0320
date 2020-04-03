@@ -1,0 +1,272 @@
+{
+  "id": "math/34",
+  "title": "Rotation",
+  "pages": [
+    "math/34/1.htm",
+    "math/34/3.htm",
+    "math/34/2.htm",
+    "math/34/4.htm",
+    "math/34/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quel est le sens <u>indirect</u> ?</p>",
+      "explain": "<p>Le sens direct est le <u>sens des aiguilles d'une montre</u>.</p>",
+      "choices": [
+        "*Sens des aiguilles d'une montre",
+        "Sens contraire des aiguilles d'une montre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.1"
+    },
+    {
+      "question": "<p>Le point M' est l'image du point M par la rotation de sens direct de centre O et d'angle &alpha;.&nbsp;</p>\n<p>Que peut-on dire des <u>longueurs OM et OM'</u> ?</p>",
+      "explain": "<p>Les longueurs <u>OM et OM' sont &eacute;gales</u>.</p>",
+      "choices": [
+        "*OM = OM'",
+        "OM > OM'",
+        "OM < OM'"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.2"
+    },
+    {
+      "question": "<p>Le point M' est l'image du point M par la rotation de sens direct de centre O et d'angle &alpha;.&nbsp;</p>\n<p>Quel est la <u>mesure de l'angle</u> $$ \\widehat{MOM'} $$ ?</p>",
+      "explain": "<p>Comme on effectue la rotation d'angle &alpha;, l'angle MOM' vaut <u>&alpha;</u>.</p>",
+      "choices": [
+        "*α",
+        "- α",
+        "0°",
+        "60°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.4"
+    },
+    {
+      "question": "<p>Le point C est l'image d'une rotation du point B par la rotation de sens direct, d'angle &alpha; et de <u>quel centre</u>?</p>\n<p><img src=\"img/qucentre.png\" /></p>",
+      "explain": "<p>Le centre de cette rotation est A. Le point <u>A est le centre de l'arc de cercle</u> passant par B et C.&nbsp;</p>",
+      "choices": [
+        "*A",
+        "B",
+        "C"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.5"
+    },
+    {
+      "question": "<p>B est l'image de C par la rotation de centre A et d'angle &alpha;. Quel est le sens de cette rotation ?&nbsp;</p>\n<p><img src=\"img/qusens.png\" /></p>",
+      "explain": "<p>Il s'agit du sens <u>indirect</u> qui est le <u>sens des aiguilles d'une montre</u>.</p>",
+      "choices": [
+        "Direct",
+        "*Indirect"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.7"
+    },
+    {
+      "question": "<p>Quel est la mesure de l'angle de cette rotation ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de centre O et <u>d'angle 60&deg;</u>.&nbsp;</p>",
+      "choices": [
+        "*60°",
+        "120°",
+        "180°",
+        "0°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.8"
+    },
+    {
+      "question": "<p>Le triangle <u>A'B'C' est l'image du triangle ABC</u> par la rotation de sens direct de centre O et d'angle 60&deg;.&nbsp;</p>\n<p>Quel est l'<u>image du point B</u> par la rotation d'angle 60&deg; de sens direct et de centre O ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de centre O et d'angle 60&deg;. <u>B' est l'image de B</u> par cette m&ecirc;me rotation.</p>",
+      "choices": [
+        "A'",
+        "*B'",
+        "C'",
+        "Rien de tout cela"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.10"
+    },
+    {
+      "question": "<p>Quel est l'<u>image du point C</u> par la rotation d'angle 60&deg; de sens direct et de <u>centre A</u> ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de <u>centre O</u> et d'angle 60&deg;.&nbsp;C' est l'image de C&nbsp;par cette rotation.</p>\n<p>Or, <u>on parle ici de la rotation de centre A</u>. Donc, ni A' ni B' ni C' ne sont l'image de C par la rotation de centre A.</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "A'",
+        "B'",
+        "C'",
+        "*Rien de tout cela"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.11"
+    },
+    {
+      "question": "<p>Le triangle&nbsp;<u>A'B'C' est l'image du triangle ABC</u>&nbsp;par la rotation de sens direct de centre O et d'angle 60&deg;.</p>\n<p>Que peut-on dire des <u>aires ABC et A'B'C'</u> ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de centre O et d'angle 60&deg;. Donc,&nbsp;<u>ABC et A'B'C' ont la m&ecirc;me aire</u>.&nbsp;</p>",
+      "choices": [
+        "*ABC = A'B'C'",
+        "ABC > A'B'C'",
+        "ABC < A'B'C'"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.9"
+    },
+    {
+      "question": "<p>Le triangle&nbsp;<u>A'B'C' est l'image du triangle ABC</u>&nbsp;par la rotation de sens direct de centre O et d'angle 60&deg;.&nbsp;</p>\n<p>Les triangles ABC et A'B'C' sont-ils <u>superposables</u> ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de centre O et d'angle 60&deg;. Donc,&nbsp;<u>les triangles sont superposables</u>.&nbsp;</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.12"
+    },
+    {
+      "question": "<p>Le triangle&nbsp;<u>A'B'C' est l'image du triangle ABC</u>&nbsp;par la rotation de sens direct de centre O et d'angle 60&deg;.</p>\n<p>Que peut-on dire des <u>distances AB et A'B'</u> ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de centre O et d'angle 60&deg;. Une rotation conserve les longueurs. Donc, <u>AB = A'B'</u>.&nbsp;</p>",
+      "choices": [
+        "*AB = A'B'",
+        "AB > A'B'",
+        "AB < A'B'"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.13"
+    },
+    {
+      "question": "<p>Le triangle&nbsp;<u>A'B'C' est l'image du triangle ABC</u>&nbsp;par la rotation de sens direct de centre O et d'angle 60&deg;.</p>\n<p>Que peut-on dire des angles $$ \\widehat{BAC} $$ et $$ \\widehat{B'A'C'} $$ ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de centre O et d'angle 60&deg;. Une rotation <u>conserve les angles</u>. Donc, l'angle BAC = B'A'C'.</p>",
+      "choices": [
+        "*$$ \\widehat{BAC} = \\widehat{B'A'C'} $$",
+        "$$ \\widehat{BAC} < \\widehat{B'A'C'} $$",
+        "$$ \\widehat{BAC} > \\widehat{B'A'C'} $$"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.14"
+    },
+    {
+      "question": "<p>Quel est la mesure de l'angle $$ \\widehat{BOB'} $$ ?</p>\n<p><img src=\"img/rotationprop.png\" /></p>",
+      "explain": "<p>Le triangle A'B'C' est l'image du triangle ABC par la rotation de sens direct de centre O et d'angle 60&deg;. L'angle BOB' vaut donc 60&deg; comme les angles AOA' et COC'.&nbsp;</p>",
+      "choices": [
+        "30°",
+        "*60°",
+        "120°",
+        "180°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.24"
+    },
+    {
+      "question": "<p>A est l'image de B par une <u>rotation de sens direct</u>. Quel est le centre de cette rotation ?&nbsp;</p>\n<p><img src=\"img/quizcercle.png\" /></p>",
+      "explain": "<p>O est le centre de cette rotation.</p>",
+      "choices": [
+        "A",
+        "B ",
+        "C ",
+        "D",
+        "*O"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.16"
+    },
+    {
+      "question": "<p>B est l'image de C par une rotation de sens direct et de centre O. Quel est l'<u>angle de cette rotation</u> ?&nbsp;</p>\n<p><img src=\"img/quizcercle.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>O est le centre de cette rotation. Les angles form&eacute;s par les diagonales du carr&eacute;, se coupant en O, sont des <u>angles droits</u>. L'<u>angle de la rotation est de 90</u>&deg;</p>",
+      "choices": [
+        "45°",
+        "*90°",
+        "180°",
+        "360°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.17"
+    },
+    {
+      "question": "<p>A est l'image de C par une rotation de sens direct et de centre O. Quel est l'<u>angle de cette rotation</u> ?&nbsp;</p>\n<p><img src=\"img/quizcercle.png\" /></p>",
+      "explain": "<p>Les points A et C appartiennent &agrave; la m&ecirc;me diagonale du carr&eacute;. L'<u>angle de la rotation est de 180&deg;</u> = 2 &times; 90&deg;.</p>",
+      "choices": [
+        "45°",
+        "90°",
+        "*180°",
+        "360°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.18"
+    },
+    {
+      "question": "<p>Quel est l'image de D par une rotation de <u>sens indirect</u>, de <u>centre O</u> et d'<u>angle 90&deg;</u> ?</p>\n<p><img src=\"img/quizcercle.png\" /></p>",
+      "explain": "<p>Le sens indirect est le <u>sens des aiguilles d'une montre</u>. Le point suivant D dans ce sens est A.</p>",
+      "choices": [
+        "*A",
+        "B",
+        "C",
+        "D"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.20"
+    },
+    {
+      "question": "<p>Quel est l'image de D par une rotation de <u>sens direct</u>, de centre O et d'angle 90&deg; ?</p>\n<p><img src=\"img/quizcercle.png\" /></p>",
+      "explain": "<p>Le sens direct est le <u>sens inverse des aiguilles d'une montre</u>. Le point suivant D dans ce sens est C.</p>",
+      "choices": [
+        "A",
+        "B",
+        "*C",
+        "D"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.21"
+    },
+    {
+      "question": "<p>Quel est l'image de A par une rotation de <u>sens indirect</u>, de centre O et d'<u>angle 180&deg;</u> ?</p>\n<p><img src=\"img/quizcercle.png\" /></p>",
+      "explain": "<p>Le sens indirect est le <u>sens des aiguilles d'une montre</u>. L'angle de la rotation est de <u>180&deg;</u>, il faut donc consid&eacute;rer le deuxi&egrave;me point apr&egrave;s l'origine de la rotation. Le <u>deuxi&egrave;me point</u> suivant A dans ce sens est C.</p>",
+      "choices": [
+        "A",
+        "B",
+        "*C",
+        "D"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.22"
+    },
+    {
+      "question": "<p>Quel est l'image de B par une rotation de <u>sens indirect</u>, de centre O et d'<u>angle 270&deg;</u> ?</p>\n<p><img src=\"img/quizcercle.png\" /></p>",
+      "explain": "<p>Le sens indirect est le <u>sens des aiguilles d'une montre</u>. L'angle de la rotation est de <u>270&deg;</u>, il faut donc consid&eacute;rer le troisi&egrave;me point apr&egrave;s l'origine de la rotation. Le <u>troisi&egrave;me point</u> suivant B dans ce sens est <u>A</u>.</p>",
+      "choices": [
+        "*A",
+        "B",
+        "C",
+        "D"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/34.23"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 24,
+  "theme": "geometrie",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

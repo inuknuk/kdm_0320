@@ -1,0 +1,289 @@
+{
+  "id": "sci/43",
+  "title": "Transferts d'energie",
+  "editor": "tbrethes@gmail.com",
+  "pages": [
+    "sci/43/1.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Si un syst&egrave;me <u>c&egrave;de de l'&eacute;nergie</u> au mileu exterieur, la transformation est</p>",
+      "explain": "<p>exo: ext&eacute;rieur</p>\n<p>thermique : chaleur</p>",
+      "choices": [
+        "*exothermique",
+        "endothermique",
+        "monothermique",
+        "isothermique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.1"
+    },
+    {
+      "question": "<p>Si un syst&egrave;me <u>c&egrave;de de l'&eacute;nergie</u> au mileu exterieur, l'&eacute;nergie transf&eacute;r&eacute;e est&nbsp;</p>",
+      "explain": "<p>Le signe de l'&eacute;nergie tranferee est toujours par rapport au systeme:</p>\n<p>quand le syst&egrave;me recoit, l'&eacute;nergie est POSITIVE</p>\n<p>quand le syst&egrave;me donne, l'&eacute;nergie est NEGATIVE</p>",
+      "choices": [
+        "*négative",
+        "positive",
+        "égale a 0"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.2"
+    },
+    {
+      "question": "<p>Si un syst&egrave;me re&ccedil;oit<u>&nbsp;de l'&eacute;nergie</u> du mileu exterieur, la transformation est</p>",
+      "explain": "<p>endo: int&eacute;rieur</p>\n<p>thermique : chaleur</p>",
+      "choices": [
+        "exothermique",
+        "*endothermique",
+        "monothermique",
+        "isothermique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.16"
+    },
+    {
+      "question": "<p>Quand on chauffe de l'eau, l'&eacute;nergie transf&eacute;r&eacute;e &agrave; l'eau est:</p>",
+      "explain": "",
+      "choices": [
+        "*positive",
+        "négative"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.3"
+    },
+    {
+      "question": "<p>Quand de l'eau chaude se <u>refroidit</u>, il y un transfert d'energie _____ de l'eau vers l'air.</p>",
+      "explain": "",
+      "choices": [
+        "positif",
+        "*négatif"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.4"
+    },
+    {
+      "question": "<p>Pour faire fondre 10 gla&ccedil;ons, il faut ________ que pour pour faire fondre 1 gla&ccedil;on.</p>",
+      "explain": "",
+      "choices": [
+        "*plus d'énergie",
+        "moins d'énergie",
+        "la même quantité d'énergie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.5"
+    },
+    {
+      "question": "<p>Quelle est la bonne formule pour calculer l'energie tranf&eacute;r&eacute;e lors d'un changement d'&eacute;tat?</p>",
+      "explain": "",
+      "choices": [
+        "*Q = m × L",
+        "Q =  L / m",
+        "Q =  m / L"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.6"
+    },
+    {
+      "question": "<p>Dans la formule <u>Q = m &times; L</u></p>\n<p>que represente <u>Q</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*L'énergie transférée",
+        "La masse",
+        "La puissance reçue"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.7"
+    },
+    {
+      "question": "<p>Dans la formule <u>Q = m &times; L</u></p>\n<p>que represente <u>L</u>?</p>",
+      "explain": "",
+      "choices": [
+        "*La chaleur latente",
+        "La capacité calorique",
+        "La longueur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.8"
+    },
+    {
+      "question": "<p>Dans la formule <u>Q = m &times; L</u></p>\n<p>que represente m?</p>",
+      "explain": "",
+      "choices": [
+        "La chaleur latente",
+        "La capacité calorique",
+        "*La masse"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.9"
+    },
+    {
+      "question": "<p><u>L'&eacute;nergie massique de changement d'&eacute;tat</u> s'exprime en</p>",
+      "explain": "",
+      "choices": [
+        "*J  / kg",
+        "J  / C",
+        "J / kg / C"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.10"
+    },
+    {
+      "question": "<p>La <u>chaleur latente</u> repr&eacute;sente</p>",
+      "explain": "",
+      "choices": [
+        "*L'énergie massique de changement d'état",
+        "La puissance massique de changement d'état",
+        "La capacité calorifique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.11"
+    },
+    {
+      "question": "<p>La <u>chaleur latente de vaporisation</u> de l'eau est L = 2,3 kJ / kg.</p>\n<p>Quelle est la <u>chaleur latente de liqu&eacute;faction</u> de l'eau?</p>",
+      "explain": "",
+      "choices": [
+        "*2,3 kJ / kg",
+        "> 2.3 kJ / kg",
+        "< 2.3 kJ / kg"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.12"
+    },
+    {
+      "question": "<p>Lorsque de la bu&eacute;e se forme sur une vitre,&nbsp;</p>",
+      "explain": "<p>La vapeur d'eau gazeuse dans l'air se transforme en eau liquide sur la vitre.</p>\n<p>C'est une liqu&eacute;faction, donc une r&eacute;action endothermique</p>\n<p>l'eau c&egrave;de de l'energie &agrave; la vitre</p>",
+      "choices": [
+        "l'eau reçoit de l'énergie",
+        "*l'eau cède de l'énergie",
+        "Il n'y a pas de transfert d'énergie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.13"
+    },
+    {
+      "question": "<p>Pour faire fondre 2 kg d'eau solide, il faut doit apporter 4600 Joules.</p>\n<p>Quelle est la<u> chaleur latente de fusion</u> de l'eau?</p>",
+      "explain": "<p>On sait que Q = m &times; L</p>\n<p>donc L = Q / m</p>\n<p>L = 4600 J / 2 kg = 2300 J / kg</p>",
+      "choices": [
+        "*= 4600 J / 2 kg = 2300 J/kg ",
+        "= 4600 J * 2 kg = 9200 J . kg "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.14"
+    },
+    {
+      "question": "<p>La <u>chaleur latente de fusion</u> et de <u>liqu&eacute;faction</u> pour n'importe esp&egrave;ce chimique sont &eacute;gales?</p>",
+      "explain": "",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.15"
+    },
+    {
+      "question": "<p>La chaleur latente de fusion de l'eau est de 2,3 kJ / kg.</p>\n<p>Quelle est l<u>'&eacute;nergie transf&eacute;ree</u> lors de la <u>fusion</u> de 2 litres d'eau solide?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>On sait que Q = m &times; L</p>\n<p>et pour l'eau 1 L = 1 Kg<br />Q = 2 kg &times; 2,3 kJ / kg<br />Q = 4,6 kJ</p>",
+      "choices": [
+        "*= 2 × 2,3  = 4,6 kJ",
+        "= 2 / 2,3 = 0,9 kJ",
+        "= 2,3 / 2  = 1,15 kJ",
+        "= 2 × 2,3  = 4,6 J"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.17"
+    },
+    {
+      "question": "<p>La chaleur latente de fusion de l'eau est de 2,3 kJ / kg.</p>\n<p>Quelle est l<u>'&eacute;nergie transf&eacute;ree</u> lors de la <u>fusion</u> de 500g d'eau solide?</p>",
+      "explain": "<p>On sait que Q = m &times; L</p>\n<p>Attention : il faut convertir la masse 500g en kg</p>\n<p>m = 500g = 0,5 kg<br />Q = 0,5 kg &times; 2,3 kJ / kg<br />Q = 1,15 kJ</p>",
+      "choices": [
+        "*= 0,5 × 2,3  kJ",
+        "= 500 × 2,3 kJ",
+        "= 2,3 / 0,5 kJ",
+        "= 500 / 2,3 kJ"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.18"
+    },
+    {
+      "question": "<p>La <u>chaleur latente de fusion</u> est la m&ecirc;me pour tous les liquides</p>",
+      "explain": "",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.19"
+    },
+    {
+      "question": "<p>La <u>fusion</u> est une r&eacute;action</p>",
+      "explain": "<p>Endothermique</p>\n<p>Car il faut apporter de l'ernegie pour faire fondre un solide</p>",
+      "choices": [
+        "exothermique",
+        "*endothermique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.20"
+    },
+    {
+      "question": "<p>La <u>condensation</u> est une r&eacute;action</p>",
+      "explain": "<p>Quand on passe du gaz au liquide, on c&egrave;de de l'energie</p>",
+      "choices": [
+        "*exothermique",
+        "endothermique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.21"
+    },
+    {
+      "question": "<p>Lorsqu'un sportif porte des vetements mouill&eacute;s par la <u>sueur</u> et qu'il y a du vent, la sueur va <u>s'&eacute;vaporer</u>.</p>\n<p>Cela va provoquer une provoquer <u>une sensation de fraicheur</u> car</p>",
+      "explain": "<p>l'&eacute;vaporation de la sueur est une r&eacute;action endothermique.</p>\n<p>Elle recoit de la chaleur de la peau pour s'evaporer.</p>\n<p>Donc la peau c&egrave;de de la chaleur, on a une sensation de fraicheur.</p>",
+      "choices": [
+        "*la peau cède de la chaleur a la sueur",
+        "la sueur cède de la chaleur a la peau"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.22"
+    },
+    {
+      "question": "<p>Lorsque de l'azote liquide N2 se <u>vaporise</u>, il ______</p>",
+      "explain": "",
+      "choices": [
+        "*reçoit de l'énergie",
+        "libère de l'énergie"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/43.23"
+    }
+  ],
+  "pageCounter": 1,
+  "questionCounter": 23,
+  "warning": "1",
+  "theme": "2",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

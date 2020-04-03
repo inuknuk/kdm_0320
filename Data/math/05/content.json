@@ -1,0 +1,209 @@
+{
+  "id": "math/05",
+  "title": "Puissances d'un entier",
+  "pages": [
+    "math/05/1.htm",
+    "math/05/3.htm",
+    "math/05/4.htm",
+    "math/05/7.htm",
+    "math/05/8.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Que vaut</p>\n<h1><u>5<sup>2</sup></u></h1>",
+      "choices": [
+        "*5 x 5",
+        "5 x 2",
+        "5 + 2",
+        "5 / 2"
+      ],
+      "id": "math/05.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut</p>\n<h1><u>10<sup>4</sup></u></h1>",
+      "choices": [
+        "*10 x 10 x 10 x 10",
+        "10 x 4",
+        "10 x 10 x 10 + 10",
+        "10 + 4"
+      ],
+      "id": "math/05.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut <u>3<sup>4</sup></u> ?</p>",
+      "choices": [
+        "*3 x 3 x 3 x 3",
+        "4 x 4 x 4",
+        "3 x 4",
+        "3 + 3 + 3 + 3"
+      ],
+      "id": "math/05.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut <u>(-2)<sup>3</sup></u></p>",
+      "choices": [
+        "* (-2) x (-2) x (-2)",
+        "- 2 x 2 x 2",
+        " - 2 x 3"
+      ],
+      "id": "math/05.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut <u>10<sup>5</sup> x 10<sup>4</sup></u></p>",
+      "choices": [
+        "* 10 puissance 9",
+        "10 puissance 20",
+        "100"
+      ],
+      "id": "math/05.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut <u>10<sup>5</sup> /10<sup>2</sup></u> ?</p>",
+      "choices": [
+        "* 10 puissance 3",
+        "10 puissance 7",
+        "10 puissance 10"
+      ],
+      "id": "math/05.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut <u>10<sup>5</sup> x 10<sup>2</sup>x 10 <sup>3</sup>&nbsp;</u></p>",
+      "choices": [
+        "* 10 puissance  10",
+        "10 puissance 30",
+        "10 puissance 11"
+      ],
+      "id": "math/05.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut <u>(10<sup>6</sup>)</u><sup><u>3</u> ?</sup></p>",
+      "choices": [
+        "* 10 puissance  18",
+        "10 puissance 9",
+        "10 puissance  2",
+        "3 fois 10 puissance 6"
+      ],
+      "id": "math/05.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Je veux calculer&nbsp; <u>10<sup>5</sup>&nbsp;x 10<sup>4</sup></u><br />Je peux :</p>",
+      "choices": [
+        "*additionner les puissances",
+        "multiplier les puissances",
+        "diviser les puissances",
+        "soustraire les puissances"
+      ],
+      "id": "math/05.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Je veux calculer&nbsp; <u>10<sup>5</sup> / 10<sup>4</sup></u></p>\n<p>Je peux</p>",
+      "choices": [
+        "*soustraire les puissances",
+        "additionner les puissances",
+        "diviser les puissances",
+        "multiplier les puissances"
+      ],
+      "id": "math/05.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Je veux calculer&nbsp; <u>(10<sup>5</sup>)<sup>4</sup></u><br />Je peux</p>",
+      "choices": [
+        "soustraire les puissances",
+        "additionner les puissances",
+        "diviser les puissances",
+        "*multiplier les puissances"
+      ],
+      "id": "math/05.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut</p>\n<p><u>10<sup>5</sup>&nbsp;x 10&nbsp;<sup>4</sup>x 10<sup>2</sup></u>&nbsp;</p>",
+      "choices": [
+        "* 10 puissance 11",
+        "10 puissance 10",
+        "11 puissance 10"
+      ],
+      "id": "math/05.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut</p>\n<p>10<sup>5</sup>&nbsp;x 10<sup>4</sup> x 10 ?</p>",
+      "choices": [
+        "* 10 puissance 10",
+        "10 puissance 9",
+        "9 puissance 10"
+      ],
+      "id": "math/05.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut</p>\n<p><u>10<sup>5</sup> x 10<sup>3</sup> x 10<sup>-4</sup></u> ?</p>",
+      "choices": [
+        "* 10 puissance 4",
+        "10 puissance 12",
+        "10 puissance 2"
+      ],
+      "id": "math/05.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut</p>\n<p><u>10<sup>5</sup> x 10<sup>3</sup>x 10<sup>-7</sup></u>&nbsp;?</p>",
+      "choices": [
+        "* 10",
+        "10 puissance 15",
+        "10 puissance 2"
+      ],
+      "id": "math/05.15",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut</p>\n<p>10<sup>5</sup> x 10<sup>3</sup>x 10<sup>-8</sup>&nbsp;</p>",
+      "choices": [
+        "* 1",
+        "0",
+        "10"
+      ],
+      "id": "math/05.16",
+      "explain": ""
+    },
+    {
+      "question": "<p>Que vaut <u>10<sup>0</sup> </u>?</p>",
+      "choices": [
+        "* 1",
+        "0",
+        "10",
+        "0,1"
+      ],
+      "id": "math/05.17",
+      "explain": ""
+    },
+    {
+      "question": "<p>1 centieme de 10<sup>-16</sup> vaut</p>",
+      "choices": [
+        "*10 puissance - 18",
+        "10 puissance - 14",
+        "10 puissance 18"
+      ],
+      "id": "math/05.18",
+      "explain": "<p>1 centieme = 10<sup>-2</sup></p>\n<p>10<sup>-2 </sup> x 10<sup>-16</sup>&nbsp;<br />= 10<sup>-18</sup>&nbsp;</p>"
+    }
+  ],
+  "pageCounter": 8,
+  "questionCounter": 18,
+  "theme": "calcul",
+  "level": [
+    "3"
+  ],
+  "status": "published",
+  "editor": "tbrethes@gmail.com"
+}

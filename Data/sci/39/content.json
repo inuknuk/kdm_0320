@@ -1,0 +1,261 @@
+{
+  "id": "sci/39",
+  "title": "Résistance et Loi d'Ohm",
+  "editor": "julie.mariettaaleina@gmail.com",
+  "pages": [
+    "sci/39/1.htm",
+    "sci/39/2.htm",
+    "sci/39/3.htm",
+    "sci/39/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>La r&eacute;sistance d'un dip&ocirc;le caract&eacute;rise sa capacite &agrave; :</p>",
+      "explain": "<p>Le mat&eacute;riau conducteur r&eacute;siste au passage du courant &eacute;lectrique.</p>",
+      "choices": [
+        "maintenir une tension nulle à ses bornes",
+        "laisser passer le courant",
+        "*empêcher le passage du courant"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.1"
+    },
+    {
+      "question": "<p>Un <u>bon conducteur</u> poss&egrave;de</p>",
+      "explain": "<p>Il laisse passer le courant, il lui oppose une r&eacute;sistance faible.</p>",
+      "choices": [
+        "une résistance élevée ",
+        "*une résistance faible"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.2"
+    },
+    {
+      "question": "<p>Un <u>fil &eacute;lectrique</u> est</p>",
+      "explain": "<p>Le r&ocirc;e d'un fil &eacute;lectrique est de conduire le courant: c'est donc un bon conducteur (il poss&egrave;de une r&eacute;sistance tr&egrave;s faible).&nbsp;</p>",
+      "choices": [
+        "Un bon isolant",
+        "*Un bon conducteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.3"
+    },
+    {
+      "question": "<p>Le bois est:</p>",
+      "explain": "<p>Le bois s'oppose au passage du courant &eacute;lectrique: c'est un bon isolant.&nbsp;</p>",
+      "choices": [
+        "*Un bon isolant",
+        "Un bon conducteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.4"
+    },
+    {
+      "question": "<p>La <u>r&eacute;sistance</u> d'un dip&ocirc;le s'exprime en:</p>",
+      "explain": "<p>L'unit&eacute; de la r&eacute;sistance est l'Ohm &Omega;.</p>",
+      "choices": [
+        "Watts (W)",
+        "*Ohms (Ω)",
+        "Mètres (m)",
+        "Joules (J)",
+        "Ampères (A)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.5"
+    },
+    {
+      "question": "<p>L'<u>effet Joule</u> est une conversion d'&eacute;nergie:&nbsp;</p>",
+      "explain": "<p>L'effet Joule provoque un d&eacute;gagement de chaleur.</p>",
+      "choices": [
+        "thermique en énergie électrique",
+        "*électrique en énergie thermique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.6"
+    },
+    {
+      "question": "<p>L'<u>effet Joule</u> est utilis&eacute; pour faire fonctionner une <u>lampe &agrave; incandescence</u> (avec une ampoule &agrave; filament).</p>",
+      "explain": "<p>L'&eacute;lectricit&eacute; passe dans le filament de l'ampoule.</p>\n<p>Une partie de l'&eacute;nergie &eacute;lectrique se transforme en chaleur.</p>\n<p>Cela produit de la lumi&egrave;re.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.7"
+    },
+    {
+      "question": "<p>La <u>loi d'Ohm</u> s'&eacute;crit</p>",
+      "explain": "<p>Par d&eacute;finition.</p>\n<p>A noter que R est en Ohms et I en Amp&egrave;re</p>",
+      "choices": [
+        "U = R + I",
+        "I = R × U",
+        "U = R/I",
+        "*U = R × I"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.8"
+    },
+    {
+      "question": "<p>La loi d'Ohm est valable</p>",
+      "explain": "<p>On applique cette loi uniquement sur les r&eacute;sistances (et non pas sur les condensateurs, bobines, g&eacute;n&eacute;rateurs, etc...).</p>",
+      "choices": [
+        "Pour tout dipôle générateur",
+        "Pour tout dipôle récepteur ",
+        "*Pour les dipôles ohmiques"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.9"
+    },
+    {
+      "question": "<p>La <u>loi d'Ohm</u> est valable uniquement en r&eacute;gime continu.&nbsp;</p>",
+      "explain": "<p>C'est un des grands int&eacute;r&ecirc;ts de la loi d'Ohm: elle est valable tout le temps (et quelque soit le corps dans lequel on se place pour faire les calculs...).&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.10"
+    },
+    {
+      "question": "<p>On mesure une <u>r&eacute;sistance</u> avec</p>",
+      "explain": "<p>L'amp&egrave;rem&egrave;tre sert &agrave; mesurer l&rsquo;intensit&eacute; et le voltm&egrave;tre la tension.</p>",
+      "choices": [
+        "Un Ampèremètre",
+        "Un Voltmètre",
+        "*Un Ohmmètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.11"
+    },
+    {
+      "question": "<p>La caract&eacute;ristique d'un dip&ocirc;le est la repr&eacute;sentation graphique de:</p>",
+      "explain": "<p>C'est la repr&eacute;sentation graphique de la loi d'Ohm: U = RI</p>",
+      "choices": [
+        "*La tension en fonction de l'intensité",
+        "La résistance en fonction de la tension",
+        "La résistance en fonction de l'intensité",
+        "L'intensité en fonction de la résistance"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.12"
+    },
+    {
+      "question": "<p>La caract&eacute;ristique d'un dip&ocirc;le ohmique est:</p>",
+      "explain": "<p>La loi d'Ohm traduit une relation de proportionnalit&eacute; entre U et I: U = RI.</p>\n<p>C'est une fonction lin&eacute;aire dont la repr&eacute;sentation graphique est une droite passant par l'origine O du rep&egrave;re.</p>",
+      "choices": [
+        "Une droite quelconque",
+        "*Une droite passant par l'origine",
+        "Une courbe type puissance",
+        "Une droite horizontale"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.13"
+    },
+    {
+      "question": "<p>Comment trouve-t-on la valeur de la r&eacute;sistance R &agrave; partir de la caract&eacute;ristique d'un dip&ocirc;le Ohmique?&nbsp;</p>",
+      "explain": "<p>U = R &times; I donc R est le coefficient directeur de la droite qui passe par l'origine.</p>\n<p>R = U / I</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "C'est l'ordonnée à l'origine",
+        "*C'est le coefficient directeur",
+        "C'est la valeur maximale"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.14"
+    },
+    {
+      "question": "<p>Que vaut la r&eacute;sistance R du dip&ocirc;le Ohmique dont la caract&eacute;ristique est donn&eacute;e ci-dessous?&nbsp;</p>\n<p><img src=\"img/sdfghj.png\" /></p>",
+      "explain": "<p>R est le coefficient directeur de la droite repr&eacute;sentant U=R&times;I&nbsp;</p>\n<p>Ce coefficient est le m&ecirc;me pour tous les points de la droite.</p>\n<p>Il suffit de prendre les coordonn&eacute;es d'un des points.</p>\n<p>Exemple: Pour <strong>I</strong> = 1 A, <strong>U</strong> = 2 V.</p>\n<p>Donc R = U / I = 2 / 1 = 2 &Omega;</p>",
+      "choices": [
+        "*2 Ω",
+        "0 Ω ",
+        "6 Ω ",
+        "3 Ω "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.15"
+    },
+    {
+      "question": "<p>Que vaut la r&eacute;sistance R du dip&ocirc;le Ohmique dont la caract&eacute;ristique est donn&eacute;e ci-dessous?&nbsp;</p>\n<p><img src=\"img/a.png\" width=\"473\" height=\"283\" /></p>",
+      "explain": "<p>R est le coefficient directeur de la droite repr&eacute;sentant U=R&times;I&nbsp;</p>\n<p>Il suffit de prendre les coordonn&eacute;es d'un des points.</p>\n<p>Exemple: Pour&nbsp;<strong>I</strong>&nbsp;= 1 A,&nbsp;<strong>U</strong>&nbsp;= 3 mV.</p>\n<p>Attention &agrave; <strong>l&rsquo;unit&eacute;</strong>! U doit &ecirc;tre converti en V.</p>\n<p>U = 3mV = 0,003 V</p>\n<p>R = U / I = 0.003 / 1 = 0,003 &Omega;</p>",
+      "choices": [
+        "3 Ω",
+        "* 0,003 Ω ",
+        "333 Ω "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.16"
+    },
+    {
+      "question": "<p>Que vaut la r&eacute;sistance R du dip&ocirc;le Ohmique dont la caract&eacute;ristique est donn&eacute;e ci-dessous?&nbsp;</p>\n<p><img src=\"img/yugfoi.png\" width=\"444\" height=\"266\" /></p>",
+      "explain": "<p>R est le coefficient directeur de la droite repr&eacute;sentant U=R&times;I&nbsp;</p>\n<p>Il suffit de prendre les coordonn&eacute;es d'un des points.</p>\n<p>Exemple: Pour&nbsp;<strong>I</strong> = 1 mA,&nbsp;<strong>U</strong> = 2,5 mV.</p>\n<p>Attention &agrave;&nbsp;<strong>l&rsquo;unit&eacute;</strong>! U doit &ecirc;tre en V et I en A.</p>\n<p>I = 1 mA = 0,001 A et U = 2,5 mV = 0,0025 V</p>\n<p>R = U / I = 0,0025 / 0,001 = 2,5 &Omega;</p>",
+      "choices": [
+        "10 Ω ",
+        "2500 Ω ",
+        "*2,5 Ω"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.17"
+    },
+    {
+      "question": "<p>Que vaut la r&eacute;sistance R du dip&ocirc;le Ohmique dont la caract&eacute;ristique est donn&eacute;e ci-dessous?</p>\n<p><strong>Attention</strong> ici la tension est en <u>abscisse</u> et l&rsquo;intensit&eacute; est en <u>ordonn&eacute;e</u>!</p>\n<p><img src=\"img/b.png\" width=\"463\" height=\"277\" /></p>",
+      "explain": "<p>U = R&times;I donc I= U/R</p>\n<p>Sur le graphique, la droite a pour <strong>coefficient 1/R</strong>!</p>\n<p>On prend les coordonn&eacute;es d'un des points.</p>\n<p>Exemple: Pour <strong>U</strong>&nbsp;= 1 V,&nbsp;<strong>I</strong>&nbsp;= 2,5 A.</p>\n<p>Donc R = U / I = 1 / 2,5 = 0,4 &Omega;</p>",
+      "choices": [
+        "2,5 Ω",
+        "*0,4 Ω",
+        "3 Ω"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.18"
+    },
+    {
+      "question": "<p>Que vaut la r&eacute;sistance R du dip&ocirc;le Ohmique dont la caract&eacute;ristique est donn&eacute;e ci-dessous?</p>\n<p><strong>Attention</strong>&nbsp;ici la tension est en&nbsp;<u>abscisse</u>&nbsp;et l&rsquo;intensit&eacute; est en&nbsp;<u>ordonn&eacute;e</u>!</p>\n<p><img src=\"img/bn.png\" width=\"452\" height=\"270\" /></p>",
+      "explain": "<p>U = R&times;I donc I= U/R</p>\n<p>Sur le graphique, la droite a pour&nbsp;<strong>coefficient 1/R</strong>!</p>\n<p>On prend les coordonn&eacute;es d'un des points.</p>\n<p>Exemple: Pour&nbsp;<strong>U</strong>&nbsp;= 1 V,&nbsp;<strong>I</strong> = 2 mA.</p>\n<p>Attention aux unit&eacute;s!</p>\n<p>I = 2 mA = 0,002 A</p>\n<p>Donc R = U / I = 1 / 0,002 = 500 &Omega;</p>",
+      "choices": [
+        "0,002 Ω",
+        "* 500 Ω",
+        "2 Ω"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.19"
+    },
+    {
+      "question": "<p>Que vaut la r&eacute;sistance R du dip&ocirc;le Ohmique dont la caract&eacute;ristique est donn&eacute;e ci-dessous?</p>\n<p><strong>Attention</strong>&nbsp;ici la tension est en&nbsp;<u>abscisse</u>&nbsp;et l&rsquo;intensit&eacute; est en&nbsp;<u>ordonn&eacute;e</u>!</p>\n<p><img src=\"img/bv.png\" width=\"448\" height=\"270\" /></p>",
+      "explain": "<p>U = R&times;I donc I= U/R</p>\n<p>Sur le graphique, la droite a pour&nbsp;<strong>coefficient 1/R</strong>!</p>\n<p>On prend les coordonn&eacute;es d'un des points.</p>\n<p>Exemple: Pour&nbsp;<strong>U</strong> = 1 mV,&nbsp;<strong>I</strong>&nbsp;= 3 mA.</p>\n<p>Attention aux unit&eacute;s! 1 V = 1000 mV et 1 A = 1000 mA</p>\n<p>R = U / I = 1 / 3 = 0,33 &Omega;</p>",
+      "choices": [
+        "3 Ω",
+        "*0,33 Ω",
+        "9 Ω"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/39.20"
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 20,
+  "theme": "5",
+  "level": [
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

@@ -1,0 +1,261 @@
+{
+  "id": "sci/16",
+  "title": "La Tension électrique",
+  "pages": [
+    "sci/16/2.htm",
+    "sci/16/3.htm",
+    "sci/16/4.htm",
+    "sci/16/5.htm",
+    "sci/16/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Quelle est la bonne expression de Uba ?&nbsp;</p>",
+      "explain": "<p>Par convention, Uab = Va - Vb donc Uba = Vb - Va .</p>",
+      "choices": [
+        "Uba = Va - Vb",
+        "Uba = Va + Vb",
+        "*Uba = Vb - Va"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.1"
+    },
+    {
+      "question": "<p>Soient A et B deux points d'un circuit. La tension Uab entre ces deux points est repr&eacute;sent&eacute;e par:</p>",
+      "explain": "<p>C'est une convention.&nbsp;</p>",
+      "choices": [
+        "Une flèche de A vers B",
+        "*Une flèche de B vers A"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.2"
+    },
+    {
+      "question": "<p>Pour mesurer une tension aux bornes d'un dip&ocirc;le, on branche le voltm&egrave;tre:</p>",
+      "explain": "<p>Le voltm&egrave;tre se branche en d&eacute;rivation.</p>\n<p>Par ailleurs, cet appareil poss&egrave;de une grande r&eacute;sistance interne, le courant &eacute;lectrique ne peut donc pas passer si on le branche en s&eacute;rie.</p>",
+      "choices": [
+        "*En dérivation",
+        "En série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.3"
+    },
+    {
+      "question": "<p>L'unit&eacute; de la tension est:</p>",
+      "explain": "<p>La tension s'exprime en volts.</p>",
+      "choices": [
+        "L'ampère (A)",
+        "Le coulomb (C)",
+        "Le mètre (m)",
+        "*Le volt (V)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.4"
+    },
+    {
+      "question": "<p>La tension nominale est...</p>",
+      "explain": "",
+      "choices": [
+        "La tension minimale de fonctionnement d'un dipôle",
+        "*La tension idéale de fonctionnement d'un dipôle",
+        "La tension maximale de fonctionnement d'un dipôle"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.5"
+    },
+    {
+      "question": "<p>Une lampe mise sous une tension inf&eacute;rieure &agrave; sa tension nominale brille...</p>",
+      "explain": "",
+      "choices": [
+        "Très fortement",
+        "*Très faiblement"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.6"
+    },
+    {
+      "question": "<p>Quelle est la bonne formule?&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "Uac = Uba + Ubc",
+        "Uac = Uab + Ucb",
+        "*Uac = Uab + Ubc"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.7"
+    },
+    {
+      "question": "<p>Quelle est la bonne formule?&nbsp;</p>",
+      "explain": "<p>Pour rappel, <u>Ucb = Vc - Vb</u> et <u>Ubc = Vb - Vc.</u></p>\n<p>Par cons&eacute;quent, <u>Ucb = -Ubc</u></p>\n<p>Donc Uac =&nbsp;Uab + Ubc = Uab - Ucb</p>\n<p>&nbsp;</p>",
+      "choices": [
+        "*Uac = Uab - Ucb",
+        "Uac= Uab + Ucb"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.8"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma suivant et d&eacute;duisez-en l'expression correcte de la loi des mailles.</p>\n<p><img src=\"img/ljn.png\" width=\"309\" height=\"159\" /></p>",
+      "explain": "<p>U1 et U2 indiquent le m&ecirc;me sens de rotation que la fl&egrave;che, tandis que U3 et U4 indiquent le sens contraire.&nbsp;</p>",
+      "choices": [
+        "U1 - U2 - U3 - U4 = 0",
+        "U1 - U2 + U3 - U4 = 0",
+        "*U1 + U2 - U3 - U4 = 0",
+        "U1 + U2 + U3 + U4 = 0"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.9"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma suivant et d&eacute;duisez-en l'expression correcte de la loi des mailles.</p>\n<p><img src=\"img/ljn.png\" width=\"342\" height=\"176\" /></p>",
+      "explain": "<p>La loi des mailles s'&eacute;crit (d'apr&egrave;s la question pr&eacute;c&eacute;dente):&nbsp;</p>\n<p>U1 + U2 - U3 - U4 = 0 ce qui donne bien la premi&egrave;re r&eacute;ponse (on passe U3 et U4 de l'autre c&ocirc;t&eacute; du signe &eacute;gal).&nbsp;</p>",
+      "choices": [
+        "*U1 + U2 = U3 + U4",
+        "U1 - U2 = U3 - U4",
+        "U1 + U2 = U3 - U4",
+        "U1 - U2 = U3 + U4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.10"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma suivant et d&eacute;duisez-en l'expression correcte de la loi des mailles.</p>\n<p><img src=\"img/gfhgjhkjk.png\" width=\"325\" height=\"165\" /></p>",
+      "explain": "<p>U1 U2 et U3 indiquent le m&ecirc;me sens de rotation que la fl&egrave;che, tandis que U4 indique le sens contraire.&nbsp;</p>",
+      "choices": [
+        "U1 - U2 - U3 - U4 = 0",
+        "U1 - U2 + U3 - U4 = 0",
+        "*U1 + U2 + U3 - U4 = 0",
+        "U1 + U2 - U3 - U4 = 0"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.11"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma suivant et d&eacute;duisez-en l'expression correcte de la loi des mailles.</p>\n<p><img src=\"img/lkjh.png\" width=\"325\" height=\"167\" /></p>",
+      "explain": "<p>U4 indique le m&ecirc;me sens de rotation que la fl&egrave;che, tandis que U1 U2 et U3 indiquent le sens contraire.&nbsp;</p>",
+      "choices": [
+        "*-U1 - U2 - U3 + U4 = 0",
+        "U1 - U2 - U3 - U4 = 0",
+        "U1 + U2 + U3 + U4 = 0",
+        "-U1 - U2 + U3 - U4 = 0"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.12"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma suivant et d&eacute;duisez-en l'expression correcte de la loi des mailles.</p>\n<p><img src=\"img/onlkl.png\" width=\"447\" height=\"171\" /></p>",
+      "explain": "<p>C'est la loi d'unicit&eacute; des tensions</p>",
+      "choices": [
+        "U3 = - U4",
+        "*U3 = U4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.13"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma suivant et d&eacute;duisez-en l'expression correcte de la loi des mailles.</p>\n<p><img src=\"img/jyvhbkjk.png\" width=\"472\" height=\"171\" /></p>",
+      "explain": "",
+      "choices": [
+        "U1 = U2 = U3 = U4",
+        "*U1 = - U2 = U3 = U4",
+        "U1 = U2 = - U3 = - U4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.14"
+    },
+    {
+      "question": "<p>Deux lampes en d&eacute;rivation brillent plus que deux lampes en s&eacute;rie.</p>",
+      "explain": "<p>D'apr&egrave;s la loi d'additivit&eacute; des tensions, si les deux lampes sont en s&eacute;rie alors U1 + U2 = Ug (tension du g&eacute;n&eacute;rateur).</p>\n<p>En revanche, si les deux lampes sont en d&eacute;rivation alors U1=U2=Ug.</p>\n<p>Donc les tensions U1 et U2 sont plus importantes pour un montage en d&eacute;rivation que pour un montage en s&eacute;rie: les lampes brillent plus en d&eacute;rivation.&nbsp;</p>",
+      "choices": [
+        "*Vrai",
+        "Faux "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.15"
+    },
+    {
+      "question": "<p>On ne peut mesurer de tension qu'entre les deux bornes d'un dip&ocirc;le.</p>",
+      "explain": "<p>On peut mesurer une tension entre tous points d'un circuit.</p>\n<p>On peut par exemple mesurer la tension entre la borne droite d'une r&eacute;sistance, et la borne gauche d'une lampe directement en s&eacute;rie avec cette r&eacute;sistance.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.16"
+    },
+    {
+      "question": "<p>Si U1 vaut 6V, U2 vaut 3V et U3 vaut 1V, alors U4 vaut:</p>\n<p><img src=\"img/ohdiuh.png\" width=\"300\" height=\"161\" /></p>",
+      "explain": "<p>D'apr&egrave;s la loi des mailles, U1 - U2 - U3 - U4 = 0</p>\n<p>Donc U4 = U1 - U2 - U3 = 2V</p>",
+      "choices": [
+        "4V",
+        "10V",
+        "*2V"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.17"
+    },
+    {
+      "question": "<p>Si U4 vaut 8V, U3 vaut 2V et U1 vaut 4V alors U2 vaut</p>\n<p><img src=\"img/lkjh.png\" width=\"350\" height=\"180\" /></p>",
+      "explain": "<p>D'apr&egrave;s la loi des mailles, - U1 - U2 - U3 + U4 = 0</p>\n<p>Donc U2 = - U1 - U3 + U4 = 2V</p>",
+      "choices": [
+        "*2V",
+        "14V",
+        "10V"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.18"
+    },
+    {
+      "question": "<p>Si U3 vaut 3V alors U4 vaut</p>\n<p><img src=\"img/jyvhbkjk.png\" width=\"464\" height=\"168\" /></p>",
+      "explain": "<p>La loi d'unicit&eacute; des tensions nous donne U3=U4.&nbsp;</p>",
+      "choices": [
+        "*3V",
+        "-3V",
+        "On ne peut pas savoir"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.19"
+    },
+    {
+      "question": "<p>Si U3 vaut 3V alors U2 vaut</p>\n<p><img src=\"img/jyvhbkjk.png\" width=\"464\" height=\"168\" /></p>",
+      "explain": "<p>La loi d'unicit&eacute; des tensions nous donne U3=-U2.&nbsp;</p>",
+      "choices": [
+        "3V",
+        "*-3V",
+        "On ne peut pas savoir"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/16.20"
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 20,
+  "theme": "5",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "julie.mariettaaleina@gmail.com"
+}

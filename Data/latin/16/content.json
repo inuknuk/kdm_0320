@@ -1,0 +1,135 @@
+{
+  "title": "Conjugaison : Les Temps Primitifs",
+  "pages": [
+    "latin/16/1.htm",
+    "latin/16/2.htm",
+    "latin/16/3.htm"
+  ],
+  "id": "latin/16",
+  "questions": [
+    {
+      "question": "<p>A quelle conjugaison appartient le verbe: deleo, -es, -ere (d&eacute;truire)?</p>",
+      "choices": [
+        "1ere",
+        "*2eme",
+        "3eme",
+        "4eme"
+      ],
+      "id": "latin/16.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle conjugaison appartient le verbe: paro, -as, -are (pr&eacute;parer)?</p>",
+      "choices": [
+        "*1ere",
+        "2eme",
+        "3eme",
+        "4eme"
+      ],
+      "id": "latin/16.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle conjugaison appartient le verbe: dico, -is, -ere (dire)?</p>",
+      "choices": [
+        "1ere",
+        "3eme mixte",
+        "*3eme",
+        "4eme"
+      ],
+      "id": "latin/16.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle conjugaison appartient le verbe: facio, -is, -ere (faire)?</p>",
+      "choices": [
+        "1ere",
+        "2eme",
+        "*3eme mixte",
+        "4eme"
+      ],
+      "id": "latin/16.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle conjugaison appartient le verbe: sentio, -is, -ire (sentir)?</p>",
+      "choices": [
+        "1ere",
+        "2eme",
+        "3eme mixte",
+        "*4eme"
+      ],
+      "id": "latin/16.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle forme de base est le verbe: tenes?</p>",
+      "choices": [
+        "1ere pers. sing. présent",
+        "*2eme pers. sing. présent",
+        "Infinitif présent",
+        "1ere pers. sing. parfait",
+        "Supin"
+      ],
+      "id": "latin/16.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle forme de base est le verbe: vocare?</p>",
+      "choices": [
+        "1ere pers. sing. présent",
+        "2eme pers. sing. présent",
+        "*Infinitif présent",
+        "1ere pers. sing. parfait",
+        "Supin"
+      ],
+      "id": "latin/16.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle forme de base est le verbe: audio?</p>",
+      "choices": [
+        "*1ere pers. sing. présent",
+        "2eme pers. sing. présent",
+        "Infinitif présent",
+        "1ere pers. sing. parfait",
+        "Supin"
+      ],
+      "id": "latin/16.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle forme de base est le verbe: cepi?</p>",
+      "choices": [
+        "1ere pers. sing. présent",
+        "2eme pers. sing. présent",
+        "Infinitif présent",
+        "*1ere pers. sing. parfait",
+        "Supin"
+      ],
+      "id": "latin/16.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>A quelle forme de base est le verbe: vocatum?</p>",
+      "choices": [
+        "1ere pers. sing. présent",
+        "2eme pers. sing. présent",
+        "Infinitif présent",
+        "1ere pers. sing. parfait",
+        "*Supin"
+      ],
+      "id": "latin/16.10",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 10,
+  "theme": "conjugaison",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}

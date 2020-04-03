@@ -1,0 +1,266 @@
+{
+  "id": "sci/47",
+  "title": "Pile et Electrolyse",
+  "editor": "alexandre.inukai@gmail.com",
+  "pages": [
+    "sci/47/1.htm",
+    "sci/47/2.htm",
+    "sci/47/3.htm",
+    "sci/47/4.htm",
+    "sci/47/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Une pile est un r&eacute;servoir d'&eacute;nergie ________.</p>",
+      "explain": "<p>Une pile est un r&eacute;servoir d'&eacute;nergie <u>chimique</u>.</p>",
+      "choices": [
+        "*chimique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.1"
+    },
+    {
+      "question": "<p>L'&eacute;nergie chimique d'une pile est transform&eacute;e en &eacute;nergie ________.</p>",
+      "explain": "<p>L'&eacute;nergie chimique d'une pile est transform&eacute;e en &eacute;nergie <u>&eacute;lectrique</u>.</p>",
+      "choices": [
+        "*électrique",
+        "atomique",
+        "mécanique",
+        "cinétique"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.2"
+    },
+    {
+      "question": "<p>Lors du fonctionnement d'une pile, l'&eacute;nergie chimique est en partie transform&eacute;e en <u>&eacute;nergie thermique</u>.</p>",
+      "explain": "<p><u>Vrai</u>. C'est pour cette raison que lors du fonctionnement d'une pile, cette derni&egrave;re chauffe.</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.3"
+    },
+    {
+      "question": "<p>Lorsqu'on utilise une pile on ________ la quantit&eacute; d'&eacute;l&eacute;ments chimiques qu'elle contient.</p>",
+      "explain": "<p>Lorsqu'on utilise une pile on <u>r&eacute;duit</u> la quantit&eacute; d'&eacute;l&eacute;ments chimiques qu'elle contient. La pile transforme l'&eacute;nergie chimique en &eacute;nergie &eacute;lectrique.</p>",
+      "choices": [
+        "*réduit",
+        "augmente",
+        "ne modifie pas"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.4"
+    },
+    {
+      "question": "<p>Quel est le symbole du <u>zinc</u> ?</p>",
+      "explain": "<p>Le symbole du zinc est <u>Zn</u>.</p>",
+      "choices": [
+        "Z",
+        "*Zn",
+        "Zc",
+        "Zi"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.20"
+    },
+    {
+      "question": "<p>Quel est le symbole du <u>cuivre</u> ?</p>",
+      "explain": "<p>Le symbole du cuivre est <u>Cu</u>.</p>",
+      "choices": [
+        "C",
+        "*Cu",
+        "Ci",
+        "Cv"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.21"
+    },
+    {
+      "question": "<p>Zn<sup>2+</sup> est-il un ion ?</p>",
+      "explain": "<p><u>Oui</u>. Un ion est un <u>atome portant une charge</u>. Dans ce cas, l'atome de zinc porte une charge positive.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.22"
+    },
+    {
+      "question": "<p>Que se passe-t-il lors de cette r&eacute;action?</p>\n<p>Cu<sup>2+</sup> + Zn &rarr; Zn<sup>2+</sup> + Cu</p>",
+      "explain": "<p>Lors de cette r&eacute;action, il y a un <u>&eacute;change d'&eacute;lectrons</u> entre les r&eacute;actifs.</p>",
+      "choices": [
+        "Équilibrage d'énergie chimique",
+        "*Échange d'électrons",
+        "Échange de protons",
+        "Échange de Zinc"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.5"
+    },
+    {
+      "question": "<p>Quel &eacute;l&eacute;ment apparait au cours de cette r&eacute;action?</p>\n<p>Cu<sup>2+</sup> + Zn &rarr; Zn<sup>2+</sup> + Cu</p>\n<p>&nbsp;</p>",
+      "explain": "<p>Lors de cette r&eacute;action, un d&eacute;p&ocirc;t rouge se forme sur le zinc. Il s'agit de l'<u>apparition de cuivre</u>.</p>",
+      "choices": [
+        "*Cuivre",
+        "Ions Cu2+",
+        "Zinc"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.6"
+    },
+    {
+      "question": "<p>Quel &eacute;l&eacute;ment disparait au cours de cette r&eacute;action?</p>\n<p>Cu<sup>2+</sup> + Zn &rarr; Zn<sup>2+</sup> + Cu</p>",
+      "explain": "<p>Lors de cette r&eacute;action, la solution se d&eacute;colore. Il s'agit de la <u>disparition des ions Cu<sup>2+</sup></u>.</p>",
+      "choices": [
+        "Cuivre",
+        "*Ions Cu2+",
+        "Ions Zn2+"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.9"
+    },
+    {
+      "question": "<p>Une pile &eacute;lectrochimique est constitu&eacute;e <u>d'&eacute;lectrodes</u>, plong&eacute;es dans une <u>solution</u>. Combien d'&eacute;lectrodes composent la pile ?&nbsp;</p>",
+      "explain": "<p>Une pile &eacute;lectrochimique est compos&eacute; de <u>deux </u>&eacute;lectrodes.&nbsp;</p>",
+      "choices": [
+        "*2",
+        "3",
+        "4",
+        "10"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.10"
+    },
+    {
+      "question": "<p>Une pile &eacute;lectrochimique est constitu&eacute;e de <u>deux &eacute;lectrodes</u>, plong&eacute;es dans une solution. De quelle nature sont les &eacute;lectrodes?</p>",
+      "explain": "<p>Une pile &eacute;lectrochimique est compos&eacute; de <u>deux &eacute;lectrodes m&eacute;talliques</u>.</p>",
+      "choices": [
+        "*métalliques",
+        "plastiques",
+        "chimiques",
+        "inoxydables"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.11"
+    },
+    {
+      "question": "<p>Une pile &eacute;lectrochimique est constitu&eacute;e de deux &eacute;lectrodes m&eacute;talliques, plong&eacute;es dans une <u>solution</u>. De quelle nature est la solution?</p>",
+      "explain": "<p>Une pile &eacute;lectrochimique est compos&eacute; de deux &eacute;lectrodes m&eacute;talliques, plong&eacute;es dans une <u>solution conductrice</u>.</p>",
+      "choices": [
+        "transparente",
+        "pure",
+        "*conductrice",
+        "isolante"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.12"
+    },
+    {
+      "question": "<p>Quelle est la borne + de la pile?</p>\n<p><img src=\"img/pileelectrochimique.png\" /></p>",
+      "explain": "<p>L'<u>&eacute;lectrode de cuivre</u> constitue la borne + de la pile.</p>\n<p>Cela se retrouve &agrave; l'aide du bilan de la r&eacute;action :</p>\n<p>Cu<sup>2+</sup> + Zn &rarr; Zn<sup>2+</sup> + Cu.</p>",
+      "choices": [
+        "*Plaque de cuivre",
+        "Plaque de Zinc",
+        "Solution de sulfate de cuivre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.13"
+    },
+    {
+      "question": "<p>Quelle est la borne - de la pile ?</p>\n<p><img src=\"img/pileelectrochimique.png\" /></p>",
+      "explain": "<p>L'<u>&eacute;lectrode de zinc</u> constitue la borne - de la pile.</p>\n<p>Cela se retrouve &agrave; l'aide du bilan de la r&eacute;action :</p>\n<p>Cu<sup>2+</sup> + Zn &rarr; Zn<sup>2+</sup> + Cu.</p>",
+      "choices": [
+        "Plaque de cuivre",
+        "*Plaque de Zinc",
+        "Solution de sulfate de cuivre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.14"
+    },
+    {
+      "question": "<p>A quoi correspond la solution de sulfate de cuivre ?</p>\n<p><img src=\"img/pileelectrochimique.png\" /></p>",
+      "explain": "<p>Une pile &eacute;lectrochimique est constitu&eacute;e de deux &eacute;lectrodes de natures m&eacute;talliques, plong&eacute;es dans une solution conductrice.</p>\n<p>Dans ce cas, la solution de sulfate de cuivre correspond &agrave; la <u>solution conductrice</u>.</p>",
+      "choices": [
+        "*A la solution conductrice",
+        "A l'électrode positive de la pile",
+        "A l'électrode négative de la pile"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.15"
+    },
+    {
+      "question": "<p>Comment s'appelle la transformation de l'<u>&eacute;nergie &eacute;lectrique en &eacute;nergie chimique</u> ?</p>",
+      "explain": "<p><u>L'&eacute;lectrolyse </u>permet de transformer de l'&eacute;nergie &eacute;lectrique en &eacute;nergie chimique.</p>",
+      "choices": [
+        "Une pile électrochimique",
+        "Une pile AA",
+        "*Une électrolyse",
+        "Un électrolyte"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.16"
+    },
+    {
+      "question": "<p>Que contient la cuve o&ugrave; est r&eacute;alis&eacute; <u>l'&eacute;lectrolyse </u>?</p>",
+      "explain": "<p>L'&eacute;lectrolyse s'effectue dans une cuve contenant un <u>&eacute;lectrolyte </u>dans lequel sont plong&eacute;es deux &eacute;lectrodes.</p>",
+      "choices": [
+        "De la poudre de zinc",
+        "Une solution de sulfate de cuivre",
+        "Un électrolyseur",
+        "*Un électrolyte"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.17"
+    },
+    {
+      "question": "<p>Quel &eacute;l&eacute;ment permet de <u>produire l'&eacute;nergie &eacute;lectrique</u> utile &agrave; l'&eacute;lectrolyse ?</p>",
+      "explain": "<p>Le <u>g&eacute;n&eacute;rateur </u>permet de produire le courant &eacute;lectrique utile &agrave; l'&eacute;lectrolyse.</p>",
+      "choices": [
+        "*Un générateur",
+        "Un transformateur",
+        "Une plaque métallique ",
+        "Une solution conductrice"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.18"
+    },
+    {
+      "question": "<p>Les transformations r&eacute;alis&eacute;es au cours d'une &eacute;lectrolyse et dans une pile &eacute;lectrochimique sont <u>identiques</u>.&nbsp;</p>",
+      "explain": "<p><u>Faux</u>. Ce sont <u>deux op&eacute;rations oppos&eacute;es</u>.</p>\n<p>L'&eacute;lectrolyse permet de transformer de l'&eacute;nergie &eacute;lectrique en &eacute;nergie chimique.&nbsp;</p>\n<p>La pile &eacute;lectrochimique permet de transformer de l'&eacute;nergie chimique en &eacute;nergie &eacute;lectrique.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/47.19"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 22,
+  "theme": "2",
+  "level": [
+    "3"
+  ],
+  "status": "published"
+}

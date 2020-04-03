@@ -1,0 +1,271 @@
+{
+  "id": "math/58",
+  "title": "Statistiques: diagrammes et histogrammes",
+  "pages": [
+    "math/58/2.htm",
+    "math/58/3.htm",
+    "math/58/4.htm",
+    "math/58/5.htm",
+    "math/58/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Dans un diagramme en b&acirc;tons, &agrave; quoi est <u>proportionnelle</u> la hauteur du b&acirc;ton ?&nbsp;&nbsp;</p>",
+      "explain": "<p>La hauteur du b&acirc;ton est proportionnelle &agrave; l'<u>effectif</u> repr&eacute;sent&eacute;.</p>",
+      "choices": [
+        "*L'effectif",
+        "La population",
+        "Le caractère",
+        "La valeur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.1"
+    },
+    {
+      "question": "<p>On r&eacute;partit les &eacute;l&egrave;ves de 5&egrave;me en fonction de leur &acirc;ge.</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9355%;\">Age</td>\n<td style=\"width: 24.9355%;\">11</td>\n<td style=\"width: 25%;\">12</td>\n<td style=\"width: 25%;\">13</td>\n</tr>\n<tr>\n<td style=\"width: 24.9355%;\">Effectif</td>\n<td style=\"width: 24.9355%;\">3</td>\n<td style=\"width: 25%;\">10</td>\n<td style=\"width: 25%;\">7</td>\n</tr>\n</tbody>\n</table>\n<p><u>Combien de b&acirc;tons</u> y a-t-il sur le diagramme en b&acirc;tons correspondant ?&nbsp;</p>",
+      "explain": "<p>Le diagramme en b&acirc;tons repr&eacute;sente <u>3 effectifs diff&eacute;rents</u>. Un pour les &eacute;l&egrave;ves ayant 11 ans, un pour ceux ayant 12 ans et un pour ceux ayant 13 ans. Il y a donc <u>3 b&acirc;tons</u> sur ce graphique.</p>",
+      "choices": [
+        "1",
+        "2",
+        "*3",
+        "20"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.2"
+    },
+    {
+      "question": "<p><img src=\"img/batonquestion.png\" /></p>\n<p>Le diagramme en b&acirc;ton peut-il correspondre &agrave; la r&eacute;partition des &eacute;l&egrave;ves de 5&egrave;me en fonction de leur &acirc;ge ?</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9355%;\">Age</td>\n<td style=\"width: 24.9355%;\">11</td>\n<td style=\"width: 25%;\">12</td>\n<td style=\"width: 25%;\">13</td>\n</tr>\n<tr>\n<td style=\"width: 24.9355%;\">Effectif</td>\n<td style=\"width: 24.9355%;\">3</td>\n<td style=\"width: 25%;\">10</td>\n<td style=\"width: 25%;\">7</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "explain": "<p>Les b&acirc;tons 12 ans et 13 ans sont &agrave; la <u>m&ecirc;me hauteur</u> ce qui veut dire que <u>leur effectif est &eacute;gal</u>. Hors on voit dans le tableau que l'effectif des &eacute;l&egrave;ves ayant 12 ans est 10 et ceux ayant 13 ans est 7.</p>\n<p>Donc, <u>le diagramme en b&acirc;ton ne correspond pas aux valeurs du tableau</u>.</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.4"
+    },
+    {
+      "question": "<p>Un diagramme __________ est un disque partag&eacute; en <u>secteurs angulaires</u>.</p>",
+      "explain": "<p>Un <u>diagramme circulaire</u> est un disque partag&eacute; en <u>secteurs angulaires</u>.</p>",
+      "choices": [
+        "*circulaire"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.5"
+    },
+    {
+      "question": "<p>Dans un diagramme circulaire, quelle <u>mesure</u> est proportionnelle &agrave; l'<u>effectif repr&eacute;sent&eacute;</u> ?</p>",
+      "explain": "<p>Dans un diagramme circulaire, la <u>mesure de l'angle au centre</u> de chaque secteur est proportionnelle &agrave; l'<u>effectif repr&eacute;sent&eacute;</u>.</p>",
+      "choices": [
+        "*l'angle",
+        "le rayon",
+        "le diamètre",
+        "la couleur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.6"
+    },
+    {
+      "question": "<p>Le diagramme suivant est-il un <u>diagramme circulaire</u> ?</p>\n<p><img src=\"img/circulaire.png\" /></p>",
+      "explain": "<p><u>Oui</u>, il s'agit bien d'un diagramme circulaire.</p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.7"
+    },
+    {
+      "question": "<p>Pour construire un diagramme circulaire, quelle <u>valeur</u> faut-il commencer par calculer ?&nbsp;</p>",
+      "explain": "<p>On commence par calculer l'<u>effectif total</u> pour construire le diagramme circulaire.</p>",
+      "choices": [
+        "*L'effectif total",
+        "La population",
+        "Le caractère ",
+        "La valeur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.8"
+    },
+    {
+      "question": "<p>On r&eacute;partit les &eacute;l&egrave;ves de 5&egrave;me en fonction de leur &acirc;ge.</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9355%;\">Age</td>\n<td style=\"width: 24.9355%;\">11</td>\n<td style=\"width: 25%;\">12</td>\n<td style=\"width: 25%;\">13</td>\n</tr>\n<tr>\n<td style=\"width: 24.9355%;\">Effectif</td>\n<td style=\"width: 24.9355%;\">3</td>\n<td style=\"width: 25%;\">10</td>\n<td style=\"width: 25%;\">7</td>\n</tr>\n</tbody>\n</table>\n<p>Quel est l'<u>effectif total</u> ?</p>",
+      "explain": "<p>L'effectif total est &eacute;gal &agrave; la somme des effectifs. <u>3 + 7 + 10 = 20</u>. L'effectif total est <u>20</u>.&nbsp;</p>",
+      "choices": [
+        "1",
+        "3",
+        "7",
+        "*20"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.3"
+    },
+    {
+      "question": "<p>Quel est la formule de l'<u>angle d'un secteur</u> dans un diagramme circulaire ?</p>",
+      "explain": "<p>On calcule l'angle au centre des secteurs du diagramme avec la formule :&nbsp;<span style=\"font-family: Arial, sans-serif; font-size: 15pt;\"><u>360 &times; (effectif / effectif total)</u>.</span></p>",
+      "choices": [
+        "*360 × (effectif / effectif total)",
+        "360 × effectif",
+        "360 × effectif total",
+        "360 × (effectif total / effectif)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.9"
+    },
+    {
+      "question": "<p>En quelle <u>unit&eacute;</u> est l'angle obtenu par la formule :&nbsp;<span style=\"font-family: Arial, sans-serif; font-size: 15pt;\">360 &times; (effectif / effectif total) ?</span></p>",
+      "explain": "<p>L'angle obtenu est en <u>degr&eacute;</u>. La valeur 360&deg; correspond &agrave; un tour entier.</p>",
+      "choices": [
+        "*degré",
+        "cm",
+        "radian",
+        "sans unité"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.10"
+    },
+    {
+      "question": "<p>On r&eacute;partit les &eacute;l&egrave;ves de 5&egrave;me en fonction de leur &acirc;ge.</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9355%;\">Age</td>\n<td style=\"width: 24.9355%;\">11</td>\n<td style=\"width: 25%;\">12</td>\n<td style=\"width: 25%;\">13</td>\n</tr>\n<tr>\n<td style=\"width: 24.9355%;\">Effectif</td>\n<td style=\"width: 24.9355%;\">3</td>\n<td style=\"width: 25%;\">10</td>\n<td style=\"width: 25%;\">7</td>\n</tr>\n<tr>\n<td style=\"width: 24.9355%;\">Angle du secteur</td>\n<td style=\"width: 24.9355%;\">360&times;(3/20) = 54&deg;</td>\n<td style=\"width: 25%;\">?</td>\n<td style=\"width: 25%;\">360&times;(7/20) = 126&deg;</td>\n</tr>\n</tbody>\n</table>\n<p>Quel est la <u>mesure de l'angle pour le secteur des &eacute;l&egrave;ves ayant 12 ans</u> ?</p>",
+      "explain": "<p>2 possibilit&eacute;s :&nbsp;</p>\n<p>1. Par la formule on a : <u>360&times;(10/20) = 180&deg;</u>.</p>\n<p>2. On sait que un tour complet fait 360&deg;. Ainsi le secteur manquant est &eacute;gale &agrave; un tour entier moins les angles des deux autres secteurs : <u>360 - 54 - 126 = 180&deg;</u>.</p>",
+      "choices": [
+        "*180°",
+        "54°",
+        "108°",
+        "126°"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.11"
+    },
+    {
+      "question": "<p>Quel secteur repr&eacute;sente l'<u>effectif majoritaire</u> ?</p>\n<p><img src=\"img/circulairequestion.png\" /></p>",
+      "explain": "<p>L'effectif majoritaire est repr&eacute;sent&eacute; par le secteur ayant <u>le plus grand angle au centre</u>. Dans ce cas, on voit qu'il s'agit du <u>secteur 4</u>.</p>",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "*4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.12"
+    },
+    {
+      "question": "<p>On utilise un ___________ pour repr&eacute;senter une <u>s&eacute;rie regroup&eacute;e en classes</u>.</p>",
+      "explain": "<p>On utilise un <u>histogramme</u> pour repr&eacute;senter une s&eacute;rie regroup&eacute;e en classes.</p>",
+      "choices": [
+        "*histogramme"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.13"
+    },
+    {
+      "question": "<p>A quoi est &eacute;gale la <u>largeur des rectangles</u> qui composent un histogramme ?</p>",
+      "explain": "<p>La largeur des rectangles qui compose un histogramme est &eacute;gale &agrave; <u>l'amplitude de la classe</u>.</p>",
+      "choices": [
+        "L'effectif",
+        "L'effectif total",
+        "*L'amplitude de la classe",
+        "L'angle au centre du secteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.14"
+    },
+    {
+      "question": "<p>A quoi est &eacute;gale la <u>hauteur</u> des rectangles qui composent un histogramme ?</p>\n<p>&nbsp;</p>",
+      "explain": "<p>La hauteur des rectangles qui compose un histogramme est &eacute;gale &agrave; <u>l'effectif de la classe</u>.</p>",
+      "choices": [
+        "*L'effectif",
+        "L'effectif total",
+        "L'amplitude de la classe",
+        "L'angle au centre du secteur"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.18"
+    },
+    {
+      "question": "<p>On r&eacute;partit les &eacute;l&egrave;ves de 5&egrave;me en fonction de leur taille.</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 20%;\">Age</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m30</p>\n<p>et &lt; 1m50</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m50</p>\n<p>et &lt; 1m55</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m55</p>\n<p>et &lt; 1m60</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m60</p>\n<p>et &lt; 1m70</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">Effectif</td>\n<td style=\"width: 20%;\">12</td>\n<td style=\"width: 20%;\">18</td>\n<td style=\"width: 20%;\">14</td>\n<td style=\"width: 20%;\">6</td>\n</tr>\n</tbody>\n</table>\n<p>Quelle est <u>l'amplitude</u> de la classe d'&eacute;l&egrave;ves mesurant plus que 1m50 et moins que 1m55 ?</p>",
+      "explain": "<p>L'amplitude est la <u>diff&eacute;rence entre les deux bornes</u> de la classe. Dans ce cas l'amplitude vaut 1m55 - 1m50 soit <u>5 cm</u>.</p>",
+      "choices": [
+        "*5 cm",
+        "1m50",
+        "1m55",
+        "3m05"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.16"
+    },
+    {
+      "question": "<p>On r&eacute;partit les &eacute;l&egrave;ves de 5&egrave;me en fonction de leur taille.</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 20%;\">Age</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m30</p>\n<p>et &lt; 1m50</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m50</p>\n<p>et &lt; 1m55</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m55</p>\n<p>et &lt; 1m60</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m60</p>\n<p>et &lt; 1m70</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">Effectif</td>\n<td style=\"width: 20%;\">12</td>\n<td style=\"width: 20%;\">18</td>\n<td style=\"width: 20%;\">14</td>\n<td style=\"width: 20%;\">6</td>\n</tr>\n</tbody>\n</table>\n<p>Quelle classe a la <u>plus grande amplitude</u> ?</p>",
+      "explain": "<p>La classe ayant la plus grande amplitude est celle <u>entre 1m30 et 1m50</u>. Son amplitude est de 20 cm.&nbsp;</p>",
+      "choices": [
+        "*≥ 1m30  et < 1m50",
+        "≥ 1m50  et < 1m55",
+        "≥ 1m55  et < 1m60",
+        "≥ 1m60  et < 1m70"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.15"
+    },
+    {
+      "question": "<p>Le diagramme suivant correspond t-il &agrave; un <u>histogramme</u> ?</p>\n<p><img src=\"img/questionhistogramme.png\" /></p>",
+      "explain": "<p>Oui, il s'agit bien d'un histogramme. Les&nbsp;<span style=\"font-family: Arial, sans-serif; font-size: 15pt;\">rectangles ont une </span><u style=\"font-family: Arial, sans-serif; font-size: 15pt;\">largeur &eacute;gale &agrave; l'amplitude de la classe</u><span style=\"font-family: Arial, sans-serif; font-size: 15pt;\">. La&nbsp;</span><u style=\"font-family: Arial, sans-serif; font-size: 15pt;\">hauteur</u><span style=\"font-family: Arial, sans-serif; font-size: 15pt;\">&nbsp;de chaque rectangle est&nbsp;</span><u style=\"font-family: Arial, sans-serif; font-size: 15pt;\">proportionnelle &agrave; l'effectif</u><span style=\"font-family: Arial, sans-serif; font-size: 15pt;\"> de la classe.</span></p>",
+      "choices": [
+        "*Oui",
+        "Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.17"
+    },
+    {
+      "question": "<p>On r&eacute;partit les &eacute;l&egrave;ves de 5&egrave;me en fonction de leur taille.</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 20%;\">Age</td>\n<td style=\"width: 20%;\">\n<p>&ge;&nbsp;1m40</p>\n<p>et &lt; 1m50</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m50</p>\n<p>et &lt; 1m55</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m55</p>\n<p>et &lt; 1m60</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m60</p>\n<p>et &lt; 1m80</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">Effectif</td>\n<td style=\"width: 20%;\">12</td>\n<td style=\"width: 20%;\">18</td>\n<td style=\"width: 20%;\">14</td>\n<td style=\"width: 20%;\">6</td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">Amplitude de la classe</td>\n<td style=\"width: 20%;\">10 cm</td>\n<td style=\"width: 20%;\">5 cm</td>\n<td style=\"width: 20%;\">5 cm</td>\n<td style=\"width: 20%;\">20 cm</td>\n</tr>\n</tbody>\n</table>\n<p>Dans l'histogramme correspondant, le rectangle de quelle classe aura la <u>plus grande largeur</u> ?</p>",
+      "explain": "<p>La largeur d'un rectangle est <u>proportionnelle &agrave; l'amplitude de sa classe</u>. Dans ce cas la classe ayant la plus grande amplitude est celle <u>entre 1m60 et 1m80</u>.</p>",
+      "choices": [
+        "≥ 1m40  et < 1m50",
+        "≥ 1m50  et < 1m55",
+        "≥ 1m55  et < 1m60",
+        "*≥ 1m60  et < 1m80"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.19"
+    },
+    {
+      "question": "<p>On r&eacute;partit les &eacute;l&egrave;ves de 5&egrave;me en fonction de leur taille.</p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 20%;\">Age</td>\n<td style=\"width: 20%;\">\n<p>&ge;&nbsp;1m40</p>\n<p>et &lt; 1m50</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m50</p>\n<p>et &lt; 1m55</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m55</p>\n<p>et &lt; 1m60</p>\n</td>\n<td style=\"width: 20%;\">\n<p>&ge; 1m60</p>\n<p>et &lt; 1m80</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">Effectif</td>\n<td style=\"width: 20%;\">12</td>\n<td style=\"width: 20%;\">18</td>\n<td style=\"width: 20%;\">14</td>\n<td style=\"width: 20%;\">6</td>\n</tr>\n<tr>\n<td style=\"width: 20%;\">Amplitude de la classe</td>\n<td style=\"width: 20%;\">10 cm</td>\n<td style=\"width: 20%;\">5 cm</td>\n<td style=\"width: 20%;\">5 cm</td>\n<td style=\"width: 20%;\">20 cm</td>\n</tr>\n</tbody>\n</table>\n<p>Dans l'histogramme correspondant, le rectangle de quelle classe aura la <u>plus grande hauteur</u>?</p>",
+      "explain": "<p>La hauteur d'un rectangle est <u>proportionnelle &agrave; l'effectif de sa classe</u>. Dans ce cas la classe ayant le plus grand effectif est celle <u>entre 1m50 et 1m55</u>.</p>",
+      "choices": [
+        "≥ 1m40  et < 1m50",
+        "*≥ 1m50  et < 1m55",
+        "≥ 1m55  et < 1m60",
+        "≥ 1m60  et < 1m80"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/58.21"
+    }
+  ],
+  "pageCounter": 7,
+  "questionCounter": 21,
+  "theme": "fonction",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "alexandre.inukai@gmail.com"
+}

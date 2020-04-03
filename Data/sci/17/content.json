@@ -1,0 +1,250 @@
+{
+  "id": "sci/17",
+  "title": "L'Intensité du courant",
+  "pages": [
+    "sci/17/2.htm",
+    "sci/17/3.htm",
+    "sci/17/4.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>L'intensit&eacute; du courant s'exprime en&nbsp;</p>",
+      "explain": "",
+      "choices": [
+        "Volts (V)",
+        "Mètres (m)",
+        "*Ampères (A)"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.18"
+    },
+    {
+      "question": "<p>Comment note-t-on l'intensit&eacute; du courant?</p>",
+      "explain": "",
+      "choices": [
+        "U",
+        "*I"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.19"
+    },
+    {
+      "question": "<p>On mesure <u>l'intensit&eacute; du courant</u> avec</p>",
+      "explain": "<p>L'intensit&eacute; s'exprime en amp&egrave;res.</p>\n<p>On utilise donc un amp&egrave;rem&egrave;tre.</p>",
+      "choices": [
+        "Un voltmètre",
+        "*Un ampèremètre",
+        "Un ohmmètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.2"
+    },
+    {
+      "question": "<p>On peut mesurer <u>l'intensit&eacute; du courant</u> avec un <u>multim&egrave;tre</u>.</p>",
+      "explain": "<p>Un mutlim&egrave;tre est un appareil qui peut fonctionner aussi bien en voltm&egrave;tre qu'en amp&egrave;rem&egrave;tre.</p>\n<p>On peut donc utiliser un mutlim&egrave;tre pour mesurer l'intensit&eacute; du courant &eacute;lectrique.&nbsp;</p>",
+      "choices": [
+        "*Vrai",
+        "Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.3"
+    },
+    {
+      "question": "<p><u>L'amp&egrave;rem&egrave;tre </u>se branche</p>",
+      "explain": "<p>On branche l'amp&egrave;rem&egrave;tre en <u>s&eacute;rie</u>.&nbsp;</p>",
+      "choices": [
+        "*En série",
+        "En dérivation"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.4"
+    },
+    {
+      "question": "<p><u>L'intensit&eacute; du courant</u> est la m&ecirc;me en tout point&nbsp;</p>",
+      "explain": "<p>L'intensit&eacute; est constante dans une branche.</p>",
+      "choices": [
+        "d'une maille",
+        "*d'une branche",
+        "d'un circuit"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.5"
+    },
+    {
+      "question": "<p>Plus l'intensit&eacute; du courant est &eacute;lev&eacute;e, plus une lampe brille</p>",
+      "explain": "",
+      "choices": [
+        "faiblement",
+        "*fortement"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.20"
+    },
+    {
+      "question": "<p>L'intensit&eacute; mesur&eacute;e est toujours positive.</p>",
+      "explain": "<p>Cela d&eacute;pend du sens de branchement de l'amp&egrave;rem&egrave;tre.</p>\n<p>En revanche, quelque soit le sens de branchement, l'intensit&eacute; a toujours la m&ecirc;me valeur en valeur absolue.&nbsp;</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.21"
+    },
+    {
+      "question": "<p>Un <u>amp&egrave;rem&egrave;tre</u> doit se brancher en</p>",
+      "explain": "",
+      "choices": [
+        "*série"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.24"
+    },
+    {
+      "question": "<p><u>L'intensit&eacute;</u> du courant &eacute;lectrique s'exprime quelle unit&eacute;?</p>",
+      "explain": "",
+      "choices": [
+        "*ampère"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.25"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma ci-contre et d&eacute;duisez-en l'expression correcte de la loi des noeuds.</p>\n<p><img src=\"img/puijpo.png\" /></p>\n<p>&nbsp;</p>",
+      "explain": "<p>On compte positivement tout ce qui arrive sur le noeud, n&eacute;gativement tout ce qui en part.</p>\n<p>Ainsi i1 - i2 - i3 = 0</p>\n<p>donc i1 = i2 + i3</p>",
+      "choices": [
+        "i1 + i2 + i3 = 0",
+        "i1 = i2 - i3",
+        "*i1 = i2 + i3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.7"
+    },
+    {
+      "question": "<p>Quelle est la bonne &eacute;galite?</p>\n<p><img src=\"img/omjl.png\" width=\"349\" height=\"141\" /></p>",
+      "explain": "<p>On compte positivement tout ce qui arrive sur le noeud, n&eacute;gativement tout ce qui en part.</p>\n<p>Ainsi i1 - i2 + i3 = 0</p>",
+      "choices": [
+        "i1 + i2 + i3 = 0",
+        "*i1 - i2 + i3 = 0",
+        "i1 = i2 + i3"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.8"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma ci-contre et d&eacute;duisez-en l'expression correcte de la loi des noeuds.</p>\n<p><img src=\"img/ughj.png\" width=\"328\" height=\"166\" /></p>",
+      "explain": "<p>On compte positivement tout ce qui arrive sur le noeud, n&eacute;gativement tout ce qui en part.</p>\n<p>Ainsi i1 - i2 - i3 - i4 = 0</p>\n<p>donc i1 = i2 + i3 + i4</p>",
+      "choices": [
+        "i1= i2 - i3 + i4",
+        "i1= - i2 - i3 - i4",
+        "*i1= i2 + i3 + i4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.9"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma ci-contre et d&eacute;duisez-en l'expression correcte de la loi des noeuds.</p>\n<p><img src=\"img/grfgjh.png\" width=\"365\" height=\"197\" /></p>",
+      "explain": "<p>On compte positivement tout ce qui arrive sur le noeud</p>\n<p>n&eacute;gativement tout ce qui en part.</p>\n<p>donc i1 + i2 - i3 + i4 = 0</p>",
+      "choices": [
+        "*i1 + i2 - i3 + i4 = 0",
+        "i1 = i2 - i3 + i4 ",
+        "i1 = - i2 - i3 - i4 ",
+        "i1 - i2 - i3 + i4 = 0"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.10"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma ci-contre et d&eacute;duisez-en l'expression correcte de la loi des noeuds.</p>\n<p><img src=\"img/gfhj.png\" width=\"347\" height=\"174\" /></p>",
+      "explain": "<p>On compte positivement tout ce qui arrive sur le noeud, n&eacute;gativement tout ce qui en part.</p>\n<p>donc i1 - i2 - i3 + i4 = 0</p>",
+      "choices": [
+        "i1 - i2 + i3 + i4 = 0",
+        "*i1 - i2 - i3 + i4 = 0",
+        "i1 = i2 - i3 + i4"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.11"
+    },
+    {
+      "question": "<p>Observez le sch&eacute;ma ci-contre et d&eacute;duisez-en l'expression correcte de la loi des noeuds.</p>\n<p><img src=\"img/ukhjk.png\" width=\"337\" height=\"157\" /></p>",
+      "explain": "<p>On compte positivement tout ce qui arrive sur le noeud, n&eacute;gativement tout ce qui en part.</p>\n<p>Ainsi&nbsp; &nbsp;- i1 + i2 + i3 + i4 = 0 ce qui donne la deuxi&egrave;me r&eacute;ponse.&nbsp;</p>",
+      "choices": [
+        "- i1 =  i2 + i3 + i4 ",
+        "*i1 =  i2 + i3 + i4 ",
+        "i1 + i2 + i3 + i4 = 0 "
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.12"
+    },
+    {
+      "question": "<p>Le nombre de dip&ocirc;les d'une branche a une influence sur l'intensit&eacute; du courant dans cette branche.</p>",
+      "explain": "<p>L'intensit&eacute; du courant est constante dans une m&ecirc;me branche.</p>",
+      "choices": [
+        "Vrai",
+        "*Faux"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.14"
+    },
+    {
+      "question": "<p>Cochez la bonne &eacute;galit&eacute;</p>",
+      "explain": "<p>On multiplie la grandeur en A par 1000 pour avoir des mA.&nbsp;</p>",
+      "choices": [
+        "*14A = 14000mA",
+        "14A = 0.014mA",
+        "14A = 1400mA"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.15"
+    },
+    {
+      "question": "<p>Cochez la bonne &eacute;galit&eacute;.</p>",
+      "explain": "<p>On divise la grandeur en mA par 1000 pour avoir des A.&nbsp;</p>",
+      "choices": [
+        "0.1 mA = 100 A",
+        "0.1 mA = 1000 A",
+        "*0.1 mA = 0.0001 A"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.16"
+    },
+    {
+      "question": "<p>Pour mesurer <u>l'intensit&eacute; du courant</u> dans un circuit electrique, on utilise</p>",
+      "explain": "",
+      "choices": [
+        "*ampèremètre"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "sci/17.23"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 25,
+  "theme": "5",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "julie.mariettaaleina@gmail.com"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "math/76",
+  "title": "Rectangle, Losange, Carré",
+  "pages": [
+    "math/76/1.htm",
+    "math/76/2.htm",
+    "math/76/3.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Cette figure est-elle un <u>losange</u>?</p>\n<p><img src=\"img/kite.png\" /></p>",
+      "explain": "<p>Un losange a ses 4 c&ocirc;t&eacute;s de m&ecirc;me longueur.</p>\n<p>Cette figure s'appelle un \"cerf-volant\".</p>",
+      "choices": [
+        "Oui",
+        "*Non"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/76.1"
+    },
+    {
+      "question": "<p>Est-ce un parall&eacute;logramme?</p>\n<p><img src=\"img/losange.png\" /></p>",
+      "explain": "<p>C'est un losange, donc aussi un parall&eacute;logramme.</p>",
+      "choices": [
+        "*Oui",
+        "Non",
+        "Ça dépend de la mesure des angles"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/76.2"
+    },
+    {
+      "question": "<p>Est-ce un rectangle?</p>\n<p><img src=\"img/carre.png\" /></p>",
+      "explain": "<p>C'est un carr&eacute;, donc aussi un rectangle.</p>",
+      "choices": [
+        "*Oui",
+        "Non",
+        "Ça dépend de la longueur des côtés"
+      ],
+      "type": "choices",
+      "steps": [],
+      "id": "math/76.3"
+    },
+    {
+      "question": "<p>Si un <u>parall&eacute;logramme</u> a ses 2 diagonales qui se coupent en leur milieu, c'est toujours un <u>losange</u>.</p>",
+      "choices": [
+        "*Faux",
+        "Vrai"
+      ],
+      "id": "math/76.4",
+      "explain": "<p>Parfois mais pas toujours.</p>\n<p>Un parall&eacute;logramme a toujours ses diagonales qui se coupent en leur milieu.</p>\n<p>Pour que ce soit un losange, il faut que les <u>diagonales</u> soient <u>perpendiculaires</u>.</p>\n<p>Ou alors si le parall&eacute;logramme a 2 c&ocirc;t&eacute;s cons&eacute;cutifs de m&ecirc;me longueur, alors c'est un losange.</p>"
+    },
+    {
+      "question": "<p>Si un <u>parall&eacute;logramme</u> a 4 c&ocirc;t&eacute;s de m&ecirc;me longueur, c'est toujours un</p>",
+      "choices": [
+        "carré",
+        "rectangle",
+        "*losange"
+      ],
+      "id": "math/76.5",
+      "explain": "<p>Si un quadrilat&egrave;re a 4 c&ocirc;t&eacute;s&nbsp;de m&ecirc;me longueur alors c'est un losange, <u>par d&eacute;finition</u>.</p>\n<p>Si le parall&eacute;logramme a 4 c&ocirc;t&eacute;s de m&ecirc;me longueur et en plus <u>un angle droit</u>, alors c'est un carr&eacute;, et donc aussi un rectangle.</p>"
+    },
+    {
+      "question": "<p>Si un <u>parall&eacute;logramme</u> a 2 c&ocirc;t&eacute;s cons&eacute;cutifs de m&ecirc;me longueur, c'est toujours un&nbsp;</p>",
+      "choices": [
+        "carré",
+        "rectangle",
+        "*losange"
+      ],
+      "id": "math/76.6",
+      "explain": "<p>Le parall&eacute;logramme ABCD a deux c&ocirc;t&eacute;s cons&eacute;cutifs &eacute;gaux, donc AB = BC.</p>\n<p>Or on sait aussi qu'un parall&eacute;logramme a ses c&ocirc;t&eacute;s oppos&eacute;s de m&ecirc;me longueur, donc AB = DC et BC = AD.</p>\n<p>AB = BC = DC = AD: les 4 c&ocirc;t&eacute;s sont de m&ecirc;me longueur. C'est un losange par d&eacute;finition.</p>\n<p>Pour que ce parall&eacute;logramme soit un carr&eacute;, il faut en plus <u>un angle droit</u>.</p>"
+    },
+    {
+      "question": "<p>Si un <u>parall&eacute;logramme</u> a ses diagonales perpendiculaires, c'est toujours un</p>",
+      "choices": [
+        "carré",
+        "rectangle",
+        "*losange"
+      ],
+      "id": "math/76.7",
+      "explain": "<p>Si un quadrilat&egrave;re a ses diagonales perpendiculaires et qui se coupent en leur milieu, alors c'est un losange.</p>\n<p>Or on sait aussi qu'un parall&eacute;logramme a toujours ses diagonales qui se coupent en leur milieu.</p>\n<p>Donc ce parall&eacute;logramme a ses diagonales perpendiculaires <u>et</u> qui se coupent en leur milieu. C'est un losange.</p>\n<p>Pour que ce parall&eacute;logramme soit un carr&eacute;, il faut en plus&nbsp;<u>un angle droit</u>.</p>"
+    },
+    {
+      "question": "<p>Si un <u>parall&eacute;logramme</u> a 1 angle droit, c'est toujours un</p>",
+      "choices": [
+        "carré",
+        "*rectangle",
+        "losange"
+      ],
+      "id": "math/76.8",
+      "explain": "<p>On sait qu'un parall&eacute;logramme a ses <u>c&ocirc;t&eacute;s oppos&eacute;s parall&egrave;les</u> 2 &agrave; 2.</p>\n<p>Si ce parall&eacute;logramme ABCD a deux c&ocirc;t&eacute;s cons&eacute;cutifs (AB) et (BC) qui forment un angle droit, chacun des c&ocirc;t&eacute;s oppos&eacute;s forment aussi un angle droit.</p>\n<p>(DC) // (AB) donc (DC) forme un angle droit avec (BC).</p>\n<p>(BC) // (AD) donc (AD) forme un angle droit avec (BC).</p>\n<p>Il y a <u>4 angles droits</u>: c'est un rectangle.</p>"
+    },
+    {
+      "question": "<p>Si un <u>parall&eacute;logramme</u> a ses diagonales de m&ecirc;me longueur, c'est toujours un&nbsp;</p>",
+      "choices": [
+        "losange",
+        "*rectangle",
+        "triangle",
+        "carré"
+      ],
+      "id": "math/76.9",
+      "explain": "<p>Si un quadrilat&egrave;re a ses <u>diagonales</u> de <u>m&ecirc;me longueur</u> et qui se <u>coupent en leur milieu</u>, alors c'est un losange.</p>\n<p>Or on sait aussi qu'un parall&eacute;logramme a toujours ses diagonales qui se coupent en leur milieu.</p>\n<p>Donc ce parall&eacute;logramme a ses diagonales de m&ecirc;me longueur <u>et</u> qui se coupent en leur milieu. C'est un rectangle.</p>\n<p>Pour que ce parall&eacute;logramme soit un carr&eacute;, il faut en plus&nbsp;<u>un angle droit</u>.</p>"
+    },
+    {
+      "question": "<p>Je suis un quadrilat&egrave;re.<br />Tous mes c&ocirc;t&eacute;s sont de m&ecirc;me longueur.<br />Mes diagonales sont perpendiculaires.<br />Qui suis je ?</p>",
+      "choices": [
+        "Carré",
+        "Rectangle",
+        "*Losange"
+      ],
+      "id": "math/76.10",
+      "explain": "<p>Si un quadrilat&egrave;re a 4 c&ocirc;t&eacute;s de m&ecirc;me longueur, alors c'est un losange, par d&eacute;finition.</p>\n<p>Un losange a toujours ses diagonales perpendiculaires.</p>\n<p>Pour que le losange soit aussi un carr&eacute;, il faut que les diagonales soient de m&ecirc;me longueur.</p>"
+    },
+    {
+      "question": "<p>Je suis un quadrilat&egrave;re.<br />Tous mes c&ocirc;t&eacute;s sont de m&ecirc;me longueur.<br />Mes diagonales sont de m&ecirc;me longueur.<br />Qui suis je ?</p>",
+      "choices": [
+        "*Carré",
+        "Rectangle non carré",
+        "Losange non carré"
+      ],
+      "id": "math/76.11",
+      "explain": "<p>Si un quadrilat&egrave;re a 4 c&ocirc;t&eacute;s de m&ecirc;me longueur, alors c'est un losange, par d&eacute;finition.</p>\n<p>Si un losange a ses diagonales de m&ecirc;me longueur, alors c'est un carr&eacute;.</p>"
+    },
+    {
+      "question": "<p>Un <u>rectangle</u> est un&nbsp;</p>",
+      "choices": [
+        "*parallélogramme",
+        "carré",
+        "losange"
+      ],
+      "id": "math/76.12",
+      "explain": "<p>Pour qu'un rectangle soit un carr&eacute;, il faut que ses diagonales soient perpendiculaires</p>\n<p>Ou que deux c&ocirc;t&eacute;s cons&eacute;cutifs soient de m&ecirc;me longueur.</p>"
+    },
+    {
+      "question": "<p>Un <u>losange</u> est un</p>",
+      "choices": [
+        "*parallélogramme",
+        "carré",
+        "rectangle"
+      ],
+      "id": "math/76.13",
+      "explain": "<p>Pour qu'un losange soit un carr&eacute;, il faut que ses diagonales soient de m&ecirc;me longueur.</p>\n<p>Ou qu'il ait un angle droit.</p>"
+    },
+    {
+      "question": "<p>Les carr&eacute;s sont des rectangles.</p>",
+      "choices": [
+        "*Toujours",
+        "Jamais",
+        "Parfois"
+      ],
+      "id": "math/76.14",
+      "explain": "<p>Les carr&eacute;s sont des rectangles particuliers.</p>\n<p>Un carr&eacute; a les c&ocirc;t&eacute;s oppos&eacute;s de m&ecirc;me longueur 2 &agrave; 2, et en plus les 4 c&ocirc;t&eacute;s de m&ecirc;me longueur.</p>"
+    },
+    {
+      "question": "<p>Les rectangles sont des carr&eacute;s</p>",
+      "choices": [
+        "Toujours",
+        "Jamais",
+        "*Parfois"
+      ],
+      "id": "math/76.15",
+      "explain": "<p>Un rectangle qui a ses diagonales perpendiculaires est un carr&eacute;.</p>\n<p>Un rectangle qui a 2 c&ocirc;t&eacute;s cons&eacute;cutifs de m&ecirc;me longueur est un carr&eacute;.</p>\n<p>Mais un rectangle quelconque n'est pas un carr&eacute;.</p>"
+    },
+    {
+      "question": "<p>Les carr&eacute;s sont des losanges</p>",
+      "choices": [
+        "*Toujours",
+        "Jamais",
+        "Ça dépend de la longueur des côtés."
+      ],
+      "id": "math/76.16",
+      "explain": "<p>Les carr&eacute;s sont des losanges particuliers.</p>\n<p>Un carr&eacute; est un losange qui a en plus un angle droit.</p>\n<p>Ou un carr&eacute; est un losange qui a ses diagonales de m&ecirc;me longueur.</p>"
+    },
+    {
+      "question": "<p>Je suis &agrave; la fois un <u>losange</u> et un <u>rectangle</u>.</p>\n<p>Est-ce que je suis un carr&eacute; ?</p>",
+      "choices": [
+        "*Toujours",
+        "Jamais",
+        "Parfois"
+      ],
+      "id": "math/76.17",
+      "explain": "<p>Un carre est un quadrilat&egrave;re qui est &agrave; la fois un rectangle et un losange, par d&eacute;finition.</p>"
+    }
+  ],
+  "pageCounter": 3,
+  "questionCounter": 17,
+  "theme": "geometrie",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": "tingnat@gmail.com"
+}

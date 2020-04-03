@@ -1,0 +1,302 @@
+{
+  "id": "math/39",
+  "title": "Nombres Relatifs: addition et soustraction",
+  "pages": [
+    "math/39/1.htm",
+    "math/39/2.htm",
+    "math/39/3.htm",
+    "math/39/4.htm",
+    "math/39/5.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>La <u>somme</u> de deux nombres relatifs positifs est</p>",
+      "choices": [
+        "Négative",
+        "*Positive",
+        "Ça dépend"
+      ],
+      "id": "math/39.9",
+      "explain": "<p>Pour additionner 2 nombres de&nbsp;<strong>m&ecirc;me&nbsp;<strong>signe</strong></strong>, on&nbsp;<u>garde le signe</u>&nbsp;et on&nbsp;<u>additionne</u>&nbsp;les valeurs.</p>\n<p>Donc pour deux nombres&nbsp;<strong>positifs</strong>, on garde le&nbsp;<strong>signe +</strong>: le r&eacute;sultat est un nombre positif.</p>"
+    },
+    {
+      "question": "<p>La <u>somme</u> de deux nombres relatifs <u>n&eacute;gatifs</u> est</p>",
+      "choices": [
+        "*Négative",
+        "Positive",
+        "Ça dépend"
+      ],
+      "id": "math/39.8",
+      "explain": "<p>Pour additionner 2 nombres de&nbsp;<strong>m&ecirc;me&nbsp;<strong>signe</strong></strong>, on&nbsp;<u>garde le signe</u>&nbsp;et on&nbsp;<u>additionne</u>&nbsp;les valeurs.</p>\n<p>Donc pour deux nombres <strong>n&eacute;gatifs</strong>, on garde le <strong>signe &minus;</strong>: le r&eacute;sultat est un nombre n&eacute;gatif.</p>"
+    },
+    {
+      "question": "<p><u>Soustraire</u> un nombre, c'est <u>additionner son oppos&eacute;</u></p>",
+      "choices": [
+        "*Vrai",
+        "Faux",
+        "Seulement s'il est positif"
+      ],
+      "id": "math/39.10",
+      "explain": ""
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "-5 + 4",
+          "explain": "Calcule"
+        },
+        {
+          "response": "(-5) + 4",
+          "explain": "Ce sont 2 nombres de signes opposés"
+        },
+        {
+          "response": "-(5 - 4)",
+          "explain": "Garde le signe de la plus grande valeur (5) et soustrait la plus grande valeur avec la plus petite"
+        },
+        {
+          "response": "-1",
+          "explain": "Calcule (5 - 4) = 1. Fait attention a bien garder le signe  - devant."
+        }
+      ],
+      "id": "math/39.19"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "-99 + 2",
+          "explain": "Calcule"
+        },
+        {
+          "response": "(-99) + 2",
+          "explain": "Ce sont 2 nombres de signes opposés"
+        },
+        {
+          "response": "-(99 - 2)",
+          "explain": "Garde le signe de la plus grande valeur (99) et soustrait la plus grande valeur avec la plus petite"
+        },
+        {
+          "response": "-97",
+          "explain": "Calcule (99 - 2) = 97. Fait attention a bien garder le signe  - devant."
+        }
+      ],
+      "id": "math/39.20"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(-22) + (-3)",
+          "explain": "Calcule"
+        },
+        {
+          "response": "-(22 + 3)",
+          "explain": "Pour additionner 2 nombres de même signe, on garde le signe et on additionne les valeurs"
+        },
+        {
+          "response": "-25",
+          "explain": "Calcule (22 + 3)=25. Attention garde bien le signe - devant."
+        }
+      ],
+      "id": "math/39.21"
+    },
+    {
+      "question": "<p>Donne le r&eacute;sultat de<br /><u>&minus;22 + (&minus;2,2)</u></p>",
+      "choices": [
+        "*-24,2",
+        "19,8",
+        "24,2",
+        "-19,8"
+      ],
+      "id": "math/39.5",
+      "explain": "<p>Pour additionner 2 nombres de <strong>m&ecirc;me <strong>signe</strong></strong>, on <u>garde le signe</u>&nbsp;et on <u>additionne</u> les valeurs.</p>\n<p>&minus;22 + (&minus;2,2) = &minus;(22 + 2,2) = &minus;24,2</p>"
+    },
+    {
+      "question": "<p>Donne le r&eacute;sultat de<br /><u>&minus;10 + (&minus;9,9)</u></p>",
+      "choices": [
+        "-0,1",
+        "0,1",
+        "*-19,9",
+        "19,9"
+      ],
+      "id": "math/39.6",
+      "explain": "<p>Pour additionner 2 nombres de&nbsp;<strong>m&ecirc;me&nbsp;<strong>signe</strong></strong>, on&nbsp;<u>garde le signe</u>&nbsp;et on <u>additionne</u> les valeurs.</p>\n<p>&minus;10 + (&minus;9,9) = &minus;(10 + 9,9) = &minus;19,9</p>"
+    },
+    {
+      "question": "<p>Combien vaut la somme de 6 et de &minus;6?</p>",
+      "choices": [
+        "*0",
+        "12",
+        "-12",
+        "1"
+      ],
+      "id": "math/39.7",
+      "explain": "<p>La somme de 2 nombres oppos&eacute;s est &eacute;gale &agrave; 0.</p>\n<p>6 + (-6)<br />= <span style=\"color: #e74c3c;\">6 - 6</span><br />= <span style=\"color: #e74c3c;\">0</span></p>"
+    },
+    {
+      "question": "<p>Donne le r&eacute;sultat de<br /><u>4 &minus; 6</u></p>",
+      "choices": [
+        "*-2",
+        "2",
+        "10",
+        "-10"
+      ],
+      "id": "math/39.12",
+      "explain": "<p>Pour&nbsp;<u>soustraire</u>&nbsp;un nombre relatif, on&nbsp;<u>additionne son oppos&eacute;</u>.</p>\n<p>4 &minus; 6 = 4 + (&minus;6)</p>\n<p>Puis pour additionner 2 nombres de <strong>signe contraire</strong>, on garde le&nbsp;<u>signe de la plus grande valeur</u>. Et on fait la&nbsp;<u>soustraction</u>&nbsp;de la plus grande valeur avec la plus petite.</p>\n<p>4 + (&minus;6) = &minus;(6&minus;4) = &minus;2</p>"
+    },
+    {
+      "question": "<p>Donne le r&eacute;sultat de<br /><u>(&minus;10 ) &minus; 6</u></p>",
+      "choices": [
+        "-4",
+        "4",
+        "16",
+        "*-16"
+      ],
+      "id": "math/39.13",
+      "explain": "<p>Pour&nbsp;<u>soustraire</u>&nbsp;un nombre relatif, on&nbsp;<u>additionne son oppos&eacute;</u>.</p>\n<p>&minus;10 &minus; 6 = &minus;10 + (&minus;6)</p>\n<p>Puis pour additionner 2 nombres de <strong>m&ecirc;me signe</strong>, on&nbsp;<u>garde le signe</u>&nbsp;et on&nbsp;<u>additionne</u> les valeurs.</p>\n<p>&minus;10 + (&minus;6) = &minus;(10 + 6) = &minus;16</p>"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "-6 - 3",
+          "explain": "Calcule"
+        },
+        {
+          "response": "(-6)+(-3)",
+          "explain": "Reecris sous la forme -6 + (-3)"
+        },
+        {
+          "response": "-9",
+          "explain": "Pour additionner 2 nombres de meme signe, on garde le signe et on additionne les valeurs"
+        }
+      ],
+      "id": "math/39.18"
+    },
+    {
+      "question": "<p>Donne le r&eacute;sultat de<br /><u>(&minus;5) &minus; (&minus;6)</u></p>",
+      "choices": [
+        "-1",
+        "*1",
+        "11",
+        "-11"
+      ],
+      "id": "math/39.14",
+      "explain": "<p>Pour <u>soustraire</u>&nbsp;un nombre relatif, on&nbsp;<u>additionne son oppos&eacute;</u>.</p>\n<p>(&minus;5) &minus; (&minus;6) = &minus;5 + 6</p>\n<p>Puis pour additionner 2 nombres de <strong>signe contraire</strong>, on garde le&nbsp;<u>signe de la plus grande valeur</u>. Et on fait la&nbsp;<u>soustraction</u>&nbsp;de la plus grande valeur avec la plus petite.</p>\n<p>&minus;5 + 6 = +(6&minus;5) = 1</p>"
+    },
+    {
+      "question": "<p>Donne le r&eacute;sultat de<br /><u>7 &minus; (&minus;3)</u></p>",
+      "choices": [
+        "-4",
+        "+4",
+        "*10",
+        "-10"
+      ],
+      "id": "math/39.15",
+      "explain": "<p>Pour&nbsp;<u>soustraire</u>&nbsp;un nombre relatif, on&nbsp;<u>additionne son oppos&eacute;</u>.</p>\n<p>7 &minus; (&minus;3) = 7 + 3 = 10</p>"
+    },
+    {
+      "question": "<p>Calcule<br /><u>5 + (&minus;2) &minus; (&minus;3) &minus; 7</u></p>",
+      "choices": [
+        "17",
+        "-7",
+        "*-1",
+        "-11"
+      ],
+      "id": "math/39.16",
+      "explain": "<p>Transforme les soustractions en additions d'oppos&eacute;</p>\n<p>= 5 + (&minus;2) + 3&nbsp; + (&minus;7)</p>\n<p>Regroupe les nombres n&eacute;gatifs d'un c&ocirc;t&eacute; et positifs de l'autre</p>\n<p>= 5 + 3 + (&minus;2)&nbsp;+&nbsp;(&minus;7)</p>\n<p>Applique les r&egrave;gles de l'addition</p>\n<p>= 8 + &minus;(2 + 7) = 8 &minus; 9</p>\n<p>= &minus;1</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "<p>Calcule:<br />(&minus;10) &minus; (&minus;2) &minus; 5 + (&minus;7)</p>",
+      "choices": [
+        "*-20",
+        "-10",
+        "0",
+        "-24"
+      ],
+      "id": "math/39.17",
+      "explain": "<p>1. Je transforme les soustractions en additions d'oppos&eacute;:</p>\n<p>(&minus;10) <u>&minus;</u> (<u>&minus;</u>2) <u>&minus;</u> 5 + (&minus;7) = &minus;10 <u>+</u> 2 <u>+</u> (<u>&minus;</u>5) <u>+</u> (<u>&minus;</u>7)</p>\n<p>2. Je regroupe les nombres n&eacute;gatifs d'un c&ocirc;t&eacute; et positifs de l'autre:</p>\n<p>= &minus;10 + (&minus;5) + (&minus;7) + 2</p>\n<p>3. J'applique les r&egrave;gles de l'addition:</p>\n<p>= <u>&minus;</u> (10 + 5 + 7) <u>+</u> 2 = &minus;22 + 2 = &minus;20</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "-(-3)+(+5)+(-14)+(-7)",
+          "explain": "Calcule"
+        },
+        {
+          "response": "3 + 5 - 14 - 7",
+          "explain": "On enleve les parentheses et appliquant les regles de signes"
+        },
+        {
+          "response": "8 -14 - 7",
+          "explain": "Additionne 3 + 5 = 8"
+        },
+        {
+          "response": "1 - 14",
+          "explain": "Calcule 8 -7 = 1"
+        },
+        {
+          "response": "-13",
+          "explain": ""
+        }
+      ],
+      "id": "math/39.22"
+    },
+    {
+      "question": "",
+      "explain": "",
+      "choices": [],
+      "type": "steps",
+      "steps": [
+        {
+          "response": "(-20 - (8 - 15)) + 3",
+          "explain": "Calcule"
+        },
+        {
+          "response": "(-20 - (-7)) + 3",
+          "explain": "On calcule d'abord les parenthèses les plus à l'intérieur : 8-15 = -7"
+        },
+        {
+          "response": "(-20 + 7) + 3",
+          "explain": "Simplifie - (-7) en + 7"
+        },
+        {
+          "response": "-13 + 3",
+          "explain": "Calcule (-20 + 7) = -13"
+        },
+        {
+          "response": "-10",
+          "explain": ""
+        }
+      ],
+      "id": "math/39.23"
+    }
+  ],
+  "pageCounter": 5,
+  "questionCounter": 23,
+  "theme": "calcul",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published",
+  "editor": ""
+}

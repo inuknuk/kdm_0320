@@ -1,0 +1,208 @@
+{
+  "id": "hist/05",
+  "title": "TEST: Mythologie Grecque 1",
+  "pages": [
+    "hist/05/1.htm",
+    "hist/05/2.htm",
+    "hist/05/3.htm",
+    "hist/05/4.htm",
+    "hist/05/6.htm"
+  ],
+  "questions": [
+    {
+      "question": "<p>Qu'est-ce-qu'il y avait au tout debut?</p>",
+      "choices": [
+        "la Terre",
+        "le Ciel ",
+        "Ouranos",
+        "Tartare",
+        "*le Chaos",
+        "Kronos"
+      ],
+      "id": "hist/05.1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le premier enfant de Rhea et de Cronos?</p>",
+      "choices": [
+        "Hades",
+        "Demeter",
+        "Zeus",
+        "*Hestia",
+        "Poseidon",
+        "Hera"
+      ],
+      "id": "hist/05.2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Combien y-a-t'il de Titans? Qui sont ils?</p>",
+      "choices": [
+        "2 : Les enfants de Zeus et Hera",
+        "*12 : Les enfants de Gaia et d'Ouranos",
+        "10 : Les autres olympiens",
+        "6 : Les enfants de Rhea et de Cronos",
+        "On ne sait pas"
+      ],
+      "id": "hist/05.3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Combien avait il d'Ages?</p>",
+      "choices": [
+        "3",
+        "2",
+        "*4",
+        "Aucun",
+        "1",
+        "12"
+      ],
+      "id": "hist/05.4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le quatrieme Age?</p>",
+      "choices": [
+        "*l'Age de Fer",
+        "l'Age d'Argent",
+        "l'Age de Bronze ",
+        "l'Age d'Or"
+      ],
+      "id": "hist/05.5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel Olympien ou Olypienne domine les mers?</p>",
+      "choices": [
+        "Apollon",
+        "Zeus",
+        "Demeter",
+        "Hades",
+        "Hestia",
+        "*Poseidon"
+      ],
+      "id": "hist/05.6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Comment est-ce-que Zeus, Poseidon et Hades se sont partages les souterrains, le ciel et l'ocean?</p>",
+      "choices": [
+        "En se battant",
+        "En demandant a leurs soeurs ",
+        "*En tirant au sort",
+        "En faisant chi fou mi",
+        "En consultant l'Oracle de Delphes "
+      ],
+      "id": "hist/05.7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qu'est-ce-que le Tartare?</p>",
+      "choices": [
+        "Les enfers",
+        "le Titan de la mer",
+        "De la viande de boeuf crue",
+        "*Une abysse sans fin"
+      ],
+      "id": "hist/05.8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui est Ouranos?</p>",
+      "choices": [
+        "*Le mari de Gaia",
+        "Un Olympien",
+        "Un Titan",
+        "Le fils de Zeus",
+        "Un des hecatonchires",
+        "Une marque de bateaux?"
+      ],
+      "id": "hist/05.9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui est le Titan du soleil?</p>",
+      "choices": [
+        "Oceanus",
+        "Japet",
+        "Crios",
+        "Coeos",
+        "*Hyperion",
+        "Cronos"
+      ],
+      "id": "hist/05.10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Cronos est le Titan de quoi?</p>",
+      "choices": [
+        "de l'Ocean",
+        "du Ciel",
+        "des Enfers",
+        "*du Temps",
+        "de la Guerre",
+        "de la Peur"
+      ],
+      "id": "hist/05.11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel mots francais vient du nom Cronos?</p>",
+      "choices": [
+        "Aucuns",
+        "Que des mots qui viennent du Grec",
+        "Des mot de la meme famille que crochu",
+        "*Des mots qui ont un rapport avec le temps"
+      ],
+      "id": "hist/05.12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui sont les premiers enfants de Gaia et Ouranos?</p>",
+      "choices": [
+        "*les Hecatonchires",
+        "les Titans",
+        "les Olympiens",
+        "les Satyrs",
+        "les Cyclopes",
+        "les Nymphes"
+      ],
+      "id": "hist/05.13",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel Titan tue Ouranos?</p>",
+      "choices": [
+        "Oceanus",
+        "Hyperion",
+        "*Cronos",
+        "Japet",
+        "Crios",
+        "Atlas"
+      ],
+      "id": "hist/05.14",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui nait lorsque le sang d'Ouranos touche la Terre?</p>",
+      "choices": [
+        "les Nymphes",
+        "Aphrodites",
+        "le Cyclopes",
+        "*les premiers Satyrs et Nymphes",
+        "les Satyrs",
+        "Ares"
+      ],
+      "id": "hist/05.15",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 6,
+  "questionCounter": 15,
+  "theme": "",
+  "level": [
+    "5"
+  ],
+  "status": "draft",
+  "editor": ""
+}

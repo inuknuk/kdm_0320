@@ -1,0 +1,164 @@
+{
+  "title": "L'origine de Rome",
+  "pages": [
+    "latin/13/1.htm",
+    "latin/13/2.htm",
+    "latin/13/3.htm",
+    "latin/13/4.htm"
+  ],
+  "id": "latin/13",
+  "questions": [
+    {
+      "question": "<p>Quel est le nom du prince qui enleva Helene?</p>",
+      "choices": [
+        "*Paris",
+        "Rome",
+        "Menelas",
+        "Achille",
+        "Mars"
+      ],
+      "id": "latin/13:1",
+      "explain": ""
+    },
+    {
+      "question": "<p>Menelas est le roi de quelle ville?</p>",
+      "choices": [
+        "*Sparte",
+        "Athenes",
+        "Troie",
+        "Carthage"
+      ],
+      "id": "latin/13:2",
+      "explain": ""
+    },
+    {
+      "question": "<p>Paris est un</p>",
+      "choices": [
+        "*Troyen",
+        "Francais",
+        "Grec",
+        "demi dieu"
+      ],
+      "id": "latin/13:3",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui gagna la guerre de Troie?</p>",
+      "choices": [
+        "*Les grecs",
+        "Les Troyens",
+        "Ils firent la paix"
+      ],
+      "id": "latin/13:4",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le heros Grec qui inventa la ruse du cheval de Troie?</p>",
+      "choices": [
+        "*Ulysse",
+        "Achille",
+        "Menelas",
+        "Mars"
+      ],
+      "id": "latin/13:5",
+      "explain": ""
+    },
+    {
+      "question": "<p>Quel est le heros Troyen qui s'enfuit de Troie?</p>",
+      "choices": [
+        "*Enee",
+        "Ulysse",
+        "Hector",
+        "Priam"
+      ],
+      "id": "latin/13:6",
+      "explain": ""
+    },
+    {
+      "question": "<p>Enee est le fils</p>",
+      "choices": [
+        "*d'Aphrodite",
+        "d'Athena",
+        "d'Helene",
+        "de Didon"
+      ],
+      "id": "latin/13:7",
+      "explain": ""
+    },
+    {
+      "question": "<p>Enee apres sa fuite de Troie se refugie a:</p>",
+      "choices": [
+        "*Carthage",
+        "Rome",
+        "Athenes",
+        "Sparte"
+      ],
+      "id": "latin/13:8",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui tombe amoureuse d'Enee durant son periple?</p>",
+      "choices": [
+        "*Didon",
+        "Helene",
+        "Aphrodite",
+        "Athena"
+      ],
+      "id": "latin/13:9",
+      "explain": ""
+    },
+    {
+      "question": "<p>Les descendant d'Enee vont fonder la ville de</p>",
+      "choices": [
+        "*Rome",
+        "Carthage",
+        "Troie",
+        "Athenes"
+      ],
+      "id": "latin/13:10",
+      "explain": ""
+    },
+    {
+      "question": "<p>Qui fonde la ville de Rome?</p>",
+      "choices": [
+        "*Romulus",
+        "Remus",
+        "Enee",
+        "Ulysse"
+      ],
+      "id": "latin/13:11",
+      "explain": ""
+    },
+    {
+      "question": "<p>Lors de la fondation de Rome, qui tue qui?</p>",
+      "choices": [
+        "*Romulus tue Remus",
+        "Remus tue Romulus",
+        "Il s'entretuent tous les deux",
+        "Ils se reconcillient"
+      ],
+      "id": "latin/13:12",
+      "explain": ""
+    },
+    {
+      "question": "<p>Le recit de la fuite de Troie est racontee dans quel livre?</p>",
+      "choices": [
+        "*L'Eneide",
+        "L'iliade",
+        "L'odysee",
+        "De Natura Rerum"
+      ],
+      "id": "latin/13:13",
+      "explain": ""
+    }
+  ],
+  "pageCounter": 4,
+  "questionCounter": 13,
+  "theme": "civilisation",
+  "level": [
+    "5",
+    "4",
+    "3"
+  ],
+  "status": "published"
+}
