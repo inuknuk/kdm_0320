@@ -16,8 +16,6 @@
 <h1><b>Leçon:</b> <%= currentLesson.title %></h1>
 <% let lessonPath = rootPath
 + "/"
-+ currentLesson.theme 
-+ "/"
 + currentLesson.title.replace(':', '').replace('/', '') 
 + "/"
 + currentLesson.id.substring(currentLesson.id.length - 2, currentLesson.id.length) 
@@ -49,8 +47,6 @@ lessonPath = lessonPath.split(' ').join('%20');
 <% if (counter < lessonContent.questions.length) {
     let nextQuestionPath = rootPath
              + "/"
-             + currentLesson.theme 
-             + "/"
              + currentLesson.title.replace(':', '').replace('/', '') 
              + "/question"
              + (counter + 1)
@@ -65,8 +61,6 @@ lessonPath = lessonPath.split(' ').join('%20');
 <p></p>
 <% if (counter > 1) {
     let lastQuestionPath = rootPath
-             + "/"
-             + currentLesson.theme 
              + "/"
              + currentLesson.title.replace(':', '').replace('/', '') 
              + "/question"

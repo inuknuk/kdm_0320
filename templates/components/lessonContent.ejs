@@ -6,7 +6,7 @@
 <div> <a href=<%= Path %>>
         Acceuil</a> --> Math -->
     <% for(const theme of allContent.themes) { 
-        if (theme.id == currentLesson.theme) {
+        if ( theme.id == currentLesson.theme) {
         %>
     <%= theme.title %>
     <% } 
@@ -16,8 +16,6 @@
 <h1><b>Leçon:</b> <%= currentLesson.title %></h1>
 <% if (lessonContent.questions.length > 0) {
 let questionPath = rootPath
-+ "/"
-+ currentLesson.theme 
 + "/"
 + currentLesson.title.replace(':', '').replace('/', '') 
 + "/question1.html";
@@ -31,7 +29,7 @@ questionPath = questionPath.split(' ').join('%20'); %>
         <div class="carousel-inner">
             <% let first = true;
                 for(const page of lessonContent.pages) { 
-                    const pageHtml = "../../" + page; 
+                    const pageHtml = "../../data/" + page; 
                     if (first == true) {
                         first = false; %>
             <div class="item active" style="text-align: center;">
