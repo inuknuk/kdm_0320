@@ -57,7 +57,7 @@ module.exports.generateContent = async subjects => {
         const levels = ["3", "4", "5"];
         // On génère les pages de table des matières selon l'age sélectionné
         for (const level of levels) {
-            const levelPath = path.join(indexPath, level + ".html");
+            const levelPath = path.join(indexPath, subject + level + ".html");
             const levelRender = await ejs.renderFile(
                 path.join(__dirname, "../templates/level.ejs"),
                 {
@@ -73,13 +73,6 @@ module.exports.generateContent = async subjects => {
 
         // // On parcourt tous les thèmes
         for (const theme of content.themes) {
-            // const themePath = path.join(__dirname, "../destination", theme.id); Sans créer le dossier du thème
-
-            const themePath = path.join(__dirname, "../destination");
-
-            // createDirectory(themePath); Sans créer le dossier du thème
-
-
             // On sélectionne les cours qui correspondent au thème en question
             const selectedLessons = content.lessons.filter(
                 lesson =>
@@ -87,8 +80,9 @@ module.exports.generateContent = async subjects => {
             );
             console.log(selectedLessons.length, "leçons dans le thème : ", theme.title);
 
-
+            const themePath = path.join(__dirname, "../destination");
             // // On parcourt tous les leçons de chaque thème
+
             // La constante "lesson" correspond à la leçon issue du json de la table des matières
             for (const lesson of selectedLessons) {
                 // On définit le nouveau chemins
