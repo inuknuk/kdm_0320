@@ -5,7 +5,7 @@
 -->
 <ul class="w3-ul w3-hoverable">
     <% for(const theme of subjectContent.themes) { %>
-    <li>
+    <li class="w3-padding-small">
         <b><%= theme.title %></b>
     </li>
     <% for (const lesson of subjectContent.lessons) {
@@ -16,11 +16,13 @@
              + lesson.id.substring(lesson.id.length - 2, lesson.id.length) 
              + ".html";
              path = path.split(' ').join('%20');
-    %>
+             if ((lesson.level.includes(currentLevel) || currentLevel == "0") && lesson.theme === theme.id) { 
+             %>
     <li class="w3-padding-small">
         <a href=<%= path %>><%= lesson.title %></a>
     </li>
     <% 
+    }
     } 
     }
     %>

@@ -44,12 +44,15 @@ module.exports.generateContent = async subjects => {
             path.join(__dirname, "../templates/index.ejs"),
             {
                 indexPath: indexPathHtml,
+                rootPath: indexPath,
             }
         );
 
         saveFile(indexPathHtml, indexRender);
 
-        const levels = ["3", "4", "5"];
+        const levels = ["0", "3", "4", "5"];
+        // Level 0 permet de créer la page contenant toute les leçons
+
         // On génère les pages de table des matières selon l'age sélectionné
         for (const level of levels) {
             const levelPath = path.join(indexPath, subjectContent.id + level + ".html");

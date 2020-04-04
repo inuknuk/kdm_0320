@@ -17,24 +17,29 @@
     <%- include("components/navbar") %>
     <div class="w3-container">
         <div class="w3-col w3-container m6 l6">
-            <a href="http://www.google.com">
+            <% const pathHist = rootPath + "/hist0.html";
+            const pathMath = rootPath + "/math0.html";
+            const pathLatin = rootPath + "/latin0.html";
+            const pathSci = rootPath + "/sci0.html";
+            %>
+            <a href=<%= pathHist.split(' ').join('%20') %>>
                 <div class="w3-card w3-padding-24 w3-margin-bottom w3-center">
                     <h1>Histoire</h1>
                 </div>
             </a>
-            <a href="http://www.google.com">
+            <a href=<%= pathMath.split(' ').join('%20') %>>
                 <div class="w3-card w3-padding-24 w3-margin-bottom w3-center">
                     <h1>Mathématiques</h1>
                 </div>
             </a>
         </div>
         <div class="w3-col w3-container m6 l6">
-            <a href="http://www.google.com">
+            <a href=<%= pathLatin.split(' ').join('%20') %>>
                 <div class="w3-card w3-padding-24 w3-margin-bottom w3-center">
                     <h1>Latin</h1>
                 </div>
             </a>
-            <a href="http://www.google.com">
+            <a href=<%= pathSci.split(' ').join('%20') %>>
                 <div class="w3-card w3-padding-24 w3-margin-bottom w3-center">
                     <h1>Physique-Chimie</h1>
                 </div>
