@@ -1,0 +1,27 @@
+<!--
+    Ce fichier est celui qui crée la table des matières
+    Pour le moment le fichier en question est sous-ligné
+    Les thèmes sont en gras
+-->
+<ul class="w3-ul w3-hoverable">
+    <% for(const theme of subjectContent.themes) { %>
+    <li>
+        <b><%= theme.title %></b>
+    </li>
+    <% for (const lesson of subjectContent.lessons) {
+            let path = rootPath
+             + "/"
+             + lesson.title.replace(':', '').replace('/', '') 
+             + "/"
+             + lesson.id.substring(lesson.id.length - 2, lesson.id.length) 
+             + ".html";
+             path = path.split(' ').join('%20');
+    %>
+    <li class="w3-padding-small">
+        <a href=<%= path %>><%= lesson.title %></a>
+    </li>
+    <% 
+    } 
+    }
+    %>
+</ul>

@@ -31,10 +31,7 @@ function saveFile(htmlPath, file) {
 module.exports.generateContent = async subjects => {
     // On commence par générer la racine du dossier 
     // où l'on souhaite enregistrer l'arborescence ("destination/index.html").
-    for (const subject of subjects) {
-
-        const subjectContentPath = path.join(__dirname, "../data/" + subject + "/content.json")
-        const content = require(subjectContentPath);
+    for (const subjectContent of subjects) {
 
         const indexPath = path.join(__dirname, "../destination");
         const indexPathHtml = path.join(indexPath, "index.html");
@@ -46,9 +43,7 @@ module.exports.generateContent = async subjects => {
         const indexRender = await ejs.renderFile(
             path.join(__dirname, "../templates/index.ejs"),
             {
-                allContent: content,
-                currentLesson: undefined,
-                rootPath: indexPath,
+                indexPath: indexPathHtml,
             }
         );
 
@@ -57,24 +52,24 @@ module.exports.generateContent = async subjects => {
         const levels = ["3", "4", "5"];
         // On génère les pages de table des matières selon l'age sélectionné
         for (const level of levels) {
-            const levelPath = path.join(indexPath, subject + level + ".html");
+            const levelPath = path.join(indexPath, subjectContent.id + level + ".html");
             const levelRender = await ejs.renderFile(
-                path.join(__dirname, "../templates/level.ejs"),
+                path.join(__dirname, "../templates/subjectPage.ejs"),
                 {
-                    allContent: content,
+                    subjectContent: subjectContent,
+                    allSubjectsContent: subjects,
                     currentLesson: undefined,
                     rootPath: indexPath,
+                    indexPath: indexPathHtml,
                     currentLevel: level,
                 })
             saveFile(levelPath, levelRender);
         };
 
-
-
         // // On parcourt tous les thèmes
-        for (const theme of content.themes) {
+        for (const theme of subjectContent.themes) {
             // On sélectionne les cours qui correspondent au thème en question
-            const selectedLessons = content.lessons.filter(
+            const selectedLessons = subjectContent.lessons.filter(
                 lesson =>
                     lesson.theme === theme.id
             );
@@ -96,7 +91,7 @@ module.exports.generateContent = async subjects => {
 
                 // On définit l'ancien chemin
                 const oldLessonPath = path.join(__dirname,
-                    "../data/" + subject + "/",
+                    "../data/" + subjectContent.id + "/",
                     lesson.id.substring(lesson.id.length - 2, lesson.id.length),
                     "/");
                 const lessonJsonPath = path.join(oldLessonPath, "content.json");
@@ -123,9 +118,10 @@ module.exports.generateContent = async subjects => {
                 const lessonRender = await ejs.renderFile(
                     path.join(__dirname, "../templates/lesson.ejs"),
                     {
-                        allContent: content,
+                        allContent: subjectContent,
                         currentLesson: lesson,
                         rootPath: indexPath,
+                        indexPath: indexPathHtml,
                         lessonContent: lessonJson,
                     }
                 );
@@ -141,9 +137,10 @@ module.exports.generateContent = async subjects => {
                     const questionRender = await ejs.renderFile(
                         path.join(__dirname, "../templates/questions.ejs"),
                         {
-                            allContent: content,
+                            allContent: subjectContent,
                             currentLesson: lesson,
                             rootPath: indexPath,
+                            indexPath: indexPathHtml,
                             lessonContent: lessonJson,
                             questionJson: lessonJson.questions[i - 1],
                             counter: i,
