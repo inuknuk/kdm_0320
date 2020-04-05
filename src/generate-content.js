@@ -119,9 +119,10 @@ module.exports.generateContent = async subjects => {
                 // le seul truc qui change, ce sont les paramètres du cours (le contenu, le titre, etc.).
                 // On crée un fichier html pour chacun des cours du thème
                 const lessonRender = await ejs.renderFile(
-                    path.join(__dirname, "../templates/lesson.ejs"),
+                    path.join(__dirname, "../templates/lessonPage.ejs"),
                     {
-                        allContent: subjectContent,
+                        subjectContent: subjectContent,
+                        allSubjectsContent: subjects,
                         currentLesson: lesson,
                         rootPath: indexPath,
                         indexPath: indexPathHtml,
@@ -140,7 +141,8 @@ module.exports.generateContent = async subjects => {
                     const questionRender = await ejs.renderFile(
                         path.join(__dirname, "../templates/questions.ejs"),
                         {
-                            allContent: subjectContent,
+                            subjectContent: subjectContent,
+                            allSubjectsContent: subjects,
                             currentLesson: lesson,
                             rootPath: indexPath,
                             indexPath: indexPathHtml,

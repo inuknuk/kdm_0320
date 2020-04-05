@@ -13,16 +13,33 @@
 
 <body>
     <%- include("components/navbar") %>
-    <div class="container-fluid">
-        <div class="col-sm-2">
-            <div class="container-fluid">
-                <%- include("components/menu") %>
-            </div>
+    <div class="w3-container">
+        <div class="w3-col w3-container s6 m4 l3">
+            <%- include("components/lessonMenu") %>
         </div>
-        <div class="col-sm-10">
-            <div class="container-fluid">
-                <%- include("components/lessonContent") %>
-            </div>
+        <div class="w3-col w3-container s6 m8 l9">
+            <% for(const theme of subjectContent.themes) { 
+                if ( theme.id == currentLesson.theme) { %>
+            <a href=<%= indexPath.split(' ').join('%20') %>>
+                Acceuil
+            </a>
+            &rarr; <%= subjectContent.title %>
+            &rarr; <%= theme.title %>
+            <% 
+            } 
+            } 
+            %>
+
+
+
+
+
+
+
+
+
+
+            <%- include("components/lessonContent") %>
         </div>
     </div>
 </body>

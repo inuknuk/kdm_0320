@@ -11,21 +11,17 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="../../../templates/questionOnClick.js"></script>
+    <script src="../../templates/questionOnClick.js"></script>
 </head>
 
 <body>
     <%- include("components/navbar") %>
-    <div class="container-fluid">
-        <div class="col-sm-2">
-            <div class="container-fluid">
-                <%- include("components/menu") %>
-            </div>
+    <div class="w3-container">
+        <div class="w3-col w3-container s6 m4 l3">
+            <%- include("components/lessonMenu") %>
         </div>
-        <div class="col-sm-10">
-            <div class="container-fluid">
-                <%- include("components/question") %>
-            </div>
+        <div class="w3-col w3-container s6 m8 l9">
+            <%- include("components/questionContent") %>
         </div>
     </div>
 </body>

@@ -1,0 +1,26 @@
+<!--
+    Ce fichier est celui qui crée la table des matières
+    Pour le moment le fichier en question est sous-ligné
+    Les thèmes sont en gras
+-->
+<ul class="w3-ul w3-hoverable">
+    <% for(const subjectLoop of allSubjectsContent) { %>
+    <% if (subjectLoop == subjectContent) { %>
+    <li class="w3-blue w3-padding-small">
+        <b> <%= subjectLoop.title %></b>
+    </li>
+    <% } else { %>
+    <li class="w3-padding-small">
+        <b><%= subjectLoop.title %></b>
+    </li>
+    <% } %>
+
+    <% for (const theme of subjectLoop.themes) {
+    %>
+    <li class="w3-padding-small">
+        <%= theme.title %>
+    </li>
+    <% } 
+ } 
+ %>
+</ul>
