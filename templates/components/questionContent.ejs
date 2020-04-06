@@ -1,29 +1,23 @@
-<% let indexPath = rootPath
-             + "/"
-             + "index.html";
-             indexPath = indexPath.split(' ').join('%20');
-%>
-<div> <a href=<%= indexPath %>>
-        Accueil</a> --> Math -->
-    <% for(const theme of subjectContent.themes) { 
-        if (theme.id == currentLesson.theme) {
-        %>
-    <%= theme.title %>
-    <% } 
-        } %>
+<div class="w3-display-container" style="height:50px;">
+    <div class=" w3-display-left w3-xlarge">
+        <b>Questions:</b> <%= currentLesson.title %>
+    </div>
+    <% const lessonPath = rootPath
+        + "/"
+        + currentLesson.title.replace(':', '').replace('/', '') 
+        + "/"
+        + currentLesson.id.substring(currentLesson.id.length - 2, currentLesson.id.length) 
+        + ".html";
+    %>
+    <div class=" w3-display-right">
+        <a href=<%= lessonPath.split(' ').join('%20') %>>
+            <button class="w3-button w3-round w3-white w3-border w3-border-blue">
+                Retour au cours
+            </button>
+        </a>
+    </div>
 </div>
-
-<h1><b>Leçon:</b> <%= currentLesson.title %></h1>
-<% let lessonPath = rootPath
-+ "/"
-+ currentLesson.title.replace(':', '').replace('/', '') 
-+ "/"
-+ currentLesson.id.substring(currentLesson.id.length - 2, currentLesson.id.length) 
-+ ".html";
-lessonPath = lessonPath.split(' ').join('%20');
-%>
-<div><a href=<%= lessonPath %>> Retour au cours</a></div>
-<div class="container">
+<div class="w3-container">
     <p>Question : <%= counter %> / <%= lessonContent.questions.length %>
         <!-- Question -->
         <%- questionJson.question %>
@@ -41,35 +35,43 @@ lessonPath = lessonPath.split(' ').join('%20');
     <% } %>
 </div>
 <div>
-    <p id="answer"> </p>
-    <div id="explain" style="display: none;"> <%- questionJson.explain %> </div>
+    <p id="answer">
+    </p>
+    <div id="explain" style="display: none;">
+        <%- questionJson.explain %>
+    </div>
 </div>
 <% if (counter < lessonContent.questions.length) {
-    let nextQuestionPath = rootPath
+    const nextQuestionPath = rootPath
              + "/"
              + currentLesson.title.replace(':', '').replace('/', '') 
              + "/question"
              + (counter + 1)
              + ".html";
-             nextQuestionPath = nextQuestionPath.split(' ').join('%20'); %>
+%>
 <div>
-    <form method="get" action=<%= nextQuestionPath %>>
-        <button type="submit">Question suivante</button>
+    <form method="get" action=<%= nextQuestionPath.split(' ').join('%20') %>>
+        <button type="submit" class="w3-button w3-round w3-white w3-border w3-border-blue">
+            Question suivante
+        </button>
     </form>
     <% } %>
 </div>
-<p></p>
+<p>
+</p>
 <% if (counter > 1) {
-    let lastQuestionPath = rootPath
-             + "/"
-             + currentLesson.title.replace(':', '').replace('/', '') 
-             + "/question"
-             + (counter - 1)
-             + ".html";
-             lastQuestionPath = lastQuestionPath.split(' ').join('%20'); %>
+    const lastQuestionPath = rootPath
+            + "/"
+            + currentLesson.title.replace(':', '').replace('/', '') 
+            + "/question"
+            + (counter - 1)
+            + ".html";
+%>
 <div>
-    <form method="get" action=<%= lastQuestionPath %>>
-        <button type="submit">Question précédente</button>
+    <form method="get" action=<%= lastQuestionPath.split(' ').join('%20') %>>
+        <button class="w3-button w3-round w3-white w3-border w3-border-blue">
+            Question précédente
+        </button>
     </form>
     <% } %>
 </div>

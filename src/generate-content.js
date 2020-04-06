@@ -24,9 +24,6 @@ function createDirectory(path) {
 function saveFile(htmlPath, file) {
     fs.writeFileSync(htmlPath, file);
 }
-
-
-
 // Exportation de la fonction de génération.
 module.exports.generateContent = async subjects => {
     // On commence par générer la racine du dossier 

@@ -21,6 +21,23 @@
             <%- include("components/lessonMenu") %>
         </div>
         <div class="w3-col w3-container s6 m8 l9">
+            <% for(const theme of subjectContent.themes) { 
+                if ( theme.id == currentLesson.theme) { %>
+            <a href=<%= indexPath.split(' ').join('%20') %>>
+                Acceuil
+            </a>
+            &rarr;
+            <% 
+            const subjectPath = rootPath + "/" + subjectContent.id + "0.html"; 
+            %>
+            <a href=<%= subjectPath.split(' ').join('%20') %>>
+                <%= subjectContent.title %>
+            </a>
+            &rarr; <%= theme.title %>
+            <% 
+            } 
+            } 
+            %>
             <%- include("components/questionContent") %>
         </div>
     </div>

@@ -23,22 +23,18 @@
             <a href=<%= indexPath.split(' ').join('%20') %>>
                 Acceuil
             </a>
-            &rarr; <%= subjectContent.title %>
+            &rarr;
+            <% 
+            const subjectPath = rootPath + "/" + subjectContent.id + "0.html"; 
+            %>
+            <a href=<%= subjectPath.split(' ').join('%20') %>>
+                <%= subjectContent.title %>
+            </a>
             &rarr; <%= theme.title %>
             <% 
             } 
             } 
             %>
-
-
-
-
-
-
-
-
-
-
             <%- include("components/lessonContent") %>
         </div>
     </div>

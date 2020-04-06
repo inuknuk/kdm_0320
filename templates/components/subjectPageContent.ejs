@@ -9,17 +9,16 @@
         <b><%= theme.title %></b>
     </li>
     <% for (const lesson of subjectContent.lessons) {
-            let path = rootPath
+            const path = rootPath
              + "/"
              + lesson.title.replace(':', '').replace('/', '') 
              + "/"
              + lesson.id.substring(lesson.id.length - 2, lesson.id.length) 
              + ".html";
-             path = path.split(' ').join('%20');
              if ((lesson.level.includes(currentLevel) || currentLevel == "0") && lesson.theme === theme.id) { 
              %>
     <li class="w3-padding-small">
-        <a href=<%= path %>><%= lesson.title %></a>
+        <a href=<%= path.split(' ').join('%20') %>><%= lesson.title %></a>
     </li>
     <% 
     }
