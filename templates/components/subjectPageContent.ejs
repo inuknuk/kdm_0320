@@ -3,11 +3,11 @@
     Pour le moment le fichier en question est sous-ligné
     Les thèmes sont en gras
 -->
-<ul class="w3-ul w3-hoverable">
-    <% for(const theme of subjectContent.themes) { %>
-    <li class="w3-padding-small">
-        <b><%= theme.title %></b>
-    </li>
+<ul class="w3-ul">
+    <% for(const theme of subjectContent.themes) { 
+        let newTheme = true;
+    %>
+
     <% for (const lesson of subjectContent.lessons) {
             const path = rootPath
              + "/"
@@ -16,9 +16,19 @@
              + lesson.id.substring(lesson.id.length - 2, lesson.id.length) 
              + ".html";
              if ((lesson.level.includes(currentLevel) || currentLevel == "0") && lesson.theme === theme.id) { 
-             %>
+             if (newTheme) {
+        newTheme = false;   
+    %>
     <li class="w3-padding-small">
-        <a href=<%= path.split(' ').join('%20') %>><%= lesson.title %></a>
+        <b>
+            <%= theme.title %>
+        </b>
+    </li>
+    <% } %>
+    <li class="w3-padding-small w3-hover-grey">
+        <a href=<%= path.split(' ').join('%20') %>>
+            <%= lesson.title %>
+        </a>
     </li>
     <% 
     }

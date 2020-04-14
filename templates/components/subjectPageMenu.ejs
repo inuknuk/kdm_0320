@@ -5,21 +5,28 @@
 -->
 
 <ul class="w3-ul w3-hoverable">
-    <% for(const subjectLoop of allSubjectsContent) { %>
-    <% if (subjectLoop == subjectContent) { %>
+    <% for(const subjectLoop of allSubjectsContent) { 
+       const pathSubject = rootPath + "/" + subjectLoop.id + "0.html"; 
+    %>
+    <% if (subjectLoop == subjectContent) { 
+    %>
     <li class="w3-blue">
         <b> <%= subjectLoop.title %></b>
     </li>
     <% } else { %>
     <li>
-        <b><%= subjectLoop.title %></b>
+        <a href=<%= pathSubject.split(' ').join('%20') %>>
+            <b><%= subjectLoop.title %></b>
+        </a>
     </li>
     <% } %>
 
     <% for (const theme of subjectLoop.themes) {
     %>
     <li>
-        <%= theme.title %>
+        <a href=<%= pathSubject.split(' ').join('%20') %>>
+            <%= theme.title %>
+        </a>
     </li>
     <% } 
  } 
