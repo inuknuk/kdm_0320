@@ -3,9 +3,12 @@
         <b>Leçon:</b> <%= currentLesson.title %>
     </div>
     <% if (lessonContent.questions.length > 0) {
-        const questionPath = rootPath
+        const questionPath = 
+        rootPath
         + "/"
-        + currentLesson.title.replace(':', '').replace('/', '') 
+        + subjectContent.id
+        + "/"
+        + currentLesson.id.replace('/', '') 
         + "/question1.html";
         %>
     <div class=" w3-display-right">

@@ -28,31 +28,33 @@ function saveFile(htmlPath, file) {
 module.exports.generateContent = async subjects => {
     // On commence par générer la racine du dossier 
     // où l'on souhaite enregistrer l'arborescence ("destination/index.html").
+    const indexPath = path.join(__dirname, "../destination");
+    const indexPathHtml = path.join(indexPath, "index.html");
+
+    createDirectory(indexPath);
+
+
+    const indexRender = await ejs.renderFile(
+        path.join(__dirname, "../templates/index.ejs"),
+        {
+            indexPath: indexPathHtml,
+            rootPath: indexPath,
+        }
+    );
+    saveFile(indexPathHtml, indexRender);
+    console.log(`Writing to ${indexPathHtml}`);
+
     for (const subjectContent of subjects) {
 
-        const indexPath = path.join(__dirname, "../destination");
-        const indexPathHtml = path.join(indexPath, "index.html");
-
-        createDirectory(indexPath)
-
-        console.log(`Writing to ${indexPathHtml}`);
-
-        const indexRender = await ejs.renderFile(
-            path.join(__dirname, "../templates/index.ejs"),
-            {
-                indexPath: indexPathHtml,
-                rootPath: indexPath,
-            }
-        );
-
-        saveFile(indexPathHtml, indexRender);
+        const subjectPath = path.join(indexPath, subjectContent.id);
+        createDirectory(subjectPath);
 
         const levels = ["0", "3", "4", "5"];
         // Level 0 permet de créer la page contenant toute les leçons
 
         // On génère les pages de table des matières selon l'age sélectionné
         for (const level of levels) {
-            const levelPath = path.join(indexPath, subjectContent.id + level + ".html");
+            const levelPathHtml = path.join(subjectPath, subjectContent.id + level + ".html");
             const levelRender = await ejs.renderFile(
                 path.join(__dirname, "../templates/subjectPage.ejs"),
                 {
@@ -63,7 +65,7 @@ module.exports.generateContent = async subjects => {
                     indexPath: indexPathHtml,
                     currentLevel: level,
                 })
-            saveFile(levelPath, levelRender);
+            saveFile(levelPathHtml, levelRender);
         };
 
         // // On parcourt tous les thèmes
@@ -75,17 +77,12 @@ module.exports.generateContent = async subjects => {
             );
             console.log(selectedLessons.length, "leçons dans le thème : ", theme.title);
 
-            const themePath = path.join(__dirname, "../destination");
-            // // On parcourt tous les leçons de chaque thème
-
+            // // On parcourt toutes les leçons de chaque thème
             // La constante "lesson" correspond à la leçon issue du json de la table des matières
             for (const lesson of selectedLessons) {
                 // On définit le nouveau chemins
-                // On supprime les : et les / pour créer les noms de dossier
-                let lessonTitle = lesson.title.replace(':', '');
-                lessonTitle = lessonTitle.replace('/', '');
-                lessonTitle = lessonTitle.replace('?', '');
-                const newLessonPath = path.join(themePath, lessonTitle);
+
+                const newLessonPath = path.join(subjectPath, lesson.id.replace('/', ''));
                 const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
                 const newLessonHtmlPath = path.join(newLessonPath, lessonid + ".html");
 

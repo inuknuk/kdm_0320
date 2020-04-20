@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="../../templates/questionOnClick.js"></script>
+    <script src="../../../templates/questionOnClick.js"></script>
 </head>
 
 <body>
@@ -24,11 +24,17 @@
             <% for(const theme of subjectContent.themes) { 
                 if ( theme.id == currentLesson.theme) { %>
             <a href=<%= indexPath.split(' ').join('%20') %>>
-                Acceuil
+                Accueil
             </a>
             &rarr;
             <% 
-            const subjectPath = rootPath + "/" + subjectContent.id + "0.html"; 
+            const subjectPath = 
+                rootPath 
+                + "/" 
+                + subjectContent.id 
+                + "/"
+                + subjectContent.id 
+                + "0.html";  
             %>
             <a href=<%= subjectPath.split(' ').join('%20') %>>
                 <%= subjectContent.title %>

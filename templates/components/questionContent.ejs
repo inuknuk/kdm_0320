@@ -2,9 +2,12 @@
     <div class=" w3-display-left w3-xlarge">
         <b>Questions:</b> <%= currentLesson.title %>
     </div>
-    <% const lessonPath = rootPath
+    <% const lessonPath = 
+        rootPath
         + "/"
-        + currentLesson.title.replace(':', '').replace('/', '') 
+        + subjectContent.id
+        + "/"
+        + currentLesson.id.replace('/', '') 
         + "/"
         + currentLesson.id.substring(currentLesson.id.length - 2, currentLesson.id.length) 
         + ".html";
@@ -44,12 +47,15 @@
     <br />
 </div>
 <% if (counter < lessonContent.questions.length) {
-    const nextQuestionPath = rootPath
-             + "/"
-             + currentLesson.title.replace(':', '').replace('/', '') 
-             + "/question"
-             + (counter + 1)
-             + ".html";
+    const nextQuestionPath = 
+        rootPath
+        + "/"
+        + subjectContent.id
+        + "/"
+        + currentLesson.id.replace('/', '')
+        + "/question"
+        + (counter + 1)
+        + ".html";
 %>
 <div>
     <form method="get" action=<%= nextQuestionPath.split(' ').join('%20') %>>
@@ -62,12 +68,15 @@
 <p>
 </p>
 <% if (counter > 1) {
-    const lastQuestionPath = rootPath
-            + "/"
-            + currentLesson.title.replace(':', '').replace('/', '') 
-            + "/question"
-            + (counter - 1)
-            + ".html";
+    const lastQuestionPath = 
+        rootPath
+        + "/"
+        + subjectContent.id
+        + "/"
+        + currentLesson.id.replace('/', '')
+        + "/question"
+        + (counter - 1)
+        + ".html";
 %>
 <div>
     <form method="get" action=<%= lastQuestionPath.split(' ').join('%20') %>>

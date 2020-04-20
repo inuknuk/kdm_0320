@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Acceuil</title>
+    <title>Accueil Kademio</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -17,10 +17,10 @@
     <%- include("components/navbar") %>
     <div class="w3-container">
         <div class="w3-col w3-container m6 l6">
-            <% const pathHist = rootPath + "/hist0.html";
-            const pathMath = rootPath + "/math0.html";
-            const pathLatin = rootPath + "/latin0.html";
-            const pathSci = rootPath + "/sci0.html";
+            <% const pathHist = rootPath + "/hist/hist0.html";
+            const pathMath = rootPath + "/math/math0.html";
+            const pathLatin = rootPath + "/latin/latin0.html";
+            const pathSci = rootPath + "/sci/sci0.html";
             %>
             <a href=<%= pathHist.split(' ').join('%20') %>>
                 <div class="w3-card w3-padding-24 w3-margin-bottom w3-center">

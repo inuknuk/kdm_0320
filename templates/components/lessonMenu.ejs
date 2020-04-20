@@ -5,7 +5,13 @@
 -->
 <ul class="w3-ul w3-hoverable">
     <% for(const subjectLoop of allSubjectsContent) { 
-       const pathSubject = rootPath + "/" + subjectLoop.id + "0.html"; 
+       const pathSubject = 
+            rootPath 
+            + "/" 
+            + subjectLoop.id
+            + "/" 
+            + subjectLoop.id  
+            + "0.html"; 
        if (subjectLoop == subjectContent) { %>
     <li class="w3-blue w3-padding-small">
         <a href=<%= pathSubject.split(' ').join('%20') %>>
