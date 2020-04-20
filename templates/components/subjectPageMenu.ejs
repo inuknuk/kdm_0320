@@ -12,7 +12,8 @@
             + subjectLoop.id
             + "/" 
             + subjectLoop.id  
-            + "0.html"; 
+            + currentLevel
+            + ".html"; 
     %>
     <% if (subjectLoop == subjectContent) { 
     %>
@@ -28,9 +29,10 @@
     <% } %>
 
     <% for (const theme of subjectLoop.themes) {
-    %>
+    pathTheme = pathSubject + "#" + theme.id; 
+        %>
     <li>
-        <a href=<%= pathSubject.split(' ').join('%20') %>>
+        <a href=<%= pathTheme.split(' ').join('%20') %>>
             <%= theme.title %>
         </a>
     </li>
