@@ -26,9 +26,10 @@
     </li>
     <% } %>
     <% for (const theme of subjectLoop.themes) {
+    pathTheme = pathSubject + "#" + theme.id;
     %>
     <li class="w3-padding-small">
-        <a href=<%= pathSubject.split(' ').join('%20') %>>
+        <a href=<%= pathTheme.split(' ').join('%20') %>>
             <%= theme.title %>
         </a>
     </li>

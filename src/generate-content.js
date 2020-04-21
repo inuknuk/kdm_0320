@@ -82,7 +82,7 @@ module.exports.generateContent = async subjects => {
             for (const lesson of selectedLessons) {
                 // On définit le nouveau chemins
 
-                const newLessonPath = path.join(subjectPath, lesson.id.replace('/', ''));
+                const newLessonPath = path.join(subjectPath, lesson.id.split('/')[1]);
                 const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
                 const newLessonHtmlPath = path.join(newLessonPath, lessonid + ".html");
 

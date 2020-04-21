@@ -7,7 +7,7 @@
         + "/"
         + subjectContent.id
         + "/"
-        + currentLesson.id.replace('/', '') 
+        + currentLesson.id.split('/')[1] 
         + "/"
         + currentLesson.id.substring(currentLesson.id.length - 2, currentLesson.id.length) 
         + ".html";
@@ -52,7 +52,7 @@
         + "/"
         + subjectContent.id
         + "/"
-        + currentLesson.id.replace('/', '')
+        + currentLesson.id.split('/')[1]
         + "/question"
         + (counter + 1)
         + ".html";
@@ -73,7 +73,7 @@
         + "/"
         + subjectContent.id
         + "/"
-        + currentLesson.id.replace('/', '')
+        + currentLesson.id.split('/')[1]
         + "/question"
         + (counter - 1)
         + ".html";

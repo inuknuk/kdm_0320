@@ -8,7 +8,7 @@
         + "/"
         + subjectContent.id
         + "/"
-        + currentLesson.id.replace('/', '') 
+        + currentLesson.id.split('/')[1]
         + "/question1.html";
         %>
     <div class=" w3-display-right">
@@ -24,19 +24,27 @@
     <div id="myCarousel" class="carousel slide" data-interval="false">
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-            <% let first = true;
+            <%  let first = true;
                 for(const page of lessonContent.pages) { 
                     const pageHtml = "../../data/" + page; 
+                    pageContent = include(pageHtml);  <!-- pageContent is of type string -->
+                    let dollarIndices = [];
+                    for(var i=0; i<pageContent.length;i++) {        
+                        if (pageContent[i] == "$"){
+                            dollarIndices.push(i);
+                        }
+                    } 
+                    
                     if (first == true) {
                         first = false; %>
             <div class="item active" style="text-align: left; margin-left: 10%; margin-right: 10%;">
-                <%- include(pageHtml) %>
+                <%-pageContent%>
                 <br />
                 page 1 / <%=lessonContent.pages.length%>
             </div>
             <% } else { %>
             <div class="item" style="text-align: left; margin-left: 10%;  margin-right: 10%;">
-                <%- include(pageHtml) %>
+                <%-pageContent%>
                 <br />
                 page <%= (1 +lessonContent.pages.indexOf(page)) %> / <%=lessonContent.pages.length%>
             </div>
