@@ -37,7 +37,6 @@ module.exports.generateContent = async subjects => {
     const indexRender = await ejs.renderFile(
         path.join(__dirname, "../templates/index.ejs"),
         {
-            indexPath: indexPathHtml,
             rootPath: indexPath,
         }
     );
