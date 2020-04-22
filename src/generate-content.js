@@ -87,8 +87,9 @@ module.exports.generateContent = async subjects => {
                 const newLessonHtmlPath = path.join(newLessonPath, lessonid + ".html");
 
                 // On définit l'ancien chemin
-                const oldLessonPath = path.join(__dirname,
-                    "../data/" + subjectContent.id + "/",
+                const dataPath = path.join(__dirname, "../data/")
+                const oldLessonPath = path.join(dataPath
+                    + subjectContent.id + "/",
                     lesson.id.substring(lesson.id.length - 2, lesson.id.length),
                     "/");
                 const lessonJsonPath = path.join(oldLessonPath, "content.json");
@@ -120,7 +121,9 @@ module.exports.generateContent = async subjects => {
                         currentLesson: lesson,
                         rootPath: indexPath,
                         indexPath: indexPathHtml,
+                        dataPath: dataPath,
                         lessonContent: lessonJson,
+                        fs: fs,
                     }
                 );
 
@@ -140,9 +143,11 @@ module.exports.generateContent = async subjects => {
                             currentLesson: lesson,
                             rootPath: indexPath,
                             indexPath: indexPathHtml,
+                            dataPath: dataPath,
                             lessonContent: lessonJson,
                             questionJson: lessonJson.questions[i - 1],
                             counter: i,
+                            fs: fs,
                         }
                     );
 

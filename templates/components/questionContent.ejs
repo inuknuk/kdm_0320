@@ -1,3 +1,5 @@
+<!-- Import the function that transforms the Latex -->
+<% include("./latexRender") %>
 <div class="w3-display-container" style="height:50px;">
     <div class=" w3-display-left w3-xlarge">
         <b>Questions:</b> <%= currentLesson.title %>
@@ -20,10 +22,18 @@
         </a>
     </div>
 </div>
+<%
+    let questionContent = questionJson.question;  <!-- questionContent is of type string -->
+    const folder =  lessonContent.id + "/latex/"
+    const latexFolderPath = dataPath + folder;
+    questionContent = latexReplacement(questionContent, latexFolderPath)
+%>
+
 <div class="w3-container">
     <p>Question : <%= counter %> / <%= lessonContent.questions.length %>
         <!-- Question -->
-        <%- questionJson.question %>
+        <!-- questionContent ici avec le Latex! -->
+        <%-questionContent%>
     </p>
     <!-- Réponse -->
     <% for (const choix of questionJson.choices){ %>

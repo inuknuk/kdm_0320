@@ -1,3 +1,5 @@
+<!-- Import the function that transforms the Latex -->
+<% include("./latexRender") %>
 <div class="w3-display-container" style="height:50px;">
     <div class=" w3-display-left w3-xlarge">
         <b>Leçon:</b> <%= currentLesson.title %>
@@ -26,15 +28,14 @@
         <div class="carousel-inner">
             <%  let first = true;
                 for(const page of lessonContent.pages) { 
-                    const pageHtml = "../../data/" + page; 
-                    pageContent = include(pageHtml);  <!-- pageContent is of type string -->
-                    let dollarIndices = [];
-                    for(var i=0; i<pageContent.length;i++) {        
-                        if (pageContent[i] == "$"){
-                            dollarIndices.push(i);
-                        }
-                    } 
-                    
+                    const pageHtml = "../../data/" + page;
+                    let pageContent = include(pageHtml);  <!-- pageContent is of type string -->
+
+                    const folder =  lessonContent.id + "/latex/"
+                    const latexFolderPath = dataPath + folder;
+                    <!-- fonction défini dans latexRender -->
+                    pageContent = latexReplacement(pageContent, latexFolderPath)
+
                     if (first == true) {
                         first = false; %>
             <div class="item active" style="text-align: left; margin-left: 10%; margin-right: 10%;">
