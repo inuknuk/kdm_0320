@@ -13,15 +13,9 @@ const contentMathPath = path.join(__dirname, "./data/math/content.json");
 const contentLatinPath = path.join(__dirname, "./data/latin/content.json");
 const contentSciPath = path.join(__dirname, "./data/sci/content.json");
 
-// On charge le contenu du json des différents courses
-const contentHist = require(contentHistPath);
-const contentMath = require(contentMathPath);
-const contentLatin = require(contentLatinPath);
-const contentSci = require(contentSciPath);
-
-const subjects = [contentHist, contentMath, contentLatin, contentSci]
+const subjectContentPaths = [contentHistPath, contentMathPath, contentLatinPath, contentSciPath]
 
 // On lance la fonction de génération. Il faut ensuite aller voir le dossier "dist".
-generateCourses(subjects)
+generateCourses(subjectContentPaths)
     // S'il se passe une erreur, on l'intercepte et on l'affiche.
     .catch(console.error);
