@@ -1,31 +1,17 @@
-// Fichier qui contient l'algorithme de génération.
+const { copyDirectory, createDirectory, saveFile } = require("./utils");
 
 // Ceci est un templater : transforme un template ejs en html.
 const ejs = require("ejs");
 
 // Ceci est un module qui permet de faire des lectures/écritures dans les fichiers.
 const fs = require("fs");
-const fsExtra = require('fs-extra');
 
 // Ceci permet de créer des chemins d'accès aux fichiers simplement.
 const path = require("path");
 
-// Fonctions permetant de gérer les fichier et dossiers
-function copyDirectory(oldPath, newPath) {
-    if (fs.existsSync(oldPath)) {
-        fs.mkdirSync(newPath, { recursive: true });
-        fsExtra.copy(oldPath, newPath);
-    }
-}
-function createDirectory(path) {
-    if (!fs.existsSync(path))
-        fs.mkdirSync(path, { recursive: true });
-}
-function saveFile(htmlPath, file) {
-    fs.writeFileSync(htmlPath, file);
-}
+
 // Exportation de la fonction de génération.
-module.exports.generateContent = async subjects => {
+module.exports.generateCourses = async subjects => {
     // On commence par générer la racine du dossier 
     // où l'on souhaite enregistrer l'arborescence ("destination/index.html").
     const indexPath = path.join(__dirname, "../destination");
@@ -33,11 +19,11 @@ module.exports.generateContent = async subjects => {
 
     createDirectory(indexPath);
 
-
     const indexRender = await ejs.renderFile(
         path.join(__dirname, "../templates/index.ejs"),
         {
             rootPath: indexPath,
+            indexPath: indexPathHtml,
         }
     );
     saveFile(indexPathHtml, indexRender);
