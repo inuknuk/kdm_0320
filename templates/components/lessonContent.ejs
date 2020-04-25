@@ -3,16 +3,10 @@
         <b>Leçon:</b> <%= currentLesson.title %>
     </div>
     <% if (lessonContent.questions.length > 0) {
-        const questionPath = 
-        rootPath
-        + "/"
-        + subjectContent.id
-        + "/"
-        + currentLesson.id.split('/')[1]
-        + "/question1.html";
+        const questionPath = pathTransformer(questionPathCreator(subjectContent, currentLesson, 1, rootPath));
         %>
     <div class=" w3-display-right">
-        <a href=<%= questionPath.split(' ').join('%20') %>>
+        <a href=<%= questionPath %>>
             <button class="w3-button w3-round w3-white w3-border w3-border-blue">
                 Accès aux questions
             </button>
@@ -27,12 +21,9 @@
             <%  let first = true;
                 for(const page of lessonContent.pages) { 
                     const pageHtml = "../../data/" + page;
-                    let pageContent = include(pageHtml);  <!-- pageContent is of type string -->
-
-                    const folder =  lessonContent.id + "/latex/"
-                    const latexFolderPath = dataPath + folder;
-                    pageContent = latexReplacement(pageContent, latexFolderPath)
-
+                    const latexFolderPath = dataPath + lessonContent.id + "/latex/";
+                    pageContent = latexReplacement(include(pageHtml), latexFolderPath)
+                    <!-- pageContent is of type string -->
                     if (first == true) {
                         first = false; %>
             <div class="item active" style="text-align: left; margin-left: 10%; margin-right: 10%;">

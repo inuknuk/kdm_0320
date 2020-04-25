@@ -106,3 +106,27 @@ exports.lessonPathCreator = function (subject, lesson, newDirPath) {
         + ".html";
     return newPath
 }
+
+exports.questionPathCreator = function (subject, lesson, questionNumber, newDirPath) {
+    const newPath = newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + lesson.id.split('/')[1]
+        + "/question"
+        + questionNumber
+        + ".html";
+    return newPath
+}
+
+exports.lessonPathCreator = function (subject, lesson, newDirPath) {
+    const newPath = newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + lesson.id.split('/')[1]
+        + "/"
+        + lesson.id.substring(lesson.id.length - 2, lesson.id.length)
+        + ".html";
+    return newPath
+}

@@ -9,7 +9,7 @@
     %>
 
     <% for (const lesson of subjectContent.lessons) {
-            const path = lessonPathCreator(subjectContent, lesson, rootPath);                
+            const lessonPath = pathTransformer(lessonPathCreator(subjectContent, lesson, rootPath));                
              if ((lesson.level.includes(currentLevel) || currentLevel == "0") && lesson.theme === theme.id) { 
              if (newTheme) {
         newTheme = false;   
@@ -21,7 +21,7 @@
     </li>
     <% } %>
     <li class="w3-padding-small w3-hover-grey">
-        <a href=<%= path.split(' ').join('%20') %>>
+        <a href=<%= lessonPath %>>
             <%= lesson.title %>
         </a>
     </li>

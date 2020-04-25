@@ -2,18 +2,10 @@
     <div class=" w3-display-left w3-xlarge">
         <b>Questions:</b> <%= currentLesson.title %>
     </div>
-    <% const lessonPath = 
-        rootPath
-        + "/"
-        + subjectContent.id
-        + "/"
-        + currentLesson.id.split('/')[1] 
-        + "/"
-        + currentLesson.id.substring(currentLesson.id.length - 2, currentLesson.id.length) 
-        + ".html";
+    <% const lessonPath = pathTransformer(lessonPathCreator(subjectContent, currentLesson, rootPath));
     %>
     <div class=" w3-display-right">
-        <a href=<%= lessonPath.split(' ').join('%20') %>>
+        <a href=<%= lessonPath %>>
             <button class="w3-button w3-round w3-white w3-border w3-border-blue">
                 Retour au cours
             </button>
@@ -21,10 +13,9 @@
     </div>
 </div>
 <%
-    let questionContent = questionJson.question;  <!-- questionContent is of type string -->
-    const folder =  lessonContent.id + "/latex/"
-    const latexFolderPath = dataPath + folder;
-    questionContent = latexReplacement(questionContent, latexFolderPath)
+    const latexFolderPath = dataPath + lessonContent.id + "/latex/";
+    const questionContent = latexReplacement(questionJson.question, latexFolderPath) 
+    <!-- questionContent is of type string -->
 %>
 
 <div class="w3-container">
@@ -55,18 +46,10 @@
     <br />
 </div>
 <% if (counter < lessonContent.questions.length) {
-    const nextQuestionPath = 
-        rootPath
-        + "/"
-        + subjectContent.id
-        + "/"
-        + currentLesson.id.split('/')[1]
-        + "/question"
-        + (counter + 1)
-        + ".html";
+    const nextQuestionPath = pathTransformer(questionPathCreator(subjectContent, currentLesson, counter + 1, rootPath));
 %>
 <div>
-    <form method="get" action=<%= nextQuestionPath.split(' ').join('%20') %>>
+    <form method="get" action=<%= nextQuestionPath %>>
         <button type="submit" class="w3-button w3-round w3-white w3-border w3-border-blue">
             Question suivante
         </button>
@@ -76,18 +59,10 @@
 <p>
 </p>
 <% if (counter > 1) {
-    const lastQuestionPath = 
-        rootPath
-        + "/"
-        + subjectContent.id
-        + "/"
-        + currentLesson.id.split('/')[1]
-        + "/question"
-        + (counter - 1)
-        + ".html";
+    const lastQuestionPath = pathTransformer(questionPathCreator(subjectContent, currentLesson, counter - 1, rootPath));
 %>
 <div>
-    <form method="get" action=<%= lastQuestionPath.split(' ').join('%20') %>>
+    <form method="get" action=<%= lastQuestionPath %>>
         <button class="w3-button w3-round w3-white w3-border w3-border-blue">
             Question précédente
         </button>

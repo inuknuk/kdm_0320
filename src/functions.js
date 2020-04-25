@@ -1,6 +1,6 @@
 const { copyDirectory, createDirectory, saveFile } = require("./utils");
 const { latexReplacement, pathTransformer, subjectPathCreator,
-    subjectLevelPathCreator, lessonPathCreator } = require("./templaterFunctions");
+    subjectLevelPathCreator, lessonPathCreator, questionPathCreator } = require("./templaterFunctions");
 // Ceci permet de créer des chemins d'accès aux fichiers simplement.
 const path = require("path");
 // Ceci est un templater : transforme un template ejs en html.
@@ -25,6 +25,7 @@ exports.generateIndex = async function (newDirPath) {
             pathMath: pathMath,
             pathLatin: pathLatin,
             pathSci: pathSci,
+            pathTransformer: pathTransformer,
         }
     );
     saveFile(indexHtml, indexRender);
@@ -85,6 +86,7 @@ exports.generateLessonPage = async function (newDirPath, dataPath, subjectConten
         latexReplacement: latexReplacement,
         subjectPathCreator: subjectPathCreator,
         pathTransformer: pathTransformer,
+        questionPathCreator: questionPathCreator,
     }
     const lessonRender = await ejs.renderFile(
         path.join(__dirname, "../templates/lessonPage.ejs"), lessonPageParams);
@@ -136,6 +138,10 @@ exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectC
             questionJson: lessonJson.questions[i - 1],
             counter: i,
             latexReplacement: latexReplacement,
+            subjectPathCreator: subjectPathCreator,
+            pathTransformer: pathTransformer,
+            questionPathCreator: questionPathCreator,
+            lessonPathCreator: lessonPathCreator,
         }
     );
     saveFile(questionHtmlPath, questionRender);
