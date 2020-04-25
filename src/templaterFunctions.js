@@ -40,3 +40,69 @@ exports.latexReplacement = function (content, latexFolderPath) {
     }
     return content
 }
+
+exports.pathTransformer = function (originalPath) {
+    accessPath = originalPath.split(' ').join('%20');
+    return accessPath
+}
+
+exports.subjectPathCreator = function (subject, level, newDirPath) {
+    const pathSubject =
+        newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + subject.id
+        + level
+        + ".html";
+
+    return pathSubject
+}
+
+exports.subjectLevelPathCreator = function (subject, newDirPath) {
+    let path0 = newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + subject.id
+        + "0.html";
+    path0 = path0.split(' ').join('%20');
+
+    let path3 = newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + subject.id
+        + "3.html";
+    path3 = path3.split(' ').join('%20');
+
+    let path4 = newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + subject.id
+        + "4.html";
+    path4 = path4.split(' ').join('%20');
+
+    let path5 = newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + subject.id
+        + "5.html";
+    path5 = path5.split(' ').join('%20');
+
+    return [path0, path3, path4, path5]
+}
+
+exports.lessonPathCreator = function (subject, lesson, newDirPath) {
+    const newPath = newDirPath
+        + "/"
+        + subject.id
+        + "/"
+        + lesson.id.split('/')[1]
+        + "/"
+        + lesson.id.substring(lesson.id.length - 2, lesson.id.length)
+        + ".html";
+    return newPath
+}

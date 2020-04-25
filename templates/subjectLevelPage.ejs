@@ -28,54 +28,27 @@
                     &rarr; <%= subjectContent.title %>
                 </div>
                 <div class="w3-display-right w3-xlarge">
-                    <% let path0 = rootPath
-                    + "/"
-                    + subjectContent.id
-                    + "/"
-                    + subjectContent.id
-                    + "0.html";
-                    path0 = path0.split(' ').join('%20');
-                    let path3 = rootPath
-                    + "/"
-                    + subjectContent.id
-                    + "/"
-                    + subjectContent.id
-                    + "3.html";
-                    path3 = path3.split(' ').join('%20');
-                    let path4 = rootPath
-                    + "/"
-                    + subjectContent.id
-                    + "/"
-                    + subjectContent.id
-                    + "4.html";
-                    path4 = path4.split(' ').join('%20');
-                    let path5 = rootPath
-                    + "/"
-                    + subjectContent.id
-                    + "/"
-                    + subjectContent.id
-                    + "5.html";
-                    path5 = path5.split(' ').join('%20');
+                    <% pathArray = subjectLevelPathCreator(subjectContent, rootPath);
                     if (currentLevel == "0"){ %>
                     <b>Tous</b>
-                    - <a href=<%= path5 %>>5ème</a>
-                    - <a href=<%= path4 %>>4ème</a>
-                    - <a href=<%= path3 %>>3ème</a>
+                    - <a href=<%= pathArray[3] %>>5ème</a>
+                    - <a href=<%= pathArray[2] %>>4ème</a>
+                    - <a href=<%= pathArray[1] %>>3ème</a>
                     <%} else if (currentLevel == "3"){ %>
-                    <a href=<%= path0 %>>Tous</a>
-                    - <a href=<%= path5 %>>5ème</a>
-                    - <a href=<%= path4 %>>4ème</a>
+                    <a href=<%= pathArray[0] %>>Tous</a>
+                    - <a href=<%= pathArray[3] %>>5ème</a>
+                    - <a href=<%= pathArray[2] %>>4ème</a>
                     - <b>3ème</b>
                     <%} else if (currentLevel == "4"){ %>
-                    <a href=<%= path0 %>>Tous</a>
-                    - <a href=<%= path5 %>>5ème</a>
+                    <a href=<%= pathArray[0] %>>Tous</a>
+                    - <a href=<%= pathArray[3] %>>5ème</a>
                     - <b>4ème</b>
-                    - <a href=<%= path3 %>>3ème</a>
+                    - <a href=<%= pathArray[1] %>>3ème</a>
                     <%} else if (currentLevel == "5"){ %>
-                    <a href=<%= path0 %>>Tous</a>
+                    <a href=<%= pathArray[0] %>>Tous</a>
                     - <b>5ème</b>
-                    - <a href=<%= path4 %>>4ème</a>
-                    - <a href=<%= path3 %>>3ème</a>
+                    - <a href=<%= pathArray[2] %>>4ème</a>
+                    - <a href=<%= pathArray[1] %>>3ème</a>
                     <% } %>
                 </div>
             </div>

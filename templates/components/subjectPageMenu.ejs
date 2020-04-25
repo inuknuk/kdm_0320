@@ -6,32 +6,25 @@
 
 <ul class="w3-ul w3-hoverable">
     <% for(const subjectLoop of allSubjectsContent) { 
-       const pathSubject = 
-            rootPath 
-            + "/" 
-            + subjectLoop.id
-            + "/" 
-            + subjectLoop.id  
-            + currentLevel
-            + ".html"; 
-    if (subjectLoop == subjectContent) { 
+       const pathSubject = pathTransformer(subjectPathCreator(subjectLoop, currentLevel, rootPath));
+        if (subjectLoop == subjectContent) { 
     %>
     <li class="w3-blue">
         <b> <%= subjectLoop.title %></b>
     </li>
     <% } else { %>
     <li>
-        <a href=<%= pathSubject.split(' ').join('%20') %>>
+        <a href=<%= pathSubject %>>
             <b><%= subjectLoop.title %></b>
         </a>
     </li>
     <% } %>
 
     <% for (const theme of subjectLoop.themes) {
-    pathTheme = pathSubject + "#" + theme.id; 
+    pathTheme = pathTransformer(pathSubject + "#" + theme.id); 
         %>
     <li>
-        <a href=<%= pathTheme.split(' ').join('%20') %>>
+        <a href=<%= pathTheme %>>
             <%= theme.title %>
         </a>
     </li>

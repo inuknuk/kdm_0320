@@ -1,5 +1,6 @@
 const { copyDirectory, createDirectory, saveFile } = require("./utils");
-const { latexReplacement } = require("./templaterFunctions");
+const { latexReplacement, pathTransformer, subjectPathCreator,
+    subjectLevelPathCreator, lessonPathCreator } = require("./templaterFunctions");
 // Ceci permet de créer des chemins d'accès aux fichiers simplement.
 const path = require("path");
 // Ceci est un templater : transforme un template ejs en html.
@@ -11,11 +12,19 @@ exports.generateIndex = async function (newDirPath) {
     const indexHtml = path.join(newDirPath, "index.html");
     createDirectory(newDirPath);
 
+    let pathHist = pathTransformer(newDirPath + "/hist/hist0.html");
+    let pathMath = pathTransformer(newDirPath + "/math/math0.html");
+    let pathLatin = pathTransformer(newDirPath + "/latin/latin0.html");
+    let pathSci = pathTransformer(newDirPath + "/sci/sci0.html");
+
     const indexRender = await ejs.renderFile(
         path.join(__dirname, "../templates/index.ejs"),
         {
-            rootPath: newDirPath,
             indexPath: indexHtml,
+            pathHist: pathHist,
+            pathMath: pathMath,
+            pathLatin: pathLatin,
+            pathSci: pathSci,
         }
     );
     saveFile(indexHtml, indexRender);
@@ -30,33 +39,40 @@ exports.generateSubjectContentArray = function (PathsArray) {
     return contentArray;
 }
 
-exports.generateLevelPage = async function (newDirPath, subjectContent, subjectsContents, level) {
-    const indexHtml = path.join(newDirPath, "index.html");
+exports.createNewSubjectDir = function (newDirPath, subjectContent) {
     const subjectPath = path.join(newDirPath, subjectContent.id);
-    const levelPathHtml = path.join(subjectPath, subjectContent.id + level + ".html");
+    createDirectory(subjectPath);
+}
+
+exports.generateSubjectLevelPage = async function (newDirPath, subjectContent, subjectsContents, level) {
+    const indexHtml = path.join(newDirPath, "index.html"); // Ne pas appliquer pathTransformer car appeler par la fonction subjectLevelPathCreator
+    const levelPathHtml = path.join(newDirPath, subjectContent.id, subjectContent.id + level + ".html");
 
     const levelPageParams = {
+        indexPath: indexHtml,
+        rootPath: newDirPath,
+        currentLevel: level,
+        subjectPathCreator: subjectPathCreator,
+        pathTransformer: pathTransformer,
+        subjectLevelPathCreator: subjectLevelPathCreator,
+        lessonPathCreator: lessonPathCreator,
         subjectContent: subjectContent,
         allSubjectsContent: subjectsContents,
-        currentLesson: undefined,
-        rootPath: newDirPath,
-        indexPath: indexHtml,
-        currentLevel: level,
     }
-
     const levelRender = await ejs.renderFile(
-        path.join(__dirname, "../templates/subjectPage.ejs"), levelPageParams)
+        path.join(__dirname, "../templates/subjectLevelPage.ejs"), levelPageParams)
 
     saveFile(levelPathHtml, levelRender);
 }
 
 exports.generateLessonPage = async function (newDirPath, dataPath, subjectContent, subjectsContents, lesson, lessonJson) {
-    const indexHtml = path.join(newDirPath, "index.html");
+    const indexHtml = pathTransformer(path.join(newDirPath, "index.html"));
 
-    const subjectPath = path.join(newDirPath, subjectContent.id);
-    const newLessonPath = path.join(subjectPath, lesson.id.split('/')[1]);
     const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
-    const newLessonHtmlPath = path.join(newLessonPath, lessonid + ".html");
+    const newLessonHtmlPath = path.join(newDirPath,
+        subjectContent.id,
+        lesson.id.split('/')[1],
+        lessonid + ".html");
 
     const lessonPageParams = {
         subjectContent: subjectContent,
@@ -67,6 +83,8 @@ exports.generateLessonPage = async function (newDirPath, dataPath, subjectConten
         dataPath: dataPath,
         lessonContent: lessonJson,
         latexReplacement: latexReplacement,
+        subjectPathCreator: subjectPathCreator,
+        pathTransformer: pathTransformer,
     }
     const lessonRender = await ejs.renderFile(
         path.join(__dirname, "../templates/lessonPage.ejs"), lessonPageParams);
@@ -74,24 +92,19 @@ exports.generateLessonPage = async function (newDirPath, dataPath, subjectConten
     saveFile(newLessonHtmlPath, lessonRender);
 }
 
-exports.createNewDir = function (newDirPath, dataPath, subjectContent, lesson) {
-    const subjectPath = path.join(newDirPath, subjectContent.id);
-    const newLessonPath = path.join(subjectPath, lesson.id.split('/')[1]);
-
+exports.createNewLessonDir = function (newDirPath, dataPath, subjectContent, lesson) {
+    const newLessonPath = path.join(newDirPath, subjectContent.id, lesson.id.split('/')[1]);
     const oldLessonPath = path.join(dataPath
         + subjectContent.id + "/",
         lesson.id.substring(lesson.id.length - 2, lesson.id.length),
         "/");
 
-    // On définit les chemin des dossier img et latex pour les copier
+    // On définit les chemin du dossier img pour le copier
     const oldImgPath = path.join(oldLessonPath, "img");
     const newImgPath = path.join(newLessonPath, "/img");
-    // const oldLatexPath = path.join(oldLessonPath, "latex");
-    // const newLatexPath = path.join(newLessonPath, "/latex");
 
     createDirectory(newLessonPath)
     copyDirectory(oldImgPath, newImgPath);
-    // copyDirectory(oldLatexPath, newLatexPath);
 }
 
 exports.extractLessonJSON = function (dataPath, subjectContent, lesson) {
@@ -104,7 +117,7 @@ exports.extractLessonJSON = function (dataPath, subjectContent, lesson) {
 }
 
 exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectContent, subjectsContents, lesson, lessonJson) {
-    const indexHtml = path.join(newDirPath, "index.html");
+    const indexHtml = pathTransformer(path.join(newDirPath, "index.html"));
 
     const subjectPath = path.join(newDirPath, subjectContent.id);
     const newLessonPath = path.join(subjectPath, lesson.id.split('/')[1]);
@@ -125,8 +138,5 @@ exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectC
             latexReplacement: latexReplacement,
         }
     );
-
     saveFile(questionHtmlPath, questionRender);
-
-
 }

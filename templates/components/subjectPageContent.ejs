@@ -9,15 +9,7 @@
     %>
 
     <% for (const lesson of subjectContent.lessons) {
-            const path = 
-                rootPath
-                + "/"
-                + subjectContent.id
-                + "/"
-                + lesson.id.split('/')[1] 
-                + "/"
-                + lesson.id.substring(lesson.id.length - 2, lesson.id.length) 
-                + ".html";
+            const path = lessonPathCreator(subjectContent, lesson, rootPath);                
              if ((lesson.level.includes(currentLevel) || currentLevel == "0") && lesson.theme === theme.id) { 
              if (newTheme) {
         newTheme = false;   
