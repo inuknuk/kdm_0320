@@ -1,17 +1,12 @@
-const { copyDirectory, createDirectory, saveFile } = require("./utils");
-
-// Ceci est un templater : transforme un template ejs en html.
-const ejs = require("ejs");
-
-// Ceci est un module qui permet de faire des lectures/écritures dans les fichiers.
-const fs = require("fs");
-
 // Ceci permet de créer des chemins d'accès aux fichiers simplement.
 const path = require("path");
 
+// utils functions
+const { copyDirectory, createDirectory, saveFile } = require("./utils");
+
 // functional functions
 const { generateIndex, generateSubjectContentArray, generateLevelPage,
-    generateLessonPage, extractLessonJSON, createNewDir, generateQuestionPage } = require("./function");
+    generateLessonPage, extractLessonJSON, createNewDir, generateQuestionPage } = require("./functions");
 
 
 // Exportation de la fonction de génération.

@@ -1,4 +1,5 @@
 const { copyDirectory, createDirectory, saveFile } = require("./utils");
+const { latexReplacement } = require("./templaterFunctions");
 // Ceci permet de créer des chemins d'accès aux fichiers simplement.
 const path = require("path");
 // Ceci est un templater : transforme un template ejs en html.
@@ -7,8 +8,6 @@ const ejs = require("ejs");
 const fs = require("fs");
 
 exports.generateIndex = async function (newDirPath) {
-    // On commence par générer la racine du dossier 
-    // où l'on souhaite enregistrer l'arborescence ("destination/index.html").
     const indexHtml = path.join(newDirPath, "index.html");
     createDirectory(newDirPath);
 
@@ -59,10 +58,6 @@ exports.generateLessonPage = async function (newDirPath, dataPath, subjectConten
     const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
     const newLessonHtmlPath = path.join(newLessonPath, lessonid + ".html");
 
-    // C'est ici que se passe la génération du template.
-    // Tous les cours partagent la même structure de page, on part donc toujours du même fichier de base.
-    // le seul truc qui change, ce sont les paramètres du cours (le contenu, le titre, etc.).
-    // On crée un fichier html pour chacun des cours du thème
     const lessonPageParams = {
         subjectContent: subjectContent,
         allSubjectsContent: subjectsContents,
@@ -71,7 +66,7 @@ exports.generateLessonPage = async function (newDirPath, dataPath, subjectConten
         indexPath: indexHtml,
         dataPath: dataPath,
         lessonContent: lessonJson,
-        fs: fs,
+        latexReplacement: latexReplacement,
     }
     const lessonRender = await ejs.renderFile(
         path.join(__dirname, "../templates/lessonPage.ejs"), lessonPageParams);
@@ -98,8 +93,6 @@ exports.createNewDir = function (newDirPath, dataPath, subjectContent, lesson) {
     copyDirectory(oldImgPath, newImgPath);
     // copyDirectory(oldLatexPath, newLatexPath);
 }
-
-
 
 exports.extractLessonJSON = function (dataPath, subjectContent, lesson) {
     const lessonJsonPath = path.join(dataPath
@@ -129,7 +122,7 @@ exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectC
             lessonContent: lessonJson,
             questionJson: lessonJson.questions[i - 1],
             counter: i,
-            fs: fs,
+            latexReplacement: latexReplacement,
         }
     );
 
