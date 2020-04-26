@@ -2,8 +2,6 @@
     <div class=" w3-display-left w3-xlarge">
         <b>Questions:</b> <%= currentLesson.title %>
     </div>
-    <% const lessonPath = pathTransformer(lessonPathCreator(subjectContent, currentLesson, rootPath));
-    %>
     <div class=" w3-display-right">
         <a href=<%= lessonPath %>>
             <button class="w3-button w3-round w3-white w3-border w3-border-blue">
@@ -12,12 +10,6 @@
         </a>
     </div>
 </div>
-<%
-    const latexFolderPath = dataPath + lessonContent.id + "/latex/";
-    const questionContent = latexReplacement(questionJson.question, latexFolderPath) 
-    <!-- questionContent is of type string -->
-%>
-
 <div class="w3-container">
     <p>Question : <%= counter %> / <%= lessonContent.questions.length %>
         <!-- Question -->
@@ -46,7 +38,6 @@
     <br />
 </div>
 <% if (counter < lessonContent.questions.length) {
-    const nextQuestionPath = pathTransformer(questionPathCreator(subjectContent, currentLesson, counter + 1, rootPath));
 %>
 <div>
     <form method="get" action=<%= nextQuestionPath %>>
@@ -59,7 +50,6 @@
 <p>
 </p>
 <% if (counter > 1) {
-    const lastQuestionPath = pathTransformer(questionPathCreator(subjectContent, currentLesson, counter - 1, rootPath));
 %>
 <div>
     <form method="get" action=<%= lastQuestionPath %>>

@@ -24,8 +24,7 @@
                     &rarr; <%= subjectContent.title %>
                 </div>
                 <div class="w3-display-right w3-xlarge">
-                    <% pathArray = subjectLevelPathCreator(subjectContent, rootPath);
-                    if (currentLevel == "0"){ %>
+                    <% if (currentLevel == "0"){ %>
                     <b>Tous</b>
                     - <a href=<%= pathArray[3] %>>5ème</a>
                     - <a href=<%= pathArray[2] %>>4ème</a>

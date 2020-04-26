@@ -1,6 +1,8 @@
 const { copyDirectory, createDirectory, saveFile } = require("./utils");
+
 const { latexReplacement, pathTransformer, subjectPathCreator,
     subjectLevelPathCreator, lessonPathCreator, questionPathCreator } = require("./templaterFunctions");
+
 // Ceci permet de créer des chemins d'accès aux fichiers simplement.
 const path = require("path");
 // Ceci est un templater : transforme un template ejs en html.
@@ -46,7 +48,7 @@ exports.createNewSubjectDir = function (newDirPath, subjectContent) {
 }
 
 exports.generateSubjectLevelPage = async function (newDirPath, subjectContent, subjectsContents, level) {
-    const indexHtml = path.join(newDirPath, "index.html"); // Ne pas appliquer pathTransformer car appeler par la fonction subjectLevelPathCreator
+    const indexHtml = path.join(newDirPath, "index.html");
     const levelPathHtml = path.join(newDirPath, subjectContent.id, subjectContent.id + level + ".html");
 
     const levelPageParams = {
@@ -59,6 +61,7 @@ exports.generateSubjectLevelPage = async function (newDirPath, subjectContent, s
         lessonPathCreator: lessonPathCreator,
         subjectContent: subjectContent,
         allSubjectsContent: subjectsContents,
+        pathArray: subjectLevelPathCreator(subjectContent, newDirPath),
     }
     const levelRender = await ejs.renderFile(
         path.join(__dirname, "../templates/subjectLevelPage.ejs"), levelPageParams)
@@ -87,6 +90,8 @@ exports.generateLessonPage = async function (newDirPath, dataPath, subjectConten
         subjectPathCreator: subjectPathCreator,
         pathTransformer: pathTransformer,
         questionPathCreator: questionPathCreator,
+        subjectPath: pathTransformer(subjectPathCreator(subjectContent, "0", newDirPath)),
+        questionPath: pathTransformer(questionPathCreator(subjectContent, lesson, 1, newDirPath)),
     }
     const lessonRender = await ejs.renderFile(
         path.join(__dirname, "../templates/lessonPage.ejs"), lessonPageParams);
@@ -133,7 +138,6 @@ exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectC
             currentLesson: lesson,
             rootPath: newDirPath,
             indexPath: indexHtml,
-            dataPath: dataPath,
             lessonContent: lessonJson,
             questionJson: lessonJson.questions[i - 1],
             counter: i,
@@ -142,6 +146,11 @@ exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectC
             pathTransformer: pathTransformer,
             questionPathCreator: questionPathCreator,
             lessonPathCreator: lessonPathCreator,
+            subjectPath: pathTransformer(subjectPathCreator(subjectContent, "0", newDirPath)),
+            lessonPath: pathTransformer(lessonPathCreator(subjectContent, lesson, newDirPath)),
+            questionContent: latexReplacement(lessonJson.questions[i - 1].question, dataPath + lessonJson.id + "/latex/"),
+            nextQuestionPath: pathTransformer(questionPathCreator(subjectContent, lesson, i + 1, newDirPath)),
+            lastQuestionPath: pathTransformer(questionPathCreator(subjectContent, lesson, i - 1, newDirPath)),
         }
     );
     saveFile(questionHtmlPath, questionRender);

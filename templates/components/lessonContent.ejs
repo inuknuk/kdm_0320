@@ -3,7 +3,6 @@
         <b>Leçon:</b> <%= currentLesson.title %>
     </div>
     <% if (lessonContent.questions.length > 0) {
-        const questionPath = pathTransformer(questionPathCreator(subjectContent, currentLesson, 1, rootPath));
         %>
     <div class=" w3-display-right">
         <a href=<%= questionPath %>>

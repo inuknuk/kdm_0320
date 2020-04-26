@@ -9,30 +9,27 @@ const { generateIndex, generateSubjectContentArray, createNewSubjectDir,
 
 // Exportation de la fonction de génération.
 module.exports.generateCourses = async subjectContentPaths => {
-    const newDirPath = path.join(__dirname, "../destination");
+    const newDirPath = path.join(__dirname, "../destination"); // Il s'agit du dossier des nouvelles pages 
     generateIndex(newDirPath)
-
-    let subjectsContents = generateSubjectContentArray(subjectContentPaths)
+    const subjectsContents = generateSubjectContentArray(subjectContentPaths) // Contenu de chacun des Subjects
 
     for (const subjectContent of subjectsContents) {
         createNewSubjectDir(newDirPath, subjectContent)
         const levels = ["0", "3", "4", "5"];     // Level 0 permet de créer la page contenant toute les leçons
-        for (const level of levels) {    // On génère les pages de table des matières selon l'age sélectionné
+        for (const level of levels) {
             generateSubjectLevelPage(newDirPath, subjectContent, subjectsContents, level)
         };
 
-        for (const theme of subjectContent.themes) {    // On parcourt tous les thèmes
+        for (const theme of subjectContent.themes) {
             // On sélectionne les cours qui correspondent au thème en question
             const selectedLessons = subjectContent.lessons.filter(lesson => lesson.theme === theme.id);
             console.log(selectedLessons.length, "leçons dans le thème : ", theme.title);
 
-            // // On parcourt toutes les leçons de chaque thème
             // La constante "lesson" correspond à la leçon issue du json de la table des matières
             for (const lesson of selectedLessons) {
-                // On définit l'ancien chemin
-                const dataPath = path.join(__dirname, "../data/");
-                const lessonJson = extractLessonJSON(dataPath, subjectContent, lesson);
+                const dataPath = path.join(__dirname, "../data/");    // Il s'agit du chemin des données JSON
                 createNewLessonDir(newDirPath, dataPath, subjectContent, lesson);
+                const lessonJson = extractLessonJSON(dataPath, subjectContent, lesson);
                 generateLessonPage(newDirPath, dataPath, subjectContent, subjectsContents, lesson, lessonJson);
 
                 const numberQuestions = lessonJson.questions.length;
