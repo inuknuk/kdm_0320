@@ -20,7 +20,7 @@
             <%  let first = true;
                 for(const page of lessonContent.pages) { 
                     const pageHtml = "../../data/" + page;
-                    const latexFolderPath = dataPath + lessonContent.id + "/latex/";
+                    const latexFolderPath = oldDirPath + lessonContent.id + "/latex/";
                     pageContent = latexReplacement(include(pageHtml), latexFolderPath)
                     <!-- pageContent is of type string -->
                     if (first == true) {

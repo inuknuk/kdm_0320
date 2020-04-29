@@ -14,13 +14,13 @@ const { latexReplacement, pathTransformer, subjectPathCreator,
 module.exports.generateCourses = async subjectContentPaths => {
     const newDirPath = path.join(__dirname, "../destination"); // Il s'agit du dossier des nouvelles pages 
     generateIndex(newDirPath)
-    const subjectsContents = generateSubjectContentArray(subjectContentPaths) // Contenu de chacun des Subjects
+    const allSubjectsContent = generateSubjectContentArray(subjectContentPaths) // Contenu de chacun des Subjects
 
-    for (const subjectContent of subjectsContents) {
-        createNewSubjectDir(newDirPath, subjectContent)
+    for (const subjectContent of allSubjectsContent) {
+        createNewSubjectDir(newDirPath, subjectContent.id)
         const levels = ["0", "3", "4", "5"];     // Level 0 permet de créer la page contenant toute les leçons
         for (const level of levels) {
-            generateSubjectLevelPage(newDirPath, subjectContent, subjectsContents, level)
+            generateSubjectLevelPage(newDirPath, subjectContent, allSubjectsContent, level)
         };
 
         for (const theme of subjectContent.themes) {
@@ -30,13 +30,13 @@ module.exports.generateCourses = async subjectContentPaths => {
 
             // La constante "lesson" correspond à la leçon issue du json de la table des matières
             for (const lesson of selectedLessons) {
-                const dataPath = path.join(__dirname, "../data/");    // Il s'agit du chemin des données JSON
-                createNewLessonDir(newDirPath, dataPath, subjectContent, lesson);
-                generateLessonPage(newDirPath, dataPath, subjectContent, subjectsContents, lesson);
+                const oldDirPath = path.join(__dirname, "../data/");    // Il s'agit du chemin des données JSON
+                createNewLessonDir(newDirPath, oldDirPath, subjectContent.id, lesson.id);
+                generateLessonPage(newDirPath, oldDirPath, subjectContent, allSubjectsContent, lesson);
 
-                const numberQuestions = extractLessonJSON(dataPath, subjectContent, lesson).questions.length;
+                const numberQuestions = extractLessonJSON(oldDirPath, subjectContent.id, lesson.id).questions.length;
                 for (let i = 1; i <= numberQuestions; i++) {
-                    generateQuestionPage(newDirPath, dataPath, i, subjectContent, subjectsContents, lesson);
+                    generateQuestionPage(newDirPath, oldDirPath, i, subjectContent, allSubjectsContent, lesson);
                 }
             }
         }
@@ -67,20 +67,20 @@ async function generateIndex(newDirPath) {
     console.log(`Writing to ${indexHtml}`);
 }
 
-function generateSubjectContentArray(PathsArray) {
+function generateSubjectContentArray(pathsArray) {
     let contentArray = [];
-    for (const newPath of PathsArray) {
+    for (const newPath of pathsArray) {
         contentArray.push(loadJson(newPath))
     };
     return contentArray;
 }
 
-function createNewSubjectDir(newDirPath, subjectContent) {
-    const subjectPath = path.join(newDirPath, subjectContent.id);
+function createNewSubjectDir(newDirPath, subjectContentId) {
+    const subjectPath = path.join(newDirPath, subjectContentId);
     createDirectory(subjectPath);
 }
 
-async function generateSubjectLevelPage(newDirPath, subjectContent, subjectsContents, level) {
+async function generateSubjectLevelPage(newDirPath, subjectContent, allSubjectsContent, level) {
     const indexHtml = path.join(newDirPath, "index.html");
     const levelPathHtml = path.join(newDirPath, subjectContent.id, subjectContent.id + level + ".html");
 
@@ -93,7 +93,7 @@ async function generateSubjectLevelPage(newDirPath, subjectContent, subjectsCont
         subjectLevelPathCreator: subjectLevelPathCreator,
         lessonPathCreator: lessonPathCreator,
         subjectContent: subjectContent,
-        allSubjectsContent: subjectsContents,
+        allSubjectsContent: allSubjectsContent,
         pathArray: subjectLevelPathCreator(subjectContent, newDirPath),
     }
     const levelRender = await ejs.renderFile(
@@ -102,23 +102,19 @@ async function generateSubjectLevelPage(newDirPath, subjectContent, subjectsCont
     saveFile(levelPathHtml, levelRender);
 }
 
-async function generateLessonPage(newDirPath, dataPath, subjectContent, subjectsContents, lesson) {
+async function generateLessonPage(newDirPath, oldDirPath, subjectContent, allSubjectsContent, lesson) {
     const indexHtml = pathTransformer(path.join(newDirPath, "index.html"));
-    const lessonJson = extractLessonJSON(dataPath, subjectContent, lesson)
-
-    const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
-    const newLessonHtmlPath = path.join(newDirPath,
-        subjectContent.id,
-        lesson.id.split('/')[1],
-        lessonid + ".html");
+    const lessonId = lessonNumberFromId(lesson.id);
+    const lessonJson = extractLessonJSON(oldDirPath, subjectContent.id, lessonId)
+    const newLessonHtmlPath = path.join(newDirPath, subjectContent.id, lessonId, lessonId + ".html");
 
     const lessonPageParams = {
         subjectContent: subjectContent,
-        allSubjectsContent: subjectsContents,
+        allSubjectsContent: allSubjectsContent,
         currentLesson: lesson,
         rootPath: newDirPath,
         indexPath: indexHtml,
-        dataPath: dataPath,
+        oldDirPath: oldDirPath,
         lessonContent: lessonJson,
         latexReplacement: latexReplacement,
         subjectPathCreator: subjectPathCreator,
@@ -133,14 +129,11 @@ async function generateLessonPage(newDirPath, dataPath, subjectContent, subjects
     saveFile(newLessonHtmlPath, lessonRender);
 }
 
-function createNewLessonDir(newDirPath, dataPath, subjectContent, lesson) {
-    const newLessonPath = path.join(newDirPath, subjectContent.id, lesson.id.split('/')[1]);
-    const oldLessonPath = path.join(dataPath
-        + subjectContent.id + "/",
-        lesson.id.substring(lesson.id.length - 2, lesson.id.length),
-        "/");
+function createNewLessonDir(newDirPath, oldDirPath, subjectContentId, lessonId) {
+    const newLessonPath = path.join(newDirPath, subjectContentId, lessonId.split('/')[1]);
+    const oldLessonPath = path.join(oldDirPath + subjectContentId + "/", lessonNumberFromId(lessonId), "/");
 
-    // On définit les chemin du dossier img pour le copier
+    // On définit les chemins du dossier img pour le copier
     const oldImgPath = path.join(oldLessonPath, "img");
     const newImgPath = path.join(newLessonPath, "/img");
 
@@ -148,45 +141,46 @@ function createNewLessonDir(newDirPath, dataPath, subjectContent, lesson) {
     copyDirectory(oldImgPath, newImgPath);
 }
 
-function extractLessonJSON(dataPath, subjectContent, lesson) {
-    const lessonJsonPath = path.join(dataPath
-        + subjectContent.id + "/",
-        lesson.id.substring(lesson.id.length - 2, lesson.id.length),
-        "/content.json");
+function extractLessonJSON(oldDirPath, subjectId, lessonId) {
+    const lessonJsonPath = path.join(oldDirPath + subjectId + "/", lessonNumberFromId(lessonId), "/content.json");
     const lessonJson = loadJson(lessonJsonPath);
     return lessonJson;
 }
 
-async function generateQuestionPage(newDirPath, dataPath, i, subjectContent, subjectsContents, lesson) {
+async function generateQuestionPage(newDirPath, oldDirPath, i, subjectContent, allSubjectsContent, lesson) {
     const indexHtml = pathTransformer(path.join(newDirPath, "index.html"));
-    const lessonJson = extractLessonJSON(dataPath, subjectContent, lesson)
+    const lessonJson = extractLessonJSON(oldDirPath, subjectContent.id, lesson.id)
 
-    const subjectPath = path.join(newDirPath, subjectContent.id);
-    const newLessonPath = path.join(subjectPath, lesson.id.split('/')[1]);
+    const newLessonPath = path.join(newDirPath, subjectContent.id, lesson.id.split('/')[1]);
     const questionHtmlPath = path.join(newLessonPath, "question" + i + ".html")
 
+    const questionPageParams = {
+        subjectContent: subjectContent,
+        allSubjectsContent: allSubjectsContent,
+        currentLesson: lesson,
+        rootPath: newDirPath,
+        indexPath: indexHtml,
+        lessonContent: lessonJson,
+        questionJson: lessonJson.questions[i - 1],
+        counter: i,
+        latexReplacement: latexReplacement,
+        subjectPathCreator: subjectPathCreator,
+        pathTransformer: pathTransformer,
+        questionPathCreator: questionPathCreator,
+        lessonPathCreator: lessonPathCreator,
+        subjectPath: pathTransformer(subjectPathCreator(subjectContent, "0", newDirPath)),
+        lessonPath: pathTransformer(lessonPathCreator(subjectContent, lesson, newDirPath)),
+        questionContent: latexReplacement(lessonJson.questions[i - 1].question, oldDirPath + lessonJson.id + "/latex/"),
+        nextQuestionPath: pathTransformer(questionPathCreator(subjectContent, lesson, i + 1, newDirPath)),
+        lastQuestionPath: pathTransformer(questionPathCreator(subjectContent, lesson, i - 1, newDirPath)),
+    }
+
     const questionRender = await ejs.renderFile(
-        path.join(__dirname, "../templates/questions.ejs"),
-        {
-            subjectContent: subjectContent,
-            allSubjectsContent: subjectsContents,
-            currentLesson: lesson,
-            rootPath: newDirPath,
-            indexPath: indexHtml,
-            lessonContent: lessonJson,
-            questionJson: lessonJson.questions[i - 1],
-            counter: i,
-            latexReplacement: latexReplacement,
-            subjectPathCreator: subjectPathCreator,
-            pathTransformer: pathTransformer,
-            questionPathCreator: questionPathCreator,
-            lessonPathCreator: lessonPathCreator,
-            subjectPath: pathTransformer(subjectPathCreator(subjectContent, "0", newDirPath)),
-            lessonPath: pathTransformer(lessonPathCreator(subjectContent, lesson, newDirPath)),
-            questionContent: latexReplacement(lessonJson.questions[i - 1].question, dataPath + lessonJson.id + "/latex/"),
-            nextQuestionPath: pathTransformer(questionPathCreator(subjectContent, lesson, i + 1, newDirPath)),
-            lastQuestionPath: pathTransformer(questionPathCreator(subjectContent, lesson, i - 1, newDirPath)),
-        }
-    );
+        path.join(__dirname, "../templates/questions.ejs"), questionPageParams);
     saveFile(questionHtmlPath, questionRender);
+}
+
+function lessonNumberFromId(lessonId) {
+    const number = lessonId.substring(lessonId.length - 2, lessonId.length);
+    return number
 }
