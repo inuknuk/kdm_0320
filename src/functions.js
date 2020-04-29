@@ -1,4 +1,4 @@
-const { copyDirectory, createDirectory, saveFile } = require("./utils");
+const { copyDirectory, createDirectory, saveFile, loadJson } = require("./utils");
 
 const { latexReplacement, pathTransformer, subjectPathCreator,
     subjectLevelPathCreator, lessonPathCreator, questionPathCreator } = require("./templaterFunctions");
@@ -37,7 +37,7 @@ exports.generateIndex = async function (newDirPath) {
 exports.generateSubjectContentArray = function (PathsArray) {
     let contentArray = [];
     for (const newPath of PathsArray) {
-        contentArray.push(require(newPath))
+        contentArray.push(loadJson(newPath))
     };
     return contentArray;
 }
@@ -69,8 +69,9 @@ exports.generateSubjectLevelPage = async function (newDirPath, subjectContent, s
     saveFile(levelPathHtml, levelRender);
 }
 
-exports.generateLessonPage = async function (newDirPath, dataPath, subjectContent, subjectsContents, lesson, lessonJson) {
+exports.generateLessonPage = async function (newDirPath, dataPath, subjectContent, subjectsContents, lesson) {
     const indexHtml = pathTransformer(path.join(newDirPath, "index.html"));
+    const lessonJson = extractLessonJSON(dataPath, subjectContent, lesson)
 
     const lessonid = lesson.id.substring(lesson.id.length - 2, lesson.id.length);
     const newLessonHtmlPath = path.join(newDirPath,
@@ -119,12 +120,13 @@ exports.extractLessonJSON = function (dataPath, subjectContent, lesson) {
         + subjectContent.id + "/",
         lesson.id.substring(lesson.id.length - 2, lesson.id.length),
         "/content.json");
-    const lessonJson = require(lessonJsonPath);
+    const lessonJson = loadJson(lessonJsonPath);
     return lessonJson;
 }
 
-exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectContent, subjectsContents, lesson, lessonJson) {
+exports.generateQuestionPage = async function (newDirPath, dataPath, i, subjectContent, subjectsContents, lesson) {
     const indexHtml = pathTransformer(path.join(newDirPath, "index.html"));
+    const lessonJson = extractLessonJSON(dataPath, subjectContent, lesson)
 
     const subjectPath = path.join(newDirPath, subjectContent.id);
     const newLessonPath = path.join(subjectPath, lesson.id.split('/')[1]);

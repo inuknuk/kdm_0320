@@ -23,3 +23,8 @@ exports.createDirectory = function (path) {
 exports.saveFile = function (htmlPath, file) {
     fs.writeFileSync(htmlPath, file);
 }
+
+exports.loadJson = function (path) {
+    let data = fs.readFileSync(path);
+    return JSON.parse(data);
+}
