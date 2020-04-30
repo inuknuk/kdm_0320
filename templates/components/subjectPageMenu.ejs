@@ -6,7 +6,7 @@
 
 <ul class="w3-ul w3-hoverable">
     <% for(const subjectLoop of allSubjectsContent) { 
-       const pathSubject = pathTransformer(subjectPathCreator(subjectLoop, currentLevel, rootPath));
+       const pathSubject = pathTransformer(subjectPathCreator(subjectLoop.id, currentLevel, newDirPath));
         if (subjectLoop == subjectContent) { 
     %>
     <li class="w3-blue">

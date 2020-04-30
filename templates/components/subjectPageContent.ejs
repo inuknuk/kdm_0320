@@ -9,7 +9,7 @@
     %>
 
     <% for (const lesson of subjectContent.lessons) {
-            const lessonPath = pathTransformer(lessonPathCreator(subjectContent, lesson, rootPath));                
+            const lessonPath = pathTransformer(lessonPathCreator(subjectContent.id, lesson.id, 1, newDirPath));                
              if ((lesson.level.includes(currentLevel) || currentLevel == "0") && lesson.theme === theme.id) { 
              if (newTheme) {
         newTheme = false;   

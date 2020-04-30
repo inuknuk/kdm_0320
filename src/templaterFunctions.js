@@ -46,87 +46,82 @@ exports.pathTransformer = function (originalPath) {
     return accessPath
 }
 
-exports.subjectPathCreator = function (subject, level, newDirPath) {
+exports.subjectPathCreator = function (subjectId, level, newDirPath) {
     const pathSubject =
         newDirPath
         + "/"
-        + subject.id
+        + subjectId
         + "/"
-        + subject.id
+        + subjectId
         + level
         + ".html";
 
     return pathSubject
 }
 
-exports.subjectLevelPathCreator = function (subject, newDirPath) {
+exports.subjectLevelPathCreator = function (subjectId, newDirPath) {
     let path0 = newDirPath
         + "/"
-        + subject.id
+        + subjectId
         + "/"
-        + subject.id
+        + subjectId
         + "0.html";
     path0 = path0.split(' ').join('%20');
 
     let path3 = newDirPath
         + "/"
-        + subject.id
+        + subjectId
         + "/"
-        + subject.id
+        + subjectId
         + "3.html";
     path3 = path3.split(' ').join('%20');
 
     let path4 = newDirPath
         + "/"
-        + subject.id
+        + subjectId
         + "/"
-        + subject.id
+        + subjectId
         + "4.html";
     path4 = path4.split(' ').join('%20');
 
     let path5 = newDirPath
         + "/"
-        + subject.id
+        + subjectId
         + "/"
-        + subject.id
+        + subjectId
         + "5.html";
     path5 = path5.split(' ').join('%20');
 
     return [path0, path3, path4, path5]
 }
 
-exports.lessonPathCreator = function (subject, lesson, newDirPath) {
+exports.questionPathCreator = function (subjectId, lessonId, questionNumber, newDirPath) {
     const newPath = newDirPath
         + "/"
-        + subject.id
+        + subjectId
         + "/"
-        + lesson.id.split('/')[1]
-        + "/"
-        + lesson.id.substring(lesson.id.length - 2, lesson.id.length)
-        + ".html";
-    return newPath
-}
-
-exports.questionPathCreator = function (subject, lesson, questionNumber, newDirPath) {
-    const newPath = newDirPath
-        + "/"
-        + subject.id
-        + "/"
-        + lesson.id.split('/')[1]
+        + lessonNumberFromId(lessonId)
         + "/question"
         + questionNumber
         + ".html";
     return newPath
 }
 
-exports.lessonPathCreator = function (subject, lesson, newDirPath) {
+exports.lessonPathCreator = function (subjectId, lessonId, pageNumber, newDirPath) {
     const newPath = newDirPath
         + "/"
-        + subject.id
+        + subjectId
         + "/"
-        + lesson.id.split('/')[1]
+        + lessonId.split('/')[1]
         + "/"
-        + lesson.id.substring(lesson.id.length - 2, lesson.id.length)
+        + lessonNumberFromId(lessonId)
+        + "_"
+        + pageNumber
         + ".html";
     return newPath
+}
+
+function lessonNumberFromId(lessonId) {
+    const number = lessonId.substring(lessonId.length - 2, lessonId.length);
+    return number
 }

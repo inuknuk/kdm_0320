@@ -11,7 +11,7 @@
     </div>
 </div>
 <div class="w3-container">
-    <p>Question : <%= counter %> / <%= lessonContent.questions.length %>
+    <p>Question : <%= counter %> / <%= lessonJson.questions.length %>
         <!-- Question -->
         <!-- questionContent ici avec le Latex! -->
         <%-questionContent%>
@@ -37,7 +37,7 @@
     </div>
     <br />
 </div>
-<% if (counter < lessonContent.questions.length) {
+<% if (counter < lessonJson.questions.length) {
 %>
 <div>
     <form method="get" action=<%= nextQuestionPath %>>
